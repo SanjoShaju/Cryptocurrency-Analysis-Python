@@ -1,0 +1,35 @@
+	Tweets	date	polarity
+0	So the ripple effect begins... 	2017-09-24	0.0
+1	In Kayin state travel restrictions are being imposed on Muslims wanting to travel within township and district. Dated: 14 September 2014. https://twitter.com/johnsoe017/status/909779561222516737 …	2017-09-24	0.0
+2	No sound, barely a ripple on ultra edge and yet the on-field decision was overturned.	2017-09-24	-0.07500000000000001
+3	@Ripple and #xrpthestandard solved or are working on solving most of those. Sweet.	2017-09-24	0.425
+4	What are the key crypto themes over the next 12 months?  I think interoperability, on-chain governance, privacy, and scaling.	2017-09-24	0.0
+5	http://thecryptoproezine.com  does a great piece on #xrp and #Ripple !  --- Very nice & kudos!  	2017-09-24	0.9875
+6	What is #ripple and how does it work?  https://thecryptoproezine.com/2017/09/23/what-is-ripple-and-how-does-it-work/ … 	2017-09-24	0.0
+7	First results #BitcoinAidMexico donation campaign. Thank you everyone! @CruzRoja_MX #Mexico #sismoMx #BTC #ETH #XRP 	2017-09-24	0.3125
+8	.@Ripple demonstrates cross border transaction in seconds rather than days. #xrp 	2017-09-24	0.0
+9	SBI Ripple Asia to Trial Cross-Border Blockchain Funds Transfers http://blocktribune.com/sbi-ripple-asia-trial-cross-border-blockchain-funds-transfers/ …	2017-09-24	0.0
+10	As always, an amazing blog from @Hodor7777. The continuum b/w personal liberty vs. collective safety. Crucial issues re: democracy. #xrp 	2017-09-24	0.20000000000000004
+11	Decentralized exchanges might be a trend - I discuss them in my latest blog & potential impacts on: #xrp & #Ripple   https://xrphodor.wordpress.com/2017/09/24/exchanges-the-future-of-decentralization/ …	2017-09-24	0.25
+12	#MaybeOneDay we'll see @Ripple on the boards of a #MontrealCanadiens game? #INTOtheFUTURE #ripple $XRP #cryptocurrency #nhl #XRPstreetTeam	2017-09-24	-0.4
+13	Decentralized exchanges might be a trend - I discuss them in my latest blog & potential impacts on: #xrp & #Ripple   	2017-09-24	0.25
+14	"$XRP about to break anytime.,Watching closely
+$BTC $LTC $XVG $ETH #Crypto #cryptocurrency"	2017-09-24	0.0
+15	Fed Faster Payments Task Force gives Ripple vote of confidence for next gen. of #globalpayments  https://ripple.com/insights/federal-reserve-task-force-ripple-improves-speed-transparency-global-payments/ … via @ripple	2017-09-24	0.0
+16	#Ripple Eyes a Bright #Future in the Chinese #Markets http://bit.ly/2wLorKL  by @HighRiskHolding #merchant #ecommerce #trending #innovation	2017-09-24	0.23333333333333336
+17	The future of payment...https://ripple.com/customer-case-study/reisebank/ … ...great news  @Ripple @Hodor7777 @haydentiff @JoelKatz @miguelvias	2017-09-24	0.0
+18	"This can help you to find competitors of your favourite alt or new investment ideas.
+
+$BTC $ETH $NEO $GAS $LSK $ARK $TRST $PAY $WINGS $XRP "	2017-09-24	0.13636363636363635
+19	@Ripple building the Rulebook, together w @StanChart & others to stay compliant; Serving already 27 countries; aiming 4 the $155 tr x-border	2017-09-24	0.0
+20	"LIKE RETWEET FOLLOW TO WIN FREE $BTC
+
+$SYS $QTUM $WINGS $BTS $OKCash $LUN $BTC $LTC $ETH $ETC $NEO $DGB $DASH $STRAT $TRIG $OMG $PAY $XRP "	2017-09-24	0.6000000000000001
+21	"WOLVES
+
+WE WILL BE GIVING AWAY 0.05 $BTC ON THE 5/10/17…"	2017-09-24	0.0
+22	The ripple effect is happening. It aint bout the athletes. it's about the masses being influenced.	2017-09-24	0.0
+23	JOIN US on a Journey to Spread the Word about $XRP the Best and Fastest #cryptocurrency Payment on the Market. #ripple #XRPstreetTeam	2017-09-24	1.0
+24	"As long as there's college football on Saturday then there will be NFL on Sunday. 
+
+It has to be a ripple effect to create residual change."	2017-09-24	-0.05

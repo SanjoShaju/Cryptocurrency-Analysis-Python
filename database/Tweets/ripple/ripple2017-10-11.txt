@@ -1,0 +1,28 @@
+	Tweets	date	polarity
+0	Good news spreads fast!	2017-10-11	0.475
+1	The most popular @FT story on social media today: Blockchain company Ripple says it has $15bn war chest https://www.ft.com/content/8dcd3fa4-adbb-11e7-beba-5521c713abf4 … via @FT	2017-10-11	0.3777777777777778
+2	Why not throw $5k on #XRP $XRP #RIPPLE ? Grab 20k of them and double your money when it touched $0.50 in LESS THAN 5 days. @ToshiDesk #BTC	2017-10-11	-0.08333333333333333
+3	Watch out for more @Ripple clients in Middle East - top remitter in several corridors: 	2017-10-11	0.25
+4	New #Ripple clients in middle East...#XRP #swellbyripple  https://timesofindia.indiatimes.com/business/india-business/now-quicker-gulf-remittances-with-blockchain-push/articleshow/61028805.cms …	2017-10-11	0.06818181818181818
+5	WATCH! @Ripple's - #weareXRP (PROMO VIDEO) https://youtu.be/ltlfcpQM1u4  | #ripple $XRP #cryptocurrency #swellbyripple #XRPstreetTEAM RETWEET!	2017-10-11	0.0
+6	Watch this space...!	2017-10-11	0.0
+7	#XRP is enterprise ready. Expect to see exponential increase in FIs using #XRP so they can stay competitive w/ lower fees and more access. 	2017-10-11	0.35
+8	FIs use fiat currencies by default, XRP is an optional solution to reduce nostro holding costs.  Both are Enterprise-grade solutions today.	2017-10-11	0.0
+9	.@ripple was popular on @ft yesterday!	2017-10-11	0.75
+10	@Franklandlab: PV neurons in CA1 & mPFC key for ripple-spindle coupling CA1/mPFC & contextual memory consolidation! https://goo.gl/cRZ4g8 	2017-10-11	0.0
+11	October Surprise: Ripple Price Surges 30% as RippleNet Adds 100th Member 	2017-10-11	0.0
+12	FIs use fiat currencies by default, XRP is an optional solution to reduce nostro holding costs.  Both are Enterprise-grade solutions today.	2017-10-11	0.0
+13	“Thank you for being a ripple of hope” @HRC's @ChadHGriffin speaks to #LGBTQ advocates & pro-equality business leaders in Tokyo. #HRCInAsia	2017-10-11	0.0
+14	"""XRP: BLOOD IS COMING"" by trader hanzeholdinworth — published October 09, 2017 | TradingView "	2017-10-11	0.0
+15	Great #xrp and @ripple promo video by @XRP_StreetTeam. Great asset to the #xrpthestandard community	2017-10-11	0.8
+16	Payments. Instant. Secure. Delivered. – Together with Accenture and @Ripple.  https://www.accenture.com/t00010101T000000__w__/de-de/_acnmedia/PDF-44/Accenture-Ripple-Reisebank-video-transcript.pdf … …	2017-10-11	0.2
+17	"#Accenture Leverages #Blockchain Technology #Innovations for Enterprise #IT Use
+
+To read the full article follow: https://goo.gl/FrxG2c  "	2017-10-11	0.35
+18	"http://www.sbigroup.co.jp/news/2017/1011_10831.html …
+
+SBI Ripple Asia launches BBC program & Big Japanese companies are part of it! $xrp #swellbyripple @xrptips @Ripple "	2017-10-11	0.0
+19	We now know Cuallix already uses #XRP. Barlinghouse spoke of 'some customers'. If XRP is valuable to one bank, it's also to others... 	2017-10-11	0.0
+20	Ripple's campaign to beat Swift at cross-border payments just got some new recruits https://trib.al/59EsR7P  cc @ripple	2017-10-11	0.13636363636363635
+21	You don't have to change the world. Just create a ripple effect. 	2017-10-11	0.0
+22	Akbank becomes first bank in Turkey to use #blockchain technology for international money transfer services. $xrp #Ripple 	2017-10-11	0.125

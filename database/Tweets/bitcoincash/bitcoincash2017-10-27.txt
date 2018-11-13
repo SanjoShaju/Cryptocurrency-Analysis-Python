@@ -1,0 +1,62 @@
+	Tweets	date	polarity
+0	"Bitcoin Cash looks set for a move higher
+#BCC #BCH "	2017-10-27	0.25
+1	Everyone buy their #Bitcoin Cash in the $300 range now. If you haven't done so, do it now before #BCH breaks $400. Never this low again ever	2017-10-27	0.0
+2	"But that’s shifting the topic again ... 
+
+the topic is: how can Bitcoin Cash win more so it becomes Bitcoin 
+
+That the real question "	2017-10-27	0.5
+3	"""There is a real chance here that Bitcoin Cash becomes the main chain"" https://medium.com/@heyrhett/1-000-bitcoin-fees-could-bitcoin-cash-take-over-in-november-ef7939c5052d … #BitcoinCash is #bitcoin"	2017-10-27	0.18333333333333335
+4	"Oh. So they are dropping segwit and raising Block size...
+
+Right that is bitcoin cash"	2017-10-27	0.2857142857142857
+5	Followed you until just now - Bitcoin cash is crashing to all-time lows compared to BTC. 2X is now less than 0.16 BTC on futures markets.	2017-10-27	-0.16666666666666666
+6	"Bitcoin Cash is Kryptonite to SegWit1x 
+#bch #bitcoin #segwit #s2x"	2017-10-27	0.0
+7	According to the latest recommendations from the community, starting today we'll be using $BCH as the ticker symbol for Bitcoin Cash 	2017-10-27	0.25
+8	you can spend Bitcoin cash in Denmark restaurants #BitcoinCash  	2017-10-27	0.0
+9	Good! Bitcoin Cash is giving up the confusing abbreviation BCC and will be using BCH. The market has decided. 	2017-10-27	0.2875
+10	Community discussion: https://github.com/bitcoincashorg/website/pull/21 … 	2017-10-27	0.0
+11	Support for Bitcoin Core and Bitcoin Cash, correct! (#bitcoin is #BitcoinCash) 	2017-10-27	0.0
+12	"Stash is proud to announce our beta MVP of Stash Wallet! Now open to the public on Android. #Bitcoin #BitcoinCash
+https://play.google.com/store/apps/details?id=com.stash.wallet&hl=en … "	2017-10-27	0.3333333333333333
+13	$1,000 Bitcoin Fees? Could Bitcoin Cash Take Over in November? #BitcoinCash is #BCH is #Bitcoin  https://medium.com/@heyrhett/1-000-bitcoin-fees-could-bitcoin-cash-take-over-in-november-ef7939c5052d …	2017-10-27	0.0
+14	No Bitcoin Cash is the true fullfillment of a decentralized peer to peer electeonic cash based on PoW	2017-10-27	0.35
+15	"These are all good use cases. Which of those would you say bitcoin cash is unable to provide for?
+
+To me, BCH solves all of them, better."	2017-10-27	0.2333333333333333
+16	Coinify merchants can now accept Bitcoin Cash - http://go.shr.lc/2vB9lTw   (#BitcoinCash is #bitcoin)	2017-10-27	0.0
+17	"Honestly… Bitcoin Cash at $350 is a bargain, should be double, treble or even quadruple that! 
+
+BitcoinCash = 
+BitcoinCore = "	2017-10-27	0.0
+18	#bitcoin Cash Price Technical Analysis  Can BCH/USD Break $350? - NEWSBTC #blockchain #BCH http://www.newsbtc.com/2017/10/27/bitcoin-cash-price-technical-analysis-can-bchusd-break-350 …	2017-10-27	0.0
+19	Claiming success when ppl are buying btc to get bitcoin cash & 2x is pretty funny though. :)	2017-10-27	0.325
+20	Uncensored Bitcoin (Cash) forums: https://www.reddit.com/r/btc/  & https://forum.bitcoin.com  & https://bitco.in/forum  #Freedom #BCH	2017-10-27	0.0
+21	Mate i will fork and mine Bitcoin Cash with a calculator before we integrate segwit 	2017-10-27	0.0
+22	Called Bitcoin Cash. Buckle up. Time to moon... not mars... don't get crazy now. $btc $BCC $bch $eth $ltc	2017-10-27	-0.6
+23	 -1 JoyStream is considering to use Bitcoin Cash instead of Bitcoin Segwit https://cryptopanic.com/news/389829/JoyStream-is-considering-to-use-Bitcoin-Cash-instead-of-Bitcoin-Segwit?utm_source=notifications&utm_medium=twitter&utm_campaign=Twitter+Trending … $BTC #bitcoin $BCH #bitcoin cash	2017-10-27	0.0
+24	"Bitcoin Cash cheapest on Bittrex BTC-market: $361.79 0.06296823BTC
+
+$BCHUSD #bitcoincash $bch $BCHBTC"	2017-10-27	0.0
+25	"""Bye-bye Ethereum, Hello Bitcoin Cash! (She has cheaper transactions than Ethereum,… #bitcoin #bitcoincash #ethereum"	2017-10-27	0.0
+26	but bitcoin cash was made for miners, by miners #SatoshisVision $BCH	2017-10-27	0.0
+27	Official: Piixpay Now Accepts #bitcoin Cash (BCH) http://cur.lv/172628  #crypto #cryptocurrency #blockchain #reddit	2017-10-27	0.0
+28	"Cool video promotion for BCH: ""Bitcoin Cash is Bitcoin!"" "	2017-10-27	0.4375
+29	"Bitcoin Cash is the original Bitcoin code.
+Seems BTC is taken-over by warring companies. Sad.
+Wish sw never happened."	2017-10-27	-0.0625
+30	 -2 Liquidated my 401k for Bitcoin CASH https://cryptopanic.com/news/388500/Liquidated-my-401k-for-Bitcoin-CASH?utm_source=notifications&utm_medium=twitter&utm_campaign=Twitter+Trending … $BTC #bitcoin $BCH #bitcoin cash $CASH #cashcoin #cryptocurrency	2017-10-27	0.0
+31	Bitcoin Cash Price Technical Analysis – Can BCH/USD Break $350? http://www.newsbtc.com/2017/10/27/bitcoin-cash-price-technical-analysis-can-bchusd-break-350/ …	2017-10-27	0.0
+32	Awesome Bitcoin cash	2017-10-27	1.0
+33	"Bitcoin Cash Price Technical Analysis – Can BCH/USD Break $350?
+
+Key Points Bitcoin cash price is gaining pace, bu… http://bit.ly/btc-gold "	2017-10-27	0.0
+34	If I had to choose the three greatest features of Bitcoin Cash, they would be: #bitcoin #bitcoincash #ethereum	2017-10-27	1.0
+35	How to buy Roger Ver's t-shirt with BCH? Is there a place that accepts Bitcoin Cash? via /r/btc 	2017-10-27	0.0
+36	"Cool video promotion for BCH: ""Bitcoin Cash is Bitcoin!"" - http://cryptogeeks.com/cool-video-promotion-bch-bitcoin-cash-bitcoin …"	2017-10-27	0.4375
+37	"Bitcoin Cash currently has over 51% of PoW mining hashpower 
+
+#BitcoinCash IS Bitcoin "	2017-10-27	0.0
+38	Bitcoin on eBay: (0.1 Bitcoin Cash (BCH) on a (plastic) paper wallet) - https://www.bitcoingatherer.com/bitcoin-on-ebay/0-1-bitcoin-cash-bch-on-a-plastic-paper-wallet.htm?utm_source=TW&utm_medium=BitcoinGatherer&utm_campaign=SNAP%2Bfrom%2BBitCoin+Gatherer … #bitcoin #bAgile #blockchain #litecoin ...	2017-10-27	-0.75

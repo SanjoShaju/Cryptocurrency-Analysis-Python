@@ -1,0 +1,34 @@
+	Tweets	date	polarity
+0	Anybody invested in/knowledgeable about Ripple/XRP?	2017-10-25	0.0
+1	A simple act of caring create an endless ripple	2017-10-25	-0.0625
+2	Another great piece on $XRP and Ripple. #scalable #xrpstandard	2017-10-25	0.8
+3	.@notbenJudge for @Moneyweek on why Ripple’s XRP is faster and more scalable than #Bitcoin or #Ether http://moneyweek.com/ripple-cryptocurrency-xrp/ …	2017-10-25	0.5
+4	"Australia’s Largest #Gold #Dealer Accepts #Ripple #XRP Into #Crypto Offering.
+
+Company Ainslie Bullion officially..."	2017-10-25	0.0
+5	"A @Ripple-based x-border payments POC for Temenos - a world-leading core banking system with thousand of customers.
+https://bluzelle.com/wp-content/uploads/2017/10/Bluzelle-White-Paper.pdf …"	2017-10-25	0.0
+6	Still the best #XRP discussion group, keep up to date with what's happening & join the discord action now - 	2017-10-25	0.55
+7	Must read! @Ripple is a marathon crypto, and I truly believe the overall success will be a slow and steady one,	2017-10-25	0.04166666666666665
+8	JJ/police dept-a police event will have ripple effect on nearly everyone in town. Centers on JJ- in line of duty.highly emotional.	2017-10-25	0.05
+9	Great post from an ex-Banker on why #Ripple and #XRP is already >2yrs ahead of any competition. https://www.xrpchat.com/topic/11171-thoughts-from-an-ex-banker-vp-of-tech/ …	2017-10-25	0.8
+10	Madness! Beware the ripple effect. Glyphostae currently underpins so many beneficial farming techniques 	2017-10-25	0.25
+11	BREAKING: #Glyphosate vote delayed as support for licence renewal - even for 5-7 yrs - couldn't be found https://www.fginsight.com/news/breaking-news-glyphosate-decision-delayed-again-as-renewal-fails-to-secure-support-in-crunch-vote-41557 … 	2017-10-25	0.0
+12	$trx and TRON are top 30 on http://Coinmarketcap.com  now. $btc $eth $xrp 	2017-10-25	0.5
+13	Ainslie Bullion will also directly sell $XRP through their webpage creating new wallets with minimum 2k $AUD investments #xrpthestandard	2017-10-25	0.11818181818181818
+14	The #trend which aspects does not follow your #analysis? Helped with #Cryptoforecast. #Pillar working on; #BTC, #ETH, #XMR, #DASH, #XRP, 	2017-10-25	0.0
+15	Ainslie Bullion a 33 year old Australian bullion company adds $XRP to accept payments for buying $XAU & $XAG #Ripple 	2017-10-25	0.05
+16	Anyone else notice that @Ripple have doubled their number of followers in the last few months? #WordIsSpreading #XRP	2017-10-25	-0.1
+17	Kevin Bieksa's Superman punch on Gudas now having a ripple effect across the Philadelphia area 	2017-10-25	0.0
+18	We're receiving multiple calls, reports of booms or shaking across the area. We are making calls. If you felt something, let us know. 	2017-10-25	0.0
+19	"Snare for Cory Zimmer - Black ripple with white ripple stripe, flat black hardware, M5 Maple shells - 7x14
+
+What size would you choose? "	2017-10-25	-0.08958333333333332
+20	"Cross Border Real Time Gross w/ #DLT Adoption & #ILP Enabling Interoprability Across Platforms
+1980-2017, 2020-2025
+@Ripple #XRP #blockchain"	2017-10-25	0.06666666666666667
+21	"Finally, the nightmare of cross-border payments involving British pounds and Fijian dollars is over! Phew!
+#xrpthestandard #Money2020 $XRP "	2017-10-25	0.0
+22	"Don't know what is the added value of IBM offer vs @swiftcommunity GPI or the most advanced in the domain @Ripple 
+@haydentiff #blockchain https://twitter.com/obussmann/status/923147383873134592 …"	2017-10-25	0.45
+23	#xrp speed and throughput outclasses crypto competitors.  https://twitter.com/heddevdheide/status/922901629636173825 …	2017-10-25	0.0

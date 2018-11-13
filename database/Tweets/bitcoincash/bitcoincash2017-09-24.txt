@@ -1,0 +1,15 @@
+	Tweets	date	polarity
+0	Bitcoin Cash Price | BCH to USD | Coin Chart | http://coin-chart.com  #BitcoinCash #blockchain #chart   https://www.coin-chart.com/bitcoin-cash-price/ …	2017-09-24	0.0
+1	Spending bitcoin cash in NY #bitcoin #bitcoincash #ethereum	2017-09-24	0.0
+2	“Collecting your (free) Bitcoin Cash coins” is easy with @CoinomiWallet https://medium.com/@coinomi/collecting-your-free-bitcoin-cash-coins-44fcc6008bb6 … #BCH #BitcoinCash #Coinomi #Android #fb	2017-09-24	0.4166666666666667
+3	What happen for Bitcoin Cash price when all things what Bitcoin have slowly coming for BCH? via /r/btc 	2017-09-24	-0.30000000000000004
+4	Bitcoin Cash Price Weekly Analysis – BCH/USD Facing Uphill Task http://ift.tt/2fpuoWz  #bitcoin #blockchain #fintech	2017-09-24	0.0
+5	What happen for Bitcoin Cash price when all things what Bitcoin have slowly coming for BCH 	2017-09-24	-0.30000000000000004
+6	"Bitcoin Cash Price Weekly Analysis – BCH/USD ... - http://bit.ly/2xB2ayA  - #bitcoin
+Advertise your #ICO: https://goo.gl/1yd8MW "	2017-09-24	0.0
+7	#Bitcoin ― Bitcoin Cash Price Weekly Analysis – BCH/USD Facing Uphill… http://dlvr.it/Pq45PX   → powered by http://betbitcoin.pro  	2017-09-24	0.0
+8	#bitcoin Cash Price Weekly Analysis  BCH/USD Facing Uphill Task - NEWSBTC #blockchain #BCH http://www.newsbtc.com/2017/09/24/bitcoin-cash-price-weekly-analysis-bchusd-facing-uphill-task …	2017-09-24	0.0
+9	#bitcoin Cash Price  BCH to USD  Coin Chart  coin-chartcom #blockchain #BitcoinCash #chart https://www.coin-chart.com/bitcoin-cash-price …	2017-09-24	0.0
+10	"Bitcoin Cash cheapest on Cryptopia LTC-market: $423.52 0.11225090BTC
+
+#bitcoincash $BCHUSD $bch $BCHBTC"	2017-09-24	0.0

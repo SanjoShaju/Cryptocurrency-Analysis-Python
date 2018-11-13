@@ -1,0 +1,34 @@
+	Tweets	date	polarity
+0	"""Bitcoin Cash Price Technical Analysis – BCH/USD To Retest $580?"" #fintech #blockchain #crypto http://ift.tt/2xNqhYv "	2017-09-06	0.0
+1	Bitcoin Cash on the run $BCH 	2017-09-06	0.0
+2	Bitcoin Cash ready to test the old highs again? $BCC #BitcoinCash 	2017-09-06	0.15000000000000002
+3	Let @GreenAddress first make it possible that we can get our Bitcoin Cash. #BCH	2017-09-06	0.125
+4	"@BitcoinCash_Fr @BITCOlNCASH 
+Bitcoin Investment Trust Provides Update on Possible Bitcoin Cash Distribution"	2017-09-06	0.0
+5	IRS To Go After Bitcoin and Bitcoin Cash Profits, What to Expect #bitcoin #BitcoinCash #altcoin #cryptocurrency https://goo.gl/s8KkRK 	2017-09-06	0.0
+6	Why SegWit2x (B2X) is technically inferior to Bitcoin Cash (BCH) https://www.dub.io/tw/25866159  #reddit #redditcom	2017-09-06	0.0
+7	@zebpay Any update regarding bitcoin cash (BCH) availability on your platform?	2017-09-06	0.0
+8	It already it my prediction lol Bitcoin Cash (BCH) Chart And Predictions — Steemit https://steemit.com/steemit/@beeridiculous/bitcoin-cash-bch-chart-and-predictions-201796t9101823z … $bch #cryptocurrency	2017-09-06	0.8
+9	http://Bitcoin.com  Just Added Bitcoin Cash Functionality For All Wallet Versions #Bitcoin $BCH $BCC $BTC	2017-09-06	0.0
+10	Great Bitcoin Cash Wallet Creation Tutorial by @rogerkver https://youtu.be/MyQwUJjTcNY  #CryptoCurrency #Blockchain $BTC $BCC $BCH #BTC #BCC #BCH	2017-09-06	0.8
+11	Bitcoin cash cloud mining on eobot #bch #cloudmining #BitcoinCash https://www.eobot.com/new.aspx?referid=35195 …	2017-09-06	0.0
+12	Bitcoin Cash #BCH address validation checks are now working properly, let us know if you still experience issues.	2017-09-06	0.0
+13	"@BitcoinCash_Fr @BITCOlNCASH 
+http://Bitcoin.com  Just Added Bitcoin Cash Functionality For All Wallet Versions
+https://news.bitcoin.com/bitcoin-com-just-added-bch-functionality-to-all-wallet-versions/ …"	2017-09-06	0.0
+14	BITCOIN CASH (BCH) Update: If C of ABC is complete, then...	2017-09-06	0.1
+15	Bitcoin Cash Price Technical Analysis – BCH&#47;USD To Retest $580?: http://www.altcoincalendar.info/r/article/cPg 	2017-09-06	0.0
+16	Bitcoin Cash Price Technical Analysis – BCH/USD To Retest $580? http://ift.tt/2xNqhYv  #bitcoin #blockchain #fintech	2017-09-06	0.0
+17	Bitcoin (BTC) vs. Bitcoin Cash (BCC/BCH): Will You Sell or Hold Your Bitcoin Cash? [One Minute News] http://bitcoinvideospro.com/bitcoin-btc-vs-bitcoin-cash-bccbch-will-you-sell-or-hold-your-bitcoin-cash-one-minute-news/ …	2017-09-06	0.0
+18	"Bitcoin Cash cheapest on Coinexchange BTC-market: $545.65 0.12300000BTC
+
+$bch $BCHUSD $BCHBTC #bitcoincash"	2017-09-06	0.0
+19	MICROSOUL PHYSICAL BITCOIN AND BITCOIN CASH BTC BCH https://allsorce.com/microsoul-physical-bitcoin-and-bitcoin-cash-btc-bch/ …	2017-09-06	0.0
+20	Poloniex #10 Market(1.82%) BCH/BTC - Bitcoin Cash Vol(24h):1429.56 BTC / $6,326,890 - Price: $550.12 / 0.1243 BTC	2017-09-06	0.0
+21	Poloniex #12 Market(1.74%) BCH/USDT - Bitcoin Cash Vol(24h):1365.76 BTC / $6,044,540 - Price: $545.68 / 0.123297 BTC	2017-09-06	0.0
+22	"Bitcoin Cash cheapest on Coinexchange BTC-market: $539.16 0.12300000BTC
+
+$BCHBTC #bitcoincash $bch $BCHUSD"	2017-09-06	0.0
+23	"Bitcoin Cash cheapest on Coinexchange BTC-market: $539.12 0.12300000BTC
+
+$BCHUSD #bitcoincash $BCHBTC $bch"	2017-09-06	0.0

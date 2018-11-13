@@ -1,0 +1,30 @@
+	Tweets	date	polarity
+0	"0.25 BTC GIVEAWAY
+
+RT & Follow to enter, Contest closes on: 20/10/17 
+
+$btc $eth $neo $xrp $crypto $omg $salt $bnb $fun $qtum"	2017-10-16	0.3
+1	"Meeting Room #XRP 
+#SwellbyRipple"	2017-10-16	0.0
+2	With the third largest market cap, @Ripple is important to understand. Learn more here. $XRP 	2017-10-16	0.3
+3	What is @Ripple $XRP? Find out in our beginners' guide: http://bit.ly/2hJRC6I  	2017-10-16	0.0
+4	Sell your $XRP. Nothing to see here. Move along. 	2017-10-16	0.0
+5	“Ripple spends a lot of time talking to regulators which helps @scb_thailand get the ball in motion.” -Arak Sutivong #SwellbyRipple	2017-10-16	0.0
+6	Packed house at #SwellbyRipple @sbcFinTech #notsibos @Ripple 	2017-10-16	0.0
+7	In @Ripple we believe. #Ripple #xrp #xrpthestandard #SwellbyRipple	2017-10-16	0.0
+8	I will pray for all the sellers of $XRP on the top of the mountain @cryptodemedici	2017-10-16	0.5
+9	The Gates Foundation has a fundamentally wrong vision of education, food, and medicine. Of course they'd also embrace Ripple. 	2017-10-16	-0.5
+10	Gates Foundation to Use Ripple Interledger Tech in Mobile Payments Push http://bit.ly/2kUshf6  	2017-10-16	0.0
+11	"$XRP down to 4400. ""Sell the news"" is being taken too literal. Top4 MarketCap and ppl still wont hold. No respect lol
+
+#Ripple #XRP #crypto"	2017-10-16	0.32222222222222224
+12	Of course this news is real. Amazing how sceptics esp. Ripple’s fan are behaving.  #swellbyRiplle #silos @yahoo ! https://finance.yahoo.com/news/ibm-announces-major-blockchain-solution-040100816.html …	2017-10-16	1.0
+13	$PIVX Ledger hardware wallet integration is expected to occur in the next day or so. #NanoS #LedgerBlue #pivx #bittrex $btc $eth $ltc $xrp	2017-10-16	-0.05
+14	"Bernanke Backs 'Ripple' At Blockchain Conference: ""The Tech Is Promising"" | Zero Hedge http://www.zerohedge.com/news/2017-10-16/bernanke-backs-ripple-blockchain-conference-tech-promising … #Ripple"	2017-10-16	0.2
+15	#Ripple partnering with Gates Foundation for new payments platform for developing economies | CryptoNinjas https://www.cryptoninjas.net/2017/10/16/ripple-supporting-gates-foundation-new-open-source-payments-platform-developing-economies/ …	2017-10-16	0.13636363636363635
+16	#ripple #swell is off to quite a good day one. Totally different vibe from #sibos but thought provoking stuff #Toronto	2017-10-16	0.35
+17	Fill my $XRP bids kids. I’m buying all your blood and tears with a smile	2017-10-16	0.3
+18	Hey that's not cool - I didn't see this mentioned in the outline. $XRP 	2017-10-16	-0.175
+19	#XRP trade volume approaching $1 billion! #SWELLbyRipple #XRPTheStandard	2017-10-16	0.0
+20	#SWELLBYRIPPLE #XRP Good point @ panel. Banks can't wait, otherwise the non banks Like Ali will take over business. XRP to take over Swift?	2017-10-16	0.7
+21	Vigorous debate going on about digital assets v. tokens. #SwellbyRipple	2017-10-16	0.0

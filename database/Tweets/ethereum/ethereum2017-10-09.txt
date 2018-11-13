@@ -1,0 +1,32 @@
+	Tweets	date	polarity
+0	Do you believe now? #Bitcoin #Ethereum $20k BTC Xmas!	2017-10-09	0.0
+1	"Wallet Update 1.4.0, new features and more!
+https://blog.ark.io/new-ark-desktop-wallet-release-v1-4-0-2d4c286417f6 …
+$ARK $ETH $BTC #blockchain #ledger #walletupdate $crypto #darkmode"	2017-10-09	0.3806818181818182
+2	#Viuly Launches Alpha Blockchain Powered Video Sharing Platform https://medium.com/@Viuly/press-release-viuly-launches-alpha-blockchain-powered-video-sharing-platform-pre-ico-starts-f55ff59047ff … #blockchain #Ethereum #ICO #startup #video #Youtuber	2017-10-09	0.0
+3	"Going to Block Con tomorrow. Who's going? 
+
+Love to meetup.  
+
+#goblockcon #crypto #btc #eth #siliconbeach"	2017-10-09	0.5
+4	Check out ATLANT's website update at https://atlant.io  #atlant_platform #ATLANT #ICO #blockchain #TokenSale  #Ethereum	2017-10-09	0.0
+5	The Bitcoin Podcast with Irfon Watkins #DOVU #mobility #ethereum #blockchain #tech	2017-10-09	0.0
+6	#DOVU 5 million milestone illustrated by @CoinIdol Brilliant as usual! #mobility #blockchain #ethereum #TokenSale http://ow.ly/YTH430fK9o9 	2017-10-09	0.29375
+7	Holy crap 1.5 #PETAHASH on #XIOS $XIOS @XIOSCOIN !!! TOLD YOU THIS WAS A REAL ONE!!!! #XRP #LTC #BTC #BTS #NEO #BCH #CLAM #ETH #PPC #NMC #RT https://twitter.com/Xioscoin/status/917531893393969153 …	2017-10-09	-0.255859375
+8	"What is #Blockchain
+
+By @EYnews
+
+#Fintech #makeyourownlane #Mpgvip #cryptocurrency #ETHEREUM #defstar5 #ML #IOT #IOE #Bitcoin #cybersecurity"	2017-10-09	0.0
+9	Toshi product update #4 — Monthly Transacting Users, Ethereum Nodes and UX Improvements 	2017-10-09	0.0
+10	My pleasure to help! No question is stupid. =)  Helping others make money is what I do. #XIOS @Xioscoin #CRYPTO #BTC #XRP #BTC #ETH #LTC #RT	2017-10-09	-0.14999999999999997
+11	We’re back with regular product updates on @toshi! Improvements to monthly transacting users, Ethereum nodes, and UX https://blog.toshi.org/product-update-4-monthly-transacting-users-ethereum-nodes-and-ux-improvements-ff0aca5372c8 …	2017-10-09	0.0
+12	"Building real world blockchain applications#assettoken#ethereum#
+#banking#blockchain#fintech#"	2017-10-09	0.2
+13	ICYMI: Snappy gives us a rundown of what's been happening in the world of PIVX!  http://ow.ly/7vH030fJ0Y2   $btc $eth $neo $xmr #cyptocurrency	2017-10-09	0.0
+14	preICO of GraphGrailAi has finished! $200,000 raised in 15 hours! Please do not send ETH to our contract address now, it cannot accept them	2017-10-09	0.0
+15	See BLOCKv in action-- watch our BLOCKv demo reel https://youtu.be/NRU-cJPJDHo  #cryptocurrency #bitcoin #ethereum #blockchain	2017-10-09	0.1
+16	More invites to test #Lunyr Alpha on #Ethereum mainnet have been sent out. Sign up now to get future invites. https://goo.gl/SGgkjS  $LUN	2017-10-09	0.25
+17	The latest ETH Price is 299.25 USD https://www.coindesk.com/ethereum-price 	2017-10-09	0.5
+18	If you want to learn to make Ethereum/MetaMask-enabled web sites, you can learn by example in-browser with these: 	2017-10-09	0.0
+19	Nitro NOX #Token | Waves VS Ethereum http://snip.ly/5ynum 	2017-10-09	0.0

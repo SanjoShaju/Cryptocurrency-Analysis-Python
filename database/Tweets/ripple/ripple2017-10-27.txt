@@ -1,0 +1,40 @@
+	Tweets	date	polarity
+0	Here we go. $XRP goes live with XRP-BTC and XRP-INR pairs. #XRP. Guess who will the next ;). #cryptoindia #Ripple #cryptocurrency	2017-10-27	0.12878787878787878
+1	Which next coin do you want to see on CD?	2017-10-27	0.0
+2	Broad Ripple location of Crackers Comedy Clubs closes: http://indy.st/2yQhPuJ  @IndyStar	2017-10-27	0.0625
+3	What will the price of #XRP be in 5years @Ripple	2017-10-27	0.0
+4	Listen to this great interview with @Ripple 's CEO @bgarlinghouse ! #XRP is on its way to become the new financial standard!#xrpthestandard	2017-10-27	0.37878787878787873
+5	Ep 17! We have a fantastic interview with @ripple CEO @bgarlinghouse plus all the highs & lows in the week's newshttp://bi.11fs.com/18  	2017-10-27	0.4
+6	"""We'll have a couple hundred meetings while here [at Swell/Sibos]""  47:30min #Ripple #XRP "	2017-10-27	0.0
+7	Ep 17! We have a fantastic interview with @ripple CEO @bgarlinghouse plus all the highs & lows in the week's newshttp://bi.11fs.com/18  	2017-10-27	0.4
+8	Want to know the byproduct of a kind act? At minimum two people leave the experience for the better. Who knows the ripple effect from there?	2017-10-27	0.55
+9	"If #Ripple is growing larger and larger 
+...while the price of #XRP is going down 
+Why aren't you buying more $XRP at a discount? "	2017-10-27	0.08611111111111111
+10	terrific piece on the way abstraction boundaries are moving to the network, and the ripple effects this has on how teams interact. 	2017-10-27	0.0
+11	I wrote up some longer form thoughts on my @velocityconf talk. On observability, microservices, and teams  https://blog.turbinelabs.io/coworkers-will-become-customers-its-a-good-thing-1750790f8a59 …	2017-10-27	0.0
+12	"“Imagine being able to send #money the same way you send #email""
+https://briandcolwell.com/2017/06/the-ripple-effect-internationalizing-the-banking-industry/.html … @ripple #fintech #blockchain #payments #xrp #iot"	2017-10-27	0.25
+13	check out r new @ripple & #XRP emojis, @miguelvias @JoelKatz like them @dreventures new utube video & #ico ceo talks	2017-10-27	0.13636363636363635
+14	"""What’s so exciting about blockchain and @Ripple is that financial networks anywhere i/t world can interoperate.”"	2017-10-27	0.15
+15	There were tons of great insights from #SwellbyRipple. We narrowed them down to the top three for you.	2017-10-27	0.3814814814814815
+16	Turned $550 into $3994 in a month with @ToshiDesk - He's real, and so are these #stats #XIOS #XRP #SUB	2017-10-27	0.2
+17	Breaking: Crackers comedy club in Broad Ripple closes 	2017-10-27	0.0625
+18	"DeMarcus Cousins' playoff quest could have ripple effect through entire NBA, writes @Sam_Amick
+
+ https://usat.ly/2he9neU "	2017-10-27	0.0
+19	 +2 Ripple Price Forecast – XRP Might Be the Biggest Winner from China’s Crypto Ban https://cryptopanic.com/news/389280/Ripple-Price-Forecast-XRP-Might-Be-the-Biggest-Winner-from-Chinas-Crypto-Ban?utm_source=notifications&utm_medium=twitter&utm_campaign=Twitter+Trending … $XRP #ripple #cryptocurrency	2017-10-27	0.0
+20	“Unlike  90% of the coins on Crypto Market, @Ripple offers something real, and its basic data is very good.” - #xrp	2017-10-27	0.3025
+21	Pros and Cons of @Ripple; Huge Ambitions and Risks 	2017-10-27	0.4000000000000001
+22	Not only words, UBS is partenring with @Ripple for blockchain application  	2017-10-27	0.0
+23	"UBS CEO ‘not necessarily’ a believer in #cryptocurrencies, but he likes #blockchain #fintech
+
+http://cnb.cx/2zJkT8Y "	2017-10-27	0.0
+24	"RETWEET FOLLOW LIKE TO WIN FREE $BTC
+
+
+$SYS $QTUM $WINGS $BTS $MCO $LUN $LTC $ETH $ETC $NEO $DGB $DASH $STRAT $XVC $OMG $PAY $XRP $XMR"	2017-10-27	0.6000000000000001
+25	" $BTC GIVEAWAY ON 1/11/17
+
+IF WE GET 6000 FOLLOWERS WE WILL GIVE AWAY 0.05 BTC
+8000 - 0.15…"	2017-10-27	0.0

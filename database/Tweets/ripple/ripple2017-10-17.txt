@@ -1,0 +1,44 @@
+	Tweets	date	polarity
+0	Tell me, why where you guys shillin $XRP ....	2017-10-17	0.0
+1	$xrp is a buy below 1k sats	2017-10-17	0.0
+2	"even if $XRP goes to $0, 500k $XRP is still 500K $XRP
+
+no one can take that away from you. 
+
+no one."	2017-10-17	0.0
+3	Bernake $XRP s(w)ell R.I.Pple :(	2017-10-17	-0.75
+4	 The root problem @Ripple is solving with #XRP and #ILP	2017-10-17	0.0
+5	Services ≠ interoperable b/c every provider is more or less going it alone with no shared platform or tech to help get off the ground. (3/3)	2017-10-17	0.16666666666666669
+6	is it #SwellbyRipple or #SellbyRipple ? $xrp $btc	2017-10-17	0.0
+7	PREACH! #XRP $XRP #RIPPLE is for strong hands only! 	2017-10-17	0.21666666666666665
+8	I've hustled hard for years...Nothing comes easy. I lost alot too! I just won alot more by learning from my own mistakes ;) #XRP $XRP $XIOS	2017-10-17	0.32
+9	SWIFT dis-invited Ripple to SIBOS. Rather than just take it, Ripple quickly pulled together a competing event.	2017-10-17	0.3333333333333333
+10	"Ripple is trying to breakup a monopoly. This event isn’t about pumping $XRP. It’s about getting rid of the gatekeepers
+#SwellbyRipple #SIBOS https://twitter.com/haydentiff/status/920345056086839297 …"	2017-10-17	0.0
+11	"If you missed the #Blockchain debate, the recording is here:
+https://youtu.be/zgrXgEJ0Mwc 
+#SwellbyRipple #SIBOS $XRP #ETH"	2017-10-17	0.0
+12	"Set an alarm!
+This debate is today at 4:00.
+I can’t wait! 
+(Good luck, @justmoon!)
+…"	2017-10-17	0.875
+13	We heard about the nil need for XRP at first movers. When will payments have traction across ledger's / borders where XRP is most efficient?	2017-10-17	0.375
+14	I just want to say Thank You from the $XRP community. You've been very transparent and open with us. Couldn't imagine a better CEO representing @Ripple 	2017-10-17	0.2333333333333333
+15	Critical for #XRP investors to understand  Also means: market has extraordinarily high expectations for #Ripple. Just a question of time.. 	2017-10-17	0.08
+16	Hard part of investing: Results aren’t driven by company performance, but performance in the context of current/future market expectations.	2017-10-17	-0.2916666666666667
+17	"Idea for @jack! 
+Premium hashtags that require a micro fee (paid in $XRP) to use to help weed out spam during events! 
+#SwellbyRipple"	2017-10-17	0.0
+18	It’s been challenging to follow the event on Twitter because of the volume of $XRP tweets. https://twitter.com/futureledger/status/920369300283822085 …	2017-10-17	0.5
+19	New validators on the #XRP ledger  	2017-10-17	0.13636363636363635
+20	"The #RippleNet validator page is being updated and there are a few new validators including @BahnhofAB
+https://xrpcharts.ripple.com/validators "	2017-10-17	-0.03181818181818183
+21	"Big news they said. Helicopter ben they said.
+
+$XRP #ripple #SwellbyRipple"	2017-10-17	0.0
+22	Problem is not Ripple, the problem crypto investors that got lucky and think they are the warren buffet of crypto. No patience no swag!	2017-10-17	0.41666666666666663
+23	Really disappointing how people reacted to this. Only the holders will succeed. See you in a few years guys. $XRP #SwellbyRipple #Ripple	2017-10-17	-0.26666666666666666
+24	This tweet = guilty pleasure of the day.  Thanks @justmoon & watching you now sitting on stage with @VitalikButerin .  Go #Ripple and #XRP 	2017-10-17	-0.15
+25	"To the future victims of @SWIFT's ""tsunami"" - @Ripple will be here to help rebuild. #RippleNet #SwellByRipple https://twitter.com/swiftcommunity/status/919955133290696720 …"	2017-10-17	0.0
+26	Sell by Ripple.	2017-10-17	0.0

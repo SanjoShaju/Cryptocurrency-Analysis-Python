@@ -1,0 +1,30 @@
+	Tweets	date	polarity
+0	"GRAY AND ETH DOLAN FOLLOW 
+
+LEYENDS  LIKE/RT THIS TWEET IF YOU WANT ME TO DM HIM @"	2017-10-06	0.0
+1	Check out our #bountycampaign ! http://bit.ly/2waV4x6  #ModexICO #DECENTRALIZE #btc #eth #crypto #fintech #bounty	2017-10-06	0.0
+2	Does the price of Ether pass $500 in 2017? #Ethereum #cryptocurrency #poll #Bitcoin #Fintech #technology #blockchain #smartcontracts	2017-10-06	0.0
+3	Gimli is proud to announce a new progamer on the advisory board: Happy CS:GO professional player #Blockchain #ICO #Ethereum #Bitcoin #token	2017-10-06	0.4590909090909091
+4	$ETH bouncing off that lower trend line again. Declining volume profile. Big move against $BTC soon.	2017-10-06	0.0
+5	It costs me $0.13~ to send any size payment around the world in 20 seconds with Ethereum. What bank does that?	2017-10-06	0.0
+6	"Hackers Hijack Another #Ethereum #ICO, This Time it’s #Etherparty
+#Finance #Fintech
+https://btcmanager.com/hackers-hijack-another-ethereum-ico-time-etherparty/?utm_source=Twitter&utm_medium=SNAP&utm_campaign=SNAP-Hackers+Hijack+Another+Ethereum+ICO%2C+This+Time+it%E2%80%99s+EtherParty …"	2017-10-06	0.0
+7	"Method: search github for words ""ethereum"" & ""bitcoin"", then chart the number of results (repositories) per year. Credit goes to @Bitcom21."	2017-10-06	0.0
+8	"Over the last 3 months, Ethereum's ""market share"" vs Bitcoin went from 42% to 44%. "	2017-10-06	0.0
+9	"Proxy for #Bitcoin vs #Ethereum developer activity 
+('17 results up to Oct 6 annualized) "	2017-10-06	0.0
+10	EarthTokens & Nat. Asset Exchange: Enabling companies to become environmentally #sustainable #tokensale #blockchain #ethereum	2017-10-06	0.0
+11	"Good news! Our #Bounty #campaign has started!! Sign up right now and get your #coins!
+Detailed information about the conditions: https://bitcointalk.org/index.php?topic=2236656.msg22555108#msg22555108 … 
+#Nousplatform #Ethereum #blockchain #ICO"	2017-10-06	0.5857142857142857
+12	New all time high $ value and first time over 1.5M market cap! #unifycrypto #bitcoin #ethereum #litecoin #btc #ltc #eth #cryptocurrency	2017-10-06	0.20295454545454547
+13	Other signers that have absolutely nothing to do with Bitcoin: @bloqinc (the Enterprise Ethereum Alliance member), @civickey (ETH ICO)	2017-10-06	0.037500000000000006
+14	"Public sale ends Oct. 29
+#FUEL up now : https://etherparty.io/ico/  
+#Etherparty #ICO #smartcontracts #ethereum #eth "	2017-10-06	0.0
+15	I still can't get over the fact that @circlepay, a company that builds a Venmo competitor and plans an Ethereum ICO, signed the SegWit2x NYA	2017-10-06	0.0
+16	Read About Us In Bitcoinist!    #Bitcoinist #ETHEREUM #ethtrade #ICO #TokenSale http://spok.al/67z9 	2017-10-06	0.0
+17	Will Work For Ethereum: This week we're spotlighting exciting opportunities by @AragonProject @ethfinex & @ethstatus	2017-10-06	0.3
+18	Understanding the Upcoming #Ethereum Hard Fork  https://www.thestreet.com/story/14334000/1/understanding-the-upcoming-ethereum-hard-fork.html … via @TheStreet #HardFork #Cryptocurrencies #Crypto $ETH $ETC	2017-10-06	-0.2916666666666667
+19	Nvidia, AMD Stock to Continue Gains after Bitcoin, Ethereum Mining Boom: Analyst 	2017-10-06	0.0

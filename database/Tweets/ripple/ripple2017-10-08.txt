@@ -1,0 +1,31 @@
+	Tweets	date	polarity
+0	"You can hate $XRP all you want.
+
+Train is leaving soon with or without you."	2017-10-08	-0.8
+1	"$xrp books 
+i like it  "	2017-10-08	0.0
+2	#RIPPLE #XRP $XRP @Ripple  Buy & Hold !  https://twitter.com/CNNOfficials/status/917085894661890048 …	2017-10-08	0.0
+3	$XRP wants your attention.	2017-10-08	0.2
+4	$XRP/USD breaking out. might have implications on $XRP/BTC	2017-10-08	0.0
+5	What will $XRP's peak price be during #swellbyripple ?	2017-10-08	0.0
+6	Nice market action - the pre-game before swell.  #xrp #xrpthestandard #ripple 	2017-10-08	0.35
+7	Get #XRP coin it should hit $0.30 this week coming! Positive 7 day chart #Ripple #bitcoin #ETH #LTC #LiteCoin #Substratum #BTC #StockMarket 	2017-10-08	0.22727272727272727
+8	.@hedgetoken places $XRP's long-term value somewhere between $0 and $14.20 USD... Seems like a pretty safe bet. 	2017-10-08	0.375
+9	$XRP chart looks like  going into the #Swell conference in 8 days.	2017-10-08	0.0
+10	Weekly symmetrical triangle break, lets go $XRP 	2017-10-08	0.0
+11	Don't FOMO into $XRP just yet my children. 	2017-10-08	0.0
+12	We r z best #coin out there, to the moon and beyond, we are patient and we will deliver! #crypto #ETH #BTC #NEO #OmiseGo #DASH #Ripple #Nem	2017-10-08	1.0
+13	#XRP $XRP #RIPPLE @RIPPLE #xrpthestandard is paying me today in the tune of $55k - I know I'll make $100k by the end of day at this rate ;)	2017-10-08	0.25
+14	"Dump ALL $ALTS and buy $XRP 
+#dumpit"	2017-10-08	0.0
+15	"FOLLOW LIKE RETWEET TO WIN FREE $BTC
+$SYS $QTUM $WINGS $BTS $OKCash $LUN $BTC $LTC $ETH $ETC $NEO $DGB $DASH $STRAT $BNB $OMG $PAY $XRP $XMR"	2017-10-08	0.6000000000000001
+16	" $BTC GIVEAWAY ON 1/11/17
+
+IF WE GET 6000 FOLLOWERS WE WILL GIVE AWAY 0.05 BTC
+8000 - 0.15…"	2017-10-08	0.0
+17	@miguelvias if $XRP can match $BTC extension from $1850, $XRP will be $0.94c, thats a SWELL target dont you think?	2017-10-08	0.0
+18	$ETP is a combined $NEO $LINK $CVC blockchain asset. While alts are tanking $ETP is climbing. I get $WTC vibes. $QTUM $XRP $XLM $COSS	2017-10-08	0.0
+19	$XRP has been disconnected from $BTC movement from the start of this bull run FYI!! #Ripple #FREEBALLIN! $ETH $NEO $XLM $SNM $STRAT $STORJ pic.twitter.com/3nG2t54jou	2017-10-08	0.0
+20	$XRP update, target now extends to 0.2975c - keep HODLin, stand by your beds for updates x 	2017-10-08	0.0
+21	$xrp #ripple train is leaving station. 	2017-10-08	0.0

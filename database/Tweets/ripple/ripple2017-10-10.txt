@@ -1,0 +1,31 @@
+	Tweets	date	polarity
+0	HELP SUPPORT @Ripple's 1st #swellbyripple conf. OCT 16-18 by changing your profile pic. #ripple $XRP #cryptocurrency #weareXRP RETWEET!	2017-10-10	0.0
+1	I predict #XRP #RIPPLE will reach $0.50 this week.. #WaitAndSee #cryptocurrency	2017-10-10	0.0
+2	the basket ripple gets me every time 	2017-10-10	0.0
+3	"So beautiful, so defined and all 5 flyers went straight into their stunts
+
+ "	2017-10-10	0.525
+4	#xrp going live! Go #ripple	2017-10-10	0.17045454545454544
+5	"""Banks won't use XRP!! Scam!"" .......... wait, what? "	2017-10-10	0.0
+6	#xrp community has put up with the FUD & we stayed strong #xrp is the lightning and we r the thunder Thanks @ripple  	2017-10-10	0.31666666666666665
+7	What’s exciting  @about today’s announcement is the range of use cases and corridors for @Ripple and use of #XRP: 	2017-10-10	0.3
+8	New client @RAKBANKlive innovates remittances from UAE to India on @Ripple! https://ripple.com/insights/ripplenet-grows-to-over-100-financial-institutions/ …	2017-10-10	0.17045454545454544
+9	Another milestone on the @ripple journey towards the #internetofvalue!	2017-10-10	0.0
+10	Network effects take off on RippleNet with 100+ FIs & live commercial volume. The future is here! #blockchain #IoV http://ow.ly/Jdn530fLXaa 	2017-10-10	0.04545454545454545
+11	Learn more about the ripple effects of gratitude. http://www.success.com/blog/the-ripple-effects-of-gratitude?utm_source=Twitter&utm_medium=Social&utm_campaign=Post …	2017-10-10	0.5
+12	"#Blockchain company #Ripple says it has $15bn war chest 
+
+https://amp.ft.com/content/8dcd3fa4-adbb-11e7-beba-5521c713abf4 … #fintech"	2017-10-10	0.0
+13	Destroy them as we currently know them -- expensive, unreliable, and acting as gatekeepers. Yes. Those that adapt can still thrive.	2017-10-10	-0.175
+14	#Ripple blockchain network hits 100-member mark 	2017-10-10	0.0
+15	FIVE TRILLION US DOLLAR - stuck in nostro accounts. One of #XRP's target markets. First FI started today. Good times ahead. 	2017-10-10	0.475
+16	Network effects take off on RippleNet with 100+ FIs & live commercial volume. The future is here! #blockchain #IoV http://ow.ly/Jdn530fLXaa 	2017-10-10	0.04545454545454545
+17	"Uber, with $20 billion in gross bookings, has its payment provider partnering with @Ripple. 
+@xrptips @Hodor7777"	2017-10-10	0.0
+18	No more words needed. Spectacular!  #XRP 	2017-10-10	0.25
+19	And @Cuallix becomes the first FI to use a digital asset to reduce liquidity costs across the   corridor.	2017-10-10	0.125
+20	Proud of everyone at @Ripple for their hard work. The RippleNet is helping to bring global payments into the 21st century. #XRPthestandard.	2017-10-10	0.12708333333333333
+21	P20. Great event to present Ripple's Internet of Value vision to industry thought-leaders. Thoroughly enjoyed it! 	2017-10-10	0.47500000000000003
+22	Blockchain thinking to create an internet of value by @marcus_treacher #ripple #blockchain #P20 #payments #future 	2017-10-10	0.0
+23	#RippleNet payments volume increases with the addition of @cuallix, @airwallex, @creditagricole, and more! http://ow.ly/Jdn530fLXaa 	2017-10-10	0.625
+24	If you have the means, talk to a therapist, even if you are perfectly healthy. What you learn will ripple to your loved ones. #TakeThisHope	2017-10-10	0.6

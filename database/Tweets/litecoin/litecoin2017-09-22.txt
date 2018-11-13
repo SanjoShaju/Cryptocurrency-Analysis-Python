@@ -1,0 +1,216 @@
+	Tweets	date	polarity
+0	"Did a cross-chain atomic swap with LTC/BTC! 
+10 LTC for 0.1137 BTC with @JStefanop1. 
+https://insight.litecore.io/address/ML9CNJBtSPMABYcCQV58P2t4M7MpPRJK95 …
+https://insight.bitpay.com/address/3HRWsfjpBHiJ7hC3jKJV5nbHMeBgoCPHDq …"	2017-09-22	0.0
+1	"#Dash is Making a Splash: Displacing #Litecoin, ""#DigitalCash"" is on the Warpath"	2017-09-22	0.0
+2	LTC Jackson! So proud of you for this accomplishment 	2017-09-22	0.8
+3	"5 years from now, ""OMG! There's a 1,000 $LTC sell wall!"" #PANIC "	2017-09-22	0.0
+4	Bitcoin cross-chain atomic swap with $LTC $BTC #litecoin  good job 	2017-09-22	0.7
+5	"If #litecoin hits $1000 by tomorrow morning I'll buy everyone who follows & retweets this a lambo!!! 
+#LTC #btc"	2017-09-22	0.0
+6	One of the first $DCR <> $BTC atomic swaps happening right here on Twitter! Congrats @narcelio and @gogocoins! #Decred #Litecoin #Bitcoin	2017-09-22	0.3482142857142857
+7	I want to buy 10 DCR paying 0.1 BTC. Anyone interested? #btc #dcr #atomicswap	2017-09-22	0.25
+8	Want a bullish $BTC $LTC $ETH news catalyst? wow https://news.bitcoin.com/russian-governor-cryptocurrency-miners-mining-farms-leningrad/ …	2017-09-22	0.1
+9	"cross-chain atomic swap coming... LTC/BTC
+@ErikVoorhees"	2017-09-22	0.0
+10	"Did a cross-chain atomic swap with LTC/BTC! 
+10 LTC for 0.1137 BTC with @JStefanop1. 
+https://insight.litecore.io/address/ML9CNJBtSPMABYcCQV58P2t4M7MpPRJK95 …
+https://insight.bitpay.com/address/3HRWsfjpBHiJ7hC3jKJV5nbHMeBgoCPHDq … "	2017-09-22	0.0
+11	"BUY $EBST @ 0.00002900/3000
+Sell Price: Open Target
+#Hold for Profits x10
+$WTC $ADT $TRIG $ARK $BAT $OK $XEL $BTC $ETH $LTC $MTL $NEO $OMG"	2017-09-22	0.25
+12	$ltc this is good reversal pattern for ltc 	2017-09-22	0.7
+13	"4 rules of #crypto trading realm!
+$SYS $QTUM $WINGS $BTS $OKCash $LUN $BTC $LTC $ETH $ETC $NEO $DGB $DASH $SPR $KMD $BTA $EDG $QRL $XRP $NMR"	2017-09-22	0.0
+14	This one is going to be awesome.. $btc $neo $ltc 	2017-09-22	1.0
+15	Right after my Live Stream, it looks like one of the TA scenarios could be blossoming.  $LTC $BTC $VTC $DCR	2017-09-22	0.21103896103896103
+16	Spoofy on GDAX too? @bitfinexed #bitcoin #gdax #btc #crypto #cryptocurrency #invest #Ethereum #Litecoin 	2017-09-22	0.0
+17	"What does atomic swap mean for crypto traders?
+
+https://rados.io/posts/first-on-chain-atomic-swap-complete-between-dcr-and-ltc …
+
+#litecoin #Atomicswap #decred #decentralized #rados #bitcoin"	2017-09-22	-0.3125
+18	@SatoshiLite bringing in the good news... $Ltd #litecoin $btc #bitcoin	2017-09-22	0.7
+19	"Just Do It! 
+#bitcoin #blockchain #cryptocurrency #ethereum #digitalCurrency #cryptotrading 
+$btc $eth $ltc $doge $xrp $omg $golem $neo"	2017-09-22	0.0
+20	"$kmd $ltc $vtc $btc $neo $eth 
+Hitting 24hr highs and solid channel moving Komodo higher after atomic swaps and Swiss Conference! Party on!"	2017-09-22	0.1953125
+21	"#LTC 
+Super great long-term investment. My all time favorite Litecoin. 
+Charlie Lee just did first atomic swap transaction with $LTC-$BTC"	2017-09-22	0.4708333333333333
+22	"#ArtByte has mined the first #SegWit enabled block on the live blockchain!
+
+https://goo.gl/joSHa9 
+
+#bitcoin #litecoin #blockchain #fintech"	2017-09-22	0.2102272727272727
+23	"Copy successful traders automatically with Bitcoin! 
+
+I copy Snortex. Do you?
+
+http://1broker.com/?r=25023 
+
+$BTC | $BCH | $ZEC | $LTC | $VTC"	2017-09-22	0.9375
+24	APP soon to be approved by FDA $ptoy @patientory @altcoinrookie @Tikidikboy @Selcoin @FatihSK87 @WolfOfPoloniex #bitcoin #ethereum #litecoin 	2017-09-22	0.0
+25	Get me to 450 followers by Sunday and I'll pick two winners of #Litecoin + two winners of $MTL .	2017-09-22	0.0
+26	"$trig meeting up with #nasa, this is huge
+
+$BTC $LTC $ETH $ETC $PAY $NEO $OMG $MCO $BLK $IOP $KMD $TRIG $LSK $MSP $OK $EDG $VTC"	2017-09-22	0.45000000000000007
+27	LTC was heading to 100 before the China FUD. This was one reason why. With the ETH Byzantine release delayed expect mrkt cap to shift over.	2017-09-22	0.0
+28	Offcourse $LTC 100$	2017-09-22	0.0
+29	This is a defining moment for BTC / LTC. Faster transaction speeds at lower fees for all digital assets on Segwit. LTC highly undervalued.	2017-09-22	0.08
+30	"#ArtByte releases 2nd quarter Roadmap Update
+
+https://www.artbyte.me/artbyte-roadmap-second-quarter-update/ …
+
+#bitcoin #fintech #blockchain #litecoin #dogecoin #cryptocurrency"	2017-09-22	0.0
+31	My jabs at BCH are always the truth though. I just comment on the broken difficulty algorithm, etc.	2017-09-22	-0.4
+32	"@SatoshiLite, Chicken master of the atomic swaps!
+
+$BTC $LTC "	2017-09-22	-0.75
+33	That's a hell of a good deal, we all know 1 LTC should be at least 0.1btc 	2017-09-22	0.19999999999999998
+34	"ATOMIC SWAPS LEGGGO! EFF the FUD! Great tech and fundamentals have not changed
+
+$BTC $LTC $VTC"	2017-09-22	0.8
+35	"Did a cross-chain atomic swap with LTC/BTC! 
+10 LTC for 0.1137 BTC with @JStefanop1. 
+https://insight.litecore.io/address/ML9CNJBtSPMABYcCQV58P2t4M7MpPRJK95 …
+https://insight.bitpay.com/address/3HRWsfjpBHiJ7hC3jKJV5nbHMeBgoCPHDq … "	2017-09-22	0.0
+36	Day of Caring @pedalthecause LTC West PM Team. #FaithForFreddy @wwt_inc – at Chesterfield Central Park	2017-09-22	0.0
+37	Let's get this article trending!! #MUSTREAD #crypto $BTC $ETH $LTC $NEO $GAS $OMG https://www.docdroid.net/tEYQK8b/palm-beach-921.pdf#page=5 …	2017-09-22	0.0
+38	Gravity's Pull? Litecoin Is Down 50% from All-Time Highs and Looking Lower http://bit.ly/2yvoF5S  via @CoinDesk	2017-09-22	-0.15555555555555559
+39	Big news announced on Slack. @centra_card to support #NEO #EOS #NEM #IOTA in addition to #bitcoin #Litecoin #ETHEREUM #dash #zcash #Monero	2017-09-22	0.0
+40	"Why #SegWit for #ArtByte?
+
+ArtByte + SegWit =
+Lightning & MASK =
+Smart contracts
+
+#bitcoin #litecoin #ethereum #blockchain #Fintech #Cryptos"	2017-09-22	0.21428571428571427
+41	"$esp new roadmap, big things coming 
+$trig $btc $ltc $trst $okcash $via $lbc $xmg $xzc $rise $lmc"	2017-09-22	0.06818181818181818
+42	#FF America at its' finest! @klhunter42 @DonnaDErrico @WorldofTroy @kimberamerica @LTC_Hunter @KurtSchlichter @T_S_P_O_O_K_Y @JennJacques	2017-09-22	0.0
+43	"Do your homework!
+
+$XVG $LTC $DGB $SC $UBQ $BAY $PTOY $SRAT $VOX $LBC $ETC $ETQ $ETH $BTC $SEC $PAY $NEO $QWARK $EQT $QTUM $BTC $PAY $ARK"	2017-09-22	-0.1
+44	"SO CLOSE TO ANOTHER GIVEAWAY WOLVES
+LIKE FOLLOW RETWEET
+
+$SYS $QTUM $WINGS $BTS $OKCash $LUN $BTC $LTC $ETH $ETC $NEO $DGB $DASH $STRAT"	2017-09-22	0.0
+45	"WE WILL BE DOING ANOTHER CRYTO GIVEAWAY@4000 FOLLOWERS
+LIKE FOLLOW RETWEET
+
+$SYS $QTUM $WINGS $BTS $OKCash $LUN $BTC $LTC $ETH $ETC $NEO"	2017-09-22	0.0
+46	Daily: Is Mining in trouble in China? Decred - Litecoin Atomic Swap 	2017-09-22	-0.1
+47	"Handy website worth a bookmark! 1h/24h/7d #Cryptocurrency heat maps!
+#Bitcoin #Ethereum #Crypto $XRP $BCH $LTC $NEO
+http://cryptomaps.org/ "	2017-09-22	0.534375
+48	"The mighty Lees in #Crypto:
+–Charles Lee @SatoshiLite
+Founder #LTC
+–Bobby Lee @bobbyclee
+CEO #BTCC
+–Thomas Lee @fundstrat
+Founder #Fundstrat"	2017-09-22	0.4
+49	Dear @Wikipedia Why not allow $CRYPTO as payment method?I'm quite sure if you accepted $BTC & $LTC a lot more donations would come your way! 	2017-09-22	0.5625
+50	Litecoin potentially $200 +/- by year-end according to my analysis, will explain in a future YouTube video. $LTC $BTC	2017-09-22	0.0
+51	Selling your Vertcoin now is like selling your Litecoin when it was $1. $LTC $VTC	2017-09-22	0.0
+52	But that's fine because Litecoin is targeting a different spot in the security/decentralization/throughput/fees tradeoffs.	2017-09-22	0.20833333333333334
+53	"$dcr and $ltc hang out and swap atomic coins. Check out my mug experiment. 
+https://roscoelamontagne.com/products/litecoin-and-decred-show-me-your-atomic-swap-mug … #art #crypto"	2017-09-22	0.0
+54	Litecoin Price Dips Below $50 Following 11% Decline 	2017-09-22	0.0
+55	We now support withdrawing LTC to addresses starting with an M. This assists with withdrawing LTC to wallets like @TREZOR	2017-09-22	0.0
+56	#cryptocurrencies #bitcoin #litecoin #omisego RT @jonfitchdotnet: @Bitcoin_Rush giving info on @AvalonPlatform	2017-09-22	0.0
+57	"Crypto Unstoppable > https://vid.me/bvqTd 
+@VALUSone @AvalonPlatform
+#bitcoinrush #fintech #crypto #bitcoin #news #data"	2017-09-22	0.0
+58	"#ArtByte releases 2nd quarter Roadmap Update
+
+https://www.artbyte.me/artbyte-roadmap-second-quarter-update/ …
+
+#bitcoin #fintech #blockchain #litecoin #dogecoin #cryptocurrency"	2017-09-22	0.0
+59	"ALERT
+
+Charlie Lee claims #Bitcoin China FUD was whale manipulation.
+
+What do you think?
+
+$btc $eth $ltc $neo $xrp $xmr $omg $dash $qtum"	2017-09-22	0.0
+60	$LTC $DCR $VTC cross-chain atomic swap is in action! with all their lead developers are involved! #litecoin #decred #vertcoin #crytpcurrency	2017-09-22	0.15625
+61	Just completed the first $DCR <> $LTC cross-chain atomic swap with @SatoshiLite. Huge shout-out for debugging with us! More info soon™... 	2017-09-22	0.4166666666666667
+62	If you can’t trust the guy who toyed with ltc investors for ages and his brother the exchange operator, who can you trust, really. 	2017-09-22	0.2
+63	2/ The FUD is propagated by large manipulators trying to make money shorting. They know that China ban FUD works and cannot be proven wrong.	2017-09-22	-0.14285714285714285
+64	How much do you love this functionality @SatoshiLite ? $DCR $LTC	2017-09-22	0.35
+65	"Copy successful traders automatically with Bitcoin 
+
+I copy Snortex. Do you?
+
+http://1broker.com/?r=25023 
+
+$SAFEX | $XZC | $LTC | $BCC | $BCH"	2017-09-22	0.75
+66	"BUY $ADT AND HOLD MAY GIVE 100% PROFIT
+$WTC $MTL $NEO $BAT $OK $DASH $ARK $BTC $LTC $ETH $OMG $LSK $QTUM $BTS $PIVX $SC $CVC $BNB $TRIG"	2017-09-22	0.5
+67	Decred Litecoin Atomic Swap live with @SatoshiLite	2017-09-22	0.13636363636363635
+68	ICO SCAM AWARDS 2017: [TokenStars], [WWC], [TokenDesk] #WARNING #Bitcoin #Ethereum #Litecoin $BTC $ETH $LTC #CRYPTO  #SCAM #ICO 	2017-09-22	-0.75
+69	"Joined @HighAltitudeInv trading group today! 
+$BTC $LTC $ETH $ETC $NEO $OMG $BTS"	2017-09-22	0.0
+70	The #AtomicSwap tech launched this week discussed LIVE here now on the @WorldCryptoNet - #CryptoCurrency $LTC $DCR	2017-09-22	0.13636363636363635
+71	"$GAS on a roll! Load up 
+
+#Bitcoin #Litecoin #ETHEREUM #cryptocurrency #cryptonews #Gas"	2017-09-22	0.0
+72	LTC is on the way, you can pre order now. Other alts need a bigger market, but possible ETC or XMR maybe get there	2017-09-22	-0.041666666666666664
+73	"If $btc stabilizes then I could see $Dash hitting 400-430 on sunday 
+
+$LSK $ETH $LTC $XEM $XRP $XMR $MIOTA $PAY $BAT $OMG $QTUM $OK $NEO"	2017-09-22	0.5
+74	Looking for 100% return?  Look to snag #Litecoin at $40 ... when it returns to previous high... DONE!  Too easy. $Ltc #Ltc	2017-09-22	0.15555555555555556
+75	"How to catch a #cryptotrader 
+
+$BTC $ETH $LTC $DASH $XRP $XMR $MIOTA $PAY $BAT $OMG $QTUM $OK $STRAT $LSK $GNT $NEO $BCC $XVG $NAV"	2017-09-22	0.5
+76	89M seniors in US by 2050. 70% (62M) will need LTC. IT enables home-based LTC srvcs & aging in-place: http://ow.ly/taZn30fiT9D  @AdamSabloff	2017-09-22	0.0
+77	"Dilemma: you're making perfect sense and I like your plan, but I feel this is confirmed. What you think?
+
+https://twitter.com/rufusTheTrader/status/910148135900598272 …
+
+$btc $ltc"	2017-09-22	0.7
+78	"Meanwhile in $btc
+
+Heading down on leg C of ABC correction wave
+That's right: either $3k or $2.3k target…"	2017-09-22	0.06507936507936506
+79	"@POTUS goes on Bitcoin offensive vs
+$JPM $GS Jamie Dimon
+
+Declares 2 UN: BTFD +MOON
+#MAGA style @RedditBTC @bitcoin_dad 
+$BTC $LTC $ETH $BCH"	2017-09-22	0.0
+80	#Decred & #Litecoin are on Off Chain with @jimmysong in 1 hour! $DCR's @behindtext, @davecgh + $LTC's @SatoshiLite: https://www.youtube.com/watch?v=Jw5icKcmdbA …	2017-09-22	0.0
+81	#ETHEREUM #LITECOIN #IOTA #MONERO Update-9-18 CryptoCurrency : Watch -> https://youtu.be/8jc-gvFWVVQ   #LTC #ETH #XMR	2017-09-22	0.0
+82	Trade @Bitcoin @ethereumproject @litecoin and @omise_go at lowest fee in India.	2017-09-22	0.0
+83	Sign up today for a very cool #cryptocurrency trading platform http://mf.tt/BPQUc  $BTC, $ltcbtc , $ltc , #DayTrading	2017-09-22	0.45499999999999996
+84	90% of people in crypto are using money there not willing to lose  but will tell you they are $btc $eth $ltc $vtc $ark	2017-09-22	-0.125
+85	"1hr Report : 20:02:13 UTC Top 10 Mentions
+$BTC, $ETH, $LTC, $BURST, $NEO, $DASH, $OMG, $ARK, $ETC, $MUE"	2017-09-22	0.5
+86	"#LTC 24hr Summary:
+Last: $46.64
+High: $52.50
+Low: $45.18
+Change: -9.63% | $-4.97
+Volume: $35,029,044.75
+$LTC #Litecoin #Pricebots"	2017-09-22	0.05333333333333334
+87	See how to make #money with #Bitcoin on Sharkoin =➤ https://youtu.be/6D9tgnhAm4E  and earn a lot of Bitcoin like me! #crypto #litecoin #bitsler	2017-09-22	0.0
+88	"Litecoin - LTC
+Price: $46.61
+Change in 1h: -1.02%
+Market cap: $2,471,892,746.00
+Ranking: 6
+#Litecoin #LTC"	2017-09-22	0.0
+89	 Bitcoin, Ethereum, Bitcoin Cash, Litecoin, Dash, IOTA, Monero, NEO, Ethereum Classic, OmiseGo, Zcash y otras... 	2017-09-22	0.16666666666666666
+90	Last litecoin price on bitstamp: $ 45.63	2017-09-22	0.0
+91	Top 10 Mentions on Twitter in the last hour - $BTC $ETH $LTC $NEO $OMG $VTC $XRP $XVG $DASH $WAVES	2017-09-22	0.25
+92	"Cotizaciones al 21/09/2017 08:00 PM
+Bitcoin (BTC): 20.479.066
+Ethereum (ETH): 1.459.096
+Litecoin (LTC): 262.857
+BTC Cash (BCH): 2.351.231"	2017-09-22	0.0

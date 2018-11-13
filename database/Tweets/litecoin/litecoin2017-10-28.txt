@@ -1,0 +1,204 @@
+	Tweets	date	polarity
+0	While Bitcoin is getting forked and Ethereum is getting hacked, Litecoin gives you peace of mind.	2017-10-28	0.0
+1	"#Litecoin uses #scrypt in its #proofofwork #algorithm
+https://briandcolwell.com/2017/06/litecoin-the-silver-to-bitcoins-gold/.html … #fintech #blockchain #crypto #ltc #mobilepayments #iot #iiot"	2017-10-28	0.0
+2	"The question we should all be asking.
+
+#HODL #hold #crypto #bitcoin #btc #litecoin #ltc #ethereum #eth #ripple #xrp #investing #usd"	2017-10-28	0.0
+3	"I love this coin so muchVertcoin
+#vertcoin #bitcoin #BitcoinCash #Litecoin #ethereum $vtc $btc $ltc $eth $bch"	2017-10-28	0.5
+4	Just invested in Litecoin...	2017-10-28	0.0
+5	#Vietnam thinks that #bitcoin, #ethereum, #ripple, #litecoin, #ZCash, #cryptocurrencies are illegal means of payment	2017-10-28	-0.5
+6	$sys HAS A CUP HANDLE. 6000 SAT POSSIBLE.. $BTC $LTC $ETH	2017-10-28	0.0
+7	In Cryptocurrency we Trust. Overstock accepting not just #Bitcoin but also #Ethereum #Monero #NEM #DashCoin and #Litecoin 	2017-10-28	0.0
+8	"Do not forget that #ALLOY accept BTC, ETH and  LTC. Pay the way you want!
+#Blockchain #ALLOYICO #KnowALLOY #ALLOY"	2017-10-28	0.0
+9	Starting 2018, $9k fine for using #bitcoin, #ethereum, #zcash, #litecoin, and other cryptocurrencies in Vietnam https://blockexplorer.com/news/starting-2018-using-cryptocurrencies-like-bitcoin-vietnam-will-illegal-subject-9000-fine/ …	2017-10-28	0.09722222222222222
+10	"Free minnig LTC and DOGE >>> http://bit.ly/2gSxL94  
+#gamedev #game #indiegame #indiedev #indiegamedev #gameart #win #money #BTC #Crypto"	2017-10-28	0.26666666666666666
+11	Just an FYI. $VTC $LTC $BTC. Love ya too $LTC. #vertcoin #Litecoin 	2017-10-28	0.5
+12	"Sounds like a #truestory
+
+#bitcoin #segwit 
+
+Sell #litecoin  #LTC
+
+Buy #BitcoinCash  #BCH
+
+https://www.reddit.com/r/btc/comments/79cvmd/true_story/ …"	2017-10-28	0.0
+13	"When will Bitcoin go mainstream?
+
+When it's...
+
+$btc $sys $eth $ltc $strat #crypto #poll #ico #altcoins #btcgold #hardfork #millionaire"	2017-10-28	0.0
+14	"I think $VTC is trying to make me rich AF. 
+
+#BTC #Litecoin #ETH #Ripple #Crytocurrency"	2017-10-28	0.375
+15	"#Vertcoin #VTC $VTC Loving every moment! :-)
+#bitcoin #litecoin #decred #cryptocurrency #cryptonews"	2017-10-28	0.625
+16	join the #cryptocampus we are all making money and @DaytradeJeffrey  @CryptoHedge_ are geniuses #hedgefamily #vtc #ltc #btc #dcr	2017-10-28	0.0
+17	Litecoin Price Gains on Bitcoin, Unchanged Against USD 	2017-10-28	0.0
+18	Fastcoin Beta is nearing the end! #BuyNow #DriveLamboLater #FST #Fastcoin #BTC #Bitcoin #Litecoin #cryptocurrency #Money #online	2017-10-28	0.0
+19	$vtc treating me better than $ltc ever did 	2017-10-28	0.5
+20	Bitcoin Cash has 10 times the trading volume of Litecoin. Dump your litecoin folks. It has no economic utility at all!!!	2017-10-28	-0.1953125
+21	"Why are Koreans buying #BitcoinCash $BCH?
+
+#Bitcoin #Ethereum #Ether #Crypto #Fintech #AI $BTC $XBT $ETH $LTC $SPY @WhalePanda @elerianm"	2017-10-28	0.0
+22	"Early Entry GO TO
+http://bit.ly/altcoin_io 
+R/T
+#crypto  #bitcoin #ETHEREUM #ICOs #RT $CIF #blockchain #investments #XRM #XRT #LTC #BTC #ETH"	2017-10-28	0.1
+23	"#BitcoinCash  25% in a week! $BCH  atleast until #Bitcoin fork Nov16
+
+#Ethereum #Ether #Litecoin #Fintech $BTC $ETH #Crypto #Fintech #AI"	2017-10-28	0.0
+24	#stratis releasing #masternodes on 30 october (Buy $strat) #Tether #Augur #OmiseGo #Crypto #Cardano #Vertcoin #Bitcoin #Litecoin #Monero	2017-10-28	0.0
+25	Quick tweet, Buy $GE as soon as you can, also, buy #Bitcoin #Litecoin #Ethereum, as soon as you can, this is an opportunity of your #lifetym	2017-10-28	0.3333333333333333
+26	"Invite your friends and get 0% transaction fees!
+http://blog.welto.io/page/pay-bill-with-cryptocurrency-through-welto-and-get-free-t-shirt-or-discount …
+#Bitcoin #ETH #Litecoin #Cryptocurrency #PayBills"	2017-10-28	0.0
+27	If the #gamecocks win today I’ll give one random follower $25 in $BTC #GameDay #bitcoin #litecoin #ethereum #giveaway	2017-10-28	0.15000000000000002
+28	Bought myself an Ethereum one and a Litecoin one. Can't wait to see them in person! 	2017-10-28	0.0
+29	Cryptocurrency Christmas sweaters - https://hodlmoon.com/ 	2017-10-28	0.0
+30	Except it is well known that I have more BTC than LTC.	2017-10-28	0.5
+31	On 12-12-2017 I will be officially a millionaire  thanks Vertcoin #Vertcoin #cryptocurrencies #bitcoin #Litecoin	2017-10-28	0.2
+32	"Ain't Nothing Like An $EDG PaRTY  SO UP WE GO.
+
+$ltc $btc $eth $strat $neo $crypto $xel $bch $zen $adx $cvc #cryptocurrency #altcoins"	2017-10-28	0.0
+33	Enjoying the fall weather, carving pumpkins, etc. cc: @SatoshiLite @LitecoinProject @LTCFoundation #Litecoin $LTC 	2017-10-28	0.5
+34	the only thing propping up $LTC is its community. it has no defining tech other than being a testnet and being added to @coinbase early.	2017-10-28	-0.008333333333333331
+35	"#Litecoin creator is itchy & salty these days 
+
+Sell #LTC …"	2017-10-28	0.0
+36	He has to push NO2X and trash BCH for LTC to seem like it has any use at all.  Masks are coming off.	2017-10-28	0.0
+37	Website is ready: https://litecoincash.io   #$Lcash #LitecoinCash	2017-10-28	0.2
+38	"Keep a WIDE eye open on Decred @decredproject Full integrity team with an incredible project. On my top 4 for ""real"" coin. $BTC $VTC $DCR $LTC "	2017-10-28	0.3083333333333333
+39	What is #Decred? An Introduction: https://www.youtube.com/watch?v=GAMp5V_gG1E … 	2017-10-28	0.0
+40	"#ArtByte releases #SegWit enabled wallets for Windows, MAC, Linux, Android!
+
+http://artbyte.me/get-started/  
+
+#bitcoin #litecoin #crypto #segwit"	2017-10-28	0.0
+41	Let's be honest - it bitmain was not behind Bitcoin Cash ... it would have significantly less efficacy.  LTC has much wider adoption.	2017-10-28	0.20833333333333337
+42	There are now 90 hedge funds focused on #Cryptocurrency in 2017. Bringing the total number of #Crypto-funds to 124. #Bitcoin #Litecoin $BTC	2017-10-28	0.0
+43	hello god bless bella luz and bless family	2017-10-28	0.0
+44	"Also good to know... I wasn't aware  #Litecoin 
+
+http://BitcoinCash.org  "	2017-10-28	0.475
+45	Litecoin Price Gains on Bitcoin, Unchanged Against USD #ethereum #crypto #btc #crypto https://coinspectator.com/news/104685/litecoin-price-gains-on-bitcoin-unchanged-against-usd …	2017-10-28	0.0
+46	"Old but not impossible!
+http://www.ibtimes.co.uk/vertcoin-soaring-cryptocurrency-set-surpass-bitcoin-1435261 …
+$VTC $Dash $BCC $BTC $LTC $DCR $ETC $ETC $XVG $XRP $XMR $NEM $IOTA $ZEC $QTUM $LSK $OMG $WAVES $STRAT $ARK $STEEM #VTC #Vertcoin #Bitcoin #Litecoin #Monero #Etherum $Dash  #BTC #BCH #LTC #Ledger #Cryptocurrencies #Trading #Investing"	2017-10-28	0.2583333333333333
+47	"END THE FED!
+#MAGA
+#PATRIOT
+#CONSTITUTION
+#2A
+#MolonLabe
+#ΜΟΛΩΝΛΑΒΕ
+#LTC
+#III
+#EndTheFed
+#CAPITALISM
+#AnarchoCapitalis
+#DeleteTheElite"	2017-10-28	0.0
+48	Litecoin is getting outperformed by vertcoin	2017-10-28	0.0
+49	$VTC - I guess it's called Vertcoin for a reason! $VERTCOIN $VTC $LTC $BTC @therealactivei1	2017-10-28	0.0
+50	"Express your love for Bitcoin and Blockchain today! 
+
+Rock some nice crypto merch 
+
+https://goo.gl/62adjp 
+
+$LTC | $BTDX | $GRS | $MSP"	2017-10-28	0.6125
+51	#Vertcoin is really skyrocketing today! Wow! 9h before i tweeted fasten seatbells cause it smelled like takeoff but i always impressed again when a market really takes off! $VTC $Dash $BCC $BTC $LTC $DCR $ETC $ETC $XVG $XRP $XMR $NEM $IOTA $ZEC $QTUM $LSK $OMG $WAVES $STRAT $ARK	2017-10-28	0.40625
+52	@EdgeSecure takes #Cryptocurrency to the next Level #Bitcoin #litecoin #augur #ETH #Wings #BitcoinCash coming soon #Dash. Want something else let us know....	2017-10-28	0.0
+53	$MTL #Metal Ascending triangle finishing up! Let's see if it can break the horizontal resistance $btc $ltc $eth $omg $xlm $vtc	2017-10-28	0.0
+54	"Our @AltComCoin review - this is a hidden gem people! http://youtu.be/h6K1aJLrWYo 
+#altcom #crypto #proofofstake #posarmy $btc $ltc"	2017-10-28	-0.20833333333333331
+55	@etherdelta We sent you the Form on Reddit, thank you to list $Lcash on your platform. #LitecoinCash 	2017-10-28	0.0
+56	"RETWEET FOLLOW LIKE TO WIN FREE $BTC
+
+
+$SYS $QTUM $WINGS $BTS $MCO $LUN $LTC $ETH $ETC $NEO $DGB $DASH $STRAT $XVC $OMG $PAY $XRP $XMR"	2017-10-28	0.6000000000000001
+57	" $BTC GIVEAWAY ON 1/11/17
+
+IF WE GET 6000 FOLLOWERS WE WILL GIVE AWAY 0.05 BTC
+8000 - 0.15…"	2017-10-28	0.0
+58	"Good luck to all the LTC Football Teams today in their 1st rd playoff games
+#ltc #represent"	2017-10-28	0.7
+59	LTC buy the dip if you wanna be rich like Charlie Lee #bitcoin · Trade $LTCUSD with up to 5x leverage: https://trade.whaleclub.co/trade/LTC-USD 	2017-10-28	0.375
+60	What if I told you $vtc is going to pass $ltc one day soon	2017-10-28	0.0
+61	$VTC represents what crypto is all about.  Its LTC, and BTC in its infancy and its starting to hit puberty.  jump in, sit back and enjoy!!	2017-10-28	0.20833333333333334
+62	$MOD is just getting started. Get on the train or we are leaving you behind. $wtc $EVX $btc $eth $eth $bcc $neo $qtum $wtc $cwxt $dope $pay $waves $ltc 	2017-10-28	-0.1
+63	200% since my initial call on $mod  Who is going to be the lucky trader ? $btc $eth $dgb $trig $xvg $ltc $start $wax $eve #bitcoin #money	2017-10-28	0.17777777777777778
+64	"If $mod hits $5 in november.
+I will send 1BTC or 1000 $mod to SOMEONE that RETWEETS and FOLLOWS
+$dgb $Smart $ETH $btc $xvg $strat $ltc $wax "	2017-10-28	0.20476190476190478
+65	"ALERT
+
+I expect the overall #Bitcoin trend to remain BULLISH leading up to #SegWit2x fork!
+
+Correction after fork.
+
+
+$btc $eth $ltc $neo"	2017-10-28	0.0
+66	Need an ugly sweater for Christmas? Feast your eyes on these bad boys! Rep your coin with STYLE! $BTC $LTC $ETH	2017-10-28	-0.85
+67	Analysis: Bitcoin, Ethereum, and Litecoin  #cryptocurrency #blockchain #ai #bitcoin #ethereum #bitqy	2017-10-28	0.0
+68	"the young bulls 
+will be slaughtered tonight 
+by the old bears
+
+bitcoin ethereum litecoin 
+$BTC $LTC $ETH $NEO $XRP $BCH $XMR $DASH $OMG"	2017-10-28	0.1
+69	I've said it 100000 times, and I will say it again. FOLLOW THE SEGWIT COINS! $BTC $LTC $VTC $DCR	2017-10-28	0.0
+70	$MOD #Modum has broke into the top 100 marketcap. $ETP $WTC. $ETH. $LTC. $BCC $BCH	2017-10-28	0.35
+71	@CRYPTOtwenty is a Juggernaut in the making. Smashing other #crypto index funds. #ICO http://crypto20.com   #Crypto20 #c20 $btc $eth $ltc 	2017-10-28	-0.125
+72	Well... given their methods of late,  I hope whatever it is doesn't involve a GOP ballgame.	2017-10-28	-0.3
+73	Vertcoin to ltc parity. 2015 all over again 	2017-10-28	0.0
+74	Really think what were seeing is the birth of $VTC joining the big dog ranks of $BTC $LTC $ETH. Welcome!	2017-10-28	0.39999999999999997
+75	Somebody immediately get LTC Ricardo Turner and the nuclear football as far away from Trump as possible. 	2017-10-28	0.05
+76	Artists unite and embrace #Bitcoin - Get some now on Coinbase - try it!  https://www.coinbase.com/join/593dd1995eb42b73c9fc80e1?src=twitter …  #etherium #litecoin 	2017-10-28	0.0
+77	Sharp rise in #Cryptofunds. Premium domain http://CryptoConsultants.com  for sale now. #Bitcoin #Ethereum #Ripple #Dash #Litecoin #Monero #Stratis	2017-10-28	-0.125
+78	Good question!  $LTC $BTC $VTC $DCR	2017-10-28	0.875
+79	#Litecoin is the only crypto with a clear face . Wish more would have that. Charlie Lee keep up the nice work . Litecoin rules!	2017-10-28	0.3375
+80	Just did an great LIVE with the CryptoCampus Club! $LTC $VTC $BTC $DCR $STRAT $SYS $$NEO $NAV $ARK $LSK 	2017-10-28	0.48522727272727273
+81	"Check out the latest video!
+https://youtu.be/2aHDD60OcyY 
+
+$BTC $ETH $LTC #cryptocurrency #bitcoin #crypto #cryptocurrencies #ethereum #litecoin"	2017-10-28	0.625
+82	"$ADA ROADMAP . BIG BANG IN 3 DAYS . #ADA #CARDANO 
+
+$OMG $NEO $PAY $BTC $LSK $MCO $VTC $SC $TIX $ADX $TRIG $STRAT $XMR $XEL  $PAY $BTS $XEM  $ETH $XRP $QTUM $LTC $XVG $BTC $FUN $IOP $NEO  $DGB $XVG $CVC $BTS $QRL $NXT $SEQ $XVC $IOC $LMC $BCC $MTL $XMR $ZEC $DASH $SYS $GAME"	2017-10-28	-0.03333333333333335
+83	Ethereum Lite the next BIG ONE!!! $ELITE $ethereumlite $BTC $LTC 	2017-10-28	0.0
+84	Don't pump, just announce a decentralized exchange using litecoin and Litening, using atomic swaps and stuff	2017-10-28	0.0
+85	done ! :D	2017-10-28	1.0
+86	@SatoshiLite CREATED Litecoin numbnuts. You're insulting his coin while supporting his erroneous comment.	2017-10-28	-0.4166666666666667
+87	trump  Litecoin - The litecoin faucet where YOU decide when to claim! http://moonliteco.in/?ref=9ab42957bc67 … #litecoin #faucet via @Moon_Litecoin	2017-10-28	0.0
+88	Litecoin value: $55.01	2017-10-28	0.0
+89	"Join now:
+
+https://t.me/bittrex_news 
+
+$UNB $DGB $TRIG $SEQ $SNGLS $adx $crb $strat $lbc $edg $dnt $wtc $ltc $rdd $adt $xrp 23815"	2017-10-28	0.0
+90	"#LTC 24hr Summary:
+Last: $55.24
+High: $56.14
+Low: $54.75
+Change: -0.50% | $-0.28
+Volume: $5,876,070.482
+$LTC #Litecoin #Pricebots"	2017-10-28	0.05333333333333334
+91	"Litecoin - LTC
+Price: $55.41
+Change in 1h: -0.02%
+Market cap: $2,968,135,415.00
+Ranking: 5
+#Litecoin #LTC"	2017-10-28	0.0
+92	Last litecoin price on bitstamp: $ 54.93	2017-10-28	0.0
+93	Top 10 Mentions on Twitter in the last hour - $BTC $ETH $DGB $NEO $LTC $VTC $OMG $XRP $XVG $ZEC	2017-10-28	0.25
+94	A new # for u Charlie(#LTC+14X2017!) and was even higher ! We love your work 	2017-10-28	0.32765151515151514
+95	"Cotizaciones al 27/10/2017 09:00 PM
+Bitcoin (BTC): 32.373.040
+Ethereum (ETH): 1.665.832
+Litecoin (LTC): 309.861
+BTC Cash (BCH): 2.066.680"	2017-10-28	0.0
+96	@dahboo7 I just threw 5 LTC at this. 4.5% daily for 6 weeks https://bitpetite.com/?aff=crypt0k1ng 	2017-10-28	0.0

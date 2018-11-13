@@ -1,0 +1,57 @@
+	Tweets	date	polarity
+0	"#bcc #bch  #bitcoin cash #bitcoin
+
+Very good news"	2017-10-13	0.9099999999999999
+1	"Over 1Gb.... And more to come.
+
+Bitcoin Cash independently proven to scale.…"	2017-10-13	0.25
+2	Bitcoin Cash Price Technical Analysis – BCH/USD Heading Lower http://mrarticleexpert.com/bitcoin-cash-price-technical-analysis-bchusd-heading-lower-2/ …	2017-10-13	0.0
+3	"Bitcoin Cash: $316
+ +0.96% (+$3.00)
+High: $325.00
+Low: $296
+Volume: 4321
+
+$BCC #BCC #bitcoincash"	2017-10-13	0.08
+4	Bitcoin Cash Bullish Divergence - BCHUSD TradingView https://www.tradingview.com/chart/BCHUSD/C2SVBLAU-Bitcoin-Cash-Bullish-Divergence/ … #BitcoinCash #BCHUSD #BCH	2017-10-13	0.0
+5	"Trading Signal for Bitcoin Cash (BCHUSD):
+Buy: 332.00
+Stop-Loss: 287.00
+Take-Profit: 400.00 / 500.00 
+Recommended Trade Volume: up to 5% from your deposit size #BCHUSD #BCH #BitcoinCash"	2017-10-13	0.0
+6	#TheCryptoBar: What Is Bitcoin Cash? How is it different from Bitcoin? @georgelevy #bitcoin #bitcoincash #education	2017-10-13	0.0
+7	Exodus adds Ethereum Classic (ETC) and Bitcoin Cash (BCH) support 	2017-10-13	0.16666666666666666
+8	S1x stands for SegWit1x which is the current consensus rule. S2x is the new consensus rule that will be introduced in November. Bitcoin Cash (BCC/BCH) has nothing to do with it.	2017-10-13	0.06818181818181818
+9	Bitcoin Cash breaking out or teasing us?  We shall see soon!  $bcc $bch #BitcoinCash 	2017-10-13	0.0
+10	#ltc @SatoshiLite: 'Miners are strip-mining Bitcoin Cash and dumping BCH again.… , see more http://tweetedtimes.com/v/13728?s=tnp 	2017-10-13	0.5
+11	#Bitcoin Cash Price Technical Analysis – Can BCH/USD Hold $300? - NEWSBTC http://ow.ly/DtkP30fQGNY  by @AayushJs	2017-10-13	0.0
+12	Best time to buy Bitcoin cash #BitcoinCash #Ripple #ethereum #bitcoin #OKcash	2017-10-13	1.0
+13	Does anyone know what rank Bitconnect $BCC was before Bitcoin Cash $BCH ticker confusion? It's #10 market cap now. LOL. pic.twitter.com/o00V79ecys	2017-10-13	0.0
+14	"Bitcoin Cash: $316.80
+ +0.89% (+$2.80)
+High: $325.00
+Low: $296
+Volume: 4336
+
+$BCC #BCC #bitcoincash"	2017-10-13	0.08
+15	Exodus adds Ethereum Classic (ETC) and Bitcoin Cash (BCH) support 	2017-10-13	0.16666666666666666
+16	"Bitcoin Cash cheapest on Poloniex BTC-market: $323.35 0.05718999BTC
+
+#bitcoincash $BCHUSD $BCHBTC $bch "	2017-10-13	0.0
+17	@CoinomiWallet Hello, may i know if there's any plan to support Bitcoin Gold $BTG, like how I could do sweeping for Bitcoin Cash $BCH ? thx!	2017-10-13	0.0
+18	Bitcoin Cash Price Technical Analysis – Can BCH/USD Hold $300? 	2017-10-13	0.0
+19	Bitcoin Cash Price Technical Analysis – Can BCH/USD Hold $300? http://www.newsbtc.com/2017/10/13/bitcoin-cash-price-technical-analysis-can-bchusd-hold-300/ …	2017-10-13	0.0
+20	#fx #forex Bitcoin Cash Price Technical Analysis – BCH/USD Heading Lower Key Points Bitcoin cash price is http://binaryoptionsplatforms.co.uk/bitcoin-cash-price-technical-analysis-bchusd-heading-lower-2/ … #fx,#forex	2017-10-13	0.0
+21	"Bitcoin Cash cheapest on Poloniex BTC-market: $309.59 0.05617396BTC
+
+$bch #bitcoincash $BCHBTC $BCHUSD"	2017-10-13	0.0
+22	Trezor Changed the Name to 'Bitcoin Cash (BCH)' https://www.dub.io/tw/23292635  #reddit #redditcom	2017-10-13	0.0
+23	"Bitcoin Cash cheapest on Poloniex BTC-market: $304.71 0.05632097BTC
+
+$BCHBTC $bch $BCHUSD #bitcoincash "	2017-10-13	0.0
+24	NovaExchange #15 Market(0.57%) BCH/BTC - Bitcoin Cash Vol(24h):2.794 BTC / $15,267 - Price: $310.60 / 0.0568434 BTC	2017-10-13	0.0
+25	Poloniex #8 Market(2.80%) BCH/BTC - Bitcoin Cash Vol(24h):1321.85 BTC / $7,179,310 - Price: $309.12 / 0.0569143 BTC	2017-10-13	0.0
+26	Poloniex #13 Market(1.33%) BCH/USDT - Bitcoin Cash Vol(24h):624.953 BTC / $3,394,280 - Price: $309.66 / 0.0570152 BTC	2017-10-13	0.0
+27	"Bitcoin Cash cheapest on Poloniex BTC-market: $311.13 0.05722556BTC
+
+$BCHUSD $BCHBTC #bitcoincash $bch "	2017-10-13	0.0

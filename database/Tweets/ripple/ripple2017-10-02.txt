@@ -1,0 +1,44 @@
+	Tweets	date	polarity
+0	Aah, Ripple of course. Ripple for Africa! 	2017-10-02	0.0
+1	What the banking industry needs is a standard that connects disparate systems, both old and new.  https://ripple.com/insights/european-central-bank-weighs-distributed-ledger-tech/ … via @ripple	2017-10-02	0.07878787878787878
+2	heartbroken for the countless lives that today’s unspeakable event will ripple through. may hope and healing come quick.	2017-10-02	0.16666666666666666
+3	" THIRD GIVEAWAY!  
+547 FOLLOWERS
+
+GIVING AWAY 5 ETH!!
+
+RT & FOLLOW TO ENTER.
+
+$KNC $OMG $BTC $ETH $ARK $CLC $XRP $STR $PINK $LDOGE"	2017-10-02	-0.05
+4	No promises, but we're expecting some small or medium news from @ripple this Monday or Tuesday.	2017-10-02	-0.25
+5	Ever wanted to pick the brain of #Ripple CEO, @bgarlinghouse? Now's your chance! He's taking questions on @Quora	2017-10-02	0.0
+6	"as much as I can shield us from it
+unavoidable shockwaves
+ripple through"	2017-10-02	0.2
+7	"After 52 Weeks The #Ripple #xrp #coin Will Reach $1 and Then Later $5
+https://www.ripplecoinnews.com/after-52-weeks-the-ripple-coin-will-reach-1-and-then-later-5 …"	2017-10-02	0.0
+8	"I can’t remember my Quora password. Somebody ask @bgarlinghouse if he ever calls $XRP “zerps.” 
+#XRPthestandard"	2017-10-02	0.0
+9	Ever wanted to pick the brain of #Ripple CEO, @bgarlinghouse? Now's your chance! He's taking questions on @Quora https://www.quora.com/session/Brad-Garlinghouse/1 …	2017-10-02	0.0
+10	#Ripple is set to revolutionise the #banking world and remove the need for #Swift payments. Here is a simple intro https://buff.ly/2x9wwEx 	2017-10-02	0.0
+11	Riding that jet stream back from JFK yesterday - pretty healthy ground speed and not a ripple of turbulence... 	2017-10-02	0.25
+12	Autumn is poised ready to ripple through the leafage of New Lanark and the fabulous Falls of Clyde... catch it while you can! #scotspirit	2017-10-02	0.2787878787878788
+13	"""Ripple has adopted [...] to help it become the most scalable payments-oriented blockchain network & looks forward to continued improvement"" "	2017-10-02	0.5
+14	Follow up: here are the performance testing methods that we use @Ripple for measuring #XRP throughput & scalability https://ripple.com/dev-blog/demonstrably-scalable-blockchain/ …	2017-10-02	0.0
+15	Benchmarking and data-driven changes have helped the XRP Ledger scale to 1,500 tx/sec. And it’s just the beginning. 	2017-10-02	0.0
+16	Follow up: here are the performance testing methods that we use @Ripple for measuring #XRP throughput & scalability https://ripple.com/dev-blog/demonstrably-scalable-blockchain/ …	2017-10-02	0.0
+17	Huge credit goes to @MarkTravis15 the architect behind our #XRP perfomance engineering methods and practices @Ripple	2017-10-02	2.7755575615628914e-17
+18	How we use performance engineering @Ripple to test #XRP scalability and improve throughput by over 1000% #blockchain http://highscalability.com/blog/2017/10/2/ripple-the-most-demonstrably-scalable-blockchain.html …	2017-10-02	0.0
+19	"Ex1: interbank liquidity enabling greatest reach and capital efficiency (XRP). 
+
+Ex2: domestic settlement (central bank issued VC)."	2017-10-02	0.3333333333333333
+20	Ripple: The Most (Demonstrably) Scalable Blockchain http://highscalability.com/blog/2017/10/2/ripple-the-most-demonstrably-scalable-blockchain.html …	2017-10-02	0.5
+21	"GIVERAWAY!
+
+10 Bitconnect tokens $bcc
+
+Like, follow and retweet to ENTER 
+
+$btc $ltc $eth $neo $adex $etc $tnt 
+$xrp $stx $pay $mco $nav"	2017-10-02	0.0
+22	@Ripple Exchange LLC to unveil new $XRP gateway application https://www.cryptoninjas.net/2017/10/02/ripple-exchange-llc-unveil-new-xrp-gateway-application/amp/ …	2017-10-02	0.13636363636363635

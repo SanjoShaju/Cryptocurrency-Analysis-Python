@@ -1,0 +1,188 @@
+	Tweets	date	polarity
+0	"#Bitcoin $BTC will hit $5,000 by year end?
+
+#Ethereum #Ether #Litecoin #BitcoinCash $ETH $ETC $LTC $BCC $XMR #Crypto #Fintech #Blockchain"	2017-09-04	0.0
+1	"LTC and ETH are not a “hedge” against BTC. 
+
+They’re priced on the exact same thing — public confidence & interest in crypto currencies. "	2017-09-04	0.08333333333333333
+2	"The past 24 hours for BTC, ETH and LTC.
+
+ Spot the difference. "	2017-09-04	-0.25
+3	#Litecoin and #Bitcoin on super sale. Get it while it lasts	2017-09-04	0.3333333333333333
+4	According to @fredwilson #BTC #BITCOIN #ETH #ETHEREUM #LTC #LITECOIN #Cryptocurrency	2017-09-04	0.0
+5	Yes, listen to him !!!! $OKCASH $BTC $LTC $LSK $OMG $PAY $NEO $TRIG $RISE $KMD	2017-09-04	0.0
+6	"Big news $OK $OkCash !
+
+$KMD $NEO $ETH $OMG $BCC $MCO $LTC $QTUM $DGB $NAV $PAY $XVG $LSK $STRAT $XMR $ETC $SC "	2017-09-04	0.3125
+7	#Crypto #Trading Possible short-term #Strategy: BUY non-ICOs & mined coins, hunt value ICO projects @ low prices $LTC $UBQ $XCP  #BTFD	2017-09-04	0.0
+8	News of China's PBoC deeming all ICOs illegal led to drops of 8% for Bitcoin,15% Ripple,17% Litecoin and 20%Ethereum 	2017-09-04	-0.5
+9	Bitcoin, ethereum and litecoin down about 15%, 28% and 33%, respectively over the last 48 hours	2017-09-04	-0.051851851851851864
+10	"All time chart. Is this the big bear we've been waiting for?
+
+$crypto $btc #crypto #bitcoin #btc $eth #eth #ethereum #ltc #litecoin #bittrex"	2017-09-04	0.0
+11	"BIG NEWS 6/9/17 $okcash 
+ARE YOU READY ....
+
+$KMD $NEO $ETH $OMG $BCC $MCO $LTC $QTUM $DGB $NAV $PAY $XVG $LSK $STRAT $XMR $ETC $SC $RISE"	2017-09-04	0.1
+12	$OMG bouncing back well at this stage, great time to enter. $GNT $BTC $LTC $KMD $TRIG	2017-09-04	0.4
+13	"China right now on cryptocurrency.
+
+#bitcoin #cryptocurrency #ico #ethereum #btc #ltc #eth"	2017-09-04	0.2857142857142857
+14	"BUY $NEO NOW!!!
+
+$BTC $BCC $ETH $LTC $XRP"	2017-09-04	0.0
+15	"A nice looking push for #Bitcoin , #Ethereum & #Litecoin. It seems they have all found the bottom of their corrections. 
+It's go time! #ltc"	2017-09-04	0.75
+16	$ETC and $LTC pumps were primo. Ready for take off. The beautiful launch pad has been created.	2017-09-04	0.525
+17	25+ successful Litecoin trades today. The volatility was real today. YEEHAWWWWW $LTC $BTC $VTC	2017-09-04	0.475
+18	"ALERT
+
+I expect Chinese money to flow into $BTC & $LTC after ICO regulations cool off-
+
+I believe they will shy away from $ETH & $NEO"	2017-09-04	-0.05000000000000001
+19	"Nice primer to crypto trading:
+“10 Step Guide for Day Trading Bitcoin, Ethereum and Litecoin” by @kaleazy"	2017-09-04	0.6
+20	#litecoin showing it can't be stopped. Like + retweet if you bought the dip! Next stop $100	2017-09-04	0.0
+21	"Possible $XVG breakout.
+
+$btc $eth $xrp $ltc #crypto #tokeninsiders"	2017-09-04	0.0
+22	"Big news from $TRIG plus the controlled burn of tokens = 
+
+$BTC, $NEO, $ETH, $LTC, $XVG, $OMG, $KMD, $PAY, $BAT, $DGB"	2017-09-04	0.0
+23	$ltc $btc once it's realized how great the China ico crackdown is we are going to see the next leg in #bitcoin #litecoin. More money to flow	2017-09-04	0.43333333333333335
+24	$BTC $ETH $NEO $LTC all still have some downside, and none have reached the key supports on my charts	2017-09-04	0.0
+25	What is #Bitcoin? with @thearcanebear https://youtu.be/TgzWt36-Br0  #thearcanebear #youtube #blockchain #litecoin #eitherium $btc $neo $dash $ltc 	2017-09-04	0.0
+26	"Hope you're all stocked up. A very healthy correction for litecoin today, so strap in. 
+
+$100 in the coming days and $150 by the months end!"	2017-09-04	0.8125
+27	"When you follow the crowd instead of DYOR 
+
+#cryptocurrency $btc $bch $etc $eth $ltc $neo $xrp $cvc $bnt $ark $msp $time $xcp $bat $xvg $sc"	2017-09-04	0.0
+28	"ALERT
+
+$GNT is EXPLODING !!!!!!!!
+
+
+
+
+$btc $ltc $eth $etc $neo $dgb $qtum $strat $bnb $omg $pay $xrp $xmr $gas $adx $eos $dash $sc"	2017-09-04	0.0
+29	"ALERT
+
+$GNT PARTNERSHIP with $OMG RUMORS IS ABOUT TO HAVE #GOLEM BREAKOUT AGAIN…"	2017-09-04	0.0
+30	"ALERT
+
+$GNT PARTNERSHIP with $OMG RUMORS IS ABOUT TO HAVE #GOLEM BREAKOUT AGAIN
+
+SHE'S ABOUT TO EXPLODE !!! 
+
+
+$btc $ltc $eth $neo $sc https://twitter.com/CryptoKirby/status/904479630152912897 …"	2017-09-04	0.0
+31	2 weeks ago we were like holy sh*t, #Bitcoin hit $4300. Now we're like, Oh sh*t, bitcoin hit $4300 $BTC $ltc $eth $xrp $neo $omg $qtum $etc	2017-09-04	0.0
+32	"The crypto world in the future:
+
+$BTC $ETH $BCH $XRP $LTC $XEM $DASH $IOTA $XMR $ETC $NEO $OMG $BCC $QTUM $LSK $STRAT $ZEC $WAVES $USDT $BCN"	2017-09-04	0.0
+33	Well you win prize for the Least Likely Explanation :)  If they were doing that, even slightly, LTC would be >$10,000.	2017-09-04	0.16666666666666669
+34	"3/ sell-off in BTC/LTC/XMR/ZEC/BCH and other non-token and non-crowdfunding protocols is an ""income effect"" like we see in all asset classes"	2017-09-04	-0.125
+35	We're not aware of this. However, I believe individual Walmart stores are free to accept LTC if they wish.	2017-09-04	0.09166666666666667
+36	This is a great day for #Crypto - imagine if amazon ebay costco all had an 50% off sale - this is like that but better!! #bitcoin #Litecoin 	2017-09-04	0.790625
+37	"We told you $OK $OkCash
+First target - DONE
+Second - Loading... :)
+$NEO $OMG $ETH $QTUM $KMD $BCC $MCO $RISE $PAY $LTC $DGB $STRAT $XRP $LSK https://twitter.com/GoldenSmophy/status/904706405470531584 …"	2017-09-04	0.3125
+38	$EMC TA is looking good  @emercoin @BittrexExchange $btc $eth $ltc $etc $neo $xmr $dash $xrp $bnb $strat $pay $pivx $bts $mco $kmd $qtum	2017-09-04	0.7
+39	"$EMC is flying under the radar & It's a non-hype gem. I'm HODLing.
+$btc $eth $ltc $etc $neo $xmr $dash $xrp $bnb $strat $pay $pivx $bts $mco"	2017-09-04	0.0
+40	"Beware of this ""currency"" named Dollar. $BTC $LTC $ARDR"	2017-09-04	0.0
+41	About to convert all my #bitcoin to #litecoin  $5 transaction fee is a bit much.	2017-09-04	0.2
+42	" $PAY meeting and talk tomorrow in Singapore!
+
+$BTC $ETH $LTC $XMR $NEO $XRP $DGB $MCO $TKN $XVG $SC $GNT $OMG $TRIG"	2017-09-04	0.0
+43	Meetup in Singapore 5th Sept please drop by @ProductHunt SG where Cofounder Paul will be speaking about #TenX https://www.meetup.com/Product-Hunt-Singapore-Meetup-Group/events/242952497/ …	2017-09-04	0.0
+44	#CryptoCurrencies Updated. Check predictions for Bitcoin, Ethereum, Litecoin, Ripple, Dash. Charts>> https://www.ew-forecast.com/crypto_currencies/ … …  #ElliottWave	2017-09-04	0.0
+45	"Surfs up for $WTC
+
+$BNB $BTC $OMG $NEO $LTC $ETH"	2017-09-04	0.0
+46	"$XEL looks ravishing @elastic_coin @BittrexExchange 
+$btc $eth $ltc $etc $neo $xmr $dash $xrp $bnb $strat $pay $pivx $bts $mco $kmd $qtum"	2017-09-04	0.0
+47	"ALERT
+
+Shout out to all y'all new to crypto!
+
+
+
+
+$btc $ltc $eth $etc $neo $dgb $dash $bnb $omg $pay $xrp $xmr $eos $snt $sc $qtum $xvg"	2017-09-04	0.17045454545454544
+48	Coins smells like short term bottom here. $ETH $BTC $LTC... side note...deleted twitter mobile...spent too much time looking at it	2017-09-04	0.1
+49	"If #Litecoin hits $100 this week, Ill give away 1 $LTC to a lucky person. 
+
+Follow + Retweet to win!  "	2017-09-04	0.27777777777777773
+50	It's only been a few weeks, but the LCA has now reached over 1000 followers on twitter.  Thank you for your support!  #ltc #litecoin	2017-09-04	-0.125
+51	@fast_coin dev team is amazing!!and have been helping me out. If They help someone with LTC issues imagine how they treat FST clients! 	2017-09-04	0.0
+52	"ALERT
+
+$BTCD is abandoning the project - They are switching to $KMD -
+
+Every 1 $BTCD = 50 $KMD
+
+Wow!!
+
+$btc $ltc $eth $etc $neo $xmr $xrp"	2017-09-04	0.15625
+53	The LTC: Drone View 	2017-09-04	0.0
+54	"1 day left.. please vote for $DGB !
+
+https://twitter.com/hitbtc/status/903223626887032832 …
+
+$ETH $NEO $KMD $MCO $OMG $BCC $BTC $LTC $NAV $PAY $XVG $TRIG $RISE $XRP $LSK"	2017-09-04	0.0
+55	$LTC because I believe that its value will align itself with Bitcoin once cross chain atomic swaps start to be utilized widely.	2017-09-04	-0.05
+56	"$WTC is in $NEO 's antshares early stage. Except $WTC is much, much, much bigger with government funding + MVP team. 
+
+$bnb $btc $eth $ltc"	2017-09-04	0.05
+57	"Holdings for Sept:
+$LTC 
+$ERC - FOREX announcement
+$KMD - Buy the rumor... 
+$OMG - Vitalik Buterin, Thailand 
+$TRIG - NRA
+$XVG - HitBTC, Tor"	2017-09-04	0.0
+58	"ALERT
+
+My #1 Coin this week is $GNT - I'm expecting a large pump for the $OMG Conference on Sept. 7
+
+
+$btc $ltc $eth $xmr $neo $pay $xrp"	2017-09-04	0.21428571428571427
+59	Show some  for Litecoin? 	2017-09-04	0.0
+60	On a 3 year time horizon (no selling allowed) based on today's prices, what would you rather have:	2017-09-04	0.0
+61	Why #TenX $PAY ? See @tenxwallet co-founder @julianhosp  on #COMIT https://www.youtube.com/watch?v=w8e2ke8U5eE … #innovation #cryptocurrency $BTC $ETH $LTC $DASH	2017-09-04	0.0
+62	Litecoin LN will have quicker/cheaper confirmations for opening/closing payment channels and have cheaper LN fees.	2017-09-04	0.0
+63	For all things 3eb Join my group on Facebook, The -Third Eye Blind- Assembly http://www.Facebook.com/groups/TheThirdEyeBlindAssembly/ …	2017-09-04	-0.25
+64	#DGB will be dead once $LTC $BTC implements 2nd layer solutions eg. Lightning network	2017-09-04	-0.1
+65	"RT startuphangar ""Check out this $BTC, $ETH, $LTC, #Ethereum, #bitcoin trading platform http://mf.tt/WsrDj  #… https://twitter.com/i/web/status/904498652256854021 …"""	2017-09-04	0.0
+66	Litecoin Scrypt Mining Configurations for Radeon 7970 & R9 280 http://bit.ly/1GJ9aUF  #Cybersecurity #CyberAttack	2017-09-04	0.0
+67	"You got to love $LSK at 156ksat it and you watch the values $RISE touched 9.4ksat 
+HODLing pays off!
+RT
+$BTC $LTC $ETH $NEO"	2017-09-04	0.625
+68	Come join us on IRC at #litecoin-dev	2017-09-04	0.0
+69	Litecoin's Price Has Gained More Than 2,000% This Year #tech   $v #ℑnnovate //www.forbes.com/sites/cbovaird/2017/09/03/litecoins-price-ha…	2017-09-04	0.5
+70	As a software developer I'm interested in using Litecoin in many different ways.. what's a good developer community for LTC?	2017-09-04	0.3625
+71	This is awesome!	2017-09-04	1.0
+72	1 Litecoin = 76.7321 USD. Litecoin has changed by -0.9444 USD in 30 mins. Live price: https://is.gd/OwDsdX  #litecoin #ltc #cryptocurrency	2017-09-04	0.13636363636363635
+73	How to Buy Litecoin in the UK? To buy LTC in the UK, follow this Litecoin buyer’s guide. #litecoin #ltc http://ow.ly/zHy230eRosm 	2017-09-04	0.0
+74	10 hour uptrend broke down, let's see if the 27 hour one holds. If not, fall to at least 75, imo. #Litecoin $LTC	2017-09-04	-0.2277777777777778
+75	Question from a laymen, if Bitcoin sets up and uses the lightning network is there any use for litecoin?	2017-09-04	0.0
+76	Bounce trades closed last night. Some of these weekly charts are pointing towards reversals IMO. #Bitcoin #Litecoin #Ethereum	2017-09-04	-0.05
+77	"#LTC 24hr Summary:
+Last: $79.47
+High: $84.91
+Low: $77.26
+Change: -0.46% | $-0.37
+Volume: $49,200,345.87
+$LTC #Litecoin #Pricebots"	2017-09-04	0.05333333333333334
+78	Just because markets are closed tomorrow doesn't mean we can't make $$ #Crypto $BTC $ETH $LTC	2017-09-04	-0.20625
+79	"Litecoin - LTC
+Price: $76.84
+Change in 1h: -0.87%
+Market cap: $4,054,990,308.00
+Ranking: 5
+#Litecoin #LTC"	2017-09-04	0.0
+80	#litecoin is valued at $76.84. Last 24h: -1.99%⬇︎ Last 7d: 23.71%⬆︎ #LTC	2017-09-04	0.0

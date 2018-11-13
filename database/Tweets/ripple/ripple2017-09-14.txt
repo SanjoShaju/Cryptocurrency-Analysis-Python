@@ -1,0 +1,28 @@
+	Tweets	date	polarity
+0	Ripple network ... today $Ripple $XRP 	2017-09-14	0.0
+1	Honoured to moderate @ripple banks panel at #swellbyripple	2017-09-14	0.0
+2	Find out who will be joining @benbernanke & @timberners_lee at #SwellbyRipple. Our full agenda is live here: https://swell.ripple.com/agenda/ 	2017-09-14	0.24318181818181817
+3	Ack! Major freak out 4 BTC noobs 2end soon! BTC *may kiss $3348! Real news is new pattern starts now 4btc! Plus Ripple crash harder longer!	2017-09-14	0.08577769886363637
+4	I love that you are so confident in the future of Ripple and XRP.  I'm with you.  Thanks for the article.	2017-09-14	0.3
+5	not a ripple. 	2017-09-14	0.0
+6	Today's school shooting near Spokane at Freeman High School was the 31st American school shooting of 2017, and the 2nd in the last 18 hours. 	2017-09-14	0.052000000000000005
+7	a simple act of caring creates an endless ripple	2017-09-14	-0.0625
+8	#ripple becomes 3rd largest #cryptocurrency by market capitalization @Ripple 	2017-09-14	0.0
+9	XRP Is A Cryptocurrency Like The USS Zumwalt Is A Boat https://medium.com/@haydentiff/xrp-is-a-cryptocurrency-like-the-uss-zumwalt-is-a-boat-3b25be5226b8 … via @haydentiff #ripple #xrp #XRPtheStandard #cryptocurrency	2017-09-14	0.0
+10	2017 @ripple price prediction $XRP https://www.profitconfidential.com/cryptocurrency/ripple/ripple-price-forecast-analysis-september-12-2017/ …	2017-09-14	0.0
+11	Rest in power, Edie. You created a ripple effect that will continue to make the world a more loving and accepting place.  	2017-09-14	0.55
+12	.@ShaneBitney delivered a touching tribute to Edie Windsor & @JimObergefell. #LoveWins #Advocate50 http://bit.ly/2eDecg8 	2017-09-14	0.5
+13	#XRP sell wall on Poloniex just got eaten  	2017-09-14	0.0
+14	Korea’s Coinone Launches Physical Cryptocurrency Exchange https://news.bitcoin.com/koreas-exchange-coinone-launches-physical-cryptocurrency-exchange/ … via @BTCTN #xrp #xrpthestandard @Ripple	2017-09-14	0.0
+15	"Google rumored to launch digital payment service optimized for India
+
+@Ripple $XRP will dominate payments in India!
+http://bit.ly/2xnHkT1 "	2017-09-14	0.0
+16	Ripple at #finovate - XRP was built specifically for payments and that’s why banks from small banks are interested. Token for currency xchng	2017-09-14	0.0
+17	Ripple - “the only x-border platform live with 75 banks participating”. #finovate amid today hype, make the distinction btw BTC and DLT	2017-09-14	0.06818181818181818
+18	"BitIndia Will Help Expand Ethereum and Ripple in India - NEWSBTC http://www.newsbtc.com/2017/09/13/bitindia-will-help-expand-ethereum-ripple-india/ …
+@newsbtc @BTCNewsletter @ethereumproject @Ripple "	2017-09-14	0.0
+19	@Ripple might be one of the few cryptocurrencies to escape a Chinese crackdown unscathed. 	2017-09-14	-0.1
+20	I LOVE #CRYPTOCURRENCY! BEING ABLE TO BUY #RIPPLE #XRP UNDER $0.18 IS LIKE IF CHRISTMAS AND BLACK FRIDAY HOOKED UP AND THEIR CHILD IS XRPGOD	2017-09-14	0.3194444444444445
+21	Reunited and it feels so good... @Hyperledger looks to integrate @Ripple's @Interledger technology	2017-09-14	0.7
+22	$SIB is having any news/updates?? It's mooning as we speak  $btc $eth $ltc $etc $neo $xmr $dash $xrp $bnb $strat $pay $pivx $bts $mco $qtum	2017-09-14	0.0

@@ -1,0 +1,105 @@
+	Tweets	date	polarity
+0	Bitcoin Cash Whitepaper released! #bitcoin #bitcoincash #ethereum	2017-09-23	0.0
+1	Updated Bitcoin promotional graphics for Bitcoin Cash and more #bitcoin #bitcoincash #ethereum http://youtu.be/pzsY0SvUW3Q 	2017-09-23	0.5
+2	For those of you that are interested in Bitcoin Cash,  https://www.bitcoincash.org  is Alive. #BitcoinCash #bitcoin #RockOn	2017-09-23	0.175
+3	Bitcoin Cash $BCH again in accumulation zone. If it gains traction, it could go #BIG in October #justsaying #pumpitup $crypto $BTC $BCC	2017-09-23	0.0
+4	Bitcoin Cash will unlock the true potential of Bitcoin. Mike Hearn talks about BTC… #bitcoin #bitcoincash #ethereum http://youtu.be/pzsY0SvUW3Q 	2017-09-23	0.175
+5	here we go again..beating a dead dog, sorry, BUT..#Coincheckup.com has Bitcoin Cash as BCH, #Worldcoinindex has it as BCC. BAD for business!	2017-09-23	-0.5249999999999999
+6	Antminer S5 #bitcoin ASIC miner Bitcoin, Bitcoin Cash #bitcoincash #bitcoincashprice http://bitcoinagile.com/13434DF/antminer-s5-bitcoin-asic-miner-bitcoin-bitcoin-cash_stream …	2017-09-23	0.0
+7	The new Bitcoin Cash website is now live. https://www.bitcoincash.org ! #Bitcoin #BitcoinCash #BCC	2017-09-23	0.15340909090909088
+8	Will bitcoin cash benefit from a second bitcoin fork? http://bit.ly/2voEUns  #cryptocurrencies #BitcoinCash	2017-09-23	0.0
+9	#bitcoin Cash new version of Copay Wallet & Insight Block Explorer: Bitpay #BitcoinCash http://bitcoinagile.com/133F0D6/bitcoin-cash-new-version-of-copay-wallet-insight-block-explorer-bitpay_stream …	2017-09-23	0.13636363636363635
+10	Bitcoin split into Bitcoin cash. So if you had 8 bitcoins a hard fork occurred and you received 8 Bitcoincash units. You magically got more	2017-09-23	0.23611111111111108
+11	Bitcoin Cash Price Technical Analysis – BCH/USD Dives Once Again - 	2017-09-23	0.0
+12	Started accumulating Bitcoin Cash for the first time today after discovering its Massive pool of Dev/B2B talent under the Hood! #BitcoinCash	2017-09-23	0.125
+13	"Bitcoin Cash cheapest on Cryptopia LTC-market: $426.46 0.11282813BTC
+
+$BCHBTC $bch #bitcoincash $BCHUSD"	2017-09-23	0.0
+14	Bitcoin Cash Whitepaper released! #bitcoin #bitcoincash #ethereum	2017-09-23	0.0
+15	Updated Bitcoin promotional graphics for Bitcoin Cash and more #bitcoin #bitcoincash #ethereum http://youtu.be/pzsY0SvUW3Q 	2017-09-23	0.5
+16	"Bitcoin Cash cheapest on Bittrex USDT-market: $425.60 0.11298115BTC
+
+$BCHBTC $bch #bitcoincash $BCHUSD"	2017-09-23	0.0
+17	"Bitcoin Cash cheapest on Hitbtc BTC-market: $424.52 0.11308400BTC
+
+$BCHBTC $bch $BCHUSD #bitcoincash"	2017-09-23	0.0
+18	Cryptopia #10 Market(0.88%) BCH/BTC - Bitcoin Cash Vol(24h):15.6794 BTC / $58,952 - Price: $427.51 / 0.113706 BTC	2017-09-23	0.0
+19	"Bitcoin Cash: $422.01
+ +4.46% (+$18.01)
+High: $436.00
+Low: $402.20
+Volume: 2372
+
+$BCC #BCC #bitcoincash"	2017-09-23	0.08
+20	Xapo Bitcoin Cash (BCH) Update 	2017-09-23	0.0
+21	Bitcoin Cash will unlock the true potential of Bitcoin. Mike Hearn talks about BTC… #bitcoin #bitcoincash #ethereum http://youtu.be/pzsY0SvUW3Q 	2017-09-23	0.175
+22	"Bitcoin Cash: $428
+ +5.81% (+$23.50)
+High: $436.00
+Low: $402.10
+Volume: 2432
+
+$BCC #BCC #bitcoincash"	2017-09-23	0.08
+23	Poloniex #7 Market(3.44%) BCH/BTC - Bitcoin Cash Vol(24h):941.393 BTC / $3,557,930 - Price: $427.11 / 0.11301 BTC	2017-09-23	0.0
+24	Poloniex #11 Market(2.24%) BCH/USDT - Bitcoin Cash Vol(24h):611.77 BTC / $2,312,140 - Price: $428.17 / 0.11329 BTC	2017-09-23	0.0
+25	"Bitcoin Cash: $425.00
+ +3.68% (+$15.10)
+High: $436.00
+Low: $402.10
+Volume: 2529
+
+$BCC #BCC #bitcoincash"	2017-09-23	0.08
+26	"Bitcoin Cash cheapest on Hitbtc BTC-market: $420.72 0.11222200BTC
+
+$bch $BCHUSD $BCHBTC #bitcoincash"	2017-09-23	0.0
+27	"Bitcoin Cash: $422.01
+ +3.98% (+$16.16)
+High: $436.00
+Low: $402.10
+Volume: 2643
+
+$BCC #BCC #bitcoincash"	2017-09-23	0.08
+28	The new Bitcoin Cash site is live! Long live Bitcoin Cash! #bitcoin #bitcoincash #ethereum	2017-09-23	0.10681818181818181
+29	Cryptopia #10 Market(1.14%) BCH/BTC - Bitcoin Cash Vol(24h):17.0454 BTC / $64,084 - Price: $427.19 / 0.113625 BTC	2017-09-23	0.0
+30	NovaExchange #20 Market(0.38%) BCH/BTC - Bitcoin Cash Vol(24h):3.005 BTC / $11,213 - Price: $421.66 / 0.113007 BTC	2017-09-23	0.0
+31	Welcome back, SatoshiDICE with Bitcoin Cash!! #bitcoin #bitcoincash #ethereum http://youtu.be/pzsY0SvUW3Q 	2017-09-23	0.4
+32	Poloniex #10 Market(2.90%) BCH/USDT - Bitcoin Cash Vol(24h):907.685 BTC / $3,430,240 - Price: $428.22 / 0.113312 BTC	2017-09-23	0.0
+33	"Read the Bitcoin Cash white paper here! Will ""Bitcoin Settlement"" ever have a white… #bitcoin #bitcoincash #ethereum http://youtu.be/pzsY0SvUW3Q "	2017-09-23	0.0
+34	"Read the Bitcoin Cash white paper here! Will ""Bitcoin Settlement"" ever have a white… #bitcoin #bitcoincash #ethereum"	2017-09-23	0.0
+35	"Bitcoin Cash cheapest on Bittrex USDT-market: $422.00 0.11286440BTC
+
+#bitcoincash $bch $BCHUSD $BCHBTC"	2017-09-23	0.0
+36	"Bitcoin Cash cheapest on Hitbtc BTC-market: $421.18 0.11272300BTC
+
+$bch #bitcoincash $BCHBTC $BCHUSD"	2017-09-23	0.0
+37	NovaExchange #18 Market(0.53%) BCH/BTC - Bitcoin Cash Vol(24h):3.489 BTC / $13,063 - Price: $431.31 / 0.115197 BTC	2017-09-23	0.0
+38	Why does AntPool not mining more Bitcoin Cash in earnest? #bitcoin #bitcoincash #ethereum	2017-09-23	0.5
+39	Poloniex #6 Market(4.26%) BCH/BTC - Bitcoin Cash Vol(24h):1343.91 BTC / $4,975,300 - Price: $418.34 / 0.113 BTC	2017-09-23	0.0
+40	Poloniex #9 Market(2.95%) BCH/USDT - Bitcoin Cash Vol(24h):930.562 BTC / $3,445,030 - Price: $417.01 / 0.112643 BTC	2017-09-23	0.0
+41	[Reminder] The Bitcoin Cash environment encourage the diversity of implementation.… #bitcoin #bitcoincash #ethereum http://youtu.be/pzsY0SvUW3Q 	2017-09-23	0.0
+42	[Reminder] The Bitcoin Cash environment encourage the diversity of implementation.… #bitcoin #bitcoincash #ethereum	2017-09-23	0.0
+43	"Bitcoin Cash cheapest on Hitbtc BTC-market: $416.24 0.11249700BTC
+
+$BCHUSD $BCHBTC #bitcoincash $bch"	2017-09-23	0.0
+44	Cryptopia #11 Market(2.24%) BCH/BTC - Bitcoin Cash Vol(24h):17.7203 BTC / $65,300 - Price: $420.09 / 0.114 BTC	2017-09-23	0.0
+45	"Bitcoin Cash cheapest on Poloniex ETH-market: $413.65 0.11260492BTC
+
+$BCHUSD $bch #bitcoincash $BCHBTC"	2017-09-23	0.0
+46	NovaExchange #19 Market(0.55%) BCH/BTC - Bitcoin Cash Vol(24h):3.125 BTC / $11,378 - Price: $420.69 / 0.115543 BTC	2017-09-23	0.0
+47	Poloniex #6 Market(4.32%) BCH/BTC - Bitcoin Cash Vol(24h):1528.59 BTC / $5,492,490 - Price: $408.76 / 0.11376 BTC	2017-09-23	0.0
+48	Poloniex #9 Market(2.90%) BCH/USDT - Bitcoin Cash Vol(24h):1026.88 BTC / $3,689,770 - Price: $406.63 / 0.113167 BTC	2017-09-23	0.0
+49	"Bitcoin Cash cheapest on Bitfinex BTC-market: $403.61 0.11312000BTC
+
+$bch $BCHUSD $BCHBTC #bitcoincash"	2017-09-23	0.0
+50	"Bitcoin Cash cheapest on Poloniex BTC-market: $407.52 0.11329999BTC
+
+$BCHUSD $bch #bitcoincash $BCHBTC"	2017-09-23	0.0
+51	"Bitcoin Cash cheapest on Bittrex USDT-market: $405.00 0.11297185BTC
+
+$BCHBTC #bitcoincash $BCHUSD $bch"	2017-09-23	0.0
+52	"Bitcoin Cash cheapest on Liqui USDT-market: $409.80 0.11300790BTC
+
+$BCHUSD #bitcoincash $BCHBTC $bch"	2017-09-23	0.0
+53	"Bitcoin Cash cheapest on Liqui USDT-market: $409.80 0.11300790BTC
+
+$BCHUSD $BCHBTC $bch #bitcoincash"	2017-09-23	0.0

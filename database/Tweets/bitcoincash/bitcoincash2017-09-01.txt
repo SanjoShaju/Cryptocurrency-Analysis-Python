@@ -1,0 +1,36 @@
+	Tweets	date	polarity
+0	Identified that there are no more roadblocks for Bitcoin Cash and tests have all been positive. #BCH is scheduled for mid-to-late next week!	2017-09-01	-0.007575757575757579
+1	you know full well that replay protection would just make it another bitcoin cash	2017-09-01	0.35
+2	"@BitcoinCash_Fr @BITCOlNCASH @BitcoinCashFans
+Bitcoin Cash – More questions than answers
+https://www.investing.com/news/forex-news/bitcoin-cash--more-questions-than-answers-524661 …"	2017-09-01	0.5
+3	 +2 Bitcoin Cash (BCH) Will Regain The Mantle To Be Bitcoin https://cryptopanic.com/news/18762/Bitcoin-Cash-BCH-Will-Regain-The-Mantle-To-Be-Bitcoin … $BTC #bitcoin $BCH #bitcoin cash #cryptocurrency	2017-09-01	0.0
+4	Miners Are Leaving Money on the Table to Mine Bitcoin Cash: This Could Explain Why https://bitcoinmagazine.com/articles/miners-are-leaving-money-table-mine-bitcoin-cash-could-explain-why/ … #bitcoin #BitcoinCash #BCash	2017-09-01	0.0
+5	How I feel about Bitcoin Cash. PLEASE PLEASE PLEASE. I said please so it has to happen, right?  $BCC $BCH $CRYPTO	2017-09-01	0.2857142857142857
+6	How To Get Your Free Bitcoin Cash on Ledger Nano S Wallet https://goo.gl/hbppqa  #BCH $BCH #Bitcoincash #BTC #Bitcoin	2017-09-01	0.4
+7	GMO Coin welcomes Bitcoin Cash, as BCH withdrawals become available - FinanceFeeds (blog) http://dlvr.it/Pk7CN9 	2017-09-01	0.4
+8	"Can Bitcoin Cash #BCH catch #Bitcoin? 
+
+Despite Early Surge, Future of Bitcoin Cash Still Uncertain After Fork https://blog.payza.com/bitcoin/despite-surge-future-bitcoin-cash-uncertain-fork/ …"	2017-09-01	0.05
+9	Bitcoin Cash Price Technical Analysis – BCH/USD Breaks Higher - newsBTC http://dlvr.it/Pk2J2f 	2017-09-01	0.125
+10	"@BitcoinCash_Fr @BITCOlNCASH @BitcoinCashFans 
+Miners Are Leaving Money on the Table to Mine Bitcoin Cash...
+https://bitcoinmagazine.com/articles/miners-are-leaving-money-table-mine-bitcoin-cash-could-explain-why/ …"	2017-09-01	0.0
+11	How to claim #bitcoin Cash with Trezor Hardware Wallet  Tech Help KB #BCH #BitcoinCash http://bit.ly/2xDznHi 	2017-09-01	0.0
+12	BITCOIN CASH (BCH) Update: A NEW BULLISH PATTERN! Find out in this blog!	2017-09-01	0.2130681818181818
+13	Bitcoin Cash Price Technical Analysis – BCH/USD Breaks Higher http://ift.tt/29GDCpw  Key Points. Bitcoin cash price finally made a nice u… 	2017-09-01	0.16999999999999998
+14	Bitcoin Cash Price Technical Analysis – BCH/USD Breaks Higher http://ift.tt/2wrk6Jd  #bitcoin #blockchain #fintech	2017-09-01	0.125
+15	"Bitcoin Cash Price Technical Analysis – BCH/USD Breaks Higher
+https://coinvedi.com/bitcoin-cash-price-technical-analysis-bchusd-breaks-higher/ …
+#Bitcoin #Blockchain #Cryptocurrency #Ethereum"	2017-09-01	0.125
+16	Bitcoin Cash Price Technical Analysis – BCH/USD Break... #bitcoin #altcoins #fintech #analysis https://coinspectator.com/news/44959/bitcoin-cash-price-technical-analysis-bchusd-breaks-higher …	2017-09-01	0.0
+17	The #bitcoin, bitcoin cash conspiracy you need to take seriously https://www.google.com/amp/s/amp.reddit.com/r/conspiracy/comments/6ulaq8/bitcoin_bitcoin_cash_a_conspiracy_theory/ … #btc #bch $btc $bch #blockstream #infiltrators	2017-09-01	-0.3333333333333333
+18	CoinExchangeio #19 Market(0.38%) BCH/BTC - Bitcoin Cash Vol(24h):1.54181 BTC / $7,357 - Price: $555.92 / 0.1165 BTC	2017-09-01	0.0
+19	"Bitcoin Cash cheapest on Poloniex BTC-market: $592.64 0.12494956BTC
+
+#bitcoincash $BCHUSD $bch $BCHBTC"	2017-09-01	0.0
+20	What Bitcoin Cash's volatile price says about its future  https://buff.ly/2vMBG8O  #BCH #BTC	2017-09-01	0.0
+21	Poloniex #8 Market(2.91%) BCH/BTC - Bitcoin Cash Vol(24h):2031.36 BTC / $9,681,690 - Price: $598.50 / 0.125573 BTC	2017-09-01	0.0
+22	Poloniex #13 Market(1.94%) BCH/USDT - Bitcoin Cash Vol(24h):1356.52 BTC / $6,465,340 - Price: $593.08 / 0.124437 BTC	2017-09-01	0.0
+23	"@toplitecointips Bitcoin Cash Price #TechnicalAnalysis – BCH/USD Under Pressure
+http://pri.ml/eC_pItq9  via newsbtc"	2017-09-01	0.0

@@ -1,0 +1,79 @@
+	Tweets	date	polarity
+0	"My thoughts on Bitcoin Cash here
+
+https://bravenewcoin.com/news/bitcoin-cash-price-analysis-upcoming-fork-tackles-erratic-network/ …
+
+$BCC $BCH $Bcash $BCHUSD $BCHBTC"	2017-11-08	0.0
+1	Last chance to load the boat with Bitcoin CASH? Now that segwit2x group lost, some of them will realize they have no other choice left than to switch to #BitcoinCash for cheap onchain transactions. #cryptocurrency $crypto $BCC $BCH $BTC	2017-11-08	0.115625
+2	How the November Bitcoin Cash Protocol Change Will Affect BitPay and Copay Wallets | The BitPay Blog https://blog.bitpay.com/november-bitcoin-cash-fork/ … #BitcoinCash	2017-11-08	0.0
+3	 -2 The best bitcoin fork was already made Bitcoin cash is the present and future of bitcoin https://cryptopanic.com/news/426359/The-best-bitcoin-fork-was-already-made-Bitcoin-cash-is-the-present-and-future-of-bitcoin?utm_source=notifications&utm_medium=twitter&utm_campaign=Twitter+Trending … $BTC #bitcoin $BCH	2017-11-08	0.3333333333333333
+4	Bitcoin Cash is Bitcoin. Segwitcoin was perverted from the inside out to become Blockstream's sidechain fee business. Turning on the miners was the dumbest thing they could do. Miners are intrinsic to Bitcoin. Miners who are now very upset 2x didn't happen. BCH is their solution.	2017-11-08	0.2
+5	The more time that passes since this massive news the more clear it is becoming in my mind that bitcoin cash will win. 1mb segwit block, what a joke. $bch 	2017-11-08	0.39166666666666666
+6	Source: https://www.bitcoin.com/public-service-announcement … 	2017-11-08	0.0
+7	The death of 2x should be good for Bitcoin Cash, right? But BCH price doesn't seem to be rising.	2017-11-08	0.4928571428571428
+8	"ViaBTC mined a block... Coinbase data [/ViaBTC/Bitcoin Cash/]  https://blockchair.com/bitcoin/block/493659 …
+
+#BitcoinCash is #bitcoin"	2017-11-08	0.0
+9	"—(SegWit2x Hard Fork-Cancelled)
+
+How does this affect Bitcoin Cash?
+
+Even more of reason to sell your BitcoinCore #BTC for #BCH  "	2017-11-08	0.10416666666666666
+10	"457.49 million USD of Bitcoin Cash traded in the last twenty-four hours world wide.  
+
+#BitcoinCash is #Bitcoin"	2017-11-08	-0.05
+11	"When you say ""be prepared for a BCH pump"" are you predicting that Bitcoin Cash will increase in value? Are you going to trade some of your Bitcoin Core for Bitcoin Cash?"	2017-11-08	0.0
+12	"There are 2 big forks planned within Bitcoin next week, #BCH & #S2x
+
+Nov. 13 will make Bitcoin Cash more competitive- becoming more profitable to mine- increasing price.
+
+Nov.18 will make Bitcoin Cash more powerful.  Giving more hash power to BCH- increasing price. "	2017-11-08	0.34375
+13	Looking at the first few days of $BCH #bitcoin_cash fork. It jumped from 0.066 BTC to 0.243 btc in only two days. That's 4 times the price. I would expect it to get back up there again pretty soon too. https://poloniex.com/exchange#btc_bch …	2017-11-08	0.06
+14	Bitcoin Cash is a parasite coin that aims to undermine and suck value out of Bitcoin. It’s not like other altcoins. We should be prepared for a BCH pump during fork which could have unpredictable effects on miner incentives and harm the true Bitcoin block chain.	2017-11-08	0.019444444444444448
+15	Days before Bitcoin Cash Hard Fork BCH was 0.12 BTC, BT2 at Bitfinex now is .... 0.12 BTC 	2017-11-08	-0.2916666666666667
+16	"#bitcoin
+- Crypto bloodbath (excl. BTC)
+- BCC =  0.12 BTC
+- Liquidity crisis in BTC credit market…"	2017-11-08	0.0
+17	 2 Bitcoin cash predicted to be more profitable mining than either Segwits. https://cryptopanic.com/news/423849/Bitcoin-cash-predicted-to-be-more-profitable-mining-than-either-Segwits?utm_source=notifications&utm_medium=twitter&utm_campaign=Twitter+Trending … $BTC #bitcoin #mining $BCH	2017-11-08	0.5
+18	$bch bitcoin cash Bull flag. 	2017-11-08	0.0
+19	Ready... set... go! Come claim your free #bitcoin and #bitcoincash wallet with your first bitcoin cash coins! ☻ 	2017-11-08	0.32083333333333336
+20	"""Smart investors will change their positions to contain less #Bitcoin
+and more #BitcoinCash as a result.
+This will create a new dynamic,
+putting downward price pressure on Bitcoin and upward price pressure
+on Bitcoin CASH.""
+
+(emphasis mine :)"	2017-11-08	0.19733044733044736
+21	BITCOIN CASH #AIRDROP // $WAVES is airdropping $BCH to $WCT holders on Thursday, Nov 9th. More details will follow.	2017-11-08	0.5
+22	The airdrop of $BCH to $WCT holders is happening this Thursday, Nov 9th. More details on the day of the airdrop. $WAVES #WavesPlatform 	2017-11-08	0.5
+23	Bitcoin Cash (BCH) tripled in price since I bought in after the ICO. Based on fundamental valuations it still has a ways more it will go #BitcoinCash #Bitcoin	2017-11-08	0.5
+24	#altcoins #cryptocurrency #bitcoin Cash (BCH) Price Analysis – Upcoming Fork Tackles Erratic Network http://dlvr.it/Pzy06F 	2017-11-08	0.0
+25	FWIW I'm a huge #BitcoinCash advocate and currently hold 100% $BCH. But I think that after today's news we as a community should seriously consider that Bitcoin Cash won't be taking the #Bitcoin brand and $BTC ticker regardless of if it gets the most hash power or not.	2017-11-08	0.1416666666666667
+26	Why slam Bitcoin? Didn't you successfully fork and create Bitcoin Cash? Congrats on the $1 transactions but it seems like you are not focusing on BCH.	2017-11-08	0.75
+27	#bitcoin #bitcoincash #SegWit2x  my brain right now. Switching off for the night, my bitcoin cash holdings dropped a few K now rebounded, HODL Strong #BitcoinCash :D 	2017-11-08	0.37976190476190474
+28	For those following my crypto trades, I'm taking a hard swing at bitcoin cash now that Segwit2x is dead. Moving all my litecoin into $BCH and some ethereum.	2017-11-08	-0.1638888888888889
+29	"So true. Are you going to go all in bcash now? I think it's good time for all Bitcoin Cash supporters to dump BTC if you have any, and go all-in Bitcoin Cash. Get in now before it's too late, BUY BCH & HODL!   
+
+Show Jihan Wu your support!  "	2017-11-08	0.19374999999999995
+30	@ThomasEWoods just trying to help, but Roger was misleading you. BCH (Bitcoin cash) ($600) is not BTC (Bitcoin)($7500).  Roger & a large Chinese miner forked Bitcoin and attempted to take the name. It was not an upgrade. The Bitcoin you have is the original chain. Love your work.	2017-11-08	0.2723214285714286
+31	"Bitcoin Cash cheapest on Bittrex BTC-market: $626.06 0.08390000BTC
+
+$BCHBTC $BCHUSD #bitcoincash $bch "	2017-11-08	0.0
+32	"@CobraBitcoin: Bitcoin Cash ""*it´s not like other altcoins. we should be prepared for a BCH pump*"" via /r/btc "	2017-11-08	-0.125
+33	Bitcoin Cash Price Technical Analysis – Can BCH/USD Hold $580-600? 	2017-11-08	0.0
+34	Bitcoin Cash Price Technical Analysis – BCH/USD Breaks Key Resistance http://www.newsbtc.com/2017/11/08/bitcoin-cash-price-technical-analysis-bchusd-breaks-key-resistance/ …	2017-11-08	0.0
+35	"$360,557,000 of Bitcoin Cash traded in the last 24 hours world wide! 
+
+This revolution will not be centralized.
+
+#BitcoinCash is #Bitcoin"	2017-11-08	-0.0625
+36	"Legacy Bitcoin is a ponzi scheme. The more people use it, the less useful it becomes.
+
+Bitcoin Cash is the only fork with real economic utility. #BitcoinCash is #Bitcoin
+
+As the legacy Bitcoin Reaches New Price Highs, Network Congestion and Fees Spike"	2017-11-08	0.1782828282828283
+37	"Ethereum Wallet Parity Hit by Second Critical Vulnerability – $150+ Million Frozen https://news.bitcoin.com/ethereum-wallet-parity-hit-by-second-critical-vulnerability-150-million-frozen/ …
+
+This is why Bitcoin Cash (BCH) will win in the end. Simplicity is a feature, not a bug. #bitcoincash is #bitcoin"	2017-11-08	0.26666666666666666
+38	Why Bitcoin Cash #BCH will become the dominant chain 	2017-11-08	0.0

@@ -1,0 +1,45 @@
+	Tweets	date	polarity
+0	Ripple's CEO says the world has barely begun to understand cryptocurrencies (via @ericjackson) http://cnb.cx/2gWsYD2 	2017-09-11	0.05
+1	"""We set up a #Ripple node here in India,"" says CIO of @YESBANK in @IBTimes article on #banks turning to #blockchain"	2017-09-11	0.0
+2	Ripple affect felt throughout the country, even the globe. 	2017-09-11	0.0
+3	Miami International Airport sustains “significant water damage,” will be closed on Monday. http://cbsn.ws/2jg9kCI  	2017-09-11	0.09166666666666667
+4	"#Giveaway 100$ worth #Crypto of choice if reaching 100 follower till Thu, Reetweet and follow!
+$BTC $ETH $XEL $XVG $VIA $BQX $XRP $LSK $CVC"	2017-09-11	0.375
+5	"SBI Ripple Asia to test $XRP transfers between Japanese and Korean banks by the end of 2017
+
+#XRPthestandard"	2017-09-11	0.0
+6	Never been more excited about the opportunity we have @Ripple to transform a multi-trillion dollar market using #XRP https://www.cnbc.com/2017/09/11/ripple-ceo-brad-garlinghouse-on-bitcoin-and-xrp.html …	2017-09-11	0.4375
+7	Great chat with @bgarlinghouse about #Ripple and #cryptocurrencies.	2017-09-11	0.8
+8	Ripple's CEO says the world has barely begun to understand cryptocurrencies (via @ericjackson) http://cnb.cx/2gWsYD2 	2017-09-11	0.05
+9	https://swell.ripple.com/agenda/  lunch with @Ripple is 30mins, not only the fastest payments but probably the fastest eaters in the world! #xrp	2017-09-11	0.0
+10	sir when up? im losing my family money. pls move ripple up	2017-09-11	0.0
+11	"Know that your kindness
+has a ripple effect in the
+universe... "	2017-09-11	0.0
+12	.@bgarlinghouse discusses the huge opportunity in emerging #cryptocurrencies with @ericjackson of @CNBCtech	2017-09-11	0.4000000000000001
+13	1/2 Two points on that: @Ripple is working on many things (like @interledger) that we hope will benefit $BTC as well as $XRP.	2017-09-11	0.5
+14	#Ripple #XRP CEO in the news! Just a little more Press for my sweet precious and the possibilities are endless! 	2017-09-11	0.20125
+15	Ripple's CEO says the world has barely begun to understand cryptocurrencies (via @ericjackson) http://cnb.cx/2gWsYD2 	2017-09-11	0.05
+16	Scientists: Climate Change May Wipe Out Third of World's Parasites, With Disastrous Ripple Effects http://ow.ly/YcUS30f4mUR 	2017-09-11	-0.35
+17	$XRP family please retweet support for @SeasideCrypto make our new family member go viral please. @haydentiff @Hodor7777 @HaraldoXRP	2017-09-11	0.13636363636363635
+18	Broad Ripple's Boogie Burger has closed. 	2017-09-11	-0.018750000000000003
+19	"ALERT
+
+$XVG & $DGB to be added to @hitbtc !!! 
+
+
+$btc $ltc $eth $neo $dash $strat $omg $xrp $xmr $kmd $pay $cvc $sc $qtum $gnt $ok $sys"	2017-09-11	0.5
+20	There were some sending issues. We will have XRP back up soon!	2017-09-11	0.0
+21	"ALERT
+
+$QTUM Mainnet Release in 2 Days!!
+
+ROCKET TIME??
+
+$btc $ltc $eth $neo $dash $strat $omg $xrp $xmr $kmd $xvg $cvc $sc $qtum $gnt"	2017-09-11	0.0
+22	"Regarding the #Qtum Main Network launch on September 13th.
+
+#Bitcoin #Blockchain "	2017-09-11	0.08333333333333333
+23	"Happy Monday
+Hope your portfolio's are doing well. 
+Make sure #Ripple #XRP is a major holding % of your total holdings. #Crypto"	2017-09-11	0.340625

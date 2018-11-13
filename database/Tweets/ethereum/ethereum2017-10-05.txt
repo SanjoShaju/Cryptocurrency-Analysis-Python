@@ -1,0 +1,43 @@
+	Tweets	date	polarity
+0	"Why the Byzantium upgrade to Ethereum is a big deal.
+ "	2017-10-05	0.0
+1	What is your top #cryptocurrency coin pick for largest gains the rest of 2017? #fintech #bitcoin #poll #ethereum #ripple #XRP #litecoin	2017-10-05	0.5
+2	Presenting next article from @CrowdConscious in our #Medium: https://blog.genesis.vision/investor-trust-in-the-asset-under-management-aum-market-can-blockchain-help-1d22f9668aea … #ico #blockchain #eth #btc	2017-10-05	0.0
+3	"thank you ! good vote
+$ethd $btc $eth $btcd"	2017-10-05	0.7
+4	"#ethereumdark @ethereum_dark 
+$btc $btcd $eth $ethd 
+#Investment"	2017-10-05	0.0
+5	"My Biggest Mistake In Crypto was Not Taking $ETH Seriously.
+I Will not Repeat That Mistake With The Next Generation Of Super-Coins."	2017-10-05	-0.16666666666666666
+6	"#EncryptoTel Token ( $ETT ) launched on #Livecoin exchange!
+
+https://medium.com/@encryptotel/encryptotel-token-ett-launched-on-livecoin-exchange-9792a86c3f7b …
+
+#cryptocurrency #blockchain #pbx #ett #ethereum #btc"	2017-10-05	0.0
+7	"#Ethereum  guide for starters  
+
+#fintech #ICO #cybersecurity #BigData #VR #blockchain #AI"	2017-10-05	0.0
+8	goodnight I love hadar eth and my mutuals sleepwell	2017-10-05	0.5
+9	1/ Diverging short term #crypto sentiment on the horizon. Devcon may provide $ETH reason 2 rally, while #SegWit2x could induce $BTC jitters	2017-10-05	0.0
+10	Big thankyou to all early investors so far!! We are offering  25% pre sale bonus. Join us here http://www.powergroupico.tech/  #crypto #ico #eth	2017-10-05	0.08541666666666665
+11	If you watch one video today, make it this one. https://youtu.be/rOB7mAIuja8  #tokensale @TokenlabIO #crpyto #ico #blockchain #eth #exp	2017-10-05	0.0
+12	TFW your mom sends you a heads up email about zk-snarks on Ethereum  #FYI #thanksmom	2017-10-05	0.0
+13	"http://BlockOnTop.com  
+BlocksOnTop com
+#blockchain #cryptocurrency 
+#new #money #alternative #tech #crypto #technology #bitcoin #ethereum "	2017-10-05	0.13636363636363635
+14	Bounty campaign is live on #bitcointalk: https://bitcointalk.org/index.php?topic=2240173.new;topicseen#new … 800k HEAL is reserved for Pre-Sale Bounty Campaign = 640 ETH ≈ 192.000 USD	2017-10-05	0.13636363636363635
+15	Zero unconfirmed transactions on the @bitshares blockchain and it handles more transactions then $BTC and $ETH combined.	2017-10-05	0.5
+16	#Swapcoin #token #bounty campaign is up and running! https://bitcointalk.org/index.php?topic=2237643.msg22572650 … #ethereum #cryptocurrency #Swapity	2017-10-05	0.0
+17	Ethereum featured on WSJ Markets today #ETH #crypocurrency #Ethereum 	2017-10-05	0.0
+18	"Creating a better platform for artists hybrid style. Cloud #blockchain #PreICO in 3..2.. http://www.rhovit.info 
+#TokenSale #Ethereum "	2017-10-05	0.5
+19	"A bittersweet moment given the horrific event this week.
+
+https://news.unikrn.com/article/UnikoinGold-Sets-Records-Becoming-Universal-Esports-and-Gaming-Token …
+
+#Bitcoin #Blockchain #ERC20 #Ethereum #Crypto"	2017-10-05	-1.0
+20	"Tokenbox added to https://www.ICOINFO.NET    @tokenbox
+https://tokenbox.io   
+#ICO #Ethereum #blockchain #Tokenbox"	2017-10-05	0.0

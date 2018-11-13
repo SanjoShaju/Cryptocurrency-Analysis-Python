@@ -1,0 +1,42 @@
+	Tweets	date	polarity
+0	Why is it 'the Weinstein ripple effect' instead of 'lawful workplace norms'? 	2017-10-21	0.0
+1	$XRP is like GPS. Sure, you can ask for directions, but txns on the XRP Ledger automatically find the cheapest, most efficient payment path! 	2017-10-21	0.5625
+2	"$XRP Ledger has over 33 MILLION successful ledger closes! 
+
+SWIFT is only a one-way messaging service. @Ripple provides a two-way protocol. "	2017-10-21	0.46875
+3	"""The battle between every startup and incumbent comes down to whether the startup gets distribution before the incumbent gets innovation."" https://twitter.com/zuthadeus/status/896979880969154560 …"	2017-10-21	-0.15555555555555559
+4	" FIRST GIVEAWAY!  
+1.2k FOLLOWERS
+GIVING AWAY 0.1BTC
+RT & FOLLOW TO ENTER
+Announce on 25th OCT
+$ok $sys $btc $Xrp $ubq $flo #emc2 $dash"	2017-10-21	0.40625
+5	I still feel naked without $XRP. What do you guys think: Ignore #Ripple or buy and #hodl?	2017-10-21	0.0
+6	Yet another lame duck advertisement for Ripple.. Buy #Bitcoin 	2017-10-21	-0.5
+7	YES! @sbigroup Wonderful progress! The aggressiveness that these guys display is astonishing, and I'm excited for @Ripple's Q4 Partnerships! 	2017-10-21	0.65625
+8	"New #Wirex cards for #Japan: Cryptocurrency payments card expected soon.
+https://www.cryptoninjas.net/2017/10/20/wirex-inks-deal-sbi-holdings-establish-japan-cryptocurrency-payments-card/ …"	2017-10-21	0.018181818181818174
+9	Definitely add $XRP, @Ripple is loved  and it flies... then watch how fast you will receive our deposits - liquidity to your Exchange...  	2017-10-21	0.3
+10	Final results: $XRP 13%, $BCH 17%, $ETH 28%, $DCR 42% with 2,060 votes cast. Great work! Thank you for considering #Decred, @GlobeeCom!	2017-10-21	0.5
+11	Which altcoin should @GlobeeCom next include in their service offering? Share others if not mentioned:)	2017-10-21	0.25
+12	The $XRP community did! Now watch $NEO go down! @TBCrypto @haydentiff @Hodor7777 @HaraldoXRP @JoelKatz @miguelvias @bgarlinghouse @ripple	2017-10-21	-0.19444444444444448
+13	Vote #XRP The obvious choice. 6 places above #NEO in Mrkt cap #XRPthestandard	2017-10-21	0.0
+14	Now you can buy ripple on http://cointal.com  with paypal, western union, moneygram, gift cards and the list goes on... #xrpthestandard	2017-10-21	0.0
+15	"!!!!!!!!!!!!! One more Price prediction. !!!!!!!!!!!
+Ripple Taking Over 2018: Crypto-Prediction @EtherWorldNews"	2017-10-21	1.0
+16	why would you add a coin that has less volume than xrp?	2017-10-21	-0.16666666666666666
+17	Not usually one to keep conference badges but this one from #swellbyripple was awesome. Thanks @Ripple! 	2017-10-21	0.4583333333333333
+18	I know it’s not official, but this #Ripple decal on my laptop always makes me smile. #xrp #blockchain	2017-10-21	0.3
+19	Working w/ @Broad_Ripple community to clean Monon Trail & prep for winter. #WabashDay2017 @IndyWabash @WabashCollege	2017-10-21	0.3666666666666667
+20	Vote for XRP to be listed on CoinDelta! #Ripple #cryptocurrency #xrp $XRP 	2017-10-21	0.0
+21	Which next coin do you want to see on CD?	2017-10-21	0.0
+22	"1 BTC Giveaway !
+
+Follow + RT + join https://discord.gg/jZpBWZZ 
+Good luck !
+
+$btc $eth $neo $ltc $omg $xvg $xrp $gnt $zec $dash $crypto #crypto"	2017-10-21	0.875
+23	@xudiannan This is yet one more example of #ILP making the pie bigger - even for other cryptos! 	2017-10-21	0.11458333333333333
+24	$XRP @Ripple is held by 3 major institutional investors including Google. I also like $storj	2017-10-21	0.0625
+25	"Most active #blockchain corporate investors. hmmmm....
+I see $storj $xrp $wings $omg $fct ... $btc #bitcoin "	2017-10-21	0.12222222222222223

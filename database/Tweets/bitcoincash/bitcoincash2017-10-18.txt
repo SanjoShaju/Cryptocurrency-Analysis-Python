@@ -1,0 +1,44 @@
+	Tweets	date	polarity
+0	"Bitcoin Cash accepted by DashBargain!
+#BitcoinCash #bitcoin #dashbargain #Crypto #dash"	2017-10-18	0.0
+1	"Hey @rogerkver, if Bitcoin Cash is Bitcoin, wanna trade 5 BCH for 5 BTC?
+
+I think I've got some left on a cold wallet somewhere. "	2017-10-18	-0.3
+2	Bitcoin Cash is Bitcoin.  http://www.bitcoin.com/info/bitcoin-cash-is-bitcoin … 	2017-10-18	0.0
+3	#bitcoin Cash is Bitcoin, Roger Ver and Calvin Ayre Declare #BitcoinCash #bitcoin.com http://bitcoinagile.com/143CC95/bitcoin-cash-is-bitcoin-roger-ver-and-calvin-ayre-declare_stream …	2017-10-18	0.0
+4	Is this true? Bitcoin Cash $bch doing a hard fork November 13th https://reviews.bitcoinabc.org/D612 	2017-10-18	0.01944444444444443
+5	"Bitcoin Cash cheapest on Bittrex BTC-market: $321.76 0.05984456BTC
+
+$BCHBTC $BCHUSD $bch #bitcoincash "	2017-10-18	0.0
+6	Calvin Ayre Media Say Bitcoin Cash Is The Only Blockchain... #ico #fintech #blockchain  #bch 	2017-10-18	0.0
+7	is that a bitcoin cash #bcc #bch chart??? nope!    it's...(wait for it).Monacoin. P&D'd a few days back. They all look the same. @rogerkver	2017-10-18	-0.06666666666666667
+8	$BCH #Bitcoin Cash Spikes Briefly, Mining Slows Down Again	2017-10-18	-0.07777777777777779
+9	Exodus Integrates Bitcoin Cash Into Their Multi-Asset Wallet https://news.bitcoin.com/exodus-integrates-bitcoin-cash-into-their-multi-asset-wallet/ … via @BTCTN $BCh	2017-10-18	0.0
+10	Nobody needs Bitcoin Cash. It will melt down to the ashes of cryptolonium $BCH	2017-10-18	-0.15555555555555559
+11	Bitcoin Cash Price Technical Analysis – BCH/USD Burst Above $350 - newsBTC http://dlvr.it/PwGNv0 	2017-10-18	0.0
+12	"BTrash aka ""bitcoin cash"" aka: $BCH is not real #Bitcoin. Just a fake."	2017-10-18	-0.3
+13	"I think it's time to Officially Label @BitcoinCom a ""Propaganda Site"" vs News Site. There is just one #Bitcoin! https://www.bitcoin.com/info/bitcoin-cash-is-bitcoin … "	2017-10-18	-0.125
+14	Some rather large funds have finished dumping all their BCH. . .-- if true Bitcoin Cash will now be moving mainly up 	2017-10-18	0.24365079365079365
+15	#BCH Bitcoin Cash Gains Ahead of Segwit2 http://coincurrencynews.com/2017/10/18/bch-bitcoin-cash-gains-ahead-of-segwit2/ …	2017-10-18	0.0
+16	"Precio de Bitcoin Cash sube 20%
+1 BCH = USD $376.18
+via http://www.bitven.com/ "	2017-10-18	0.0
+17	DOTS+C buy signal for #bitcoin cash (BCH) is triggered on 10/17/2017 ($356).	2017-10-18	0.0
+18	"Bitcoin Jesus, Calvin Ayre Media Say Bitcoin Cash Is The Only Blockchain
+#Bitcoin #BitcoinCash 
+Read more: https://livemarketcap.com/news "	2017-10-18	0.25
+19	http://Blockchain.info  wallet has implemented bitcoin cash(BCH) so you can easily send and spend BCH. Also storing ethers is now possible! 	2017-10-18	0.21666666666666667
+20	Bitcoin Cash Price Technical Analysis – BCH/USD Burst Above $350 #crypto #altcoins #fintech #analysis… https://twitter.com/i/web/status/920492610321514496 … #Bitcoin #E…	2017-10-18	0.0
+21	Cryptocurrency Chart of the Day - Bitcoin Cash is Today's big Fainer http://ift.tt/29GDCpw  Bitcoin Cash is the day's big gainer with BCH… 	2017-10-18	0.0
+22	"That's the overreach. Anyway, Bitcoin Cash is not the ""True Bitcoin"", Bitcoin Cash is Chinese Bitcoin, Bitman's Bitcoin 
+#BTC #BitcoinCash "	2017-10-18	0.175
+23	A lot of newcomers are going to be misled by http://bitcoin.com . This article is so full of lies and FUD: https://www.bitcoin.com/info/bitcoin-cash-is-bitcoin … 	2017-10-18	0.35
+24	The aim is to convert Bitcoin users over to Bitcoin Cash. Stop… #bitcoin #bitcoincash #ethereum	2017-10-18	0.0
+25	For Bitcoin Cash (BCC) focus on the growing ecosystem, not the price. The price… #bitcoin #bitcoincash #ethereum http://youtu.be/pzsY0SvUW3Q 	2017-10-18	0.0
+26	"I don't think coercing companies to accept Bitcoin Cash was in the spirit on the NY""A"". #no2x #bitcoin #bitcoincash"	2017-10-18	0.0
+27	Legacy Bitcoin Holds as Bitcoin Cash Soars in Tuesday Trading #bitcoin #Crypto #BitcoinCash $bcc http://bit.ly/2yv0xCu 	2017-10-18	0.0
+28	#BCH #bitcoin Cash Gains Ahead of Segwit2 http://bitcoinagile.com/14334EF/bch-bitcoin-cash-gains-ahead-of-segwit2_stream …	2017-10-18	0.0
+29	"Precio de Bitcoin Cash sube 20%
+1 BCH = USD $376.18
+via http://www.bitven.com/ "	2017-10-18	0.0
+30	Great list of Bitcoin Cash faucets: https://buff.ly/2ytx385  #BCH #Faucets	2017-10-18	0.8

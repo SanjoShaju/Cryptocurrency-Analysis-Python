@@ -1,0 +1,65 @@
+	Tweets	date	polarity
+0	Bitcoin Cash (BCH...-http://fungearandgadgets.com/blogs/news/1446772765-bitcoincashbchpriceanalysisupcomingforktackleserraticnetwork?utm_campaign=social_autopilot&utm_source=tweet&utm_medium=tweet …	2017-11-09	0.0
+1	Mine Bitcoin Cash and use #BitcoinCash!  :)	2017-11-09	0.5
+2	Bitcoin Cash (BCH) now has a US$10.4 billion market capitalization, making it the fourth largest cryptocurrency. http://ow.ly/Bo6X30gqPKu 	2017-11-09	0.0
+3	All that vitriol and drama over an extra 1MB every 10 minutes? Not exactly an earth shattering change. Want to innovate, build something better, improve the world? Try Bitcoin Cash #BCH	2017-11-09	0.125
+4	"Like I said, relay fees are controlled by a constant. Since LTC value went up more than 10x, so has relay fees. We will lower them.
+
+Why not support both Litecoin and Bitcoin Cash? Litecoin will get a lot of improvements BCH won't due to SegWit. And we have Coinbase buys."	2017-11-09	0.125
+5	Dude I appreciate all your work but don't piss on people who also put a lot of effort and work in to making bitcoin cash a success. My preference is orange but I have made and used green stuff for bch too. You're a member of the same slacks as a lot of these guys, show respect.	2017-11-09	0.033333333333333326
+6	I think everyone likes bitcoin cash here. We don't have to fix the color now. Let's put small difference aside and unit to make BCH win!	2017-11-09	0.375
+7	"Everyone that hates on Bitcoin Cash $BCH $BCC should read this. Educate yourself. Satoshi was fine with a block size increase, which @jgarzik proposed. Elimination of Sewgwit2X only proves that BitcoinCash is the real Bitcoin! @rogerkver @JihanWu 
+
+https://bitcointalk.org/index.php?topic=1347.0 …"	2017-11-09	0.24166666666666667
+8	I mean, it could also maybe have something to do with BCH only having 1 exahash versus 11 exahash... issues with initial EDA and not having easy access ti FIAT onramps into the Bitcoin Cash ecosystem. Although I appreciate your effort, correlation/=causation.	2017-11-09	0.030208333333333337
+9	SegwitCoin is better than gold. Might make me rich. But Bitcoin (cash) has a million use cases and is just better because its cheap. I hold both as do most of us but BCH is the coin worth fighting for in my eyes. +Bitcoin is totally taken over by Blockstream.	2017-11-09	0.3678571428571428
+10	I went to the Tokyo Bitcoin Meetup and now I'm (partially) sold on Bitcoin Cash. $BCH PLS.  @BitcoinMatt @rogerkver	2017-11-09	-0.1
+11	"Early indicators of 'The Flippening' to #BitcoinCash?
+
+#Bitcoin -> Bitcoin Cash among the top search queries on Google (last 24 h) "	2017-11-09	0.19999999999999998
+12	"I hope miners to move to Bitcoin Cash slowly, without completely halting the Bitcoin Segwit chain and allowing new users to change BTC in BCH.
+
+#BitcoinCash is #bitcoin"	2017-11-09	-0.021212121212121227
+13	Now it's just bitcoin cash and bitcoin left on the battlefield. But is #BCH good enough to seize an opportunity?	2017-11-09	0.2333333333333333
+14	http://Bitcoin.com  Goes 100% Bitcoin Cash #Bitcoin #BCH #Bitcoin #BTC	2017-11-09	0.0
+15	Bitcoin Cash Price Technical Analysis – BCH/USD Testing Range Resistance https://goo.gl/fb/Hgoprb  #bitcoin	2017-11-09	0.0
+16	"Max tx/s.
+
+Bitcoin Segwit: ~5
+Ethereum: ~20
+Bitcoin Cash: 40->160->VISA
+
+#BitcoinCash is for everyone
+#BitcoinCash is #bitcoin"	2017-11-09	0.0
+17	I’m sure they will.  After all this- I’m hoping @ErikVoorhees may @ShapeShift_io his position on Bitcoin Cash, and stand with @rogerkver , myself and others in support of  #BCH	2017-11-09	0.5
+18	Cryptocurrency exchanges, this might be a good time to start doing more BCH pairs with alt-coins, instead of using BTC. It's a lot easier to move Bitcoin Cash between exchanges than the legacy Bitcoin Segwit.	2017-11-09	0.6
+19	"Good lookin chart.  $BCH /USD Bitcoin Cash
+Tremendous reversal bar on 6 hr. "	2017-11-09	0.5166666666666666
+20	"I don't think color is the right way to distinguish.  
+
+1: you have the name Bitcoin Cash that distinguishes 
+
+2: you have the ticker BCH that distinguishes 
+
+3: the logo is distinct as it has squares around the coin
+
+Going green would make a drastic cut to Bitcoin's origin."	2017-11-09	0.12857142857142853
+21	"For a company called @blockchain , on-chain scaling should be the top priority, and on-chain scaling is Bitcoin Cash.  
+Bitcoin SegWit is good only for Bank 2.0
+
+#BitcoinCash is #bitcoin"	2017-11-09	0.39999999999999997
+22	Easy  ...shift all company resources to support Bitcoin Cash exclusively... #BCH	2017-11-09	0.43333333333333335
+23	Bitcoin isn't bitcoin cash. Bitcoin cash is bitcoin cash. #meanandgreen #bch #bitcoincash #bchplz	2017-11-09	0.0
+24	War is over. Let them (and us) have digital gold. I like profits. But I am excited about Bitcoin Cash. It is what you talk about in every documentary and lecture I have seen you in. I hope you become an active participant and lend your skills to #BitcoinCash. We need you!	2017-11-09	0.052083333333333336
+25	"Good decision. Bitcoin Cash is far superior.
+
+#bitcoin #BitcoinCash"	2017-11-09	0.5
+26	#bitcoin Cash Price Technical Analysis  BCH/USD Testing Range Resistance - NEWSBTC #BCH http://www.newsbtc.com/2017/11/09/bitcoin-cash-price-technical-analysis-bchusd-testing-range-resistance …	2017-11-09	0.0
+27	@rogerkver Why not ask Coinbase to support direct buying of Bitcoin cash using fiat? That's probably the only thing restraining bitcoin cash. Would also be great if exchanges listed pairs against BCH but that won't happen soon I guess.	2017-11-09	0.3
+28	Sooooooooo, about my BCH (Bitcoin Cash) ???   Good time to hit you up about that or?	2017-11-09	0.7
+29	three interesting ones are CSW Bitcoin Cash scaling draft, the academic paper on blockchain ai and the article on BCH atomic swaps	2017-11-09	0.25
+30	bitcoin cash was made with an inflation bug to make money for miners and to still use asicboost. if bch was actually used, the mem pool would quickly fill. They would have to keep expanding, centralizing the system. On chain transactions will never be possible for small payments.	2017-11-09	0.02083333333333333
+31	BCH paper wallets and not sure how to move your coins? use electroncash. it can read your paper key. Then for an easy all platform interface, use the http://bitcoin.com  app. Sweep electron cash to the bitcoin cash wallet address. But first @rogerkver	2017-11-09	0.10833333333333334
+32	Very interested to see what happens in South Korea with $BCH volume today. If the competition - Segwit2X - has died, than I would expect buying frenzy for bitcoin cash. But that would be too predictable?	2017-11-09	0.0625
+33	Which one will be the Gold Winner, Silver Winner, Bronze winner of the 3? Or is Bitcoin Cash going to surprise the world? LTC and VTC the Dominic Toretto at finish line @vertcoin @bitcoin @litecoin @BitcoinCashFans #litecoin #bitcoin #vertcoin #bitcoincash $BTC $LTC $VTC $BCH	2017-11-09	0.0
+34	Poll:  The fact that the price of Bitcoin Cash (BCH) hasn't collapsed means	2017-11-09	0.0

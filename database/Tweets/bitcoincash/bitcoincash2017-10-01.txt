@@ -1,0 +1,75 @@
+	Tweets	date	polarity
+0	Bitcoin Cash (BCH): Target & Fractals invalidated? NO! I explain in this video analysis.	2017-10-01	0.0
+1	"The miner is focusing on Bitcoin cash from October, Bitcoin core finished.
+#BCH #BCC #BTC #SW2x"	2017-10-01	0.0
+2	GMO Enables Bitcoin Cash and Ether Trading With Promotional... http://bit.ly/2g1wmJr  #News #7nm #BCH 	2017-10-01	0.0
+3	Bitcoin Cash Price Drops to $420 as Momentum Turns Against BCH 	2017-10-01	0.0
+4	Bitcoin Cash Price Weekly Analysis – BCH/USD’s Upsides Capped https://goo.gl/fb/c5JfX2  #bitcoin	2017-10-01	0.0
+5	Bitcoin cash price is struggling to remain above $500 against the US Dollar. BCH… https://goo.gl/fb/3ndvsg  #bitcoin	2017-10-01	0.0
+6	Bitcoin Cash Price Drops to $420 as Momentum Turns Against BCH - The Merkle: http://ift.tt/2xQr5y0  #bitcoin #btc	2017-10-01	0.0
+7	Bitcoin Cash Price Weekly Analysis – BCH/USD’s Upsides Capped http://www.newsbtc.com/2017/10/01/bitcoin-cash-price-weekly-analysis-bchusds-upsides-capped/ …	2017-10-01	0.0
+8	Bitcoin Cash Price Weekly Analysis – BCH/USD's Upsides Capped - newsBTC http://dlvr.it/PrcZz5 	2017-10-01	0.0
+9	#bitcoin Cash Price Technical Analysis  BCH/USD Reaching Support https://cryptopanic.com/news/44478/Bitcoin-Cash-Price-Technical-Analysis-BCHUSD-Reaching-Support …	2017-10-01	0.0
+10	r/btc: Bitmain accepting only Bitcoin Cash for latest batch of S9 miners (x-post from r/BitcoinCash) https://www.reddit.com/r/btc/comments/73i1m5/bitmain_accepting_only_bitcoin_cash_for_latest/ … #btc	2017-10-01	0.25
+11	"Bitcoin Cash cheapest on Hitbtc BTC-market: $428.15 0.09881600BTC
+
+#bitcoincash $BCHUSD $bch $BCHBTC"	2017-10-01	0.0
+12	Poloniex #8 Market(3.77%) BCH/BTC - Bitcoin Cash Vol(24h):812.231 BTC / $3,487,730 - Price: $428.76 / 0.0998499 BTC	2017-10-01	0.0
+13	Poloniex #13 Market(2.30%) BCH/USDT - Bitcoin Cash Vol(24h):495.13 BTC / $2,126,090 - Price: $429.97 / 0.100133 BTC	2017-10-01	0.0
+14	"Bitcoin Cash cheapest on Hitbtc BTC-market: $425.99 0.09932000BTC
+
+#bitcoincash $BCHUSD $BCHBTC $bch"	2017-10-01	0.0
+15	"Bitcoin Cash cheapest on Hitbtc BTC-market: $425.03 0.09883900BTC
+
+#bitcoincash $BCHBTC $BCHUSD $bch"	2017-10-01	0.0
+16	"Bitcoin Cash cheapest on Hitbtc BTC-market: $425.17 0.09880700BTC
+
+#bitcoincash $bch $BCHBTC $BCHUSD"	2017-10-01	0.0
+17	"Bitcoin Cash cheapest on Hitbtc BTC-market: $426.07 0.09909800BTC
+
+$BCHBTC $BCHUSD #bitcoincash $bch"	2017-10-01	0.0
+18	"Bitcoin Cash cheapest on Hitbtc BTC-market: $426.35 0.09906000BTC
+
+#bitcoincash $bch $BCHUSD $BCHBTC"	2017-10-01	0.0
+19	"Bitcoin Cash cheapest on Hitbtc BTC-market: $426.95 0.09904000BTC
+
+$BCHUSD $bch #bitcoincash $BCHBTC"	2017-10-01	0.0
+20	"Bitcoin Cash cheapest on Hitbtc BTC-market: $425.60 0.09900000BTC
+
+$BCHUSD $BCHBTC #bitcoincash $bch"	2017-10-01	0.0
+21	"Bitcoin Cash cheapest on Hitbtc BTC-market: $427.86 0.09949900BTC
+
+#bitcoincash $bch $BCHUSD $BCHBTC"	2017-10-01	0.0
+22	"Bitcoin Cash cheapest on Cryptopia LTC-market: $429.21 0.09885104BTC
+
+$BCHUSD #bitcoincash $BCHBTC $bch"	2017-10-01	0.0
+23	"Bitcoin Cash cheapest on Hitbtc BTC-market: $433.01 0.09977900BTC
+
+$bch $BCHUSD $BCHBTC #bitcoincash"	2017-10-01	0.0
+24	"Bitcoin Cash cheapest on Hitbtc BTC-market: $432.21 0.09941500BTC
+
+$bch $BCHBTC $BCHUSD #bitcoincash"	2017-10-01	0.0
+25	"Bitcoin Cash cheapest on Hitbtc BTC-market: $435.31 0.09981900BTC
+
+$BCHBTC $BCHUSD $bch #bitcoincash"	2017-10-01	0.0
+26	"Bitcoin Cash cheapest on Liqui USDT-market: $441.55 0.10039503BTC
+
+$BCHBTC $BCHUSD $bch #bitcoincash"	2017-10-01	0.0
+27	"Bitcoin Cash cheapest on Liqui USDT-market: $441.55 0.10035190BTC
+
+#bitcoincash $BCHBTC $bch $BCHUSD"	2017-10-01	0.0
+28	"Bitcoin Cash cheapest on Hitbtc ETH-market: $437.95 0.10001471BTC
+
+$bch #bitcoincash $BCHUSD $BCHBTC"	2017-10-01	0.0
+29	"Bitcoin Cash cheapest on Hitbtc BTC-market: $438.50 0.09981700BTC
+
+#bitcoincash $BCHUSD $BCHBTC $bch"	2017-10-01	0.0
+30	"Bitcoin Cash cheapest on Hitbtc BTC-market: $434.45 0.09937200BTC
+
+$BCHBTC $bch #bitcoincash $BCHUSD"	2017-10-01	0.0
+31	"Bitcoin Cash cheapest on Hitbtc BTC-market: $432.58 0.09868300BTC
+
+$BCHBTC $bch #bitcoincash $BCHUSD"	2017-10-01	0.0
+32	"Bitcoin Cash cheapest on Bittrex BTC-market: $433.91 0.09942300BTC
+
+#bitcoincash $bch $BCHUSD $BCHBTC"	2017-10-01	0.0

@@ -1,0 +1,34 @@
+	Tweets	date	polarity
+0	"#BCH #bitcoin #bitcoincash
+Really bitcoin 
+
+Bitcoin=bitcoin cash
+
+Bitcoin!=btc
+
+Bitcoin!=bitcoin gold"	2017-10-10	0.2
+1	Send & receive Bitcoin Cash on our site https://bitcoincashtribe.com  #BCH #BitcoinCash  #Bitcoin	2017-10-10	0.0
+2	"Bitcoin Cash ($BCH) Is Getting Crushed
+https://hacked.com/bitcoin-cash-bch-getting-crushed/ … #blockchain #cryptocurrency #bitcoin #coins #altcoins"	2017-10-10	-0.1
+3	How to Access Your Bitcoin Cash (BCC/BCH)  /guides/how-to-access-your-bitcoin-cash-bcc-bch	2017-10-10	0.0
+4	"Bitcoin Cash cheapest on Hitbtc BTC-market: $315.40 0.06455300BTC
+
+$BCHBTC #bitcoincash $bch $BCHUSD"	2017-10-10	0.0
+5	"""i've been selling a portion of my segwit bitcoins for bitcoin cash""  I bet he didn't sell more than 100 #BTC that slime ball is probably just defrauding everyone on the #BCH chain and selling them his shit coins"	2017-10-10	0.15
+6	"The Crypto Bar: What Is Bitcoin Cash?
+#Bitcoin #BitcoinCash #Education #Videos #altcoins #BCC 
+Read more: https://livemarketcap.com/news "	2017-10-10	0.5
+7	Sure, Bitcoin Cash advocates were pure in intention, but many people cashing out their BCH right away weren't	2017-10-10	0.375
+8	#Bitcoin (Cash): Investment Thesis  #BCC #BCH #BTC #BitcoinCash 	2017-10-10	0.0
+9	Bitcoin (cash) as an investment was created solely to separate you from your #bitcoin. $bch $btc	2017-10-10	0.0
+10	Bitcoin Cash (BCH) withdrawals are now available! Read more at: http://ow.ly/39rM30fIcz0 	2017-10-10	0.5
+11	also with this definition Bitcoin cash could be the longest chain (is it not already due to EDA)? so xapo's Bitcoin label = BCH? @JihanWu	2017-10-10	-0.125
+12	We are working to add more coins very soon. We are going to support Bitcoin Cash (BCH) from October 11.	2017-10-10	0.35
+13	"""Bitcoin Cash Price Technical Analysis – BCH/USD Reversing Losses"" http://ift.tt/eA8V8J  #bitcoin #crypto"	2017-10-10	0.0
+14	BITCOIN CASH (BCH): Takes the Batton from Bitcoin and Starts Printing Green Prices !!!	2017-10-10	-0.390625
+15	BITCOIN CASH (BCH) Price Pathway Discovery: Caution is Needed	2017-10-10	0.0
+16	#bitcoin Prices Higher, Bitcoin Cash Rebounds #BTC/USDnews,BCH/USDnews,ETH/USDnews http://bit.ly/2yD21vE 	2017-10-10	0.25
+17	Bitcoin Cash Price Technical Analysis – BCH/USD Reversing Losses http://ift.tt/2yBy13F  #bitcoin #blockchain #fintech	2017-10-10	0.0
+18	Bitcoin (Cash): Investment Thesis $bch #bitcoincash #crypto	2017-10-10	0.0
+19	Bitcoin Cash (BCH) Is Getting Crushed 	2017-10-10	-0.1
+20	Bitcoin Cash (BCH) Is Getting Crushed 	2017-10-10	-0.1

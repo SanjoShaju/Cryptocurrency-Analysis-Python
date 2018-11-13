@@ -1,0 +1,24 @@
+	Tweets	date	polarity
+0	"According to Twitter, ""Bitcoin Cash / BCC (BCH)"" is about to Mo0n or currently going to the Mo0n! #DYOR"	2017-10-06	0.0
+1	http://Bitcoin.com  admits fragmentation and confusion re: Bitcoin brand helps $BCH. Is 2X your contribution to Bitcoin Cash?	2017-10-06	0.0
+2	BITCOIN CASH (BCH) High Impact Trade Update: Ascending Triangle Pattern	2017-10-06	0.16
+3	BITCOIN CASH (BCH) forking was fear mongered by many who had something to gain. Others were just fearful and SOLD their Bitcoins and dumped	2017-10-06	-0.2
+4	Fork Networking supports #segwit2x (minus the segwit part) and #bitcoincash.  The true #bitcoin is Bitcoin Cash.	2017-10-06	0.12499999999999999
+5	BITCOIN CASH (BCH) IS SET to BREAKOUT and Probable Direction is UP.	2017-10-06	0.0
+6	Please, could you fix que name: it is Bitcoin Cash! #BitcoinCash Thank you very much!	2017-10-06	0.325
+7	"I suspect @JihanWu might fork it anyway like he did for UAHF ""Bitcoin Cash"" BCH. Helps mid Nov price games around B2X BCH drama."	2017-10-06	0.0
+8	Bitcoin Cash Price Technical Analysis – BCH/USD Remains Bearish http://dlvr.it/PskpgP 	2017-10-06	0.0
+9	Bitcoin Cash Price Technical Analysis – BCH/USD Break Looks Real... http://bit.ly/2ggPcMQ  #Analysis #Opinion #Trading	2017-10-06	0.1
+10	Bitcoin Cash Slides to Three-Week Low Against the Dollar http://ift.tt/29GDCpw  Bitcoin Cash (BCH) has declined sharply against the dolla… 	2017-10-06	-0.0625
+11	Bitcoin Cash Vs #Bitcoin Debate in Hong Kong - @BankToTheFuture Blog http://blog.bnktothefuture.com/bitcoin-cash-vs-bitcoin/ … $BTC $BCH $BCC #BitcoinCash - hosted by @OKCoin	2017-10-06	0.0
+12	Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials, Jewellery & More! 	2017-10-06	0.625
+13	Bitcoin Cash Targeting Below $350: BCH Price Analysis https://www.ddddrffjj.com/analysis/bitcoin-cash-targeting-below-350-bch-price-analysis/ …	2017-10-06	0.0
+14	For those slagging off http://blockchain.info , I was able to use my private key from there to get my bitcoin cash from a BCH wallet. What'…	2017-10-06	0.16666666666666666
+15	Bitcoin Cash Price Technical Analysis – BCH/USD Remains Bearish http://ift.tt/2xXBsya  #bitcoin #blockchain #fintech	2017-10-06	0.0
+16	#bitcoin Cash Price Technical Analysis  BCH/USD Remains Bearish - NEWSBTC #blockchain #BCH http://bit.ly/2ytbkyj 	2017-10-06	0.0
+17	Overstock accepts Bitcoin Cash - BCH holders can now buy Home Goods, Bed & Bath Essentials 	2017-10-06	0.0
+18	Bitcoin Cash Targeting Below $350: BCH Price Analysis - Ethereum World News #crypto	2017-10-06	0.0
+19	Bitcoin Cash Targeting Below $350: BCH Price Analy... #cryptocurrency #crypto #eth #business_and_finance https://coinspectator.com/news/80312/bitcoin-cash-targeting-below-350-bch-price-analysis …	2017-10-06	0.0
+20	"Bitcoin Cash cheapest on Cryptopia BTC-market: $354.19 0.08204999BTC
+
+$bch $BCHBTC #bitcoincash $BCHUSD"	2017-10-06	0.0

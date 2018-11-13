@@ -1,0 +1,28 @@
+	Tweets	date	polarity
+0	After http://Yours.org , CryptoGraffiti Rejects Bitcoin Core for Bitcoin Cash #bitcoin #bitcoincash #ethereum	2017-10-16	0.0
+1	"@eBCHCoin is the ETHEREUM based Bitcoin cash, more reliable than BCH. Fast, cheap and airdrop to follow. #Airdrop #eBCH
+#Crypto"	2017-10-16	0.3666666666666667
+2	"Bitcoin Cash cheapest on Poloniex BTC-market: $313.05 0.05479932BTC
+
+#bitcoincash $BCHBTC $BCHUSD $bch "	2017-10-16	0.0
+3	"Bitcoin Cash Price Weekly Analysis – Can BCH/USD Gain Momentum? - NEWSBTC http://crwd.fr/2yq9EVr 
+#Crypto #bitcoin #blockchain"	2017-10-16	0.0
+4	Representative Token (AKA colored coin) Proposal for Bitcoin Cash #bitcoin #bitcoincash #ethereum	2017-10-16	0.0
+5	Some pics of the crypto educational event + Bitcoin Cash airdrop by Leeds University, sponsored by http://btc.com !  #bitcoincash 	2017-10-16	0.3125
+6	Bitcoin Cash Price Technical Analysis – BCH/USD To Consolidate Short-term 	2017-10-16	0.0
+7	Take Bitcoin Cash. #BCH #BitcoinCash	2017-10-16	0.0
+8	"Bitcoin Cash cheapest on Poloniex BTC-market: $314.76 0.05519161BTC
+
+#bitcoincash $BCHBTC $bch $BCHUSD"	2017-10-16	0.0
+9	#Bitcoin Cash Price Weekly Analysis – Can BCH/USD Gain Momentum? http://www.newsbtc.com/2017/10/15/bitcoin-cash-price-weekly-analysis-can-bchusd-gain-momentum/ …	2017-10-16	0.0
+10	Various Restaurants Around the World now Accept #bitcoin Cash - FXRank Blog #BitcoinCash http://www.fxrank.net/blog/2017/10/16/various-restaurants-around-world-now-accept-bitcoin-cash …	2017-10-16	0.0
+11	Bitcoin Cash Price Technical Analysis – BCH/USD To Consolidate Short-term http://ift.tt/2xI0500  #bitcoin #blockchain #fintech	2017-10-16	0.0
+12	"""Bitcoin Cash Price Technical Analysis – BCH/USD To Consolidate Short-term"" #fintech #blockchain #crypto"	2017-10-16	0.0
+13	See this? #Bitcoin Cash Price Weekly #Analysis – Can BCH/USD Gain Momentum? https://goo.gl/uWTyEY 	2017-10-16	0.0
+14	Bitcoin Cash Price Technical Analysis – BCH/USD Heading Lower http://frenzyforex.info/bitcoin-cash-price-technical-analysis-bchusd-heading-lower/ …	2017-10-16	0.0
+15	“What are the Main Drivers Behind Positive Bitcoin Cash Movement?” by @jaredsc https://medium.com/@jaredsc/what-are-the-main-drivers-behind-positive-bitcoin-cash-movement-5c1033dd9e3f … #BitcoinCash	2017-10-16	-0.002020202020202033
+16	A Beginner’s Guide To Bitcoin Cash https://www.coinist.io/beginners-guide-to-bitcoin-cash/ … #ICO #ICOs #cryptocurrency #BitcoinCash 	2017-10-16	0.0
+17	"Bitcoin Cash cheapest on Poloniex BTC-market: $316.54 0.05579199BTC
+
+$BCHBTC #bitcoincash $bch $BCHUSD"	2017-10-16	0.0
+18	Yet another Bitcoin Cash Faucet #bitcoin #bitcoincash #ethereum	2017-10-16	0.0

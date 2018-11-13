@@ -1,0 +1,40 @@
+	Tweets	date	polarity
+0	Miners are strip-mining Bitcoin Cash and dumping BCH again. Litecoin is coming after the #4 spot!  	2017-10-12	0.0
+1	"The real vision of Satoshi - please welcome Bitcoin Cash xD xD xD
+
+#death #dead #bcash $BCH $BCC"	2017-10-12	0.26666666666666666
+2	http://PayMeInBitcoin.Com : Bitcoin Cash (BCH) is live in the Blockchain wallet And Credits Users With BCH |… http://www.paymeinbitcoin.com/2017/10/bitcoin-cash-bch-is-live-in-blockchain.html … #Bitcoin	2017-10-12	0.13636363636363635
+3	http://Blockchain.info  Releases Full Bitcoin Cash Support, Users Receive Coins https://cointelegraph.com/news/blockchaininfo-releases-full-bitcoin-cash-support-users-receive-coins … #bitcoin #bitcoincash #blockchain	2017-10-12	0.35
+4	The #CryptoBar: What Is Bitcoin Cash? How is it different from Bitcoin? @georgelevy #bitcoin #bitcoincash #education	2017-10-12	0.0
+5	"Best Free Bitcoin Cash (BCH) Faucet - http://coin.mg/w0jmr9U0mIo 
+You Claimed 0.00001642 BCH! View it on FaucetHub.io."	2017-10-12	0.75
+6	 +2 Users Can Now Store and Exchange Bitcoin Cash Via the Blockchain Wallet https://cryptopanic.com/news/256535/Users-Can-Now-Store-and-Exchange-Bitcoin-Cash-Via-the-Blockchain-Wallet?utm_source=notifications&utm_medium=twitter&utm_campaign=Twitter+Trending … $BTC #bitcoin $ETH #ethereum $BCH	2017-10-12	0.0
+7	i believe it's bitcoin cash or BCH. if it's bitconnect it will so damn cheap ...  and we know they won't sell it for that price .. 	2017-10-12	0.4
+8	"BCC = BitConnect Coin
+BCH = Bitcoin Cash
+
+WTF?"	2017-10-12	-0.5
+9	BCC=Bitcoin Cash. @bitconnect=an irrelevant ponzi scheme. Some exchanges allow trading for both and have given Bitcoin Cash the BCH ticker.	2017-10-12	-0.5
+10	"http://Blockchain.info  announces #Bitcoin Cash support.
+https://blog.blockchain.com/2017/10/11/bitcoin-cash-bch/ …
+#BCH"	2017-10-12	0.0
+11	Bitcoin Cash Price Technical Analysis – BCH/USD Remains At Risk - newsBTC http://dlvr.it/Pv0Lyh 	2017-10-12	0.0
+12	"Miners are strip-mining Bitcoin Cash and dumping BCH again. Litecoin is coming after the #4 spot!  
+
+Miners are s…"	2017-10-12	0.0
+13	#bitcoin Video - How to get Bitcoin Cash BCH to the owners of #blockchain.info - Bitcoin FYI https://bitcoinfyi.com/news/bitcoin-video-how-to-get-bitcoin-cash-bch-to-the-owners-of-blockchain-info …	2017-10-12	0.0
+14	#Bitcoin Cash (BCH) is now available in the #Blockchain Wallet	2017-10-12	0.4
+15	"http://Blockchain.info  Releases Full Bitcoin Cash Support, Users Receive Coins
+#Bitcoin #BitcoinCash 
+Read more: https://livemarketcap.com/news "	2017-10-12	0.425
+16	"Users Can Now Store and Exchange Bitcoin Cash Via the Blockchain Wallet
+#News #BCH #Bitcoin #BTC 
+Read more: https://livemarketcap.com/news "	2017-10-12	0.5
+17	the payment is only BCC (bitcoin connect) or BCH ( bitcoin cash ? the initials are bcc but the math for the payment is BCH bitcoin cash	2017-10-12	0.0
+18	Bitcoin Cash Price Technical Analysis – BCH/USD Remains At Risk 	2017-10-12	0.0
+19	Bitcoin Cash Price Technical Analysis – BCH/USD Remains At Risk http://www.newsbtc.com/2017/10/12/bitcoin-cash-price-technical-analysis-bchusd-remains-risk/ …	2017-10-12	0.0
+20	"RT TopFiveTraders ""RT StakepoolCom ""Most Popular Online Bitcoin Wallet Enables Bitcoin Cash Withdrawals. Will BCH Tumble Even More? Check i…"	2017-10-12	0.5333333333333333
+21	"RT StakepoolCom ""Most Popular Online Bitcoin Wallet Enables Bitcoin Cash Withdrawals. Will BCH Tumble Even More? Check it out! …"	2017-10-12	0.5750000000000001
+22	"Bitcoin Cash cheapest on Novaexchange BTC-market: $313.37 0.06500000BTC
+
+$BCHBTC $bch #bitcoincash $BCHUSD"	2017-10-12	0.0

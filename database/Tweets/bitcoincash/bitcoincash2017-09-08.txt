@@ -1,0 +1,39 @@
+	Tweets	date	polarity
+0	"According to Twitter, ""Bitcoin Cash / BCC (BCH)"" is about to Mo0n or currently going to the Mo0n! #DYOR"	2017-09-08	0.0
+1	"#Bitcoin cash soars above $700 http://crwd.fr/2gMFvVO  
+#bitcoincash $BCH "	2017-09-08	0.0
+2	Clearly lays out Bitcoin Cash #BCH vs Bitcoin Segwit #BTC	2017-09-08	0.10000000000000002
+3	Article: https://medium.com/@jonaldfyookball/what-to-consider-when-investing-in-bitcoin-and-bitcoin-cash-in-2017-e6a47966a5c2 … 	2017-09-08	0.0
+4	Bitcoin Cash Price Technical Analysis – BCH/USD Settles Above $650 - newsBTC http://dlvr.it/PlY9Fh 	2017-09-08	0.0
+5	Bitcoin cash soars above $700 #BitcoinCash #fintech #blockchain #altcoin #cryptocurrency https://goo.gl/LiscBd 	2017-09-08	0.0
+6	"""Bitcoin Cash Price Technical Analysis – BCH/USD Settles Above $650"" #fintech #blockchain #crypto"	2017-09-08	0.0
+7	Bitcoin Cash Price Technical Analysis – BCH/USD Settles Above $650 http://ift.tt/2eKZSCs 	2017-09-08	0.0
+8	"Bitcoin Cash cheapest on Cryptopia DOGE-market: $671.48 0.14560367BTC
+
+$bch $BCHUSD #bitcoincash $BCHBTC"	2017-09-08	0.0
+9	BCH BITCOIN CASH Trend updated $BCHUSD	2017-09-08	0.0
+10	"Bitcoin Cash cheapest on Liqui USDT-market: $668.63 0.14450722BTC
+
+#bitcoincash $BCHUSD $BCHBTC $bch"	2017-09-08	0.0
+11	"RT Path_Trading ""#BITCOIN #CASH #BCH #BTCC 9-07 #CryptoCurrency #Technical #Analysis  > https://youtu.be/zc5iweaXP6M  """	2017-09-08	0.0
+12	"According to Twitter, ""Bitcoin Cash / BCC (BCH)"" is about to Mo0n or currently going to the Mo0n! #DYOR"	2017-09-08	0.0
+13	Poloniex #4 Market(7.37%) BCH/USDT - Bitcoin Cash Vol(24h):3162.03 BTC / $14,611,700 - Price: $656.29 / 0.142024 BTC	2017-09-08	0.0
+14	Poloniex #3 Market(9.31%) BCH/BTC - Bitcoin Cash Vol(24h):3997.88 BTC / $18,474,200 - Price: $660.80 / 0.143 BTC	2017-09-08	0.0
+15	"Bitcoin Cash cheapest on Bittrex BTC-market: $655.92 0.14300000BTC
+
+$BCHUSD $BCHBTC $bch #bitcoincash"	2017-09-08	0.0
+16	"Bitcoin Cash cheapest on Poloniex USDT-market: $654.22 0.14267374BTC
+
+$bch #bitcoincash $BCHUSD $BCHBTC"	2017-09-08	0.0
+17	"Bitcoin Cash cheapest on Poloniex BTC-market: $656.10 0.14240000BTC
+
+$bch #bitcoincash $BCHUSD $BCHBTC"	2017-09-08	0.0
+18	"Bitcoin Cash cheapest on Cryptopia BTC-market: $658.82 0.14330000BTC
+
+$bch $BCHBTC #bitcoincash $BCHUSD"	2017-09-08	0.0
+19	"Bitcoin Cash cheapest on Cryptopia BTC-market: $658.48 0.14330000BTC
+
+$BCHUSD $bch #bitcoincash $BCHBTC"	2017-09-08	0.0
+20	"Bitcoin Cash cheapest on Cryptopia BTC-market: $662.31 0.14330000BTC
+
+$bch #bitcoincash $BCHUSD $BCHBTC"	2017-09-08	0.0

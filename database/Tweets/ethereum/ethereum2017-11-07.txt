@@ -1,0 +1,358 @@
+	Tweets	date	polarity
+0	#Bitcoin gets attacked at the political level like by the #NYA. #Ethereum gets attacked at the code level. I prefer #Bitcoin.	2017-11-07	0.0
+1	Rich statefulness just made some eth users poor.	2017-11-07	-0.012500000000000011
+2	$ONHI by @ohni_io has been added to #IDEX! https://idex.market/eth/ohni  $DVIP #ethereum #crypto	2017-11-07	0.0
+3	$XAS in at 8k sats, ALIS in at 4.2k sats, $NIO in at .00006 ETH	2017-11-07	0.0
+4	Market has had plenty of time to price in the @ParityTech Wallet vulnerability, $ETH still only off 3% since the news.	2017-11-07	0.0
+5	"Thanks for the shoutout from our friends @TheNextWeb  
+#aigang #tokensale #blockchain #bitcoin #ethereum "	2017-11-07	0.2
+6	Today's Ethereum incident 	2017-11-07	0.0
+7	"Hundreds of millions of dollars in Ethereum frozen in ""accidental"" coding mistake: "	2017-11-07	0.0
+8	"""I'm just a noob developer trying to learn Ethereum... let me send some malicious code to the Parity multi-sig wallet library abstraction real quick"" -- things that didn't happen for $200 Alex."	2017-11-07	0.5
+9	"LevelNet #ICO TechCrunch Disrupt 2017 Report
+https://medium.com/@LevelNetwork/levelnet-techcrunch-disrupt-2017-report-c4b66dea9a69 …
+#TokenSale #crowdfunding #Blockchain #ETH "	2017-11-07	0.0
+10	Someone deleted some code in a popular cryptocurrency wallet — and as much as $280 million in ethereum is locked up 	2017-11-07	0.4
+11	My dream is to be able to have solutions for the world. #eplworld #eplpeace #eplfamily #epl #ethereum #cryptocurrency #jackson #mj #love	2017-11-07	0.5
+12	2/ note: $ETH put at risk is only 0.50% of the total, so that's not a good reason 4 a delayed drop, 4 those that have been claiming as such.	2017-11-07	-0.0875
+13	We need the gas limit target of Rinkeby to near ~6.7M for the test deployment of our contracts! Can anyone help? #ethereum #ETH	2017-11-07	0.125
+14	"LevelNet Token Pre-Sale starts in 8 days! Visit http://levelnet.co/  for information.
+
+#blockchain #bitcoin #ethereum #cryptocurrency"	2017-11-07	0.0
+15	Eth*n Slater is human sunshine	2017-11-07	0.0
+16	"#HTMLCOIN Devs hint at something ""big"" in Telegram.  What do you think they are up to?  Let me know in comments! #bitcoin #Ethereum #blockchain #crypto #SmartContracts"	2017-11-07	0.0
+17	Critical vulnerability in popular cryptocurrency wallet freezes millions of dollars of Ethereum http://tnw.me/kevUZQo 	2017-11-07	0.3
+18	Beenest begins decentralized future for short term housing rentals! $btc $eth #airbnb #blockchain	2017-11-07	0.0
+19	The silence from Ethereum core devs @VitalikButerin, @VladZamfir, @avsa and others today is telling.	2017-11-07	0.0
+20	For the moment, the Pre-ICO is going well, we have raised 190ETH, almost $60.000, our minimum cap has largely been exceeded. #ICO #Ethereum	2017-11-07	0.21428571428571427
+21	We made a T-shirt to commemorate the event. #ethereum #parity	2017-11-07	0.0
+22	"Map of Computer Science
+
+#Fintech #makeyourownlane #Mpgvip #cryptocurrency #ETHEREUM #defstar5 #Cybersecurity #bitcoin #ransomware #HybridCloud #infosec #hacking #Hacker #BitcoinGold #BitcoinCash #HybridIT #Linux #CloudComputing #Cloud #Attack #AI #Malware #security #chatbot pic.twitter.com/rChulV9Tem"	2017-11-07	0.0
+23	@msuiche fascinating deep dive on ethereum issues #falconUNITE17  https://github.com/comaeio/porosity … looks interesting	2017-11-07	0.39999999999999997
+24	"This is why #Ethereum is inherently flawed from the start.
+
+Don't mix code and data.
+
+Expect more blunder like this one "	2017-11-07	0.0
+25	Crap code in Parity wallets destroys $280 MEEELION in Ethereum http://reg.cx/2vng 	2017-11-07	-0.8
+26	Someone deleted some code in a popular cryptocurrency wallet — and as much as $280 million in ethereum is locked up 	2017-11-07	0.4
+27	All #Ethereum tokens share fatal flaws. Mobius' built w/ @StellarOrg = exponentially robust security & built-in multi-sig wallets #paritybug	2017-11-07	0.0
+28	$NXT $ARDR is very safe compared to #Ethereum security vulnerabilities. 	2017-11-07	0.65
+29	whhwat thee fu cck ddi d u jkust fufkcing ssay about mm e,, yuo litte l bitcch? ill hhave yio u kn wo i gradii ated to p pof my clcal s ss in eth nna v vy sealls ,,, an d i habev ee n invole d di n nnume r ous ss ec rret rra iids oon all-quadea ,,annd i hhave oov er 300 confirme	2017-11-07	-0.5
+30	“Will i get arrested? I’m eth newbie… just learning… sending kill() destroy() to random contracts”  ― 12-year old	2017-11-07	-0.19999999999999998
+31	Pic souvenir from our successful token mtg in Europe Learn about our token sale http://bit.ly/2jIMZ14  #cryptocurrency #blockchain #ethereum #tokensale	2017-11-07	0.75
+32	Lucyd has a new team member Yiorgos Kostoulas, Ph.D, Science Advisor & Optics Expert #Crypto #AugmentedReality #Smartglases #Btc #Eth #ICO	2017-11-07	0.13636363636363635
+33	I’m now fully invested into #Bitcoin #Ethereum #Litcoin Cryptocurrency is here to stay & I’ve put my money on it! Now it’s time to innovate	2017-11-07	0.0
+34	We welcome another new team member Donna Waters, Science Advisor and Optics Expert! #Crypto #ICO #Ethereum #TokenSale #Tokens #AR #Bitcoin	2017-11-07	0.48522727272727273
+35	Land, Sea & Air, Lucyd will be there #AR #Smartglasses #Bitcoin #Cryptocurrency #Bitcoin #TokenSale #Token #ETH #ICO $LCD #Ethereum #Lucyd	2017-11-07	0.0
+36	"For your peace of mind:
+Agrello is *not* effected by the #Parity multi-sig wallet problem.
+We hope for the best for those who are.
+#Ethereum "	2017-11-07	1.0
+37	"Legal structure of LevelNet. No bullshit.
+
+https://medium.com/@LevelNetwork/levelnet-s-legal-structure-8eca1ced84d6 …
+
+#blockchain #ethereum #cryptocurrency #ico #levelnet #cybersecurity"	2017-11-07	0.2
+38	"Ethereum value proposition was ""anybody can make a smart contract"", nobody promised they would actually work"	2017-11-07	0.10714285714285714
+39	One of the worst hacks in $ETH's history and the price is going up??? That is a pretty bullish sign. pic.twitter.com/vrwXpL5r95	2017-11-07	-0.375
+40	"The airdrop is live! Go get your ETHX here:
+http://ethereumx.io/airdrop/ "	2017-11-07	0.17045454545454544
+41	"Someone ""accidentally"" locked away $300M worth of other people's Ethereum funds. "	2017-11-07	0.0875
+42	"Join the future of cyber security. LevelNet - Security of one is security of all.
+
+https://youtu.be/5uC6wBAKrIE  
+
+#blockchain #bitcoin #ethereum"	2017-11-07	0.0
+43	#Ethereum, great for recycling #crypto memes. #Bitcoin $ETH #Parity	2017-11-07	0.8
+44	The #ethereum #parity hack explained.	2017-11-07	0.0
+45	We are so excited to announce our Auctus Demo launch! Try it out and please give us your feedback  https://blog.auctus.org/introducing-the-auctus-demo-v0-1-9adc49f7cac4 …  #ethereum	2017-11-07	0.46875
+46	#ardor phasing should be much safer than #eth 3rd party multisig contracts but only if users help us test it! Download #ardor now and use it	2017-11-07	0.06666666666666667
+47	"What are you most looking forward to seeing when we reveal our UI on Friday?
+#Blocknet
+#atomicswap $DGB @SatoshiLite $BAY $SYS $XC $ETH"	2017-11-07	0.5
+48	Paging: Ethereum dev team 	2017-11-07	0.0
+49	Should @devops199 be arrested or awarded the Parity Bug Bounty http://blog.ethcore.io/announcing-par … #Ethereum #ParityGate2 @MrChrisEllis	2017-11-07	0.0
+50	"Join #Binance's #Komodo competition with $BTC or $ETH! Winner gets Samsung S8, thanks to @binance_2017 #trading $KMD
+https://support.binance.com/hc/en-us/articles/115002606332-Binance-Lists-KMD …"	2017-11-07	0.2
+51	With deletion of one wallet, $280M in Ethereum wallets gets frozen http://arstechnica.com/information-technology/2017/11/with-deletion-of-one-wallet-280-m-in-ethereum-wallets-gets-frozen/ … by @thepacketrat	2017-11-07	0.0
+52	Enough is enough! Turing-complete systems do not belong in the base layer — Ethereum's latest debacle is a direct consequence of complexity.	2017-11-07	-0.04000000000000001
+53	A major vulnerability has frozen hundreds of millions of dollars of Ethereum 	2017-11-07	0.0625
+54	"ethereum is a mess.
+
+http://www.trustnodes.com/2017/11/07/exclusive-parity-hacker-claims-ethereum-newbie-interview …"	2017-11-07	-0.175
+55	Listed: $KMD / $BTC and $KMD / $ETH now live on https://www.binance.com . Happy #Trading! [in case you missed it]	2017-11-07	0.5681818181818181
+56	Cryptocurrency drama!  One person managed to permanently locked up $300 million worth of other peoples' Ethereum 	2017-11-07	0.0875
+57	"Story of Pre-Fork hedgers thus far:
+I'll go short on margin - called
+I'll go into $ETH, it's stable - hacked
+I'll buy $LTC - to be continued"	2017-11-07	0.05
+58	Great news!! eBCH is now on Coincompare. Let’s keep growing  Etherdelta symbol: EBCH2. #eBCH #ETH #RT https://www.cryptocompare.com/coins/ebch/overview …	2017-11-07	1.0
+59	Our statement on the #Parity / Multisig situation https://medium.com/@golemproject/parity-multisig-ethereum-cecee5c1a9d9 … #ethereum #crypto $gnt	2017-11-07	0.0
+60	Exactly. It demonstrates that Ethereum's smart contracts must not be trusted to handle things with large economic value.	2017-11-07	0.21964285714285714
+61	"LevelNet Token Pre-Sale starts in 8 days! Visit http://levelnet.co/  for information.
+
+#blockchain #bitcoin #ethereum #cryptocurrency"	2017-11-07	0.0
+62	"""It's not a problem inherent to #smartcontracts. It's a problem inherent to #Ethereum."" - @petertoddbtc"	2017-11-07	0.0
+63	"#HOQU is constantly working on value gain for all stakeholders and info on new Advising team members coming shortly. Stay tuned!
+#BTC #ETH"	2017-11-07	0.04545454545454545
+64	Ethereum Slides After Coding Bug Freezes Wallets Containing $280 Million 	2017-11-07	0.0
+65	#Viuly #Airdrop campaign on http://nasdaq.com  http://www.nasdaq.com/press-release/every-ethereum-holder-to-receive-viu-token-airdrop-for-blockchain-video-platform-20171104-00007 … #blockchain #YouTuber #crypto #token #NASDAQ #ethereum #startup	2017-11-07	0.0
+66	Looking forward to hearing from these influential speakers at the upcoming #ETC Summit! https://buff.ly/2m0y2bB  #ethereumclassic	2017-11-07	0.0
+67	Another hard day for #ethereum community. 	2017-11-07	-0.2916666666666667
+68	2 full days of #ETC speakers, panels, workshops & live-stream of #ETCSummit https://buff.ly/2ydgWJj  #ethereumclassic	2017-11-07	0.35
+69	"Synapse contracts were not bitten by the #parity bug, but we send our best wishes to those that are. #ethereum
+
+https://news.bitcoin.com/ethereum-wallet-parity-hit-by-second-critical-vulnerability-150-million-frozen/ …"	2017-11-07	1.0
+70	"Bitcoin is meat.
+
+Ethereum is soy.
+
+Do not forget this."	2017-11-07	0.0
+71	Bitcoin and Ethereum community can't be anymore different Pt. 2 	2017-11-07	0.0
+72	#BITCOIN GIVEAWAY. 230 followers until 1k! .02 GIVEAWAY TO THE LUCKY WINNER. RT + FOLLOW TO ENTER. SEE PAGE FOR PST WNNRS. $btc $eth $omg	2017-11-07	0.3333333333333333
+73	Lordmancer II was mentioned on @PocketGamer http://www.pocketgamer.co.uk/r/iPad/Assassin%27s+Creed+Rebellion/feature.asp?c=75070 … #softlaunch #game #android #crowdsale #crypto #blockchain #ethereum	2017-11-07	-0.4
+74	"Just had someone ping me and say ""yo dude someone broke Ethereum"" #smh"	2017-11-07	0.0
+75	"Another critical exploit discovered in Parity multisig wallets. Estimated $250MM locked forever. #ethereum $eth
+
+https://paritytech.io/blog/security-alert.html …"	2017-11-07	0.0
+76	Blog exploring how boreals maintain stability through backing by debt http://bit.ly/2j9SOEJ  $boreal $dvip #ethereum #cryptobanking #IDEX	2017-11-07	0.0
+77	Jab illustrates how far $ETH may be removed from cypherpunk values: 	2017-11-07	0.1
+78	07/Nov/2017 @VitalikButerin on brink of second bailout for dumb contracts	2017-11-07	-0.1875
+79	Someone 'Accidentally' Locked Away $300M Worth of Other People's Ethereum Funds 	2017-11-07	0.0875
+80	"Decided to open source my Ethereum clock.
+
+while True:
+    print(""Months without major fuck up: 0"")"	2017-11-07	0.003124999999999989
+81	"Yo, Vitalik! Hand over your marketcap. 
+
+$ETC > $ETH "	2017-11-07	0.0
+82	Belgian Franc #AIRDROP will start TODAY @ 23.00pm UTC time. We will give away 500BEF to first 5000 signups ! #cryptocurrency $BEF #ethereum	2017-11-07	0.3125
+83	"Visit http://levelnet.co  for details.
+
+#blockchain #bitcoin #ethereum #cryptocurrency #ico"	2017-11-07	0.0
+84	0 days since last high impact bug in an experimental programming language on the Ethereum VM affecting millions of dollars.  	2017-11-07	0.08666666666666667
+85	Latest numbers are that ~$180M of ETH are stuck. This cannot be recovered without a hardfork. Code is law?  At what $ do we draw the line?	2017-11-07	0.5
+86	I just wrote a quick analysis of the new 1M $ETH ($280M USD) Parity bug to explain what happened: 	2017-11-07	0.23484848484848483
+87	"parity claims “most secure way of interacting with the Ethereum blockchain”
+july: $30M stolen by hackers
+nov: all wallets frozen by accident"	2017-11-07	0.45
+88	Bulls make money, Bears make money, $ETH smart contract users get slaughtered	2017-11-07	0.21428571428571427
+89	Looking forward to trading 2 new Pairs of $STU on @hitbtc! STU/BTC & STU/ETH market will be open this Friday! bitJob to the Moon!  	2017-11-07	0.08522727272727272
+90	Oh the drama. why not reset everything? Its not like you never did it before. manipulated chain is manipulated. $ETH	2017-11-07	0.0
+91	I got 99 problems but an Ethereum parity wallet ain't one.	2017-11-07	0.0
+92	"Someone ""accidentally"" locked up $300 million worth of other people's Ethereum http://bit.ly/2zChwo9 "	2017-11-07	0.0875
+93	I propose that Ethereum parity, be renamed. To parody.	2017-11-07	0.0
+94	$ARDR - Ardor - New Competitor to Ethereum Arising soon. No DUMB Contracts possible; https://cointelegraph.com/news/ardor-new-competitor-to-ethereum-arises-amidst-reports-of-the-dao-attack … via @Cointelegraph	2017-11-07	0.10795454545454546
+95	Critical bug found in Parity, a popular Ethereum smart contract; At least $145M of Ether are stuck and likely lost 	2017-11-07	0.10285714285714284
+96	"The #HOQU delegation headed by Co-Founder Maxim Anikeev and Asian business development manager Mikhail Zarubin departs for China today!
+#ETH"	2017-11-07	0.0
+97	A major vulnerability has frozen hundreds of millions of dollars of Ethereum. Price drops to lowest value in 2 weeks http://tcrn.ch/2m4Xc9l 	2017-11-07	0.0625
+98	Community Appreciation Sale right now --- Do not send ETH if you are not on the community only list!  $STORM	2017-11-07	0.14285714285714285
+99	"$KMD the new $ETH.
+$ETC the original Ethereum."	2017-11-07	0.2556818181818182
+100	Join the debate: should @devops199 be arrested or awarded the Parity Bug Bounty https://blog.ethcore.io/announcing-parity-bug-bounty-program/ … #Ethereum 	2017-11-07	0.0
+101	The guy that killed multi-sig contracts in #Ethereum should get the bug bounty. He could have just stole it instead. LOL Too bad paid in eth 	2017-11-07	-0.03333333333333325
+102	"Former Fed Chair Bernanke:
+#Blockchain may provide #innovation in #payments~
+#Cryptocurrency not so much
+
+#fintech #bitcoin #ethereum
+by @WordsofaGrace
+in @BankInnovation
+
+http://bit.ly/2znQZKt "	2017-11-07	0.1
+103	REASONS TO CONTRIBUTE TO REGA Risk Sharing crowdsale campaign! #rega #crowdsurance #ethereum #blockchain #ico	2017-11-07	0.0
+104	lol at the BTC bulls who are mocking ETH's black swan event this morning ahead of the most dangerous bitcoin technical event to date.	2017-11-07	0.10666666666666666
+105	One possible resolution for Ethereum's multisig bug (based on very incomplete information):  1. wait until next scheduled HF	2017-11-07	0.06666666666666667
+106	Did you see us at #Devcon 3? A great chance to learn about the developments made with #ethereum.	2017-11-07	0.8
+107	"The guy that just killed @ParityTech multisig is a self confessed ""$ETH Newbie"" ...yes a n00b just broke #Ethereum  #Facepalm #Opps"	2017-11-07	-0.2
+108	"LevelNet Token Pre-Sale starts in 8 days! Visit http://levelnet.co/  for information.
+
+#blockchain #bitcoin #ethereum #cryptocurrency"	2017-11-07	0.0
+109	Critical Parity bug leaves +$150M in $ETH frozen, including $90M of Gavin Woods' Polkadot ICO. Cue clamoring for new hard-fork bailout... 	2017-11-07	0.06818181818181818
+110	"So someone managed to _accidentally_ make _all_ Parity multisig wallets suicide: https://paritytech.io/blog/security-alert.html …
+
+Global shared state WTF people."	2017-11-07	-0.25
+111	We're @CryptoMania_'s Coin of the Day! #ethereum #cryptocurrency #bitcoin #tokensale #blockchain #ICO #btc https://cryptomania.com/november-6th-2017/ …	2017-11-07	0.0
+112	@STKtoken Did you know @cryptomania_ featured you as the Coin of the day? https://cryptomania.com/november-6th-2017/ … 	2017-11-07	0.0
+113	#Ethereum I told you so 	2017-11-07	0.0
+114	SVH Welcomes iCare @touchpointscare to #blockchain #healthcare platform http://prn.to/2Appiiz  #Cryptocurrency #BTC #ethereum #TokenSale	2017-11-07	0.0
+115	Been saying this for 2 years. #Eth must be centralized to function, but must claim decentralization to sell. Huge scam. #ethereum 	2017-11-07	0.4000000000000001
+116	Immutable smart contracts = software that can't update. This means you have to get it perfect the first time or you're screwed. #Ethereum	2017-11-07	0.4880952380952381
+117	ETH repeated fuckups reinforce why you keep your layer-1 small and simple. Move complexity onto secondary layers which cannot touch layer-1.	2017-11-07	-0.18333333333333335
+118	For the second time in three months a critical bug in Ethereum's multisig has caused users to lose access to funds. https://paritytech.io/blog/security-alert.html …	2017-11-07	0.0
+119	Don't worry guys, the original Ethereum chain is unaffected by the Parity disaster. #EthereumClassic	2017-11-07	0.1625
+120	All the wallets deployed by #WHG are safe. #Parity continued using a not widely audited version of the #multisig . #ethereum	2017-11-07	0.275
+121	2nd vulnerability found in the Parity multi-sig contract - shows just how easy it is to mess up even the simplest contracts in Ethereum. 	2017-11-07	0.08611111111111112
+122	Immutable smart contracts = software that can't update. This means you have to get it perfect the first time or you're screwed. #Ethereum	2017-11-07	0.4880952380952381
+123	Update: To the best of our knowledge the funds are frozen & can't be moved anywhere. The total ETH circulating social media is speculative.	2017-11-07	0.3444444444444445
+124	$ETH usually goes up 5x after a big code vulnerability is discovered	2017-11-07	-0.125
+125	"Giveaway!!! 1 BTC to a lucky winner if we reach 1k followers! RT + Follow + Like.
+
+$BTC $ETH $NEO $RPX $ICX $WAN $ZRX $XRB $MOD $BMC $BAT"	2017-11-07	0.13888888888888887
+126	Though I should point out that not all ETH devs are incompetent - many know they're writing insecure crap. Which is worse: arguably fraud.	2017-11-07	-0.30999999999999994
+127	Follow our development progress and check out what the team is working on with our #Brass #Kanban board! #Ethereum https://trello.com/b/YL1qZ2pZ/brass-kanban …	2017-11-07	0.0
+128	inb4 Bailout Ethereum 2 	2017-11-07	0.0
+129	"So someone managed to _accidentally_ make _all_ Parity multisig wallets suicide: https://paritytech.io/blog/security-alert.html …
+
+Global shared state WTF people."	2017-11-07	-0.25
+130	It's a feature... stop ICOs from dumping their $ETH.	2017-11-07	0.0
+131	This @ParityTech thing is a feature not a bug! No one can dump! #Ethereum foundation plunge protection team out in full force! 	2017-11-07	0.4375
+132	Explain #blockchain? #Ethereum co-founder Joseph Lubin: P2P trusted system of the people, by the people, for the people #websummit @dovuapi	2017-11-07	0.0
+133	T-2 hours until the $STORM crowdsale! Make sure you use the same wallet address you used when registering (ERC-20 compatible ETH wallet) 	2017-11-07	0.25
+134	#LiveTree's Bounty Campaign is live! http://bit.ly/2yOmLjV  #blockchain #btc #eth #disruptive #contentcreation #decentralized #ico	2017-11-07	0.17045454545454544
+135	"WOLVES
+WE ARE STILL DOING A GIVEAWAY ONCE WE GET TO 6000 FOLLOWERS
+LIKE FOLLOW RETWEET TO WIN
+
+$SYS $QTUM $WINGS $BTS $MCO $LUN $LTC $ETH"	2017-11-07	0.8
+136	6 hours left to Participate in #BITSYNC #Presale #ICO, $BITC we're Extremely #Happy with the #Success! Thanks to all our #Supporters!! #ETH 	2017-11-07	0.371875
+137	"WE WILL BE GIVING AWAY 0.02 BTC ONCE WE HIT 1000 FOLLOWERS
+LIKE FOLLOW AND RETWEET TO WIN
+
+$BTC #Bitcoin $ETH $XRP $LTC $ZEC $NEO $XMR $BCH"	2017-11-07	0.8
+138	"Partnership Announcement: @StarbaseCo and @blocklancer Partner to Expand Business Solutions.
+
+https://publication.blocklancer.net/partnership-announcement-starbase-and-blocklancer-partner-to-expand-business-solutions-29a85f60d6a2 …
+
+#Ethereum #Blockchain #Bitcoin #TokenSale"	2017-11-07	0.0
+139	ICO is live now! The best price is available till Nov 12! Join ICO on http://lordmancer2.io  #ico #bitcoin #ethereum #tokensale #lordmancer	2017-11-07	0.5568181818181818
+140	"And we in #Papyrus is going to help them with that: https://www.wsj.com/articles/brands-look-to-take-back-some-digital-control-from-ad-agencies-1502883557 …
+#blockchain #adtech #ethereum"	2017-11-07	0.0
+141	VIDEO: What is the #Natural Asset Exchange? http://ow.ly/2FBz30gp3BB  #fintech #blockchain #bitcoin #ethereum #innovation #EARTH #environment	2017-11-07	0.1
+142	#BancorNetwork member @bitclave aims to eliminate ad service middlemen. Good luck! http://bit.ly/BitClaveBancor  #ethereum #SmartToken #crypto	2017-11-07	0.875
+143	"Why Bitcoin and Ethereum will soon be everywhere
+https://buff.ly/2y5HtfH 
+.
+.
+#bitcoin
+#ethereum "	2017-11-07	0.0
+144	More pilot partners are joining - especially from the #luxury sector https://www.authoreon.io/  #ICO #TokenSale #eth #InitialCoinOffering	2017-11-07	0.25
+145	"Will Vitalik’s ‘sharding’ proposal fix Ethereum’s scaling problems? - The Block 
+https://www.blockchaintechnology-news.com/2017/11/06/will-vitaliks-sharding-proposal-fix-ethereums-scaling-problems/ …
+
+#dapps #ethereum #blockchain"	2017-11-07	0.0
+146	"NEXT GIVEAWAY WHEN WE REACH 2000 FOLLOWER
+WORTH 0.05BTC
+
+$BTC $SYS $QTUM $LUN $LTC $ETH $ETC $NEO $DGB $DASH $STRAT $BNB $OMG $PAY $XRP $XMR"	2017-11-07	0.15
+147	Russia goes all in on mining $BTC & $ETH, due to cheap electricity & cold weather it is 10x more profitable than oil 	2017-11-07	0.04375000000000001
+148	"Ethereum's first multi smart contract application #Tokit is now Live (Tokit.io).
+#Artists & #creators from around the world can now #tokenize & launch projects & #TokenizedEcosystems
+
+ #Ethereum #Blockchain
+#CryptoArtist #Tokenomics
+
+Via @cnet_japan"	2017-11-07	0.2002164502164502
+149	"The http://blockchain.com  about #ARTEX #tokensale!
+
+#blockchain #ethereum #art #artmarket #investment #invest"	2017-11-07	0.0
+150	"ALERT
+
+Bittrex has released their official statement concerning #SegWit2x #B2X #Bitcoin 
+
+https://support.bittrex.com/hc/en-us/articles/115002603211 …
+
+
+$btc $eth $ltc #NO2X"	2017-11-07	0.0
+151	Bitcoin and Ethereum community couldn't be any more different Pt. 3 	2017-11-07	0.25
+152	"#CT_index special from The Cointelegraph:
+BTC - https://goo.gl/PUeVPn 
+ETH - https://goo.gl/zvFCvS 
+BCH - https://goo.gl/iEwbLW "	2017-11-07	0.35714285714285715
+153	Last of the double digits! 10 days to go till EARTH Pre-Sale, 17 November. Sign up now http://ow.ly/HV2S30gp3uZ  #fintech #blockchain #eth	2017-11-07	0.0
+154	Interview with Ashley from #LiveTree Adept on Disrupting Hollywood by @mike_boutwell1 http://bit.ly/2zyzvMt  #blockchain #btc #eth #ico	2017-11-07	0.6
+155	3 ETH to my 10,000th follower. Regardless the price. RT to save a life.	2017-11-07	0.0
+156	$ETH / KRW pair listed and is now open for trading.	2017-11-07	0.0
+157	"#airdrop
+Ethereum Grey
+Please add my ID as Referal: @CoinAirdrop
+Form :"	2017-11-07	-0.05
+158	We will soon announce one of the main EPL projects. Stay tuned. #ethereum #ethereumplatinum #epl #eplchallenge #eplfamily #eplworld	2017-11-07	0.16666666666666666
+159	#Binance Adds $VEN/BTC and VEN/ETH Trading Pairs	2017-11-07	0.0
+160	There is an exhilarating feeling you get when shipping working main-net #Ethereum dApps (that aren't tokens) in 2017. I dare you to try it.	2017-11-07	0.7
+161	"#BITSYNC #Presale #ICO $BITC Last Day 
+Still Time To Get 32% #BONUS
+#Ethereum #Blockchain #erc20Token
+#TheFutureOfExchange $BTC #Crypto"	2017-11-07	0.0
+162	Recommended read on @Medium: “The Ethereum Developer Essential Reading List:” 	2017-11-07	0.0
+163	HELLO EVERYONE! GOOD NEWS! PINKEXC MAKE A PROMOTION! BUY 15K LIFE & YOU'LL GET 1 ETH FOR FREE! Wow! Sounds great,right? SO, GET YOURS NOW! 	2017-11-07	0.5520833333333334
+164	"Let’s face it guys...whatever you hold - we’re all in this together. 
+
+#RichOrRekt #Crypto
+
+$brc $eth $omg $qtum $mtl $ubq $ltc $neo $strat"	2017-11-07	0.0
+165	"Announcing $ARK Core update ver. 1.0.2. For improved transaction broadcasting.
+https://steemit.com/blockchain/@arkecosystem/ark-core-update-v1-0-2-improved-transaction-handling …
+$BTC $ETH #dpos #blockchain #fintech"	2017-11-07	0.0
+166	"Is the #ether supply infinite? No.
+https://briandcolwell.com/2017/06/ethereum-delirium-the-big-list-of-things-you-should-know/.html … #ethereum #crypto #digital #virtual #currency #iot #fintech #payments #cloud"	2017-11-07	0.0
+167	Support the team and get SUBM tokens incredibly cheap. 0.001 ETH for 100 SUBM! 	2017-11-07	0.5
+168	Ethereum Wallet Status Pledges $1 Million for New Bug Bounty Program http://bit.ly/2z7mqXo  via @CoinDesk	2017-11-07	0.13636363636363635
+169	#DYK that #LiveTree features products of the day? Discover them here: http://bit.ly/2zSsliY  #blockchain #btc #eth #ico	2017-11-07	0.0
+170	#Spectreai in a nutshell http://bit.ly/2xZNTv6  #eth #btc #Trading #EliminateFraud #BlockchainTrading #BinaryOptions	2017-11-07	0.0
+171	#OysterProtocol featured on @bitGuru_ #ICO #Ethereum #Blockchain #IOTA http://bitguru.co.uk/take-a-look-at-oyster-powered-by-the-iota-tangle/ …	2017-11-07	0.0
+172	A Few Reasons to ADD #EncryptoTel TOKEN $ETT #Wavesplatform #Ethereum #eETT #wETT #Blockchain #Ethereumclassic #token $Waves	2017-11-07	-0.2
+173	12 HOURS TO GO.  Be careful.  Do NOT send in ETH until the sale officially begins.  http://stormtoken.com/tokensale 	2017-11-07	-0.1
+174	"$ETG pairs will be added later .
+
+http://exchange.ethereumgold.network 
+
+#ETG #ETH"	2017-11-07	0.0
+175	Planning an ICO and looking for alternatives to bounty campaigns and PPC? http://Www.foreground.io  #ETH $ETH #blockchain #icotools	2017-11-07	0.0
+176	"this is dedicated to all of those “you mad, going to cancun is dangerous, you could get kidnapped”
+#ethereum #devcon3"	2017-11-07	-0.6125
+177	"PRE - SALE : Checked!
+
+EtherDelta : Checked!
+
+CoinExchange : Coming Soon!
+
+http://www.zcashgold.net 
+
+#zcg #eth "	2017-11-07	0.0
+178	"@blocklancer is looking forward to the partnership with @StarbaseCo 
+
+#Blockchain #Ethereum #TokenSale #Bitcoin"	2017-11-07	0.0
+179	Partnership announcement with blocklancer, Starbase is focusing on funding & marketing for funding at the initial... http://fb.me/yxTGctk4 	2017-11-07	0.0
+180	"We are now LIVE on @etherdelta! 
+#eth $zcg #Crypto #EtherDelta #moon"	2017-11-07	0.17045454545454544
+181	"For Newbies: Guide on When to Buy or Sell. 
+#blockchain #cryptocurrency #fintech #trading #bitcoin #ethereum #poloniex #bittrex"	2017-11-07	0.0
+182	"I’ve seen the future of the web, and it's Ethereum
+{ author: @mveytsman }"	2017-11-07	0.0
+183	ETHLend Partnering with Bloom for Providing Credit Scores to Decentralized Lending! http://bit.ly/2yCji8J  #ETHLend #Bloom #Ethereum	2017-11-07	0.0
+184	1 Ether = 298.568 USD. Ether has changed by -0.609 USD in 30 mins. Live price: https://is.gd/OwDsdX  #ethereum #eth #cryptocurrency	2017-11-07	0.13636363636363635
+185	For a refreshing change - here's a easy to understand read on why #Ethereum was created 	2017-11-07	0.4666666666666667
+186	#Ethereum Price: USD $297.25 $ETH http://ow.ly/6UKf3048WBe 	2017-11-07	0.0
+187	#payments #fintech Ripio Closes $37 Million ICO for Ethereum Lending Network http://ow.ly/sDSU50f1UW4 	2017-11-07	0.0
+188	Can This 22-year-old Coder Out-Bitcoin #Bitcoin? http://dld.bz/eWMa7  #ethereum 	2017-11-07	0.0
+189	Stock markets record all-time highs amid Bitcoin crossing $7000 level #ethereum #eth #altcoin https://coinspectator.com/news/115361/stock-markets-record-all-time-highs-amid-bitcoin-crossing-7000-level …	2017-11-07	0.0
+190	Outlier Ventures Becomes Lead Investor In Botanic Technologies And Seed Tok... #ethereum #btc #ico #news https://coinspectator.com/news/115360/outlier-ventures-becomes-lead-investor-in-botanic-technologies-and-seed-token-to-decentralize-bot-creation-and-deployment …	2017-11-07	0.0
+191	"#ETH 24hr Summary:
+Last: $297.48
+High: $304.87
+Low: $292.00
+Change: 0.30% | $0.90
+Volume: $17,671,318.37
+$ETH #Ethereum #Pricebots"	2017-11-07	0.05333333333333334
+192	Contract to Contract Communication in Ethereum 	2017-11-07	0.0
+193	Bloom Partners with #ETHLend to make decentralized peer-to-peer lending a reality http://cur.lv/176w5g  #ethereum #crypto #reddit	2017-11-07	0.0
+194	New wallet code and mining with it!! #ethereum #mining https://www.instagram.com/p/BbLFNT0nPHK/ 	2017-11-07	0.2130681818181818
+195	Ethereum Classic Price Technical Analysis – ETC/USD Surges Above $13 	2017-11-07	0.05555555555555555
+196	Babbage Will Help Contract Designers Visualize Ethereum Functio... #bitcoin #crypto #fintech #technology https://coinspectator.com/news/115358/babbage-will-help-contract-designers-visualize-ethereum-functionality …	2017-11-07	0.0
+197	"Ethereum - ETH
+Price: $298.89
+Change in 1h: -0.41%
+Market cap: $28,564,296,472.00
+Ranking: 2
+#Ethereum #ETH"	2017-11-07	0.0
+198	"#Ethereum: Ether Price Index
+1 ETH =0.047166Ƀ XBT = $297.280000 USD
+Today: +5.61%⬆︎ Last 24h: +5.61%⬆︎
+https://cnhv.co/9wdt "	2017-11-07	0.0
+199	Total #crypto market cap is $194,113,294,023 USD #bitcoin #cryptocurrency $btc $eth #ethereum	2017-11-07	0.0
+200	@ #2, Ethereum with unit price of $298.89, market cap of $28,564,296,472 (14.74%), and 24 hr vol. of $579,359,000 (9.17%)	2017-11-07	0.0
+201	Ripio Closes $37 Million ICO for Ethereum Lending Network 	2017-11-07	0.0

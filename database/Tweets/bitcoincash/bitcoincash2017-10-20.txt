@@ -1,0 +1,45 @@
+	Tweets	date	polarity
+0	"Bitcoin Cash cheapest on Hitbtc BTC-market: $326.99 0.05481500BTC
+
+$BCHUSD #bitcoincash $bch $BCHBTC"	2017-10-20	0.0
+1	BTW, if you bought before the bitcoin cash fork, you can claim an equal amount of BCH at http://btc.com  and sell them for $300 ea.	2017-10-20	0.0
+2	"The smart money has already moved into #BitcoinCash.
+
+Those who truly derstand how bitcoin works ...
+
+recognize Bitcoin Cash’s value!"	2017-10-20	0.26785714285714285
+3	Bitcoin Cash Price Technical Analysis – BCH/USD Approaching Short-term Break 	2017-10-20	0.0
+4	Looks like someone put 10x the fees needed on some Bitcoin Cash transactions #bitcoin #bitcoincash #ethereum	2017-10-20	0.0
+5	This seems to be the primary strategy in bitcoin for those opposed to the satoshi vision. I'm getting sick of the us and them mentality. Thankfully there's now bitcoin cash. #BCH #SATOSHI #TTM	2017-10-20	-0.15714285714285714
+6	"When logic is not on your side, try: ""We can't let the greedy [real estate developers/drug companies/miners/capitalists] win!"""	2017-10-20	0.6
+7	"We are proud to announce that you can now exchange Bitcoin Cash (BCH) on our platform!
+
+Come and trade BCH on http://coinwale.com "	2017-10-20	1.0
+8	"""Bitcoin Cash is Bitcoin"" Thanks @rogerkver #rekt $BCH "	2017-10-20	0.2
+9	For every bitcoin you had before August 1st you also have the equivalent amount in Bitcoin Cash. Just import your keys into a BCC/BCH wallet	2017-10-20	0.0
+10	If you're asking if I'm going to buy, no. There's no guarantee Bitcoin Gold will go the same way Bitcoin Cash did. And BCH is fizzling	2017-10-20	0.0
+11	"Bitcoin Cash: $326.85
+ -0.75% (-$2.49)
+High: $333.97
+Low: $322
+Volume: 1989
+
+$BCC #BCC #bitcoincash"	2017-10-20	0.08
+12	#Analysis #Opinion #Trading #BCH #BCHUSD Bitcoin Cash Price Technical Analysis – BCH/USD Approaching Short-term… http://www.newsbtc.com/2017/10/20/bitcoin-cash-price-technical-analysis-bchusd-approaching-short-term-break/?utm_source=dlvr.it&utm_medium=twitter … pic.twitter.com/UWCNIQD9We	2017-10-20	0.0
+13	"Bitcoin Cash Price Technical Analysis – BCH/USD Approaching ...
+https://coinvedi.com/bitcoin-cash-price-technical-analysis-bchusd-approaching-short-term-break/ …
+#Bitcoin #Blockchain #Cryptocurrency #Ethereum"	2017-10-20	0.0
+14	#bitcoin Cash Price Technical Analysis  BCH/USD Approaching Short-term Break - NEWSBTC #BCH http://www.newsbtc.com/2017/10/20/bitcoin-cash-price-technical-analysis-bchusd-approaching-short-term-break …	2017-10-20	0.0
+15	World's first known Bitcoin Cash pizza transaction (0.15 BCH for 2 pizzas). /u/cranau paid 	2017-10-20	0.25
+16	"Bitcoin Cash Developers Propose New Address Format - http://thebitcoincash.org/bitcoincashnews/bitcoin-cash-developers-propose-new-address-format/ …
+#BitcoinCash #BitcoinNews"	2017-10-20	0.13636363636363635
+17	Bitcoin Jesus, Calvin Ayre Media Say Bitcoin Cash Is The Only Blockchain $BCH 	2017-10-20	0.0
+18	@rogerkver Bitcoin bling is back with Bitcoin cash accepted stickers.  http://bitcoinbling.com/  . And of course we take BTC and BCH 	2017-10-20	0.0
+19	@Jaxx_Support Hi! Is it true if I had Bitcoin reside last August 1 in Jaxx I could claim my BCH (Bitcoin CasH) even today?	2017-10-20	0.175
+20	"Shame: Charlie Lee blasts Bitcoin Cash for posing as BTC
+http://amp.gs/loKE 
+#hypecodes #blockchain #BTC #BitcoinCash #BCC #BCH #LTC"	2017-10-20	0.0
+21	"Shame: Charlie Lee blasts Bitcoin Cash for posing as BTC
+http://amp.gs/loK9 
+#hypecodes #blockchain #BTC #BitcoinCash #BCC #BCH #LTC"	2017-10-20	0.0
+22	World's first known Bitcoin Cash pizza transaction (0.15 BCH for 2 pizzas). /u/cranau paid 	2017-10-20	0.25

@@ -1,0 +1,88 @@
+	Tweets	date	polarity
+0	"Bitcoin Cash Accepted Here: $BCH $BCC 
+https://bitsonline.com/bitmain-accepting-bitcoin-cash/ …"	2017-10-04	0.0
+1	"Bitcoin Cash: $355.83
+ -10.79% (-$43.02)
+High: $403.50
+Low: $351
+Volume: 5496
+
+$BCC #BCC #bitcoincash"	2017-10-04	0.08
+2	"Bitcoin Cash: $361.39
+ -8.97% (-$35.61)
+High: $403.50
+Low: $351
+Volume: 5111
+
+$BCC #BCC #bitcoincash"	2017-10-04	0.08
+3	What’s happening to Bitcoin Cash? #BitcoinCash #BCH #Bitcoin $BCH $BTC	2017-10-04	0.0
+4	"Bitcoin Cash: $352
+ -11.86% (-$47.36)
+High: $403.50
+Low: $351
+Volume: 5416
+
+$BCC #BCC #bitcoincash"	2017-10-04	0.08
+5	"https://www.tradingview.com/chart/BCHUSD/MF839tZo-BCH-trough-an-ABC-correction-bottom-could-be-aroud-360/ …
+
+Bitcoin cash seems to have bottomed, expecting another suspicious pump considering the history of pumps 
+
+$bch $btc"	2017-10-04	0.0
+6	0.005 Bitcoin Cash *BCH* Direct to your *BCH* Wallet shipped within 24 hours! https://goo.gl/Kc9S6g 	2017-10-04	0.125
+7	Why Miners Are Mining #Bitcoin Cash $BCC $BCH $BTC – and Losing Money Doing It http://bit.ly/2iIhgwo  via @CoinDesk	2017-10-04	0.0
+8	#bitcoin Cash Price Technical Analysis  BCH/USD Facing Tough Challenge - NEWSBTC $BTC $ETH http://bit.ly/2ypBTUW 	2017-10-04	-0.19444444444444445
+9	"Bitcoin Cash (BCH)
+$371.71 (-6.64%) 
+0.08801220 BTC (-5.36%)"	2017-10-04	0.0
+10	I was part of the early Bitcoin Cash BCH grass root community. Extremely passionate community. 	2017-10-04	0.025
+11	Biased reporting also fails the general public. https://twitter.com/pesa_africa/status/915574991168655361 …	2017-10-04	-0.15
+12	@JihanWu Mister. when Bitcoin Cash Growing UP again? When Bitcoin Cash Up to $950 it's been almost 2 month BCH not growing UP again :(	2017-10-04	-0.75
+13	bitcoin cash gots the low fees $BCH #bitcoin	2017-10-04	0.0
+14	.@BITMAINtech Now Accepting Only Bitcoin Cash for Antminer Sales -  #bitcoin #bitcoincash #news	2017-10-04	0.0
+15	For more details about Bitcoin Cash (BCH), please visit http://bit.ly/2uda00I . Thank you.	2017-10-04	0.5
+16	Bitcoin Cash Price Technical Analysis - BCH/USD Breaks $400 - Key Points Bitcoin cash price continues to slide ... 	2017-10-04	0.0
+17	"PSA: Please use $BCH for #Bitcoin Cash. Stop crapping on some else's brand before Jamie Dimon launches a shitcoin with a ""BTC"" ticker symbol"	2017-10-04	0.0
+18	Bitcoin Cash Price Technical Analysis – BCH/USD Facing Tough Challenge http://cstu.co/9a3f17  $BTC $ETH #bitcoin #blockchain	2017-10-04	-0.19444444444444445
+19	#bitcoin Dips Under $4,200, Bitcoin Cash Sheds 10% - Newsline #BTC #BCH https://newsline.com/bitcoin-dips-under-4200-bitcoin-cash-sheds-10 …	2017-10-04	0.0
+20	#bitcoin Cash ($BCH) price is down -10.08% in the last 24h 	2017-10-04	-0.07777777777777779
+21	"Bitcoin Cash (BCH) looks like a great discount at $384. I expect it to be at least as valuable as BTC Bitcoin.
+
+12X current discount"	2017-10-04	0.16666666666666666
+22	Bitcoin Cash Price Technical Analysis – BCH/USD Breaks $400 - newsBTC http://dlvr.it/PsDf1J 	2017-10-04	0.0
+23	Bitcoin Cash Price Technical Analysis – BCH/USD Breaks $400 http://ift.tt/2xSXG4C  #bitcoin #blockchain #fintech	2017-10-04	0.0
+24	"Check out the best buy/sell price of Bitcoin Cash. (compared between 8 exchanges, source: DinoTrader)
+
+$BCHBTC #bitcoincash $BCHUSD $bch "	2017-10-04	1.0
+25	Poloniex #9 Market(2.76%) BCH/BTC - Bitcoin Cash Vol(24h):667.518 BTC / $2,879,590 - Price: $404.16 / 0.0936876 BTC	2017-10-04	0.0
+26	"Check out the best buy/sell price of Bitcoin Cash. (compared between 8 exchanges, source: DinoTrader)
+
+$BCHUSD $BCHBTC #bitcoincash $bch "	2017-10-04	1.0
+27	NovaExchange #13 Market(1.01%) BCH/BTC - Bitcoin Cash Vol(24h):4.217 BTC / $18,175 - Price: $392.21 / 0.091 BTC	2017-10-04	0.0
+28	NovaExchange #19 Market(0.63%) BCH/ETH - Bitcoin Cash Vol(24h):2.63285 BTC / $11,348 - Price: $397.35 / 0.092192 BTC	2017-10-04	0.0
+29	"Check out the best buy/sell price of Bitcoin Cash. (compared between 8 exchanges, source: DinoTrader)
+
+$bch $BCHBTC $BCHUSD #bitcoincash "	2017-10-04	1.0
+30	"Check out the best buy/sell price of Bitcoin Cash. (compared between 8 exchanges, source: DinoTrader)
+
+$BCHBTC #bitcoincash $bch $BCHUSD"	2017-10-04	1.0
+31	"Check out the best buy/sell price of Bitcoin Cash. (compared between 8 exchanges, source: DinoTrader)
+
+$BCHBTC $bch #bitcoincash $BCHUSD"	2017-10-04	1.0
+32	"Check out the best buy/sell price of Bitcoin Cash. (compared between 8 exchanges, source: DinoTrader)
+
+$BCHBTC $bch #bitcoincash $BCHUSD"	2017-10-04	1.0
+33	"Check out the best buy/sell price of Bitcoin Cash. (compared between 8 exchanges, source: DinoTrader)
+
+$BCHUSD #bitcoincash $bch $BCHBTC"	2017-10-04	1.0
+34	"Check out the best buy/sell price of Bitcoin Cash. (compared between 8 exchanges, source: DinoTrader)
+
+$BCHUSD $BCHBTC $bch #bitcoincash "	2017-10-04	1.0
+35	"Check out the best buy/sell price of Bitcoin Cash. (compared between 8 exchanges, source: DinoTrader)
+
+#bitcoincash $BCHUSD $bch $BCHBTC"	2017-10-04	1.0
+36	"Check out the best buy/sell price of Bitcoin Cash. (compared between 8 exchanges, source: DinoTrader)
+
+$BCHUSD $bch #bitcoincash $BCHBTC"	2017-10-04	1.0
+37	"Check out the best buy/sell price of Bitcoin Cash. (compared between 8 exchanges, source: DinoTrader)
+
+$BCHBTC $BCHUSD #bitcoincash $bch "	2017-10-04	1.0

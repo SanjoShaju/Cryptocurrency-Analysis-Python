@@ -1,0 +1,22 @@
+	Tweets	date	polarity
+0	"#BitcoinCash  #BCC  #BCH  #BITcoin #XRP
+
+BItcoin  Cash  Is Bitcoin  
+It's true "	2017-10-19	0.35
+1	Nothing attracts trolls like telling the truth.	2017-10-19	0.0
+2	Great list of Bitcoin Cash faucets: https://buff.ly/2xMZBG5  #BCH #Faucets	2017-10-19	0.8
+3	Bitcoin Cash Price Technical Analysis – BCH/USD Back To Square One 	2017-10-19	0.0
+4	 +2 Bitcoin Cash ($BCH) price is down -10.17% in the last 24h https://cryptopanic.com/news/361717/Bitcoin-Cash-BCH-price-is-down-1017-in-the-last-24h?utm_source=notifications&utm_medium=twitter&utm_campaign=Twitter+Trending … $BCH #bitcoin cash #cryptocurrency	2017-10-19	-0.07777777777777779
+5	Bitconnect token has $BCC ticker, Bitcoin cash is generally referred to as $BCH but can also be known as $BCC	2017-10-19	0.05000000000000002
+6	"Worst returns (24h):
+1. StellarOrg -20.2% $XLM
+2. FunFairTech -12.2% $FUN
+3. Bitcoin Cash -10.3% $BCH
+#blockchain… https://twitter.com/i/web/status/920809301538516992 ……"	2017-10-19	-0.35
+7	Bitcoin Cash Price Technical Analysis – BCH/USD Back To Square One - Altcoin Today #btc #crypto #alts #bcc	2017-10-19	0.0
+8	"Worst returns (24h):
+1. @StellarOrg -20.2% $XLM
+2. @FunFairTech -12.2% $FUN
+3. Bitcoin Cash -10.3% $BCH
+#blockchain #altcoins"	2017-10-19	-0.35
+9	What is the current progress of Bitcoin Cash? http://bit.ly/2x2MJvK  #Bitcoin #Cryptocurrency #Fork #BitcoinCash 	2017-10-19	0.0

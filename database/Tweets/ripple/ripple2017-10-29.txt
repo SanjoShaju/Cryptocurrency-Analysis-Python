@@ -1,0 +1,36 @@
+	Tweets	date	polarity
+0	"Will #Ripple reach $1000? 
+https://www.applancer.co/blog/will-ripple-reach-1000 …"	2017-10-29	0.0
+1	I *will* flatten the ripple out of those two softback books. 	2017-10-29	0.0
+2	~ a ripple ~ 	2017-10-29	0.0
+3	The wildfires' ripple effect on California schools, by @carolynjones100 http://theatln.tc/2zf1rob 	2017-10-29	0.0
+4	"Good news= nice #PROFIT 
+#OMG #BTC  #BAT  #NEO  #ETH 
+#XLM #DGB  #XVG #LBC #XRP #MTL #MCO #LSK https://twitter.com/elastic_coin/status/924586525798608897 …"	2017-10-29	0.6499999999999999
+5	Exciting times for Ripple and XRP!!! 	2017-10-29	0.5859375
+6	"https://twitter.com/elastic_coin/status/924586525798608897 …
+
+#XEL good project  
+
+$BTC $GLD $SYS $PIVX $XEL $MCO $POT $PAY $NEO $XRP $DOGE $STEEM"	2017-10-29	0.7
+7	"Make #PROFIT
+#XRP #OMG #btc #xrp #bat #xlm  https://twitter.com/GoldenSmophy/status/924650786088513537/photo/1pic.twitter.com/MFTsEwSJrv "	2017-10-29	0.0
+8	Ripple is directly related to #xrp .  Why are you so motivated to try and obscure this fact?	2017-10-29	0.0
+9	Ripple's business strategy is centered around #xrp's adoption.  Have you even visited their corporate website? 	2017-10-29	0.0
+10	Ripple River Art Print by Bonfire #Photography https://buff.ly/2xow5Hj 	2017-10-29	0.0
+11	"If #XRP ever crosses $10 
+That would be way too awesome!"	2017-10-29	1.0
+12	I've put that thought into a graph, to visualize some of #XRP's potential. 	2017-10-29	0.0
+13	A quick overview of #swellbyripple ! #XRP in position to grow rapidly! #xrpthestandard	2017-10-29	0.5208333333333333
+14	There were tons of great insights from #SwellbyRipple. We narrowed them down to the top three for you. https://ripple.com/insights/top-3-takeaways-swell/ …	2017-10-29	0.3814814814814815
+15	#BitcoinCash overtakes #Ripple as  third largest marketcap. $BCH	2017-10-29	0.0
+16	"Buy and hold! #Lomocoin #LoMoStar
+@LoMoStarLMC 
+
+$ETH $BTC $QTUM $XRP $MTL $LTC $XEM $NEO $XMR $BCH $PAY $DASH $OMG $PTOY $ETC $XEL $STRAT"	2017-10-29	0.0
+17	Is #Ripple the biggest Winner from Chinas Crypto Ban? #XRP #xrpthestandard https://www.profitconfidential.com/cryptocurrency/ripple/xrp-price-forecast-biggest-winner-china-crypto-ban/ …	2017-10-29	0.0
+18	Follow and retweet for best blog ever! @Ripple $XRP #xrpthestandard #XRP #XRPBeliever #XRPStreetTeam     https://xrphodor.wordpress.com/2017/10/29/crystal-ball-xrp-price-speculation/ …	2017-10-29	1.0
+19	My blog finally covers #xrp price speculation. I discuss: short-term, L-T, and utility-based estimates of xrp price: https://xrphodor.wordpress.com/2017/10/29/crystal-ball-xrp-price-speculation/ …	2017-10-29	0.0
+20	One person can make a difference... Do something positive! Have a ripple effect in the world. #SuperSoulSunday	2017-10-29	0.28409090909090906
+21	"The Hodor has spoken: If he’d used a % of SWIFT’s larger number, utility est. would’ve been roughly $12.60 per #XRP 
+https://xrphodor.wordpress.com/2017/10/29/crystal-ball-xrp-price-speculation/ …"	2017-10-29	-0.05

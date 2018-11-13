@@ -1,0 +1,33 @@
+	Tweets	date	polarity
+0	What about bitcoin cash $BCH?	2017-09-12	0.0
+1	What is the Difference Between Bitcoin and Bitcoin Cash? http://bitcoinafrica.io/2017/09/12/difference-between-bitcoin-and-bitcoin-cash/ … via @BitcoinAfricaio @RachaelOdhiambo #bitcoin #bitcoincash 	2017-09-12	0.0
+2	Ripple, Bitcoin Cash Price Analysis – XRP BCH against the USD Prediction @EtherWorldNews	2017-09-12	0.0
+3	Bitcoin Cash -note design light green https://www.redbubble.com/people/opheliafu/works/28007838-bitcoin-cash-note-design-light-green?p=t-shirt … via @redbubble #bch #bcc #bitcoincash #bitcoin	2017-09-12	0.1
+4	Elliott Wave Theory suggests that $BCH (Bitcoin Cash) will make a 3rd wave extension to be worth 0.5 BTC, or around $2,000 soon.	2017-09-12	0.15
+5	IG Bringing #Bitcoin, #Bitcoin Cash and #ETHEREUM CFD Trading to the Mainstream #Blockchain #BTC #bch #BCC #Eth	2017-09-12	0.0
+6	☞ Bitcoin Cash Price Technical Analysis – BCH/USD Failed Upside Attempt http://ift.tt/2eRqKAy  #bitcoin	2017-09-12	-0.25
+7	"Bitcoin Cash: $558.00
+ -4.40% (-$25.66)
+High: $591.01
+Low: $551.00
+Volume: 2038
+
+$BCC #BCC #bitcoincash"	2017-09-12	0.08
+8	Ep. #556- Crypt0s News- Fork Day Edition BCH #bitcoin Cash + BTC Bitcoin PART 1 http://hellogeneration.com/2017/09/12/ep-556-crypt0s-news-fork-day-edition-bch-bitcoin-cash-btc-bitcoin-part-1 …	2017-09-12	0.0
+9	What is the Difference Between #bitcoin and Bitcoin Cash? - BitcoinAfrica.io #bitcoincash http://bitcoinafrica.io/2017/09/12/difference-between-bitcoin-and-bitcoin-cash …	2017-09-12	0.0
+10	Bitcoin Cash Price Technical Analysis – Can BCH/USD Recover? - 	2017-09-12	0.0
+11	"RT StakepoolCom ""Bitcoin Cash Price Technical Analysis – BCH/USD Failed Upside Attempt Check it out! http://ift.tt/2wlJ0IG  #cryptocurren…"	2017-09-12	-0.3125
+12	Bitcoin Cash is Terrifying, the fork of the Electrum Wallet for Bitcoin Cash https://www.fresherblock.com/s/c4calc/bitcoin_cash_is_terrifying_jonald … #bitcoincash #blockchain #crypto	2017-09-12	-1.0
+13	"Bitcoin Cash cheapest on Poloniex BTC-market: $551.80 0.13000000BTC
+
+#bitcoincash $bch $BCHUSD $BCHBTC"	2017-09-12	0.0
+14	Its big pleasure for Luckygames first Bitcoin Cash casino to announce 7+ BCH Giveaway for the upcoming 5,000,000,0… 	2017-09-12	0.125
+15	"Bitcoin Cash cheapest on Cryptopia LTC-market: $553.53 0.13073192BTC
+
+$BCHUSD #bitcoincash $BCHBTC $bch"	2017-09-12	0.0
+16	Ripple, Bitcoin Cash Price Analysis – XRP BCH against the USD Prediction - Ethereum World News (blog) http://ift.tt/2w2EyDs 	2017-09-12	0.0
+17	Poloniex #9 Market(2.90%) BCH/BTC - Bitcoin Cash Vol(24h):1150.35 BTC / $4,847,160 - Price: $556.20 / 0.132 BTC	2017-09-12	0.0
+18	Poloniex #10 Market(2.76%) BCH/USDT - Bitcoin Cash Vol(24h):1095.47 BTC / $4,615,900 - Price: $555.26 / 0.131777 BTC	2017-09-12	0.0
+19	"Bitcoin Cash cheapest on Cryptopia LTC-market: $546.54 0.13029820BTC
+
+$BCHBTC #bitcoincash $BCHUSD $bch"	2017-09-12	0.0

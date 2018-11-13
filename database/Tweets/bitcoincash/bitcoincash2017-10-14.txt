@@ -1,0 +1,41 @@
+	Tweets	date	polarity
+0	"Though you would enjoy this: ""Bitcoin cash is under attack from spam transactions… #bitcoin #ethereum #bitcoincash "	2017-10-14	0.4
+1	Cryptopia #16 Market(0.93%) BCH/BTC - Bitcoin Cash Vol(24h):4.76311 BTC / $27,542 - Price: $317.65 / 0.0549341 BTC	2017-10-14	0.0
+2	#RFEIF.org | Bitcoin Cash Price Technical Analysis – BCH/USD To Test $300? - NEWSBTC http://bit.ly/2yijwkD  #BTC #Bitcoin	2017-10-14	0.0
+3	.05 Bitcoin Cash BCH Longtime Trusted Seller! Transferred Free in 24 Hours! $32.00 via eBay http://ift.tt/2xFJY8c 	2017-10-14	0.5
+4	#fx #forex Bitcoin Cash Price Technical Analysis – BCH/USD Heading Lower Key Points Bitcoin cash price is http://binaryoptionsplatforms.co.uk/bitcoin-cash-price-technical-analysis-bchusd-heading-lower-2/ … #fx,#forex	2017-10-14	0.0
+5	"Bitcoin Cash cheapest on Poloniex BTC-market: $318.39 0.05586500BTC
+
+#bitcoincash $BCHUSD $bch $BCHBTC"	2017-10-14	0.0
+6	Chain Hopping Attack on #bitcoin Cash Network  http://Blockchaind.Net  #bch #bitcoincash https://blockchaind.net/chain-hopping-attack-bitcoin-cash-network …	2017-10-14	0.0
+7	Bitcoin on eBay: (.1 Bitcoin Cash (BCH) Virtual Currency Fast to ...) - http://bit.ly/2g9tDNU  #bitcoin #bAgile #blockchain #litecoin ...	2017-10-14	-0.275
+8	 +2 Exodus Now Supports Bitcoin Cash https://cryptopanic.com/news/278096/Exodus-Now-Supports-Bitcoin-Cash?utm_source=notifications&utm_medium=twitter&utm_campaign=Twitter+Trending … $BTC #bitcoin $BCH #bitcoin cash #cryptocurrency	2017-10-14	0.0
+9	"Exodus Now Supports Bitcoin Cash #BCH & Ethereum Classic #ETC
+https://www.exodus.io/releases/ "	2017-10-14	0.16666666666666666
+10	"RT TopFiveTraders ""RT StakepoolCom ""Exodus add Bitcoin Cash (BCH) and Ethereum Classic (ETC) Check it out! http://ift.tt/2xEJFL0  #crypto…"	2017-10-14	0.20833333333333331
+11	Bitcoin Cash Price Technical Analysis – BCH/USD Heading Lower http://frenzyforex.info/bitcoin-cash-price-technical-analysis-bchusd-heading-lower-2/ …	2017-10-14	0.0
+12	"Bitcoin Cash: $319
+ +0.95% (+$3.00)
+High: $327.00
+Low: $314.56
+Volume: 1868
+
+$BCC #BCC #bitcoincash"	2017-10-14	0.08
+13	"Bitcoin Cash cheapest on Hitbtc BTC-market: $319.54 0.05608200BTC
+
+$BCHUSD $BCHBTC #bitcoincash $bch "	2017-10-14	0.0
+14	Poloniex #10 Market(2.03%) BCH/BTC - Bitcoin Cash Vol(24h):493.396 BTC / $2,815,930 - Price: $324.14 / 0.056795 BTC	2017-10-14	0.0
+15	Poloniex #14 Market(1.07%) BCH/USDT - Bitcoin Cash Vol(24h):260.502 BTC / $1,486,750 - Price: $323.65 / 0.0567088 BTC	2017-10-14	0.0
+16	"According to Twitter, ""Bitcoin Cash / BCC (BCH)"" is about to Mo0n or currently going to the Mo0n! #DYOR"	2017-10-14	0.0
+17	"Chain Hopping Attack on Bitcoin Cash Network
+https://blockchaind.net/chain-hopping-attack-bitcoin-cash-network/ …
+#bch #bitcoincash"	2017-10-14	0.0
+18	Exodus Now Supports #bitcoin Cash #cryptocurrency $BTC $BCH 	2017-10-14	0.0
+19	"RT StakepoolCom ""Exodus add Bitcoin Cash (BCH) and Ethereum Classic (ETC) Check it out! http://ift.tt/2xEJFL0  #cryptocurrency #steem #bl…"	2017-10-14	0.20833333333333331
+20	"Mobi Bitcoin wallet now supports LTC, ETH, Bitcoin Cash
+http://amp.gs/l0dY 
+#hypecodes #blockchain #Mobi  #BTC #LTC #ETH #BCC #BCH "	2017-10-14	0.0
+21	"Mobi Bitcoin wallet now supports LTC, ETH, Bitcoin Cash
+http://amp.gs/l0dm 
+#hypecodes #blockchain #Mobi #BTC #LTC #ETH #BCC #BCH "	2017-10-14	0.0
+22	#fx #forex Bitcoin Cash Price Technical Analysis – BCH/USD Heading Lower Key Points Bitcoin cash price is http://binaryoptionsplatforms.co.uk/bitcoin-cash-price-technical-analysis-bchusd-heading-lower-2/ … #fx,#forex	2017-10-14	0.0

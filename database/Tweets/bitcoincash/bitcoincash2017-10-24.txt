@@ -1,0 +1,43 @@
+	Tweets	date	polarity
+0	"Bitcoin Cash: $323
+ +4.19% (+$13.00)
+High: $336.80
+Low: $300.10
+Volume: 4678
+
+$BCC #BCC #bitcoincash"	2017-10-24	0.08
+1	Bitcoin Cash will enable Bitcoin killer apps like OpenBazaar to flourish. #p2p #BCH	2017-10-24	0.0
+2	Vote for the real bitcoin - bitcoin cash $bch $bcc	2017-10-24	0.2
+3	Pick a third coin to be accepted on Token Market! https://governance.msp.cx/  $LTC $DASH $ZEC $NEO $BCH 	2017-10-24	0.0
+4	Bitcoin Cash Price Forecast: Can BCH/USD Break This? - Cryptos R Us 	2017-10-24	0.0
+5	Money is best thought of as a shared delusion, an unspoken fraudulent compact between the rich and the poor, ascribing value to worthless tokens in return for the illusion of societal security. That is, Until Bitcoin Cash.  #BCH - (Fiction by Anthony Ryan, Legion of Flame)	2017-10-24	0.04374999999999998
+6	#bitcoin Gold hard fork activates, Bitcoin Cash announces update #BitcoinGold #BitcoinCash https://qoinbook.com/news/bitcoin-gold-hard-fork-activates-bitcoin-cash-announces-update …	2017-10-24	-0.2916666666666667
+7	Largest alt position right now is Bitcoin Cash $BCH $BCC	2017-10-24	0.2857142857142857
+8	"Bitcoin Cash cheapest on Novaexchange BTC-market: $320.59 0.05600000BTC
+
+$BCHBTC $BCHUSD $bch #bitcoincash "	2017-10-24	0.0
+9	Bitcoin Cash Price Technical Analysis – BCH/USD Holding Key Support http://ift.tt/2ivcrXG  #bitcoin #blockchain #fintech	2017-10-24	0.0
+10	And obviously I was referring to Bitcoin Cash (BCH). There are a lot of us that want to use Bitcoin for payments, and scale on chain.	2017-10-24	0.0
+11	In short BCH is an altcoin called bitcoin cash. Certain people didn't like the direction of bitcoin (BTC) so they forked off and created BCH	2017-10-24	0.10714285714285714
+12	"Bitcoin Cash: $328
+ +5.81% (+$18.00)
+High: $336.80
+Low: $300.10
+Volume: 4758
+
+$BCC #BCC #bitcoincash"	2017-10-24	0.08
+13	#bitcoin Cash Price Forecast: Can BCH/USD Break This? - Cryptos R Us #BCH #BCH/USD http://bitcoinagile.com/147E69D/bitcoin-cash-price-forecast-can-bchusd-break-this-cryptos-r-us_stream …	2017-10-24	0.0
+14	bitcoin will also get rekt. Every crypto currency except Bitcoin Cash is doomed  millions of bch has been accumulated on this downtrend	2017-10-24	0.0
+15	#bitcoin Cash Price Technical Analysis – BCH/USD Holding Key Support http://cur.lv/171395  #bitcoin	2017-10-24	0.0
+16	Bitcoin Cash Price Technical Analysis – BCH/USD Holding Key Support http://www.newsbtc.com/2017/10/24/bitcoin-cash-price-technical-analysis-bchusd-holding-key-support/ …	2017-10-24	0.0
+17	"Bitcoin Cash cheapest on Coinexchange BTC-market: $315.03 0.05510000BTC
+
+$BCHUSD $BCHBTC $bch #bitcoincash "	2017-10-24	0.0
+18	Does #bitcoin Cash Difficulty Algorithm need changing? #BTC #BCH $BTC $BCH https://coingeek.com/does-bitcoin-cash-difficulty-algorithm-need-changing …	2017-10-24	0.0
+19	"Bitcoin Cash cheapest on Coinexchange BTC-market: $308.37 0.05509000BTC
+
+#bitcoincash $bch $BCHUSD $BCHBTC"	2017-10-24	0.0
+20	Oh no ... the last thing he needs is a wider audience to confuse people. I hope he didn't promote Bitcoin Cash. Trend for $BCH is down.	2017-10-24	-0.07777777777777779
+21	"Bitcoin Cash cheapest on Bittrex BTC-market: $299.01 0.05169998BTC
+
+$bch $BCHUSD $BCHBTC #bitcoincash "	2017-10-24	0.0

@@ -1,0 +1,25 @@
+	Tweets	date	polarity
+0	Just setup Bitcoin Cash payments on my store. Items range from $0.5 to $1.5, so the… #bitcoin #bitcoincash #ethereum	2017-09-22	0.0
+1	OMNI Decentralized Exchange on Bitcoin Cash #bitcoin #bitcoincash #ethereum http://youtu.be/pzsY0SvUW3Q 	2017-09-22	0.0
+2	"BCC is BitConnect Coin
+BCH is Bitcoin Cash"	2017-09-22	0.0
+3	Help, I Just Sent Bitcoin Cash to a #BTC Address! Can I Get It Back? l #help #bitcoin #BitcoinCash #today	2017-09-22	0.0
+4	Bitcoin Cash $BCash $BCC $BCH is getting added to bitstamp by the end of september. Its very low right now but won't be for long 	2017-09-22	0.07857142857142857
+5	Bitcoin Core = Edison, while Bitcoin Cash = Tesla, Let's not allow History to… #bitcoin #bitcoincash #ethereum	2017-09-22	0.0
+6	But you call #BitcoinCash as bcash, also beat bitcoin cash in every opportunity you have here in tweeter where there is no moderation...	2017-09-22	0.0
+7	Check. #Bitcoin #Cash Price #Technical Analysis – BCH/USD Dives Once Again - NEWSBTC http://www.newsbtc.com/2017/09/22/bitcoin-cash-price-technical-analysis-bchusd-dives/ … #tech #digital #data #business	2017-09-22	0.0
+8	Bitcoin cash cheaper fees and faster speed #BTC, I don't understand why people accept the loss more money but feel fun. #BCH, #BCC	2017-09-22	0.4
+9	Of course not. A better challenge would be betting bitcoin cash will be a top 3 coin in 2 years, Roger won't offer that up now will he $BCH?	2017-09-22	0.125
+10	Bitcoin Core = Edison, while Bitcoin Cash = Tesla, Let's not allow History to… #bitcoin #bitcoincash #ethereum	2017-09-22	0.0
+11	Ledger Nano S - #bitcoin  Bitcoin Cash  #ethereum  LTC  Ripple - READY TO SHIP #bitcoincash http://bitcoinagile.com/1339533/ledger-nano-s-bitcoin-bitcoin-cash-ethereum-ltc-ripple-ready-to-ship_stream …	2017-09-22	0.2
+12	Daily Ripple Price Forecast and Analysis: XRP Could Eclipse #bitcoin Cash #XRP #Ripple #BCH https://www.profitconfidential.com/cryptocurrency/ripple/daily-ripple-price-forecast-and-analysis-xrp-could-eclipse-bitcoin-cash …	2017-09-22	0.0
+13	Bitcoin Cash Price Technical Analysis – BCH/USD Dives Once Again #Cryptocurrency http://www.newslocker.com/en-us/news/cryptocurrency/bitcoin-cash-price-technical-analysis-bchusd-dives-once-again/ …	2017-09-22	0.0
+14	Bitcoin Cash just locked in an Emergency Difficulty Adjustment (I think see text). BTC is 39.8% more profitable to mine than BCH. Miners sw…	2017-09-22	0.5
+15	"Bitcoin Cash cheapest on Hitbtc BTC-market: $418.85 0.11578800BTC
+
+$BCHUSD $bch $BCHBTC #bitcoincash"	2017-09-22	0.0
+16	Poloniex #7 Market(3.79%) BCH/USDT - Bitcoin Cash Vol(24h):1694.58 BTC / $6,195,290 - Price: $420.78 / 0.115096 BTC	2017-09-22	0.0
+17	Poloniex #10 Market(2.50%) BCH/BTC - Bitcoin Cash Vol(24h):1119.16 BTC / $4,091,580 - Price: $424.21 / 0.116034 BTC	2017-09-22	0.0
+18	"Bitcoin Cash cheapest on Poloniex USDT-market: $416.06 0.11544293BTC
+
+$BCHUSD #bitcoincash $bch $BCHBTC"	2017-09-22	0.0

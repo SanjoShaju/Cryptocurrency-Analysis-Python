@@ -1,0 +1,22 @@
+	Tweets	date	polarity
+0	Roger, I didn't include you initially b/c I thought you were focused on Bitcoin Cash now. Speaking of which, no BCH blocks in 6 hours. 	2017-09-29	0.0
+1	"Bitcoin Cash: $438.09
+ -4.56% (-$20.91)
+High: $462.05
+Low: $428.50
+Volume: 4487
+
+$BCC #BCC #bitcoincash"	2017-09-29	0.08
+2	They are accepting BCH (bitcoin cash) not BCC (bitcoin connect). Having a slow website is one thing, asking for the wrong currency is crazy.	2017-09-29	-0.4666666666666666
+3	Bitcoin Cash (BCH) Exchange -  http://www.goldxcash.net 	2017-09-29	0.0
+4	"https://news.bitcoin.com/indias-multi-currency-exchange-will-list-bitcoin-cash-in-two-weeks/ …
+India’s Multi-Currency Exchange Will List Bitcoin Cash in Two Weeks $btc $bch $bcc"	2017-09-29	0.0
+5	Bitcoin Cash Price Technical Analysis – BCH/USD Reaching Support - newsBTC http://dlvr.it/PrCMkq 	2017-09-29	0.0
+6	Bitcoin Cash Mixer: Privcoin #bitcoin #bitcoincash #ethereum	2017-09-29	0.0
+7	Bcash is a despective term, Bitcoin Cash is the correct one to refer to BCC or BCH	2017-09-29	0.0
+8	Bitcoin Cash Price Technical Analysis – BCH/USD Reaching Support http://www.newsbtc.com/2017/09/29/bitcoin-cash-price-technical-analysis-bchusd-approaching-support-3/ …	2017-09-29	0.0
+9	Bitcoin Cash Price Technical Analysis – BCH/USD Reaching Support http://ift.tt/2fVVl0V  #bitcoin #blockchain #fintech	2017-09-29	0.0
+10	#bitcoin Cash Price Technical Analysis  BCH/USD Reaching Support - NEWSBTC #blockchain #BCH http://bitcoinagile.com/137647E/bitcoin-cash-price-technical-analysis-bchusd-reaching-support-newsbtc_stream …	2017-09-29	0.0
+11	Poloniex #9 Market(2.25%) BCH/BTC - Bitcoin Cash Vol(24h):1268.45 BTC / $5,237,090 - Price: $451.87 / 0.109445 BTC	2017-09-29	0.0
+12	Poloniex #10 Market(2.14%) BCH/USDT - Bitcoin Cash Vol(24h):1210.25 BTC / $4,996,780 - Price: $446.93 / 0.108249 BTC	2017-09-29	0.0
+13	@Bitstamp Please support Bitcoin Cash trading.I strongly believe BitcoinCash is a better fork of Bitcoin.I have no use for Bitstamp w/out it	2017-09-29	0.4666666666666667

@@ -1,0 +1,42 @@
+	Tweets	date	polarity
+0	"#BitcoinCash is now available in the @Blockchain Wallet
+
+""store, exchange, & send Bitcoin Cash""
+
+https://blog.blockchain.com/2017/10/11/bitcoin-cash-bch/ … #BCH #BCC #bitcoin"	2017-10-11	0.4
+1	IOTA Analysis: In Phase with Bitcoin Cash (BCH)...This blogs contains the details.	2017-10-11	0.0
+2	"Speaking of history. Here's a look at the price history of $BCH. Looking a bit rough 
+
+Remember; ""Bitcoin Cash is not Bitcoin"" - Jihan Wu "	2017-10-11	-0.1
+3	Bitcoin Cash Price Technical Analysis – BCH/USD Reversing Losses - NEWSBTC http://www.newsbtc.com/2017/10/10/bitcoin-cash-price-technical-analysis-bchusd-reversing-losses/#trading …  #bitcoin #indices #commodities	2017-10-11	0.0
+4	Bitcoin Cash Price Technical Analysis – BCH/USD Break Looks Real #blockchain http://cmun.it/HsYk0D 	2017-10-11	0.1
+5	"You think Bitcoin Gold will be like Bitcoin Cash and you will get easy and free money, but no.
+BitcoinCash injected 1,8 billion from the air"	2017-10-11	0.4166666666666667
+6	Bitcoin Cash Price Technical Analysis – BCH/USD’s Perfect Failure #Cryptocurrency http://www.newslocker.com/en-us/news/cryptocurrency/bitcoin-cash-price-technical-analysis-bchusds-perfect-failure/ …	2017-10-11	0.22777777777777777
+7	Bitcoin Cash BCH http://ift.tt/29GDCpw  Bitcoin Cash BCH detailed chart cryptocurrency price developments in the currency CZK. Year chart. 	2017-10-11	0.4
+8	"Worst returns (24h):
+1. @MobileGoIco -9.4% $MGO
+2. Moeda Loyalty Points -8.5% $MDA
+3. Bitcoin Cash -6.6% $BCH
+#blockchain #altcoins"	2017-10-11	-1.0
+9	The #CryptoBar: What Is Bitcoin Cash? How is it different from Bitcoin? @georgelevy #bitcoin #bitcoincash #education	2017-10-11	0.0
+10	Bitcoin Cash: Investment Thesis $BCC / $BCH 	2017-10-11	0.0
+11	"Blockchain: Bitcoin Cash is now available in the Blockchain Wallet http://ift.tt/2gvXOiQ 
+
+Since the Bitcoin Cash (BCH) hard fork activat… "	2017-10-11	0.05416666666666667
+12	Good news: we've added support for Bitcoin Cash ($BCH). Transaction count, transaction value, inflation, NVT, and more.	2017-10-11	0.6
+13	#bitcoin Cash Price Dips Below $325 Again as Bearish Sentiment Continues #BTC #BCH $BTC http://bit.ly/2g0MfQ9 	2017-10-11	0.0
+14	Bitcoin Cash Price Technical Analysis – BCH/USD's Perfect Failure: Key Points Bitcoin cash pric.. #Bitcoin #News	2017-10-11	0.17083333333333334
+15	#Bitcoin Cash Price Technical Analysis – BCH/USD’s Perfect Failure https://goo.gl/ZzrtqU  https://twitter.com/BitcoinWrld/status/917965219778957312/photo/1pic.twitter.com/IG9pBEaC7K 	2017-10-11	0.22777777777777777
+16	"Bitcoin Cash cheapest on Bittrex BTC-market: $314.90 0.06647500BTC
+
+#bitcoincash $BCHUSD $bch $BCHBTC"	2017-10-11	0.0
+17	Bitcoin Cash Price Technical Analysis – BCH/USD’s Perfect Failure 	2017-10-11	0.22777777777777777
+18	#bitcoin Cash Price Technical Analysis  BCH/USDs Perfect Failure - NEWSBTC #blockchain #BCH http://www.newsbtc.com/2017/10/11/bitcoin-cash-price-technical-analysis-bchusds-perfect-failure …	2017-10-11	0.22777777777777777
+19	"Bitcoin Cash cheapest on Cryptopia BTC-market: $312.75 0.06549848BTC
+
+$bch $BCHUSD $BCHBTC #bitcoincash "	2017-10-11	0.0
+20	Cryptopia #14 Market(0.98%) BCH/BTC - Bitcoin Cash Vol(24h):7.92072 BTC / $37,725 - Price: $312.82 / 0.0656798 BTC	2017-10-11	0.0
+21	"Bitcoin Cash cheapest on Hitbtc BTC-market: $318.08 0.06674600BTC
+
+$BCHBTC #bitcoincash $bch $BCHUSD"	2017-10-11	0.0

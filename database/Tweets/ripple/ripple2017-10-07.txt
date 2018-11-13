@@ -1,0 +1,34 @@
+	Tweets	date	polarity
+0	You say shitcoin. I say ripple.	2017-10-07	0.0
+1	My target for $XRP is $1 	2017-10-07	0.0
+2	Buying ripple as much as I can right now.	2017-10-07	0.24285714285714285
+3	"GIVEAWAY - 1 ETH to winner! Follow, like and RT 
+
+ICO Oct 9th! 
+
+$crypto $BTC $ETH $etc  $Dash $XRP $bch $ltc  $NEO $XMR $BCC $omg $xem $lsk"	2017-10-07	0.0
+4	It almost feels like ripple is on a launch pad right now  $XRP	2017-10-07	0.2857142857142857
+5	I'm going live in 15 minutes, this will be fun! $LTC $BTC $VTC $XRP $ETH	2017-10-07	0.2556818181818182
+6	On this day in 1988, Charlie Nicholas' late winner against the now defunct Rangers is met with a ripple of genteel applause in the home end. 	2017-10-07	-0.3
+7	"Long $XRP $ETH $BTC and small caps
+
+Holding some midcaps (eg $ARDR) at good entries / support, but focus is on big 3 and small caps."	2017-10-07	0.029999999999999992
+8	$WTC will be listed on HitBTC on Oct 11, 2017, Top 5 exchanges in the world! @Waltonchain       $LMC $NEO $BTC $XRP $KNC $OMG $ETH $EXP $PAY	2017-10-07	0.625
+9	"$xrp hate and love realtionship 
+im in you know  "	2017-10-07	-0.15000000000000002
+10	I've been considering starting a #ripple meet up for the #XRPstreetTeam. If we can get enough people together we could help it grow. $XRP	2017-10-07	0.0
+11	"I think kindness is 
+You never know the impact something simple can have on someone's life. Ripple affect. 
+Happy Saturday  "	2017-10-07	0.4
+12	Look what can happen when $XRP crosses the 100day MA. Their event #swellbyripple will take place in 10 days. all about the money.	2017-10-07	0.0
+13	Probably one of the smartest 10 year old's out there! #Ripple 	2017-10-07	0.125
+14	"When 10yo’s invest in crypto, they turn into walking billboards, haha. 
+#xrpthestandard $XRP "	2017-10-07	0.2
+15	Seriously think $XRP could be the real deal. Instant global payment settlement is no small thing. With institutional backing this is 	2017-10-07	-0.0016666666666666607
+16	Ripple, Ethereum Prices Help Market Shake Off Mid-Week Slump 	2017-10-07	0.0
+17	@ripple #xrp #xrpthestandard for reference of what project ubin is http://www.mas.gov.sg/~/media/ProjectUbin/Project%20Ubin%20%20SGD%20on%20Distributed%20Ledger.pdf …	2017-10-07	0.0
+18	#XRP headed toward its nnext roadblock. Volume is coming strong and support has been found at the current $0.23 level! 	2017-10-07	0.21666666666666665
+19	"Must say my --- OVERNIGHT FORECAST --- Was right on the $$$ #money #XRP #RIPPLE $XRP #xrpthestandard https://twitter.com/ToshiDesk/status/916476911374798849 …
+#rippleswell !!"	2017-10-07	0.4464285714285714
+20	"There's however another big flaw i/t SWIFT ntwrk where @ripple manages 2 score true Knock out blow. #xrpthestandard
+https://techcoins.org/archives/ripple-will-replace-swift/ …"	2017-10-07	0.175

@@ -1,0 +1,37 @@
+	Tweets	date	polarity
+0	I'm buying more $XRP don't judge me	2017-10-09	0.5
+1	Lmaooo at that $xrp drop	2017-10-09	0.0
+2	"$XRP gunna b ok
+
+!RemindMe 6 months"	2017-10-09	0.625
+3	"Every selfless act you do has a ripple effect. 
+
+Make someone's day today "	2017-10-09	0.0
+4	#RIPPLE #XRP $XRP $Ripple  Can we expect any significant announcements during the SWELL event? 	2017-10-09	0.375
+5	#RIPPLE #XRP $XRP @Ripple  Buy & Hold ! 	2017-10-09	0.0
+6	The ripple effect for this one is going to be huge. Do you think espn did the right thing? 	2017-10-09	0.34285714285714286
+7	BREAKING: ESPN suspends Jemele Hill 2 weeks for breaking its social media rules after tweets about boycotting Cowboys, advertisers.	2017-10-09	0.03333333333333333
+8	"$XRP article coming tomorrow
+
+#hype"	2017-10-09	0.0
+9	You panic sold? YOU LOSE SUCKAAAAA $LTC $BTC $VTC $XRP	2017-10-09	0.0
+10	PSA: last giveaway was botched. Winner did not know how to read. Follow+Like+RT. So he only got half.  This time, no exceptions. 	2017-10-09	-0.05555555555555555
+11	“Corker's brutal assessment of Trump's fitness for office ... also landed like a thunderclap” inside WH & aides feared “ripple effects”	2017-10-09	-0.875
+12	"""The irreparable harm done by rescinding DACA will impact Texas greatly and ripple throughout the nation."" http://huffp.st/qFbYV92 "	2017-10-09	0.8
+13	"I think we are going to be in the ""dinosaurs adapt or die"" phase very soon. Maybe we already are."	2017-10-09	0.2
+14	$Xrp said goodbye to weak hands today ... Hello to new wise investors.  #Ripple #xrpthestandard #Xrp	2017-10-09	0.15378787878787878
+15	Maybe I wouldn't hate Ripple so much if the logo wasn't a damn fidget spinner.	2017-10-09	-0.30000000000000004
+16	Quality content everytime!  Follow the one and only @Hodor7777 #xrp 	2017-10-09	0.0
+17	While others build walled gardens, #Ripple is connecting ledgers and blockchains. I discuss this in my latest blog: https://xrphodor.wordpress.com/2017/10/09/ripple-enabling-others-to-connect/ …	2017-10-09	0.5
+18	Must read from @Hodor7777, esp. for those who are misinformed about @Ripple's intentionally & consistency in creating open solutions. #xrp 	2017-10-09	0.0
+19	While others build walled gardens, #Ripple is connecting ledgers and blockchains. I discuss this in my latest blog: https://xrphodor.wordpress.com/2017/10/09/ripple-enabling-others-to-connect/ …	2017-10-09	0.5
+20	"NEXT 5 years:
+$SUB & $SNM to both go to 5-10$, $BTC to 15,000, $ETH to 1,000, $XRP to 5, and all my other Alts up %100 that's all I ask. "	2017-10-09	-0.0625
+21	Pride will cost them billions and then one morning they will say, Good Morning RIPPLE!!! 	2017-10-09	1.0
+22	"A Ripple/SWIFT alliance is the most logical step, but @swiftcommunity refuses, while banks continue to get hacked...
+https://www.xrpchat.com/topic/10341-if-swift-can-do-the-same-as-ripple-why-would-the-banks-jump-ship/?do=findComment&comment=103493 …"	2017-10-09	0.375
+23	"The best way to avoid being of a victim of a SWIFT hack, is to not use SWIFT. 
+
+Meet @Ripple. 
+#CyberSecurity #opsec #SIBOS #xrpthestandard"	2017-10-09	0.4625
+24	Which suggest access/key management was the issue, not SWIFT ledger.	2017-10-09	0.0

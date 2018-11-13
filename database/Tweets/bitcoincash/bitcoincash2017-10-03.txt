@@ -1,0 +1,33 @@
+	Tweets	date	polarity
+0	"that time when you predicted Bitcoin Cash - LIKE A BOSS
+@BitcoinCashFans #BitcoinCash #BCC #BCH "	2017-10-03	0.0
+1	In 10 years the global reserve currency will be some variation of $BTC backed by China's gold. #Bitcoin #cryptocurrency #China 	2017-10-03	0.0
+2	"adam3us: Google is your friend aka ""bitcoin cash"" or BCC or BCH. "	2017-10-03	0.0
+3	Bitcoin, Bitcoin Cash Hashrate chart https://bitinfocharts.com/comparison/hashrate-btc-bch.html#3m … #bitcoin #bitcoincash #cryptocurrency #segwit	2017-10-03	0.0
+4	Bitcoin Cash to be Airdropped on Students http://www.trustnodes.com/2017/10/03/bitcoin-cash-airdropped-students … #bitcoincash #bitcoinwallet	2017-10-03	0.0
+5	So your BCC/BCH (Bitcoin Cash) is not secure and have to keep away from BCC because the lack of network security?	2017-10-03	-0.2
+6	Pay any bill with #BitcoinCash Living room of Satoshi  #BCH #BCC #Bitcoin Cash (no fees) http://livingroomofsatoshi.com 	2017-10-03	0.0
+7	Bitcoin Cash Price Technical Analysis – BCH/USD Facing Tough Challenge http://dlvr.it/Ps27R1 	2017-10-03	-0.19444444444444445
+8	Overview of The Accept #Bitcoin Cash Initiative  #BCH #BCC #BitcoinCash  	2017-10-03	0.0
+9	BITCOIN CASH (BCH): High Lows on MACD & Lower Lows on Price Continue with a BULL FLAG!	2017-10-03	0.2
+10	"The Bitcoin Cash $BCH is the Trustless (safest) currency.
+$BTC code was drastically changed recently, very risky!"	2017-10-03	0.25
+11	"Bitcoin Cash dips below $400 . BCH/USD markets are experiencing a price fall greater than 5% in the past 24 hours
+
+https://cryptocoincharts.info/pair/bch/usd/bitfinex/today …"	2017-10-03	0.125
+12	Bitcoin Cash Price Technical Analysis – BCH&#47;USD Facing Tough Challenge: http://www.altcoincalendar.info/r/article/d5q 	2017-10-03	-0.19444444444444445
+13	Bitcoin Cash prediction | analysis Bitcoin cash BCH | USD price is forming a base near the $410 support area... 	2017-10-03	-0.35000000000000003
+14	Time for a BCH (Bitcoin Cash) pump? $BCCBTC http://www.tradingview.com/chart/BCCBTC/T2MxIVjL-Time-for-a-BCH-Bitcoin-Cash-pump/ … TV_TradingIdeas	2017-10-03	0.0
+15	Time for a BCH (Bitcoin Cash) pump? $BCCBTC	2017-10-03	0.0
+16	"Bitcoin Cash cheapest on Novaexchange BTC-market: $416.70 0.09487629BTC
+
+$BCHUSD $bch $BCHBTC #bitcoincash"	2017-10-03	0.0
+17	"Bitcoin Cash cheapest on Novaexchange BTC-market: $416.42 0.09487629BTC
+
+$BCHBTC $BCHUSD $bch #bitcoincash"	2017-10-03	0.0
+18	"Bitcoin Cash cheapest on Novaexchange BTC-market: $416.42 0.09487629BTC
+
+$bch #bitcoincash $BCHUSD $BCHBTC"	2017-10-03	0.0
+19	"Bitcoin Cash cheapest on Novaexchange BTC-market: $416.58 0.09476315BTC
+
+$BCHBTC $bch $BCHUSD #bitcoincash"	2017-10-03	0.0

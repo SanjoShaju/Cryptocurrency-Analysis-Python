@@ -1,0 +1,40 @@
+	Tweets	date	polarity
+0	"Team #Ripple
+Team #XRP 
+A year or two later...
+
+Team #Itoldyouso 
+
+#Crypto #cryptocurrency"	2017-09-22	0.0
+1	"Buy and Forget
+
+#Ripple #XRP
+
+#Ripple2019"	2017-09-22	0.0
+2	Is XRP About to Go Mainstream? https://xrphodor.wordpress.com/2017/09/21/is-xrp-about-to-go-mainstream/ … via @Hodor7777 #xrp #ripple #XRPthestandard #cryptocurrency #blockchain	2017-09-22	0.0
+3	@Ripple $XRP is the solution!  	2017-09-22	0.0
+4	When #Crypto bulls again, they'll be no stopping it. #XRP #ETH	2017-09-22	0.0
+5	GHS Poms rock the ripple! #Trojanpride #proudprincipal	2017-09-22	0.0
+6	"Along the boat fish gather
+Some jump with a shiver
+The color of your sound
+And the color of my ground
+Ripple through the water in the river. "	2017-09-22	0.4
+7	Right now #xrpthestandard has the most donations. All of you on the #xrp community rock. So proud to be a part of this.	2017-09-22	0.5285714285714286
+8	Welcome to @Ripple's $XRP Street Team! Please join to help spread the word about the best #cryptocurrency on the market! #ripple #altcoins	2017-09-22	1.0
+9	#XRPthestandard, @Ripple will place 55 billion #XRP into a secure Escrow account by the end of 2017.	2017-09-22	0.4
+10	Vote for #SenecaHELIX company @Ripple_Canada to win @ontariocolleges William G. Davies Innovation Fund! http://bit.ly/2wIzz7W  #Amazing50	2017-09-22	1.0
+11	"A simple act of caring creates an endless ripple ...
+
+Real Humanity ...
+https://youtu.be/hVLAN3IshKE "	2017-09-22	0.025000000000000005
+12	"What is the ripple effect of the Fed's balance sheet:  my thoughts with Yahoo Finance 9.21.17 
+https://finance.yahoo.com/video/dimartino-booth-janet-yellens-plan-205614921.html …"	2017-09-22	0.0
+13	"Who's involved with @Ripple's @w3c @Interledger workshop? Everyone..  #fintech #blockchain #payments 
+https://www.w3.org/community/interledger/ …"	2017-09-22	0.0
+14	Yes, these are performance metrics of a *public* ledger. #XRP #XRPledger	2017-09-22	0.0
+15	We're definitely aware of this. Turns out this page was a major contributor to the Data API outages, so we're modifying the code...	2017-09-22	0.15625
+16	XRPtips will match every $XRP donation 1:1 between now and Sept 25th at 5pm UTC up to 10,000 XRP, please give @bitso https://blog-en.bitso.com/bitcoinaidmexico-part-2-381118556cf7 …	2017-09-22	0.0
+17	I'll be at @TheShopIndy in Broad Ripple from 10-11AM tomorrow. They've got a lot of new @butleru gear and we're raising $ for #Project44!	2017-09-22	0.11647727272727272
+18	A year after Whole Foods opened in Englewood, a neighborhood boost, a ripple effect and lingering questions. http://trib.in/2yi5GLu 	2017-09-22	0.2
+19	Spreading the word of @Bankomo_app (https://bankomo.de ) and @Ripple both #Blockchain and #Interledger #ILP at Union Investment.	2017-09-22	0.0

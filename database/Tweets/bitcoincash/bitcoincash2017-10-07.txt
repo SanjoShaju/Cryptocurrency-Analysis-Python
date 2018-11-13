@@ -1,0 +1,36 @@
+	Tweets	date	polarity
+0	Bitcoin Cash (BCH) Withdrawals 	2017-10-07	0.0
+1	BITCOIN CASH (BCH) IS ABOUT TO EXPLODE....UPWARDS!! Power of Technical Analysis!!	2017-10-07	0.0
+2	Haters keep calling BCH the wrong thing. It is Bitcoin CASH. As far as I know nobody has made a bad movie about Bitcoin - yet #BCH #SegWit2x	2017-10-07	-0.36666666666666664
+3	Right after 2X fork, I will sell all of my 1X amd 2X BTC for Bitcoin Cash. #bch #btc	2017-10-07	0.2857142857142857
+4	"Bitcoin Cash: $356.55
+ -3.05% (-$11.21)
+High: $371.50
+Low: $355.30
+Volume: 764
+
+$BCC #BCC #bitcoincash"	2017-10-07	0.08
+5	.@BITMAINtech Now Accepting Only Bitcoin Cash for Antminer Sales -  #bitcoin #bitcoincash #Mining #China #news	2017-10-07	0.0
+6	#bitcoin Cash Slides to Three-Week Low Against the Dollar - Crypto Quick News #BCG #BCH http://www.cryptoquicknews.com/bitcoin-cash-slides-three-week-low-dollar …	2017-10-07	0.16666666666666666
+7	Bitcoin: Bitcoin Cash (BCH) Withdrawals Now Available on Gemini - http://cryptogeeks.com/bitcoin-bitcoin-cash-bch-withdrawals-now-available-gemini …	2017-10-07	0.4
+8	Bitcoin Cash Price Technical Analysis – BCH/USD Break Looks Real - NEWSBTC 	2017-10-07	0.1
+9	Oh so bitcoin cash isn't bitcoin then.   Because ver said the same thing about BCH.	2017-10-07	0.0
+10	The current chain is $BTC, the SegWit2X airdrop is $B2X and bitcoin cash is a $BCH	2017-10-07	0.0
+11	Bitcoin Cash withdrawal now live @Gemini. Gemini estimates a 5 day process. Steering my $BCH to Kraken. No update from @coinbase. WYD w BCH? 	2017-10-07	0.13636363636363635
+12	Bitcoin Cash (BCH) withdrawals are now available! Read more at: http://ow.ly/39rM30fIcz0  	2017-10-07	0.5
+13	$bch $bcc #BITCOlNCASH #bcash $crypto Reply To: Bitcoin Cash (BCH/BCC) Forecasts – October 2017 http://ift.tt/2gkq9bK 	2017-10-07	0.0
+14	Bitcoin Cash (BCH) withdrawals are now available! Read more at: http://ow.ly/39rM30fIcz0 	2017-10-07	0.5
+15	"Bitcoin cash $bcc $bch , is so mainstream now and so will bitcoin gold $btg be.
+#no2x"	2017-10-07	0.0
+16	"RT StakepoolCom ""BITCOIN CASH (BCH) IS ABOUT TO EXPLODE....UPWARDS!! Power of Technical Analysis!! Check it out! http://ift.tt/2ywNoKw  #…"	2017-10-07	0.0
+17	"Bitcoin Cash cheapest on Hitbtc BTC-market: $355.43 0.08164900BTC
+
+$BCHUSD $bch $BCHBTC #bitcoincash "	2017-10-07	0.0
+18	0.1 Bitcoin Cash (BCH) Virtual Currency Fast to your Wallet Trusted USA Seller https://goo.gl/E6PDjF 	2017-10-07	0.2
+19	Bitcoin Cash (BCH) Withdrawals Now Available on Gemini http://ift.tt/2fS8gQW  #reddit #bitcoin	2017-10-07	0.4
+20	$crypto #cryptosignal #trading $bch $bcc #BITCOlNCASH #bcash $crypto Reply To: Bitcoin Cash (BCH/BCC) Forecasts – … 	2017-10-07	0.0
+21	#bitcoin Cash BCH Withdrawals #BCash $BCH http://bit.ly/2ywtkaX 	2017-10-07	0.0
+22	#bitcoin Cash Price Technical Analysis  BCH/USD Remains Bearish - NEWSBTC #cryptocurrency http://rplg.co/915ee8b0 	2017-10-07	0.0
+23	Bitcoin Cash Price Technical Analysis – BCH/USD Remains Bearish http://cstu.co/43999c  #cryptocurrency $BTC $ETH	2017-10-07	0.0
+24	Poloniex #5 Market(4.98%) BCH/BTC - Bitcoin Cash Vol(24h):1070.77 BTC / $4,685,520 - Price: $364.43 / 0.0832826 BTC	2017-10-07	0.0
+25	Poloniex #15 Market(1.78%) BCH/USDT - Bitcoin Cash Vol(24h):381.34 BTC / $1,668,680 - Price: $362.78 / 0.0829046 BTC	2017-10-07	0.0

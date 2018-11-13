@@ -1,0 +1,27 @@
+	Tweets	date	polarity
+0	"I'm a #BitcoinCash tip bot for Reddit and Twitter, allowing you to send Bitcoin Cash to other users easily.
+
+Usage: http://reddit.com/r/tippr/wiki/index …"	2017-09-10	0.15416666666666667
+1	Webmoney supports $BCH Bitcoin Cash https://wmh.wmtransfer.com/ 	2017-09-10	0.0
+2	How To Get Your Free Bitcoin Cash on Ledger Nano S Wallet   #BCH $BCH #Bitcoincash #BTC... https://goo.gl/6H1HCp  by #CoinSutra	2017-09-10	0.4
+3	"Pics: Tokyo Sushi Bar the First to Accept Bitcoin Cash - #bitcoin #news 
+https://bitsonline.com/tokyo-sushi-bitcoin-cash/ … … #bitcoin #news #BitcoinCash"	2017-09-10	0.25
+4	Sending $BCH #Bitcoin Cash to a SegWit-enabled $BTC Address Becomes a Very Common problem	2017-09-10	-0.39
+5	"I love hard forks. Why?
+
+Because your 1 bitcoin no longer equals only 1 bitcoin.
+
+It now equals 1 bitcoin + 1 bitcoin cash. #btc #bch"	2017-09-10	0.06944444444444443
+6	 -1 New Bitcoin Cash SPV Wallet release v0.3.0 https://cryptopanic.com/news/22882/New-Bitcoin-Cash-SPV-Wallet-release-v030 … $BTC #bitcoin $BCH #bitcoin cash #cryptocurrency	2017-09-10	0.13636363636363635
+7	"""Bitcoin Cash Price Weekly Analysis – BCH/USD Struggle Continues"" #fintech #blockchain #crypto http://ift.tt/2jd65Mi "	2017-09-10	0.0
+8	Bitcoin Cash forecast | analysis Bitcoin coins BCH/USD is traded to the extent of 603. The currency is traded... http://fb.me/Baxajm6G 	2017-09-10	0.0
+9	"Pics: Tokyo Sushi Bar the First to Accept Bitcoin Cash - #bitcoin #news 
+https://bitsonline.com/tokyo-sushi-bitcoin-cash/ … … #bitcoin #news #BitcoinCash"	2017-09-10	0.25
+10	New Bitcoin Cash SPV Wallet release v0.3.0 https://cryptopanic.com/news/22882/New-Bitcoin-Cash-SPV-Wallet-release-v030 … $BTC #bitcoin $BCH #bitcoin cash #cryptocurrency via @CryptoPanicCom	2017-09-10	0.13636363636363635
+11	Bitcoin Cash Price Weekly Analysis – BCH/USD Struggle Continues #eth #ico #crypto	2017-09-10	0.0
+12	Poloniex #5 Market(4.86%) BCH/BTC - Bitcoin Cash Vol(24h):1343.55 BTC / $5,696,900 - Price: $567.34 / 0.1338 BTC	2017-09-10	0.0
+13	Bitcoin Cash Price Weekly Analysis – BCH/USD Struggle Continues – NEWSBTC http://bitnewsbot.com/bitcoin-cash-price-weekly-analysis-bchusd-struggle-continues-newsbtc/ …	2017-09-10	0.0
+14	I'm trying to transfer BCH to my Ledger from Bittrex. I opened the Bitcoin Cash app on my device. Then chose the B… 	2017-09-10	0.0
+15	"Bitcoin Cash cheapest on Bitfinex BTC-market: $585.30 0.13573000BTC
+
+$BCHBTC $BCHUSD $bch #bitcoincash"	2017-09-10	0.0

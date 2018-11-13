@@ -1,0 +1,1113 @@
+	Tweets	date	polarity
+0	"Then: ""bitcoin will replace money"".
+
+Now: ""bitcoin is a store of value"".
+
+Soon: ""it was too early."""	2017-11-03	0.1
+1	#Segwit2x is #Bitcon final test to adoption. If 2x wins then #Bitcoin can be controlled. If 2x losses then #Bitcon is everything I thought.	2017-11-03	0.15
+2	$XVG cracked 1c $AUD $BTC #fkyh	2017-11-03	0.0
+3	"http://bit.ly/2n3yTFa  RT @devnullius:  landscape of cryptocurrency as we know it? https://btc.click/2gTe8tE 
+
+#bitcoin #ico @CIF_Team"	2017-11-03	0.0
+4	The 25 million in new fraudulent tethers on Bitfinex/Tether ecosystem if used exclusively on bitcoin can get it to around 7400-7500.	2017-11-03	0.13636363636363635
+5	Even the biggest Bitcoin exchange in China doesn’t want Jeff Garzik’s “upgrade.” No way #B2X will have 85% of the miners supporting it. https://twitter.com/starokcoin/status/926590146102820864 …	2017-11-03	0.25
+6	Where #tech is taking #finance https://www.bloomberg.com/view/articles/2017-10-31/debating-where-tech-is-going-to-take-finance … #Fintech #Banking #Payments #p2p #bitcoin #Blockchain #AI	2017-11-03	0.0
+7	"movie on Netflix: *is called BITCOIN HEIST*
+
+me, emaciated, bloodshot eyes, huge beard: *clicks play*"	2017-11-03	0.4000000000000001
+8	"If you want to make some good profit now buy $EXP and $DGB 
+
+$btc $dash $zcash $neo@$via $strat $qtum $golem $trig #emc2 $rise $xlm $gup"	2017-11-03	0.7
+9	over timescales at issue eventually every civilization must reach a point where mining one bitcoin generates enough heat to destroy a planet	2017-11-03	-0.1
+10	"With your donations and votes, we will hard fork Congress in 2018! We are excited to now accept donations in $BTC 
+https://bitpay.com/741267/donate "	2017-11-03	0.005208333333333315
+11	" Evening USA! 
+
+Work is over. Weekend is here!
+
+• Enjoy your copy now: http://21cryptos.com  •
+
+#bitcoin #magazine #altsareback"	2017-11-03	0.4
+12	"Let's talk about bitcoin futures.
+
+When they launched ABX, it crushed subprime.
+When they launched CMBX, it crushed CMBS."	2017-11-03	-0.1
+13	what if the solution to the fermi paradox is sooner or later all civilizations discover bitcoin & burn themselves up 	2017-11-03	0.0
+14	If there is 51% support for 2x the chain will be very diluted , Bitcoin will lose its monarchy and either BCH or LTC will take its place...	2017-11-03	0.2
+15	No #Bitcoin = No crypto store of value ever... If $BTC can be undermined ALL cryptos can be undermined.. It's Bitcoin or nothing!	2017-11-03	0.0
+16	"After the S2X fork, It might take a really long time to move BTC to an exchange. 
+
+Blockchain freeze could make dumping BTC very difficult."	2017-11-03	-0.35000000000000003
+17	Core supporters already threatening to launch a new altcoin if legacy bitcoin is abandoned by miners. And unlike mining support via blocks there is no way to know how many users will upgrade to this new hard fork altcoin. Look at #BitcoinGold for an example of what may turn out	2017-11-03	0.1202651515151515
+18	If miners don’t do their job to mine the true Bitcoin block chain, then PoW algorithm will be changed. If you abandon BTC, BTC abandons you.	2017-11-03	0.35
+19	#Bitcoin News China's Bitcoin Exchanges Shift to P2P Model After Crackdown 	2017-11-03	0.0
+20	Coinbase Adds 100k New Users in Just 24 Hours as Bitcoin Prices Continue to Climb 	2017-11-03	0.13636363636363635
+21	"""In context of #climatechange it's worth asking ourselves hard questions about Bitcoin's environmental footprint"" "	2017-11-03	0.004166666666666652
+22	Few will share BCH with the world. Those who have- this post is for you #BCH #BicoonCash #Bitcoin 	2017-11-03	-0.2
+23	But the fact that some people think that bitconnect is bitcoin is mindblowing 	2017-11-03	0.0
+24	The fact that ppl still refer to $bch as $bcc is disrespectfully funny	2017-11-03	0.25
+25	the bitcoin retweet bots are happy to endorse this theory	2017-11-03	0.8
+26	Bitcoin takes another step toward wider acceptance https://www.cbsnews.com/news/bitcoin-futures-trading-step-toward-wider-acceptance/ …  #blockchain #bitcoin #cryptocurrencies	2017-11-03	0.0
+27	I don't get options, futures or bitcoin and crypto & that's ok . I don't need to be good at everything just my Process that fits me	2017-11-03	0.6
+28	"Crypto Universe 
+#IOTA #Bitcoin #Crypto #Infographic"	2017-11-03	0.0
+29	"Lambo land here I come
+#bitcoin #cryptocurrency #blockchain #investing"	2017-11-03	0.0
+30	How interested would my twitter people be in the occasional explanation of blockchain/bitcoin issues at a non-technical level?	2017-11-03	0.125
+31	LIVE NOW: #WATJ - Breaking free from #WallStreet w/ #BTC & Public Banking. cc @OverstockCEO @rogerkver @GovJVentura	2017-11-03	0.1787878787878788
+32	1* Despegar Tech MeetUp!Gracias @raltman y @ajlopez por las charlas de Bitcoin, blockchain y smart contracts @DespegarIT #despegartechmeetup	2017-11-03	0.21428571428571427
+33	Im with you all the way. BCH and BTC will be at par with each other within a year	2017-11-03	-0.125
+34	https://motherboard.vice.com/en_us/article/ywbbpm/bitcoin-mining-electricity-consumption-ethereum-energy-climate-change … Bitcoin is literally killing the planet.	2017-11-03	0.0
+35	Coinbase Adds 100k New Users in Just 24 Hours as Bitcoin Prices Continue to Climb http://ift.tt/2xZ0oEO  #Litecoin	2017-11-03	0.13636363636363635
+36	Are cryptocurrencies and bitcoin the new investment gold rush? 	2017-11-03	0.13636363636363635
+37	"STOP SAYING ALTS ARE BACK. After $BTC drops by $100-$300? 
+
+How heavy are your bags people? Alts will have their turn, not now."	2017-11-03	-0.1
+38	Top Topics: I Sold My First Domain for Bitcoin; How to Find Potential Buyers ... 	2017-11-03	0.25
+39	By the way, if you think bitcoin is the answer to development challenges, note 1 bitcoin transaction >> annual electricity use in SS Africa 	2017-11-03	0.0
+40	I'm sorry, it is just a stupid currency.  Blockchain may have its uses, but the Bitcoin frenzy is dumber than tulips. https://twitter.com/mims/status/926137475713683457 …	2017-11-03	-0.6499999999999999
+41	If miners don’t do their job to mine the true Bitcoin block chain, then PoW algorithm will be changed. If you abandon BTC, BTC abandons you.	2017-11-03	0.35
+42	Software Wars: Segwit2x Uncertainty and the Casting of Miner Votes http://ift.tt/2zew2lE  #Bitcoin 	2017-11-03	0.0
+43	Bitcoin is part of the current technological revolution. Is the first time in history that a currency is  managed by users themselves. 	2017-11-03	0.125
+44	It is easier to think of USD as an alt-coin when working with DLC because #bitcoin is all there is in this system @tdryja	2017-11-03	0.0
+45	Wow. 1 bitcoin transaction requires 215 kWh. Average Nigerian uses 155 kWh in a *whole year*! #highenergyplanet	2017-11-03	0.06666666666666667
+46	Have a good weekend. Don’t short bitcoin (for very long). 	2017-11-03	0.21166666666666667
+47	Bitcoin is gearing up for what could be the biggest (and least understood) change to its software to date. 	2017-11-03	-0.3
+48	Condolences to whoever the person that lost $60 mln by shorting Bitcoin last couple of weeks :(	2017-11-03	-0.375
+49	Tap Community Partners receive POS drip bonus upwards of .25% daily!http://Www.tapproject.net  contrib now! #tapcoin #ether #ethereum #bitcoin 	2017-11-03	0.0
+50	Look who I finally met- Roger Ver!(Full video going up on http://youtube.com/crypt0  soon!) #bitcoin… https://www.instagram.com/p/BbDLU5LneDt/ 	2017-11-03	0.0
+51	I don't see myself as having abandoned bitcoin maximalism because all the branches are still Bitcoin! 	2017-11-03	0.0
+52	For those who are interested in a longer version of my thoughts on bitcoin cash https://medium.com/@TheAlexGalaxy/bitcoin-cash-and-the-tower-of-babel-8281fa1ce775 …	2017-11-03	0.25
+53	"The wait for #CryptoNight for #NVIDIA GPUs is over! 
+Try out our new #NiceHashMiner 2.0.1.4  https://miner.nicehash.com/  
+#mining #BTC #GPU"	2017-11-03	0.13636363636363635
+54	Folks been clamoring to buy up BTC to get into altcoins & alts are at bottom of trend channel & ready to explode & moon any day now... :-) 	2017-11-03	0.35
+55	$BTC buyers/sellers deciding whether this channel acts as support for next leg up....or if price falls through back into channel 	2017-11-03	0.0
+56	How to Restore Harmony to Bitcoin. @adam3us let @Truthcoin work out the details.	2017-11-03	0.0
+57	"here come the ""Buy the Dippers"" on $btc expect continuation on the upside! "	2017-11-03	0.0
+58	He got excited about Bitcoin seeing his friends send money to Nigeria very fast and at almost no cost.	2017-11-03	0.3175
+59	$BTC Correction targets $6700 and $6300	2017-11-03	0.0
+60	wait till CME futures contract sucks the volatility life right out of BTC and stabilizes price #mutes #BTC	2017-11-03	-0.007142857142857145
+61	Bitcoin Mining Heats Home For Free In Siberia 	2017-11-03	0.4
+62	"Just saw Forbes get into crypto on Twitter. Welcome @ForbesCrypto ! 
+
+#crypto #bitcoin "	2017-11-03	1.0
+63	"When #nature strikes back:
+
+#BitcoinCash be chipping into BTC. "	2017-11-03	0.0
+64	I want to sell for more BTC, if any NYA proponents, CEOs etc have confidence in their spinoff. new offer to 7:2 so 700B2X batches for 200BTC	2017-11-03	0.3181818181818182
+65	"Suggested definition of ""bitcoin to the moon"": when one #bitcoin actually buys you a ticket to/from the moon. 2027? https://falkvinge.net/2017/11/03/suggested-definition-bitcoin-moon/ …"	2017-11-03	0.0
+66	James Howells tried to recover his hard drive from a landfill after he it threw away, only to realize that it contained $7,500 in Bitcoin. 	2017-11-03	-0.14583333333333334
+67	"Hello, Twitter.
+
+We want to track #Bitcoin donations to prominent neo-Nazi accounts. If you want to help dig, and know how, drop us a line."	2017-11-03	0.5
+68	Highly recommend this three part interview series on a new Bitcoin podcast, Tales From The Crypt, with @Pierre_Rochard and @MartyBent	2017-11-03	0.1481818181818182
+69	Proof of Passion (PoP) secures bitcoin against threats. It can be years of hodling, contributing software, running a full node, advocacy etc	2017-11-03	0.35
+70	Bitcoin on a tear - hitting another all-time high today, but #bitcoin bull @fundstrat says it may have run a little too far, too fast $BTC 	2017-11-03	0.068125
+71	Calling It: Max Keiser Says $10k Bitcoin All but Inevitable 	2017-11-03	0.0
+72	Does the velocity of money matter to the value of Bitcoin?	2017-11-03	0.0
+73	$1 Trillion Industry Being Brought Onto Blockchain - Cointelegraph (Bitcoin, Cryptocurrency and Blockchain News) http://bit.ly/2hCt0h2  #…	2017-11-03	0.0
+74	Combining #Bitcoin with #Gold =very wise. Tying cryptocurrency to a basket of commodities will make it more stable.	2017-11-03	0.705
+75	I’ll give a random person who RTs this 1 BTC if Apple lists BTC as a default in the Stocks app by 12/31/2018  @tim_cook	2017-11-03	-0.5
+76	"I know! People call my mom to tell on me, lol.  
+#Bitcoin "	2017-11-03	0.8
+77	And 11% of Americans think owning #Bitcoin is illegal. http://ow.ly/smcO30gk3aF 	2017-11-03	-0.5
+78	China's Bitcoin Exchanges Shift to P2P Model After Crackdown http://bit.ly/2hap36i 	2017-11-03	0.0
+79	What does not kill #Bitcoin makes it stronger. 	2017-11-03	0.0
+80	"No existía el 2006:
+iPhone 
+iPad
+Android
+Kindle
+4G
+Uber
+Airbnb
+Oculus
+Spotify
+Nest
+Bitcoin
+Blockchain
+Square
+Instagram
+Snapchat
+WhatsApp"	2017-11-03	0.0
+81	I added a video to a @YouTube playlist http://youtu.be/zyvBHRjb6jk?a  Bitcoin with Adam Meister, Steemit Mitchell, and Bgold Robert.	2017-11-03	0.0
+82	BBands Double Top on BTCUSD 2hr candles:	2017-11-03	0.25
+83	mansplain bitcoin to me softly baby	2017-11-03	0.1
+84	It’s impossible for me to sell stickers w #bitcoin if my customers needs to pay $3 in fees.  http://bitcoinbling.com  now takes #bitcoincash	2017-11-03	-0.6666666666666666
+85	Funds moving to alts here with the pause in BTC.  $ETC $ETH $ STRAT $ZEC $NEO	2017-11-03	0.0
+86	Everyone who sells bitcoin on Bitfinex has to buy it back in order to withdraw, no matter how high the price goes. 	2017-11-03	0.08
+87	"EU’s General Data Protection Regulation.
+
+#defstar5 #makeyourownlane #Mpgvip #Fintech #ETHEREUM #Bitcoin #Hacked #Attack #cybersecurity"	2017-11-03	0.05000000000000002
+88	buy chinese coin like $NEO $RPX $WTC for go in pump mode. these coins will go up like rocket in the next days if $BTC go down. $ETC $XMR	2017-11-03	-0.051851851851851864
+89	Want to find out more about the upcoming Bitcoin fork? We've got you covered. https://bitcoinmagazine.com/tags/segwit2x/  #SegWit2x #segwit #blockchain	2017-11-03	0.5
+90	This photo series of a Chinese bitcoin mine are a nice visual for imagining those transaction costs 	2017-11-03	0.19999999999999998
+91	"How hard do I $crypto? Let's just say I need a shower when I'm done trading.
+
+$BTC $PINK $ZEN $XVG big wk's 4 privacy"	2017-11-03	-0.13055555555555556
+92	#DYK Ashley Turing is responsible for the overall vision, culture & delivery of #LiveTree http://bit.ly/2yNSzCZ  #blockchain #btc #eth #ico	2017-11-03	0.1
+93	100,000 new users sign up to @coinbase in the past 24 hours! #Bitcoin $BTC #FOMO is only just beginning!	2017-11-03	-0.058712121212121215
+94	Using my 30sec btwn flight to just post link to my Beautiful 60m chart for a 9-13-9 Perfected Sell $BTCUSD #Bitcoin https://www.tradingview.com/chart/ucqJNYpz/ 	2017-11-03	0.85
+95	This guy is a genius. Bitcoin miner heated homes that literally pay your rent and allow you live rent free. 	2017-11-03	0.2681818181818182
+96	An entrepreneur is building homes that are kept warm for free by mining bitcoins. 	2017-11-03	0.5
+97	"No company will risk going out of business by betting on SegWit2x. And that’s why it has already lost
+#bitcoin "	2017-11-03	0.0
+98	1/ Clarification: BTCC currently considers “BTC” to be the pre-fork #bitcoin (BTC) coin.	2017-11-03	0.0
+99	Just watching the #SegWit2x $btc disaster unfold from the safety of my lifeboat #bitcoincash $bch $bcc	2017-11-03	0.0
+100	1/It's official. Both @Coinbase & @YourBTCC have clarified their stance stating current version of bitcoin will remain $BTC, 2x = alt coin.	2017-11-03	0.0
+101	Why @ebtc is so valuable, read here: http://bit.ly/2zaU0xZ  @eBTCFoundation @ebtctoken #BTC #ETH	2017-11-03	0.0
+102	Quit acting like y'all even know what Bitcoin is 	2017-11-03	0.0
+103	Bitcoin Investment Trust 11/3/17: most recent Bitcoin Holdings/share $665.30; Net Assets $1.243B	2017-11-03	0.16666666666666666
+104	1/ Clarification: BTCC currently considers “BTC” to be the pre-fork #bitcoin (BTC) coin.	2017-11-03	0.0
+105	Which do you truly believe is the most promising #altcoin going into 2018? #cryptocurrency #HODL $XRP $IOT $XLM $STRAT #BTC #ETH #BCH #LTC	2017-11-03	0.35
+106	$BTC trending on Apple App Store... it’s happening 	2017-11-03	0.0
+107	Introducing a Programming Language so Simple, It “Fits on a T-shirt” https://bitcoinmagazine.com/articles/introducing-programming-language-so-simple-it-fits-t-shirt/ … @Blockstream #bitcoin #Programming #blockchain	2017-11-03	0.0
+108	The real #Bitcoin is the one that users vote as $BTC with a higher price. Some Altcoin currently futures trading at $1000 just aint Bitcoin! 	2017-11-03	0.15
+109	"Further revealed by AP
+
+1/3. ~19Apr16: Unknown Person(s) make ~$37 dollar Bitcoin payment to THCServers for hosting http://DCLeaks.com ."	2017-11-03	-0.05
+110	Interview with #Spectreai's CEO - Kay Khemani via @thearcanebear  http://bit.ly/2xoBGkN  #eth #btc #Trading #EliminateFraud	2017-11-03	0.0
+111	At $7,300 today, Bitcoin is ...	2017-11-03	0.0
+112	bitcoin bubble top achieved 	2017-11-03	0.5
+113	Seriously did our best to make this Ugly Christmas BTC Sweatshirts as ugly as possible. Freshly baked and added to our @openbazaar store	2017-11-03	-0.0722222222222222
+114	Information about the #Spectreai token sale http://bit.ly/2zakJut  #eth #btc #Trading #EliminateFraud #BlockchainTrading #BinaryOptions	2017-11-03	0.0
+115	"Metaverse ETP now is available for trading on HitBTC, which can be traded with USD,BTC and ETH. @hitbtc 
+#exchange #Blockchain #Trade #ETP"	2017-11-03	0.4
+116	"How a #Blockchain Transaction Works 
+
+#defstar5 #makeyourownlane #Mpgvip #Fintech #ETHEREUM #Bitcoin #Hacked 
+#Cloud #Attack #cybersecurity"	2017-11-03	0.0
+117	"Busting 7 #Blockchain / #Bitcoin Myths [Infographic]
+v/ @FinancePratique  
+#Fintech #Cryptocurrency"	2017-11-03	0.0
+118	"LIVE:  #Bitcoin is at it again. 
+WATCH: https://yhoo.it/2hEnhr8 "	2017-11-03	0.13636363636363635
+119	Bitcoin’s rally makes an ultra bullish analyst revise his target higher https://bloom.bg/2iWCN4R 	2017-11-03	0.25
+120	$BTC has thrust through upper resistance line. Next target is $8,400 	2017-11-03	0.0
+121	#Substratum Developer #AMA Session #2 will be held 11/14 @ 2PM EST via LIVE STREAM from the @SubstratumNet Offices #tech #sub $sub #btc #eth	2017-11-03	0.13636363636363635
+122	SubstratumHOST UX Preview Part 2 https://youtu.be/LzkCX9xikCU  #substratum #bitcoin #blockchain #cryptocurrency #btc #sub $sub #eth #ethereum	2017-11-03	0.0
+123	#Ripple is going mainstream...  #xrpthestandard $XRP $BTC $LTC $ETH $BCH #bitcoin #crypto #alts	2017-11-03	0.0
+124	Santander employees using a pilot app built on #Ripple were using it to pay mortgages in foreign accounts http://ow.ly/MIWU30gk34t  #XRP	2017-11-03	-0.125
+125	"Remind yourself of when $strat was selling for $11 and $eth was selling for $450.
+
+Now understand that $btc is nearing that stage.
+
+The top might not be in, but we're definitely in the 'profit taking' phase."	2017-11-03	0.25
+126	A great list of #Bitcoin meetups from around the world that have rejected #Segwit2x via @BitcoinMagazine.	2017-11-03	0.8
+127	I could’ve bought a Bitcoin before it was bitcoin... for like 200.... that same bitcoin today is worth 5000. Guess how I’m feeling. 	2017-11-03	0.15
+128	"$ARKs newest team member https://steemit.com/blockchain/@arkecosystem/ark-s-newest-addition-to-the-full-time-development-team …
+#blockchain $BTC $ETH $crypto #ark #javascript #angularjs #emberjs #Docker #D3js #NodeJS"	2017-11-03	0.0
+129	"Mayday #Bitcoin & #Blockchain Experts Wanted
+#jobs #fintech #defstar5 #makeyourownlane #mpgvip
+https://www.bloomberg.com/news/articles/2017-11-02/bitcoin-and-blockchain-are-among-the-fastest-growing-skills-online … @technology"	2017-11-03	0.0
+130	Tip button added and tested powered by VeriCoin $VRC #MassAdoption #tipping #chat #socialmedia #btc #bitcoin #blockchain #fintech #websummit	2017-11-03	0.0
+131	"Nodes don't give you Nakamoto consensus.
+
+Node count is irrelevant.
+
+You need to actually mine #Bitcoin to vote on how it functions. "	2017-11-03	-0.25
+132	Bitconnect is a Ponzi scheme. #bitcoin	2017-11-03	0.0
+133	And 11% of Americans think owning #Bitcoin is illegal. 	2017-11-03	-0.5
+134	"If you offer Assange more Bitcoin than his ""Benefactors"" he will say anything you want!
+AND pretend the leaks were ""Verified"""	2017-11-03	0.625
+135	Great talk on ZK-Snarks, check out our token sale http://bit.ly/2yiw1u1  #cryptocurrency #blockchain #ethereum #bitcoin #btc #Devcon3 #ICO	2017-11-03	0.8
+136	AES256 encrypted messaging & file storage  •  DNS / Alias System • 4MB Blocks iocoin.io -  GO LIVE ON BLOCK 1625000 $ioc $btc #blockchain	2017-11-03	0.13636363636363635
+137	For many, the belief in Bitcoin’s power to transform society runs much deeper: it’s almost an article of faith. 	2017-11-03	0.35
+138	"Up next: the #blockchain panel feat. @haseeb, @BitcoinKhaleesi of @CogentLG, @IlianaOV of @ColliderX, @johnbiggs of @TechCrunch & Sheila James of @GoVeem. Love that the panel is mostly women!  
+
+#TiEConCanada #womenintech #bitcoin "	2017-11-03	0.375
+139	New #bitcoin #malware attacks copy and paste their way to co-opted currency: http://ibm.co/2gY3n9A 	2017-11-03	0.13636363636363635
+140	It's now! Last call for #investments in the $IGNIS #ICO : https://www.nxter.org/ignis-ico-report-8/ … $NXT $BTC #altcoins #fintech #blockchain #Ardor #trading	2017-11-03	0.0
+141	Getting cold in Germany. So we‘re HEATING this industrial facility by mining ETH&BTC - using cheap industrial electricity. #winwinwin	2017-11-03	-0.09999999999999998
+142	"Records today:
+Stock market
+Bitcoin
+Americans not in the labor force"	2017-11-03	0.0
+143	"#Bitcoin
+
+I'm buying some more #BitcoinCash tonight.
+
+Who's with me?"	2017-11-03	0.5
+144	I’ve always worried that Bitcoin manufacture is incredibly wasteful and carbon producing. And so it is.   	2017-11-03	0.9
+145	Age of Rust is also treasure hunt, solve puzzles and win #bitcoin, 4BTC will be in the beta. You'll need #rustbits & cards too.  #indiegame	2017-11-03	0.8
+146	".@GoldmanSachs CEO Sees #Bitcoin in the ‘New World’
+#blockchain #btc #fintech #defstar5 #makeyourownlane #mpgvip
+https://cointelegraph.com/news/goldman-ceo-sees-bitcoin-in-the-new-world …"	2017-11-03	0.13636363636363635
+147	"Renewed appreciation for Bitcoin the asset class after years of ""Blockchain not BTC"": futures, derivatives, ETF...
+https://www.clarusft.com/bitcoin-meets-otc-derivatives/ …"	2017-11-03	0.0
+148	Top trending search in @Apple App Store right now is bitcoin. 	2017-11-03	0.39285714285714285
+149	If you think CSW is Satoshi, you might be an altcoin maximalist. #bitcoin	2017-11-03	0.0
+150	Ukraine drafts a bill to make all #Crypto Income and Profits Tax Free for all citizens. #Bitcoin #Cryptocurrency #Blockchain	2017-11-03	0.4
+151	"November #raffle time!!! 
+
+#drawing on 12/1
+
+$BTC $ETH $LTC #Crypto #Bitcoin #litecoin #ethereum #free #money"	2017-11-03	0.4
+152	Hodlers will protect #Bitcoin from contentious hard forks	2017-11-03	-0.2916666666666667
+153	"#Trading #BITCOIN 3 Tests on ATH $7'445 $7'449 $7'449.99 
+#blockchain #fintech #defstar5 #makeyourownlane #mpgvip
+https://www.linkedin.com/in/anthony-schmitt-091907142/ … "	2017-11-03	0.0
+154	CAS token sale opens 6th Nov https://cashaa.com/  #Tokensale #Cashaa #Bitcoin 	2017-11-03	0.0
+155	Cryptocurrencies' market cap hits record $200 billion as bitcoin soars http://reut.rs/2zdrAmW 	2017-11-03	0.0
+156	Almost back to 10% of BTC - you folks can do it, I believe in you!	2017-11-03	0.0
+157	everyone hating on alts and i cant even send $btc from one exchange to another without waiting all day.. sick	2017-11-03	-0.7142857142857143
+158	By following Bitcoin’s original economic code #BitcoinCash’s market cap is higher today than Bitcoin’s was just one year ago. 	2017-11-03	0.20625
+159	"Bitcoin Blasts Through $7,000... Are We Glitching The Matrix?
+
+#Bitcoin"	2017-11-03	0.0
+160	This ETF could be the first to focus on blockchain. One thing it wouldn't hold? Bitcoin. 	2017-11-03	0.25
+161	"Dear @blockchain can you please stop spreading lies like: 
+""Segwit 2X is an important NETWORK UPGRADE?"" 
+https://blog.blockchain.com/2017/11/03/segwit2x-frequently-asked-questions/ …"	2017-11-03	0.4
+162	"We have already contributed more than 6 700 000 euros! This is an impressive mark! Thank you!
+#b2bx #b2broker #Bitcoin #cryptocurrency"	2017-11-03	0.8125
+163	"Top 10 #Technology Trends for 2017
+http://bit.ly/2tbltJr  
+#fintech #bitcoin #analytics #blockchain #ai #iot RT @JimMarous @MikeQuindazzi"	2017-11-03	0.5
+164	"WORLD-CLASS BUSINESS & TECH TEAM
+
+https://medium.com/@LevelNetwork/levelnet-ico-our-team-4fd3de4e2967 …
+
+#blockchain #bitcoin #ethereum #cryptocurrency #ico #levelnet #cybersecurity"	2017-11-03	0.0
+165	El-Erian’s #BItcoin comment (BTC = commodity) reflect a narrow comprehension re networks, p2p, encryption, etc. As such; easily dismissible.	2017-11-03	0.07777777777777778
+166	Will we discuss #crude #gold or #bitcoin? Find out on #TWIFO LIVE today 1:30pm CT w/ @Options @QuikStrike1 at	2017-11-03	-0.2818181818181818
+167	I just published “Why cryptocurrencies keep growing and why Ethereum may overtake Bitcoin.” 	2017-11-03	0.0
+168	Who wants to be a bitcoin millionaire? When fiat fails, you win! http://bitcoinmillionairechart.com 	2017-11-03	0.2333333333333333
+169	"Growth in the Internet of Things 
+
+#Blockchain #defstar5 #makeyourownlane #Mpgvip #fintech #IoT #ETHEREUM #Bitcoin #Hacked #Attack
+#security"	2017-11-03	0.0
+170	"Solar ""Bitcoin"" Founders Launch Blockchain Project to Disrupt Global Energy Markets http://www.triplepundit.com/2017/10/solar-bitcoin-founders-launch-blockchain-project-disrupt-global-energy-markets/ … via @triplepundit"	2017-11-03	0.0
+171	Here Are the Big Names Who Are Backing and Slamming Bitcoin. All you want to know about bitcoin. Read it  	2017-11-03	0.0
+172	Stratis Bitcoin Full Node making progress @stratisplatform #bitcoin #stratis $STRAT $BTC #blockchain #development #dev #github	2017-11-03	0.35
+173	#BTC soars to a new record high! We're curious to see what the price will be at the end of the year. 	2017-11-03	0.07878787878787878
+174	Just cracked an opendime from September 2016.  Price of $btc when deposited was $600.	2017-11-03	0.0
+175	"I think that call for snap election whilst imprisoning my democratically elected adversaries is.... 
+#bitcoin #Catalonia #indyref2 #Spain"	2017-11-03	0.0
+176	Just realized that nobody ever talks about zeronet.io - I've used it (it works). Decentralized anonymous websites using Bitcoin+Bitorrent	2017-11-03	0.0
+177	"Monday 6-11-2017
+$DGB listed on Kucoin exchange
+$XRP Seoul meetup
+$XVG Wraith protocol release
+
+#Digibyte #Ripple #Verge
+#Bitcoin #altcoins"	2017-11-03	0.0
+178	"""Quantum attacks on Bitcoin, and how to protect against them"" discusses XMSS - which we use! 
+https://arxiv.org/abs/1710.10377 "	2017-11-03	0.0
+179	Standpoint Research’s Ronnie Moas Revise His Target to $11,000 from $7,500 #Bitcoin $BTC #cryptocurrencies #megabull	2017-11-03	0.0
+180	The simplistic genius of #BTC recently hit me It doesn't convince me it has a certain price value but it did convince me it is of value.	2017-11-03	-0.09523809523809523
+181	PR: Realisto Announces ICO to Launch Global Crowdfunded Real Estate Investment http://ift.tt/2zvp1x5  #Bitcoin 	2017-11-03	0.1
+182	Starting soon! The Bitcoin Group #162  Looming Segwit2X Takeover and Bitcoin Price $7500 All Time High https://buff.ly/2zb772r  @MadBitcoins	2017-11-03	0.08
+183	This week's ETF Friday: Why a Bitcoin ETF Is Likely to Be a Reality Next Year via @BloombergTV  @juleshyman $BTC 	2017-11-03	0.0
+184	‘You Can Buy a Fraction of a Bitcoin’ Has Started The Most Conversations – Cryptograffiti 	2017-11-03	0.5
+185	"What happened to the #Ethereum #blockchain and what does ""Byzantium"" mean? Check it out now! >> http://bit.ly/2zibjwD  << #devcon3 #Bitcoin "	2017-11-03	-0.390625
+186	It wasn’t too long ago when you could buy two pizzas for 10,000 Bitcoin. Now you can buy 10,000 pizzas for 2 Bitcoin #TheFlippening #Bitcoin	2017-11-03	-0.05
+187	". @VeztInc #Mascot is ready for the #ICO & wants to know #WhenMoon #Bestofvezt 
+$BTC $ETH $LTC #Cryptocurrency #CRYPTOTRADING @cryptoponyeth"	2017-11-03	0.2
+188	"After months of analysis, time travel, and adventure, i have discovered the #bitcoin price / trend thru 2025.
+
+$crypto $btc #crypto #btc "	2017-11-03	0.0
+189	Loving this news demo the @vergecurrency $XVG camp via @Medium  $BTC $ADA $HVN $BQX $REQ	2017-11-03	0.6
+190	Russian Economy ”Lost 18 Billion Rubles This Year Due to Lack of ICO Regulation” http://ift.tt/2zuCZ2p  #Bitcoin 	2017-11-03	-0.0625
+191	“Bitcoin mining is wasteful” relative to what? 	2017-11-03	0.0
+192	“I bet you, Obama has #Bitcoin in his Pockets right now!#BTC endorsed by far too many people who should have reasons to Hate It” 	2017-11-03	0.021428571428571408
+193	Stay safe from BitCoin Mining Scans https://coinjournal.net/founder-india-based-bitcoin-mining-pool-gbminers-running-ponzi-scheme/ … by @kyletorpey	2017-11-03	0.5
+194	Bitcoin mining heats homes for free in Siberia [video] 	2017-11-03	0.4
+195	"Check out LevelNet ICO Bounty Campaign! Follow the link for the details!
+
+https://medium.com/@LevelNetwork/levelnet-bounty-campaign-afefc57009ff …
+
+#blockchain #bitcoin #ethereum"	2017-11-03	0.0
+196	"One thing only: 
+I'd buy #bitcoin at 0,04 $, when @giacomozucco discovered it for the first time. https://twitter.com/desantis/status/926491685886062592 …"	2017-11-03	0.125
+197	"In about an hour....
+The #Bitcoin Group #162 - Looming Segwit2X Takeover and Bitcoin Price $7500 All Time High https://www.youtube.com/watch?v=MT8KTcBlCmA …"	2017-11-03	0.16
+198	This Bitcoin post by @chrismalmo (https://motherboard.vice.com/en_us/article/ywbbpm/bitcoin-mining-electricity-consumption-ethereum-energy-climate-change …) regurgitates tired FUD about its costs/impacts - let's analytically curbstomp it:	2017-11-03	-0.35
+199	Just wrapped our virtual animation shoot for my upcoming #cryptocurrency story on #9news- the lifecycle of a #bitcoin transaction. @coinbase	2017-11-03	0.0
+200	I think we’re exiting a multicoin past that never existed. I’m bullish on bitcoin because “specialized currencies” are an anti-pattern. 	2017-11-03	-0.25
+201	"""I think we're entering a multi coin future... I'm bullish on Bitcoin, but different technologies hold different workloads"" - @balajis "	2017-11-03	0.0
+202	See you tonight #devcon3! Intro to #Wanchain Presentation, open bar & buffet 5:30pm @ Krystal Cancun #ethereum #bitcoin #blockchain #cancun #ico @Dustin_Byington	2017-11-03	0.0
+203	Right now we’re accepting bitcoin as a method of payment from clients. #crytocurrency #BettingKings	2017-11-03	0.2857142857142857
+204	If bitcoin can be converted into fiat currencies at a lower transaction cost than the fiat-to-fiat conversions made by banks and credit cards, it's a superior means of exchange. http://www.oftwominds.com/blognov17/BTC-flow11-17.html …	2017-11-03	0.7
+205	"CME cash settled futures in #bitcoin haven't even started trading yet. You're still early. And btw we've heard ""tulips"" or 6 yrs now. "	2017-11-03	0.1
+206	Amsterdam 1636. Cash-settled futures markets in tulip bulbs start. Prices soar. Amsterdam February 1637. Tulip bubble bursts #beenherebefore	2017-11-03	0.0
+207	Won't shave my beard until $btc goes under 5k$ again. Lets see if i transform to a skinny viking. Who is with me? :D 	2017-11-03	1.0
+208	So, by 7:30 today, we'll be answering any questions you have about Bitcoin and cryptocurrency. Just @ @bitkoinafrica or use #AskBitkoin.	2017-11-03	0.0
+209	"NEW SHOW! crypto morning w/ Rush > 
+[VIDEO]
+https://buff.ly/2lIPRff 
+
+#fintech #crypto #bitcoin #news #data"	2017-11-03	0.17045454545454544
+210	One Bitcoin Transaction Now Uses as Much Energy as Your House in a Week 	2017-11-03	0.2
+211	Upvote your favorite Moon Trader Analysis! https://www.reddit.com/r/CoinDash  The winner will receive an extra 5000 CDT! #Ethereum #BTC #ETH  #Crypto	2017-11-03	0.3125
+212	When you introduce #bitcoin to people you encounter throughout your day: 	2017-11-03	0.0
+213	"Bitcoin value skyrockets, but beware of a ""bubble"" https://buff.ly/2lLGHPd "	2017-11-03	0.0
+214	Reminder! Diamond Strike is LIVE at http://Casinoslotsmoney.eu  Limited Time Offer!  #Win #Cash #Money & #Bitcoin Playing A #Casino #Game	2017-11-03	0.11176948051948052
+215	#Cybersecurity: How #Blockchain Is Helping #ECommerce Businesses Protect Their Data http://crwd.fr/2ylisNz  #litecoin #datasecurity #bitcoin	2017-11-03	0.0
+216	10k nodes for @stratisplatform are confirmed as well :) @stratisplatform #bitcoin #stratis $STRAT $BTC #blockchain #masternodes #nodes	2017-11-03	0.45
+217	Satoshi strengthened Bitcoin by vanishing. Having no leader is a feature, not a bug. 	2017-11-03	0.0
+218	Sending death threats to people in Bitcoin is not only evil, its incredibly stupid. No single person has enough power to change Bitcoin.	2017-11-03	-0.3528571428571428
+219	Greater fool theory: The bitcoin bubble https://www.economist.com/blogs/buttonwood/2017/11/greater-fool-theory-0?fsrc=scn/tw/te/bl/ed/?fsrc=scn/fb/te/bl/ed/thebitcoinbubblegreaterfooltheory … via @TheEconomist	2017-11-03	0.5
+220	@brian_armstrong owns more Ether than Bitcoin. HE IS NOT NEUTRAL, HE HAS A CONFLICT OF INTEREST. 	2017-11-03	0.5
+221	Bitcoin’s coming split: What you need to know 	2017-11-03	0.0
+222	$7,410: #SouthKorean #Investors are Trading #Bitcoin on a High Premium http://bit.ly/2lKZ0nz 	2017-11-03	0.16
+223	Bought a few. Also participated in the BTC IPO 	2017-11-03	-0.2
+224	Do you guys ever buy shares or follow Botswana Stock Exchange updates?	2017-11-03	0.0
+225	"No2x is ideologically opposed to one of the chains winning.
+This is what Segwit2x signatories are saying 
+They really dgaf about Bitcoin. "	2017-11-03	0.35
+226	Posting this before the Segwit2x fork: I am 100% ok with either chain winning! Just want to see what the market decides.	2017-11-03	0.5625
+227	Getting into $BCH was a good decision. I could make more here than with $BTC at the moment since I only had partial bitcoin	2017-11-03	0.27499999999999997
+228	7000: by definition, it is the natural number following 6999 and preceding 7001. But we all know what it means. Trade #BTC @ #bitstamp	2017-11-03	0.05
+229	Another great week passes by. Major improvements completed by our devs , all code is reviewed and pushed. $STRAT #stratis #blockchain $BTC 	2017-11-03	0.43125
+230	Malaysia hit by 46 mln phone record hack, purchasable for 1 #Bitcoin. 	2017-11-03	0.0
+231	don't forget tomorrow will be the telegram giveaway :) , 0.2 $btc, you can still win if you joined	2017-11-03	0.65
+232	Follow #LiveTree on @facebook http://bit.ly/2xRhWTq  #blockchain #btc #eth #disruptive #contentcreation #decentralized #ico	2017-11-03	0.0
+233	Bitcoin’s rally makes an ultra bullish analyst revise his target higher https://bloom.bg/2zbTgGx 	2017-11-03	0.25
+234	You know with all these bitcoin forks, it might be fun to throw my hat into the ring. Bitcoin Classic taken yet?	2017-11-03	0.23333333333333334
+235	"2010 : 1 core for running website and 3 cores for SETI research
+2017 : 4 cores for web, 2 for user tracking, 2 for bitcoin mining"	2017-11-03	0.0
+236	Great day for devcon and check out our token sale http://bit.ly/2yiw1u1   #cryptocurrency #blockchain #ethereum #bitcoin #btc #bitcoins #	2017-11-03	0.8
+237	The Latium Whitelist #ICO sale begins in just 12 days. Registration is open! https://latium.org/  #johnmcafee #ethereum #Eth #erc20 #btc 	2017-11-03	0.0
+238	"My lil' fraction of a $BTC, leftover from my alts spree, is now worth what I bought each whole #Bitcoin for in the spring.
+#cryptocurrency"	2017-11-03	0.25
+239	#Bitcoin network moving notional $20B/day & estimated 200DMA $800,000,000/day of est. economic value. ~20-500 metric tonnes of gold. Wow!  	2017-11-03	0.1625
+240	Markets Update: Cryptocurrency Market Cap Now Commands $200 Billion http://ift.tt/2h9utyq  #Bitcoin 	2017-11-03	0.0
+241	We just got a super smart and simple explanation of what a bitcoin fork actually is 	2017-11-03	0.1369047619047619
+242	"Update:
+Remember when we raised $21k for #Irma relief? 
+Well we were wrong.
+Thanks to #Bitcoin going up and @BittrexExchange doubling our efforts we donated $60000 $USD to @DirectRelief @funds4disaster @Habitat_org 
+https://pinkbuffaloz.com/2017/11/03/update-bittrex-matches-pink-hurricane-relief-fund-with-30000-new-total-60k/ …
+$PINK #Pinkcoin"	2017-11-03	-0.13333333333333333
+243	At current Bitcoin rates the entire Bitcoin mining industry is clocking in 5 billions $ annual revenue from block rewards alone.	2017-11-03	0.0
+244	Miners follow value. The value lies in users & how they define #bitcoin. #NO2X	2017-11-03	0.0
+245	Remember that time when 40% of Bitcoin’s hashrate left to mine a fork, causing the price to crash and the altcoin to surge? Me neither 	2017-11-03	0.0
+246	This. #bitcoin 	2017-11-03	0.0
+247	"#Bitcoin
+
+Soon, the most powerful computer network ever created will point its hashing power at #BitcoinCash and keep it there.
+
+Bet on it. pic.twitter.com/E1BbdPTWZw"	2017-11-03	0.4
+248	"FWIW, it's the ""SHITCOINERS"" who are proactively advocating, supporting, and defending WOMEN in #bitcoin and $crypto. #FF @jebus911 @Sicarious_ @notsofast @RNR_0 @iquidus @alex_sterk @robmyers @CryptoDaRock @_ty13r @Crypto_God @CryptoMessiah @WhalePanda @outragedhuman @_miw pic.twitter.com/qCqmOZhkBN"	2017-11-03	0.25
+249	my thoughts on $BTC here	2017-11-03	0.0
+250	"I'll give a winner of 0.4 btc if we reach 100 retweets ! !  http://t.me/strongcrypto  
+RETWEET , LIKES AND FOLLOW"	2017-11-03	0.0
+251	Last day to vote for me in this list of influencers. It’s a great list of #Bitcoin maniacs! 	2017-11-03	0.5
+252	First Wall Street strategist to embrace bitcoin and call for rally is now 'cautious' 	2017-11-03	0.25
+253	#Syscoin Engages Marketing Agency @ballisticarts http://bit.ly/2yo6ano  #bitcoin $SYS	2017-11-03	0.0
+254	"NYA signers are in denial that $BTC users...
+
+1) Enabled SegWit.
+2) Are running Bitcoin Core.
+3) Prioritize censorship resistance."	2017-11-03	0.0
+255	Its going to be a good month for $ETC, check that hike vs. close to ATH BTC. 	2017-11-03	0.7
+256	"#Latium designed a proprietary task proof systems
+[VIDEO] https://buff.ly/2xR5ZNe 
+
+#fintech #crypto #bitcoin #news #data"	2017-11-03	0.0
+257	 Omg I can't wait for the new @BillionaireTkn website. $XBL $BTC 	2017-11-03	0.13636363636363635
+258	"Why not?
+Arkansas Sheriff's Office Mines #Bitcoin to Fuel Dark Web Investigations
+Join us at http://t.me/FortKnoxster "	2017-11-03	-0.15
+259	"Zoomed out. $NEO. 
+When the $BTC segwit2x is done, Dapps begin to release. "	2017-11-03	0.0
+260	"One of the ways to pump Bitcoin higher is to just DeLaY the F0rK to a later date.
+Next month, Jan, Feb. Anything will do."	2017-11-03	0.08333333333333333
+261	Bitcoin Price: First Signs of a Tired Bull? http://bit.ly/2h9LAjm 	2017-11-03	-0.07500000000000001
+262	"Growth in the Internet of Things 
+
+#Blockchain #defstar5 #makeyourownlane #Mpgvip #fintech #IoT #ETHEREUM #Bitcoin #Hacked #Attack
+#security"	2017-11-03	0.0
+263	Why this New York City preschool accepts bitcoin but doesn't accept credit cards http://read.bi/2zuGSED 	2017-11-03	0.13636363636363635
+264	"Bitcoin's environmental footprint is a disaster -> ""1 Bitcoin transaction uses same electricity as a home in a week"" "	2017-11-03	0.0
+265	IF YOU BOUGHT $100 OF BITCOIN 7 YEARS AGO, YOU'D BE SITTING ON $145.8 MILLION NOW AFTER NEW RECORD HIGH	2017-11-03	0.1481818181818182
+266	Ready for something huge? Bitcoin hits $7,500! 3x increased demand on Changelly. Our CEO @gladkos commented for CT	2017-11-03	0.3500000000000001
+267	Our latest #Bitcoin Price Analysis: Bitcoin’s Parabolic Envelope Could Push to $8000s $BTC $btcusd #cryptocurrencies	2017-11-03	0.5
+268	A new all time high for Bitcoin $7,447. #bitcoin #blockchain #cryptoccurencies #tokensale #realestateico #Singapore	2017-11-03	0.1481818181818182
+269	"#HOQU Co-Founder Maxim Anikeev speaks about referral program and Investor’s profile page
+https://www.youtube.com/watch?v=Nc0jTDLDkdU …
+#ETH #BTC #Cryptocurrency"	2017-11-03	0.0
+270	"#Bitcoin whales are moving into #BitcoinCash ahead of the S2X hard fork.
+
+Trace Mayer dump your BCH so I can buy it cheap!
+
+0.09 and rising."	2017-11-03	0.10416666666666666
+271	27 When the party Congress began in mid October, Bitcoin was trading at record highs well above the pre ban levels.	2017-11-03	0.0
+272	Bitcoin hits record high as it surges past $7,300 	2017-11-03	-0.045
+273	The amount of ignorance and vitriol  towards Bitcoin community from the NYA signers is truly breathtaking. 	2017-11-03	1.0
+274	$7,500 #Bitcoin is only one of crypto’s insane statistics this week. 	2017-11-03	-0.5
+275	This is how i respond when people ask me why they should invest in bitcoin #bitcoin #freecoins	2017-11-03	0.0
+276	"""...the price of one bitcoin soared to about $7,000 for the first time—that's a 10x increase over the last year."" "	2017-11-03	0.125
+277	I love the simple minded who just discovered Bitcoin and parrot the latest fashionable descriptions with total conviction. Very dumb men!	2017-11-03	0.078125
+278	Are you good with predictions? Guess when the new #SegWit2x takes effect and you could win 0,05 #BTC https://goo.gl/NTgtzK 	2017-11-03	0.5454545454545454
+279	Big up to all my subscribers that keep giving me top coin tips. Have decided if I reach 50k subscribers by Christmas I will giveaway to one lucky subscriber 1 btc to say thanks head to http://www.youtube.com/keithwareingofficial … so subscribe and share folks!	2017-11-03	0.2708333333333333
+280	Lovely way to end the week. Major improvements completed by our devs , all code is reviewed and pushed.  $STRAT #stratis #blockchain $BTC 	2017-11-03	0.28125
+281	Remember if any of you (especially new traders) have any trading questions for stocks or even now bitcoin/cryptocurrency, feel free to DM me 	2017-11-03	0.33636363636363636
+282	"MESSAGE TO NEW BITCOIN USERS:
+
+#BitcoinCash is the original #Bitcoin
+
+Do your research.
+
+Read the whitepaper.
+
+https://bitcoin.com/bitcoin.pdf "	2017-11-03	0.2556818181818182
+283	Imagine what a random bank employee and govt could do to our money. Bitcoin $7.2K  	2017-11-03	-0.5
+284	If some random Twitter support staff can disable the President’s account, what can they do to the rest of us? http://www.businessinsider.com/heres-whats-terrifying-about-the-twitter-employee-who-temporarily-disabled-trumps-account-2017-11 …	2017-11-03	-0.5
+285	Cryptocurrencies' market cap hits record $200 billion as bitcoin soars http://reut.rs/2h84ebo 	2017-11-03	0.0
+286	More good news at the end of the week from @bokobza @stratisplatform #bitcoin #blockchain #stratis $STRAT $BTC 	2017-11-03	0.6
+287	Lovely way to end the week. Major improvements completed by our devs , all code is reviewed and pushed.  @stratisplatform 	2017-11-03	0.28125
+288	"Here's an update of the ""recent bubbles compared to Bitcoin"" chart we ran a couple months ago.  Keeps on chuggin'  https://www.bespokepremium.com/ "	2017-11-03	0.0
+289	Here's the latest snapshot of the Bitcoin ETF Race... 	2017-11-03	0.5
+290	Bitcoin bubble talk intensifies as a new bank eyes blockchain https://bloom.bg/2iYclb8 	2017-11-03	0.13636363636363635
+291	"Interact and earn CRYPTO #LATX < 
+[VIDEO] https://buff.ly/2yoWZmN 
+
+#fintech #crypto #bitcoin #news #data"	2017-11-03	0.0
+292	Our planned #smartglasses will support you in every situation. Reserve a beta #Lucyd Lens now  https://www.lucyd.co/getlcd/  #Bitcoin #ICO #Eth	2017-11-03	0.0
+293	The Daily Dose - No BS crypto news has been updated for Friday! #bitcoin #blockchain #cryptonews https://www.coinstrategy.io/news 	2017-11-03	0.0
+294	BTC at $7.2K is ~$120B market cap. Gold is at ~$7/8 trillion. Bitcoin is the superior digital product <2% cost of its analog counterpart.	2017-11-03	0.35
+295	Bitcoin breakout...now up 25% on the week.  Check out this chart: 	2017-11-03	0.0
+296	3,409 stories about #blockchain {#Infographic} #bitcoin #fintech #ethereum #datascience #bigdata #hacking #tech #trade @wef @Fisher85M	2017-11-03	0.0
+297	Why #Webcoin ICO is the #future of #digitalmarketing & #advertising? https://www.linkedin.com/pulse/why-webcoin-ico-future-digital-marketing-advertiser-ninov-mba … #tokensale #ETH #BTC #fork #ICO #XRP #news #RT	2017-11-03	0.0
+298	#Bitcoin jumps $400 in one day, soaring to a new record high +$7400. #Crypto has gone mainstream #WelcomeToTheFuture	2017-11-03	0.1481818181818182
+299	Cryptocurrencies' market cap hits record $200 billion as bitcoin soars http://reut.rs/2zaEhPF 	2017-11-03	0.0
+300	Ronnie in Bloomberg today ... raises $BTC #bitcoin target to $11,000 ... 	2017-11-03	0.0
+301	Sad you're OK with either. One is an unsafe (by design) takeover attempt. If it succeeds Bitcoin's core value proposition is dead. 	2017-11-03	0.12499999999999999
+302	Posting this before the Segwit2x fork: I am 100% ok with either chain winning! Just want to see what the market decides.	2017-11-03	0.5625
+303	"$BTC $USD 3d
+
+Stage four:
+complete!"	2017-11-03	0.125
+304	"lol  ""we don't like Bitcoin, but like blockchain"" is so 2016.  get with the times dude "	2017-11-03	0.8
+305	Bitcoin bubble talk intensifies as a new bank eyes blockchain https://bloom.bg/2j0blmJ  	2017-11-03	0.13636363636363635
+306	Nice graphic by u/crypto10! #btc #betterthanbitcoin #crypto	2017-11-03	0.3
+307	Blessed to be selected to play in the BTC all star game  @BTC_1988	2017-11-03	-0.4
+308	Bitcoin in 2009, still young and innocent: https://web.archive.org/web/20091229132610/http://newlibertystandard.wetpaint.com/page/Exchange+Rate …	2017-11-03	0.3
+309	$200 Billion: Bitcoin Price Catapults Crypto Market Cap to New Record High 	2017-11-03	0.1481818181818182
+310	"Announcing Adam Gibson (@waxwing__ )to join us at ""Baltic Honeybadger 2017"" Bitcoin conference in Riga,Latvia: http://bh2017.hodlhodl.com "	2017-11-03	0.0
+311	You would have to not be interested in Bitcoin to not find these debates riveting. They are extremely important and complex.	2017-11-03	0.21249999999999997
+312	"The most tired and boring Bitcoin commentary is the one criticizing its ""community"" "	2017-11-03	-0.3
+313	The least interesting thing about Bitcoin is internal community debates.	2017-11-03	0.06666666666666667
+314	#Lucyd's goal is to develop a next generation AR headset that largely overcomes existing optical issues #Bitcoin #Crypto #Eth #Token $LCD	2017-11-03	0.10714285714285714
+315	We (@Unocoin) on-boarded more than 4,000 new users in the past 24 hours.  #Bitcoin is here to stay!  #IndiaBitcoin	2017-11-03	0.10795454545454546
+316	It is a Blessing to be able to announce that I will be Playing for the #NorthTeam in the @BTC_1988 all start game    @carrollvarsity	2017-11-03	0.04999999999999999
+317	If someone can spin up 3500 more #SegWit2x/BTC1 nodes for @jgarzik and @mikebelshe so they can hit their marketing goal of 5000, that would be great. #bitcoin #notshitcoin pic.twitter.com/ZWVnQwmFTZ	2017-11-03	0.65
+318	Blockstream's new Simplicity language is about enabling smart contracts for Bitcoin.  https://jaxenter.com/blockchains-simplicity-language-138552.html?utm_content=buffer5cca6&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer …	2017-11-03	0.17532467532467533
+319	The Bitcoin Standard by @saifedean is going to be huge. Sound money FTW! Watch this thought-provoking interview:	2017-11-03	0.32500000000000007
+320	Blessed to be invited to play in the BTC All-Star game and represent team west @BTC_1988	2017-11-03	-0.4
+321	"Dash Continues @TheCryptoShow Sponsorship, Funds New “Dash Cares” Charity
+https://www.dashforcenews.com/dash-continues-crypto-show-sponsorship-funds-new-dash-cares-charity/ …
+#Dash #Crypto #Bitcoin #FinTech #TechNews"	2017-11-03	0.13636363636363635
+322	#Spectreai's Broker-less Trading Platform Brings Perpetual Liquidity, Smart Options to #Bitcoin http://bit.ly/2zNYwPx  eth #btc #Trading	2017-11-03	0.21428571428571427
+323	Almost 1000 followers, let me do a 0.01 BTC giveaway for anyone that retweets and comments on this tweet! 	2017-11-03	0.0
+324	#FUTURE Now https://briandcolwell.com/global-view-weekly … #tokens #AI #blockchain #automation #cryptocurrency #robot #bitcoin #btc #eth #ethereum #IOT #cloud $QQQ	2017-11-03	0.0
+325	#Bitcoin has had an incredible year, up 10x since January. Can it continue? 	2017-11-03	0.9
+326	"Hyperledger Modular Umbrella Approach
+
+#fintech #defstar5 #crypto #IOT #bigdata #Blockchain #banking #Mpgvip #Bitcoin #BTC $btc #makeyourownlane #cryptocurrency #hyperledger"	2017-11-03	0.0
+327	Vote for $NXS to get added to #Binance to win 500, 100, or 50 Nexus! https://www.binance.com/vote.html  #RT #VOTE #crypto #blockchain #fintech #bitcoin #startup	2017-11-03	1.0
+328	What the BTC1 men don't understand is that Bitcoin is a matter of principle and ethics as much as it is a matter of money.	2017-11-03	0.2
+329	$SALT tokens now on Changelly for exchange against #Bitcoin, #Ethereum and 70+coins! Visa/MC payments supported @SaltLending	2017-11-03	0.0
+330	$KMD / $BTC now listed for #Algorithmic (automated) #Trading! Easy-to-use, backtesting, cloud-based #TradingBots on https://cryptotrader.org 	2017-11-03	0.0
+331	"#Bazista CEO Vakhtang A. about monthly service packages
+ #bazistateam #ico #blockchainlife #bitcoin #tokensale #fintech"	2017-11-03	0.0
+332	Let’s just say if you’re long Venezuela, short Bitcoin, it’s been a week to forget.	2017-11-03	-0.025
+333	Money supply is created as debt for taxpayers without their permission and rented out at interest to make more money that is worthless. $BTC 	2017-11-03	-0.15000000000000002
+334	Japan: A forward thinking Bitcoin nation: http://on.forbes.com/60188hWJO 	2017-11-03	0.0
+335	BITCOIN 2018 PRICE TARGET RAISED TO $11,000 AT STANDPOINT	2017-11-03	0.0
+336	Zebpay trending as top search on iPhone App Store in India! #bitcoin 	2017-11-03	0.625
+337	"#Blockchain based, fully automated tasking platform > 
+[VIDEO] https://buff.ly/2xSDkaR 
+
+#fintech #crypto #bitcoin #news #data"	2017-11-03	0.0
+338	$btc log scale.. #bitcoin #blockchain #cryptocurrency	2017-11-03	0.0
+339	Saif needs to be interviewed more. Should be on all the podcasts.  This is the why Bitcoin is interesting. 	2017-11-03	0.5
+340	"#Bitcoin as sound money, watch the whole interview with @saifedean author of ""The Bitcoin Standard"" here: https://goo.gl/9cvmDy  "	2017-11-03	0.20000000000000004
+341	No be person wey get money go buy bitcoin? 	2017-11-03	0.0
+342	Been telling the TL to buy bitcoin since january , you people won't hear word , would 7x ya money now	2017-11-03	0.0
+343	Blessed to say I am representing the West Team in the BTC All Star Game! @BTC_1988	2017-11-03	-0.5
+344	@ZarkMuckerbarn @xfyydfz $nxt $ardr $btc $eth	2017-11-03	0.0
+345	Don't forget to join #DOVU Telegram channel http://t.me/dovuico  #mobility #blockchain #TokenSale $DOVU $ETH $BTC	2017-11-03	0.0
+346	Standpoint Research (Ronnie Moas) Raising 2018 #bitcoin #pricetarget from $7,500 to $11,000 #standpointresearch ... http://www.standpointresearch.com 	2017-11-03	0.0
+347	"Labor Force Participation Rate plunged .4% in October
+
+Right back to 40yr lows
+
+Its all those millennials retiring early via Bitcoin profits"	2017-11-03	0.12857142857142856
+348	With an 80% unbanked population, why has #Bitcoin penetrated <1% of the world's 4th-most populous nation? 	2017-11-03	0.0
+349	What do you think will happen to the price of #bitcoin when CME enables #trading in bitcoin futures?	2017-11-03	0.0
+350	Checking the Bitcoin price at work #bitcoin #btc #cryptocurrency	2017-11-03	0.0
+351	"An informative #FinTech Glossary by @MikeQuindazzi
+#Blockchain #data #Cryptocurrency #Science #Analytics #Bitcoin #IoT #startup #innovation"	2017-11-03	0.0
+352	$4.7 bn traded yesterday. 100k new coinbase acts in 24 hrs. 200 DMA rising to $3,300. (@TraceMayer). $10,000 for #Bitcoin is happening.	2017-11-03	0.13636363636363635
+353	Bitcoin trading hit a record $4.7b yesterday, that's more than the avg volume of any U.S. stock.. h/t @JSeyffs4 $BTC 	2017-11-03	0.5
+354	Metronome.io and $ETC . ETC will be the first currency that will use crosschain with metronome. Q1 2018+nov summit+new works=boom! $BTC $NEO	2017-11-03	0.3125
+355	#giveaway JOIN NOW! #bitcoin #altcoins #cryptocurrency #cryptocurrencies #blockchain $ETH $BTC 	2017-11-03	0.0
+356	Here is the giveaway!!! Retweet this tweet, follow us and join our telegram channel!!! We are gonna give 0.2 btc for every 200 retweets!!! https://twitter.com/cryptodrivers/status/924648973029269504 …	2017-11-03	0.0
+357	what happens to an asset with ORGANIC supply and demand that can't be paper shorted to oblivion and the CB lap dogs are losing it $BTC  	2017-11-03	0.0
+358	Bitcoin jumps $400 in one day and soars to a new record high https://usat.ly/2z9Bead 	2017-11-03	0.1481818181818182
+359	So happy Trump probably thinks Bitcoin is something you used in a 1980’s arcade.	2017-11-03	0.8
+360	Zimbabwean Bitcoin Exchange Prepares for Segwit2x Hard Fork 	2017-11-03	-0.2916666666666667
+361	"bitJob is a P2P MarketPlace for students, freelancers and employers. Join the movement! #bitJob #ethereum #bitcoin
+http://Www.bitjob.io "	2017-11-03	0.0
+362	"BTC: One use case , can't agree on anything, mkt cap $120bn.
+ETH: Platform for multi use, aligned/progressing community, mkt cap 30bn."	2017-11-03	0.0
+363	Be careful! The number of #bitcoin scams grows as bitcoin exchange rate goes up 	2017-11-03	-0.125
+364	#Australian Trader Loses AU$1,600 to Hackers in a #Bitcoin Scam https://buff.ly/2zuPECB  Slow down. Triple check the URL and Crypto address	2017-11-03	-0.1888888888888889
+365	"Bought $BTC at $7,
+sold on Silk Road for $7."	2017-11-03	0.0
+366	For me #Bitshares is the most undervalued cryptocurrency on the market and I am buying it. #BTS #BTC #ETH #LTC pic.twitter.com/fHfNT9WD2O	2017-11-03	0.5
+367	We are excited to announce that Streamr (DATA) trading is now live against BTC, ETH & USD. @streamrinc	2017-11-03	0.2556818181818182
+368	"Hey Jon Stewart, do you still think this is true and so funny? 
+#bitcoin #ATH"	2017-11-03	0.3
+369	Bitcoin's destiny is to be the world's most valuable commodity AND currency.	2017-11-03	0.5
+370	1/2 Some 95% of all BTC accounts hold < than $7000 each. If one wants to buy $5-$10 mln worth of BTC, guess what will that do to the price.. 	2017-11-03	0.25
+371	Blessed to say I’ve been selected to play in the BTC all star game with the South team @BTC_1988	2017-11-03	-0.4
+372	"Switching to @bitshares ""Will Make Cross-Border Payments Quicker and Cheaper"" http://bit.ly/2hzCbP2  #bitcoin #tokensale #blockchain"	2017-11-03	0.0
+373	CME chief Terrence Duffy takes ambitious but risky step with plan for bitcoin futures 	2017-11-03	0.25
+374	An over 70 years old gent I know asked me if bitcoin paid a dividend.   #sad	2017-11-03	-0.2
+375	What Doesn't Kill You Makes You Stronger - #Bitcoin ©  #ICO #Ethereum #investing #Blockchain #ETH #coin #token #BTC #cryptocurrency #crypto	2017-11-03	0.0
+376	The dangerous reason why bitcoin just hit yet another new high 	2017-11-03	-0.1012121212121212
+377	oh my god shut up about bitcoin in my mentions i don't fucking carrreeeeeee pic.twitter.com/scPQFPJHI5	2017-11-03	-0.6
+378	Is #bitcoin going to hit $8k this week? Share your thoughts! #cryptocurency #Friday #FridayFunDay #invest #meme #cryptomeme	2017-11-03	0.0
+379	This morning you'd need 51 Vertcoins to buy one share of $AAPL. Or you'll need 41.50 shares of $AAPL to buy one Bitcoin! @cnbc	2017-11-03	0.0
+380	"in 1999 an old timer gave me the perfect definition of a bubble ""are 25 year olds with no skills becoming millionaires off it ""
+#Bitcoin"	2017-11-03	0.5166666666666667
+381	Why Bitcoin is not sustainable technology: One Bitcoin Transaction Uses as Much Energy as Your House in a Week 	2017-11-03	0.2
+382	Earn free #Bitcoin #Litecoin #Dogecoin #Dashcoin #Ethereum #Monero #Ripple #Cryptocurrency by watching videos	2017-11-03	0.4
+383	"On November 16th, the miners will decide how #Bitcoin functions.
+
+What will they decide?"	2017-11-03	0.0
+384	Follow everyone who retweets and likes this	2017-11-03	0.0
+385	"Yes, LatiumX [LATX] is a ERC20-token >
+[VIDEO] https://buff.ly/2Adswpa 
+
+#fintech #crypto #bitcoin #news #data"	2017-11-03	0.0
+386	I’ve seen quite a few traders come out about selling their altcoins at a loss to chase this BTC move	2017-11-03	-0.2
+387	"Turkish Lira Gateway coming soon! $waves #WavesPlatform #wavesgateway #Waves $BTC $ETH $LTC stay tuned!
+http://www.digilira.com "	2017-11-03	0.0
+388	The Sweden bitcoin ETN is up to $430m in assets.. that's bigger than 70% of US ETFs.. 	2017-11-03	0.0
+389	‘You Can Buy a Fraction of a #Bitcoin’ Has Started The Most Conversations – @cryptograffiti @bitcoinist interview: http://bit.ly/2zgYByf 	2017-11-03	0.5
+390	"#Bitcoin $7768.
+9 years of ""bubble"". "	2017-11-03	0.0
+391	Allianz softens #Bitcoin 50% haircut comments, says ‘trying to find stability’. 	2017-11-03	0.0
+392	$waves will be the next huge step in blockchain technology after bitcoin and ethereum. 	2017-11-03	0.20000000000000004
+393	Argentinian Futures Exchange Eyes Bitcoin Offering http://bit.ly/2AfYtNK 	2017-11-03	0.0
+394	"Everyone that likes forking Bitcoin appears to also favour market manipulation
+These guys don't care about your financial wellbeing "	2017-11-03	0.0
+395	TIL that Segwit2X is a #Bitcoin pump & dump group. Contact @mikebelshe to participate. Don't know how much the SEC will like it though. 	2017-11-03	0.05
+396	Until $BTC trading is moved from exchanges to centralized market (CME) the narrative of $BTC becoming a global reserve currency is nonsense 	2017-11-03	0.225
+397	 Burn, @Bitcoin wallet  seed phrases, burn!  	2017-11-03	0.0
+398	Next week in Lisbon, there will be a space where you can pay for your co-work, coffee, craft beer... in bitcoin.	2017-11-03	0.0
+399	One Bitcoin Transaction Now Uses as Much Energy as Your House in a Week https://motherboard.vice.com/en_us/article/ywbbpm/bitcoin-mining-electricity-consumption-ethereum-energy-climate-change?utm_campaign=sharebutton … via @motherboard	2017-11-03	0.2
+400	Every BTC fork was/will be a massive pump & dump method that also simultaneously kills the competition (alt-coins) for the market cap space.	2017-11-03	0.0
+401	I'll probably take a break from crypto for a few months after. Travel a bit + trade other securities. And of course I'll #HODL $BTC & $XRP.	2017-11-03	-0.1625
+402	"#FollowFriday
+Among the best & seasoned crypto traders
+@onemanatatime
+@Crypto_God
+@CryptOrca 
+@CarpeNoctom
+@mBTCPizpie
+#Bitcoin $BTC #Crypto"	2017-11-03	0.625
+403	TIL that Segwit2X is a #Bitcoin pump & dump group. Contact @mikebelshe to participate. Don't know how much the SEC will like it though.	2017-11-03	0.05
+404	"CME Announces Launch of Futures for #Cryptocurrency
+
+https://btcmanager.com/cme-announces-launch-futures-cryptocurrency/?utm_source=Twitter&utm_medium=SNAP&utm_campaign=SNAP-CME+Announces+Launch+of+Futures+for+Cryptocurrency …
+
+#Commentary #Investment"	2017-11-03	0.0
+405	"This actually looks like the pump b4 ""Bitcoin is a Security"" announcement from SEC."	2017-11-03	-0.05
+406	#Bitcoin New Record, #Cryptocurrency Market Tops $200Billion http://bit.ly/2hcJuPP  #blockchain #fintech #defstar5 #makeyourownlane #mpgvip	2017-11-03	0.13636363636363635
+407	Predicting the Outcome of the November Bitcoin Fork 	2017-11-03	0.0
+408	Silvio Schembri to hold opening speech at Blockchain & Bitcoin Conference Malta https://bitcoingarden.org/silvio-schembri-hold-opening-speech-blockchain-bitcoin-conference-malta/ … tnx @Blockchain_Conf | #Crypto #News	2017-11-03	0.0
+409	Interesting order book here for #bitcoin at @Bitstamp not a whole lot of sellers even at $10,000 #buywall	2017-11-03	0.2
+410	Bitcoin Price Sets New Record As Cryptocurrency Market Tops $200 Billion http://bit.ly/2hcJuPP 	2017-11-03	0.13636363636363635
+411	Security question: Of the approx $120 billion market cap of $BTC, what percentage is being held in off-exchange private wallets at ALL times	2017-11-03	0.0
+412	"The entire #cryptocurrency market cap has reached $200B!
+
+$XRP $ETH $BTC $LTC $BCH $NEO $WTC #Bitcoin #Ripple #ethereum #cryptocurrencies"	2017-11-03	0.0
+413	$7500 #Bitcoin is a gift. Don't take it for granted.	2017-11-03	0.0
+414	Goldman Sachs CEO Lloyd Blankfein: I'm Open to Bitcoin https://buff.ly/2h8ro1h 	2017-11-03	0.0
+415	"Bitcoin is on the RISE! Use it with #Paycent! Contribute now: https://paycent.com/ 
+
+image source: http://fortune.com/2017/11/02/buy-bitcoin-price-7000-cme/ … 
+
+#Paycentos"	2017-11-03	0.0
+416	"Will Leave This Here. 
+#blockchain #bitcoin #ethereum #cryptocurrency $BTC, $ETH, $LTC, $BCH, $XRP, $NEO, $XVG, $DASH, $ZEC, $ETC"	2017-11-03	0.0
+417	#bitcoin 7400$ ... no words.. :D .. Do you guys remember the 300$ fight? :D	2017-11-03	1.0
+418	"High Expectations on #SmartContracts , #CDL and #Blockchain
+#fintech #bitcoin #defstar5 #makeyourownlane #mpgvip
+https://www.econotimes.com/Smart-Contracts-Have-Massive-Potential-to-Take-Trigger-Massive-Adoption-of-Blockchain-987848 … "	2017-11-03	0.16
+419	"The problem w/ the ""let the market decide what #bitcoin is"" meme is that it discounts actual reality now. @coinbase @BitGo @GeminiDotCom 1/"	2017-11-03	0.0
+420	One Bitcoin Transaction Now Uses as Much Energy as Your House in a Week	2017-11-03	0.2
+421	$IFXY HERE WE GO!! Have fun chasing this morning! Glad I got in a week ago! $BVTK $SANP $BTS $BTSC $DIGAF $BITCF $PDXP #BITCOIN #blockchain	2017-11-03	0.5
+422	Company to merge with Cryptocurrency Corp; a #blockchain developer & #crypto investor!!!	2017-11-03	0.0
+423	"I didn't short bitcoin once this year
+
+Sometimes a missed chance to make a decent gain
+
+but overall it saved me from the mother of all loses"	2017-11-03	-0.03333333333333333
+424	"Bitcoin was ""built"" by Satoshi.
+
+Core ""maintain"" the software.  They aren't engineers. They are janitors."	2017-11-03	0.0
+425	Bitcoin was built by these heroes, wasn't it? Without likely minded folks #Bitcoin would not even exist.	2017-11-03	0.0
+426	"Is #Bitcoin a legitimate asset or a super-bubble waiting to implode?
+#blockchain #fintech #defstar5
+http://www.independent.co.uk/news/business/news/bitcoin-crypto-currency-innvestors-bubble-digital-blockchain-exchange-rate-a8035031.html … @Independent"	2017-11-03	0.0
+427	I had no idea that bitcoin uses so much energy: bitcoin miners use as much energy in a year as Nigeria. https://motherboard.vice.com/amp/en_us/article/ywbbpm/bitcoin-mining-electricity-consumption-ethereum-energy-climate-change …	2017-11-03	0.2
+428	Why bitcoin is making banks nervous http://wef.ch/2gQf5n5  #technology	2017-11-03	0.0
+429	This is one of the most important #crypto #Bitcoin #blockchain articles of 2017 https://hackernoon.com/what-will-bitcoin-look-like-in-twenty-years-7e75481a798c … @leashless @goonth @brockpierce	2017-11-03	0.45
+430	#Dropdeck ICO - One to hold on to via @RealistNews http://bit.ly/2xLzsbm  #eth #btc #blockchain #ICO	2017-11-03	0.0
+431	Bitcoin mining uses more energy than Ecuador – but there’s a fix http://newscienti.st/2z99Ner 	2017-11-03	0.5
+432	"It's Friday! We're sending out ~900 BTC - over USD 6,600,000 ! 
+#payday #payout #BTC #bitcoins #mining #crypto #cryptocurrency #TGIF"	2017-11-03	0.0
+433	What explains the recent surge in demand for bitcoin? http://econ.st/2iqM5lH 	2017-11-03	0.0
+434	"The whole ""LOL Putin pays me in Bitcoin"" dodge obscures a much more nuanced reality - that it takes all kinds to pull of an intel Op. "	2017-11-03	0.5
+435	Watch out for Ethereum White copycats! Email us at etwteam@ethwhite.io for confirm any promos or airdrops. $etw $btc $eth $etc $neo	2017-11-03	0.0
+436	Bitcoin passes $7,000, VMware acquires VeloCloud and more on #crunchreport with @titoyooo	2017-11-03	0.5
+437	When you want to compare how important bitcoin is to the internet, ask yourself this question. What's more important to me? Money, or email.	2017-11-03	0.43333333333333335
+438	"[#Infographic] The future of #payments solution
+
+#Fintech #Banks #Digital #Blockchain #Crypto #Bitcoin #API #AI #BigData #IoT #CyberSecurity"	2017-11-03	0.0
+439	The rise of #Bitcoin seems unstoppable - hit $7,355 yesterday. Reaching $15k by next year now seems more likely. 	2017-11-03	0.16666666666666666
+440	Wouldn't it be ironic that if the 2X HF gets called off because no one supports it, #Bitcoin price dumps because no free airdrop.	2017-11-03	0.0
+441	Ukraine Drafts Law to Exempt Crypto Income and Profits from Taxation http://ift.tt/2lLaBDh  #Bitcoin 	2017-11-03	0.0
+442	Introduction to #Qtum Economics , A Beginner’s Guide to Gas http://bit.ly/2hjMeaZ  #Bitcoin #Blockchain #Ethereum #Fintech	2017-11-03	0.0
+443	.@GoldmanSachs CEO Lloyd Blankfein: I'm Open to #Bitcoin http://bit.ly/2lJvmzc  #blockchain #fintech #defstar5 #makeyourownlane #mpgvip	2017-11-03	0.0
+444	Bitcoin $7,350 ATH 	2017-11-03	0.0
+445	Newsflash: Bitcoin Price Peaks at New Record High Near $7,450 	2017-11-03	0.1321212121212121
+446	We've done our research here at #BitcoinCash. The community/miners favor #BCH aka #bitcoin. Segwit2x & Core are attempts to corporatize #BTC 	2017-11-03	0.0
+447	Bitcoin appears to be adding $500 to its trading price each day. Will probably hit $7,500 in 1-2 hours. 	2017-11-03	0.0
+448	.@FD at beginning of year called #Bitcoin a 'Rounding Error of modern finance' now after adding only $100bn of $385tn he calls it a bubble  	2017-11-03	0.1
+449	The emotion driving Bitcoin is hope - I think eventually that hope will turn to dust and that bubble will pop, says @FD #newsnight 	2017-11-03	0.0
+450	Follow us for a chance to win 10,000 Ethereum White tokens! $btc $eth $etc $neo $dgb $dash $strat $eos $omg $pay	2017-11-03	0.4
+451	Is bitcoin a legitimate asset or a super-bubble waiting to implode? 	2017-11-03	0.0
+452	"#CT_humor :)  
+Fun is fun, but he is so right! @JihanWu
+#Bitcoin #BitcoinCash"	2017-11-03	0.3642857142857143
+453	It’s 5:30am I’m on a @united flight to Washington D.C #Bitcoin has reached $7,391.64 | Invest now - https://www.coinbase.com/join/59dd83df4540cd00b78d9523 … (RETWEET)	2017-11-03	0.0
+454	I am trading #BTC live on Youtube. https://www.youtube.com/watch?v=PdTujl61OWE …  #Bitcoin #cryptocurrency $BTC #forex #trading #TradingStrategies #XBT #BItMEX	2017-11-03	0.13636363636363635
+455	Since nobody really knows what btc might do.. i'll just share a possibility on the weekly.. #notdrunk	2017-11-03	0.2
+456	"GoNetwork #Airdrop, telegram account required. #ERC20 token
+
+Site: https://gonetwork.co/ 
+Form: http://bit.ly/2gxJgiu 
+
+#Crypto $ETH $BTC"	2017-11-03	0.0
+457	"Use telegram instead of WA and join my channel http://t.me/cryptopedians  to win 0.2 $btc tomorrow!! 
+
+#whatsappdown #Telegram #btc"	2017-11-03	1.0
+458	Sold all #shitcoins except #Hive and #Neblio! Will fill my bags again soon, but first want to see hit #Bitcoin $10.000,- +++ #Good times pic.twitter.com/aJUNKH4igA	2017-11-03	0.475
+459	Goldman Sachs CEO Lloyd Blankfein: I'm Open to Bitcoin http://bit.ly/2lJvmzc 	2017-11-03	0.0
+460	"The total market capitalization just crossed $200 billion!
+http://coinmarketcap.com/charts 
+
+#coinmarketcap #bitcoin #cryptocurrency #marketcap"	2017-11-03	0.0
+461	"$BTC
+
+Forget about elliot, fibs and triangles ... price action or get rekt"	2017-11-03	0.1
+462	Big investors are taking sides in #Bitcoin's great #bubble debate. https://www.bloomberg.com/news/articles/2017-11-03/big-investors-are-taking-sides-in-bitcoin-s-great-bubble-debate …	2017-11-03	0.4
+463	Understanding Segwit2x: Why Bitcoin's Next Fork Might Not Mean Free Money http://bit.ly/2gRwYl2  via @CoinDesk	2017-11-03	0.18541666666666667
+464	Trading Bitcoin is fun. Constant rate notifications on mobile. One touch buy/sell. Keep skimming money on spikes.	2017-11-03	0.15
+465	"Damn, who are these guys paying $7400 for Each Bitcoin.
+Can't even imagine myself being one of them."	2017-11-03	0.0
+466	Free Bitcoin & Crypto Meetup during #WebSummit, RSVP to secure your spot: https://www.meetup.com/btccom/events/244755570/ …  #bitcoin #MoneyConf #websummit2017	2017-11-03	0.4
+467	"USD: hey bitcoin maybe you should cool off for a while?
+Bitcoin: MANS NOT HOT
+I COULD NEVER BE HOT
+PERSPIRATION TING
+LYNX EFFECT"	2017-11-03	0.15833333333333333
+468	So, #Bitcoin is worth $7,000, but why? 	2017-11-03	0.3
+469	"ALERT
+
+#CryptoCurrency Market Cap at ALL TIME HIGH! $201 Billion! 
+
+THE #CRYPTO BOOM IS HERE !!!
+
+VIVA LA #BITCOIN !!!
+
+
+$btc $eth $ltc"	2017-11-03	0.95367431640625
+470	Not yet huh? #bitcoin 	2017-11-03	0.0
+471	$BTC looking for a new ATH and getting closer to the sweet spot. Savage $BTCUSD $Crypto	2017-11-03	0.24318181818181817
+472	Bitcoin just shot past $7K for the first time, but some bankers call it a “bubble” https://buff.ly/2zb1SPW 	2017-11-03	0.0
+473	Have you checked our Bounty Program? Bounty hunters heavily utilised in Bitcoin, Altcoin world https://cointelegraph.com/news/bounty-hunters-heavily-utilized-in-bitcoin-altcoin-world … via @Cointelegraph	2017-11-03	-0.2
+474	$BTC breaking the year-long log trend. I need my space suit for this. 	2017-11-03	0.0
+475	Bitcoin ATM stolen. 	2017-11-03	0.0
+476	A very sad day today, people have stolen our #Bitcoin ATM https://www.ad.nl/roosendaal/zinloze-kraak-op-bitcoinautomaat-in-oudenbosch-ik-twijfel-oprecht-aan-verstandelijk-vermogen-inbrekers~aec09e22/ …	2017-11-03	-0.65
+477	"#Bytom released 0.1.3 version, creating a new public chain model along with Bitcoin and Ethereum 
+https://medium.com/@Bytom_Official/bytom-released-0-1-3-version-creating-a-new-public-chain-model-along-with-bitcoin-and-ethereum-74ac8221c5c5 …"	2017-11-03	0.06818181818181818
+478	One Bitcoin Transaction Now Uses as Much Energy as Your House in a Week https://motherboard.vice.com/en_us/article/ywbbpm/bitcoin-mining-electricity-consumption-ethereum-energy-climate-change?utm_campaign=sharebutton … via @motherboard	2017-11-03	0.2
+479	I added a video to a @YouTube playlist http://youtu.be/-Nr-pZC5Sww?a  Stéphane speaking at Bitcoin Wednesday in Amsterdam 1 nov 17	2017-11-03	0.0
+480	*Bitcoin hodlers waking up to new ATH* 	2017-11-03	0.13636363636363635
+481	Time to say Goodbye to #Kiev #Ukraine, had a great time at #BlockchainDay. See you guys @ScalingBitcoin #ScalingBitcoin #Bitcoin 	2017-11-03	0.8
+482	Today in #Bitcoin News Podcast (2017-11-03) - 2X Hostile Takeover a Feature, not a bug https://www.youtube.com/watch?v=LcWK4t6y_6g …	2017-11-03	0.0
+483	“The Rise of Bitcoin and the (80%) Fall of Alts since June 2017” — @BambouClub https://medium.com/@BambouClub/the-rise-of-bitcoin-and-the-fall-of-alts-since-20-june-2017-2caa19555bf0#---0-351 …	2017-11-03	0.0
+484	"#Bitcoin $BTC - Long term chart, stick this to any school of economist academy 
+
+TA to rule them all 
+
+#Tadoesntwork"	2017-11-03	-0.05
+485	"""Bitcoin: The Greatest Short Squeeze"" is going to be an Epic Movie."	2017-11-03	0.3666666666666667
+486	Is #Amazon preparing to accept #payments in #Bitcoin? http://crwd.fr/2yqpb95  #disruption #blockchain #fintech #cryptocurrency #frenchtech	2017-11-03	0.0
+487	"I am largely bagless right now. Largest allocation of $BTC i have held in a long time.
+
+Dominance to 70% seems next target, minimum. "	2017-11-03	0.1125
+488	"#Bitcoin dominance above 60% again in a nice ""neckline"" breakout
+
+Further #altcoin rekt to come if sustained…"	2017-11-03	0.19999999999999998
+489	Wow - “Processing a bitcoin transaction consumes more than 5,000 times as much energy as using a Visa credit card.”  	2017-11-03	0.26666666666666666
+490	"First & only tasking platform to incorporate a fully automated rating system!
+[VIDEO] https://buff.ly/2lIVY37 
+
+#fintech #crypto #bitcoin"	2017-11-03	0.125
+491	"Explore the world of #cryptocurrency at http://Revex.co   
+ #Cryptocurrencies
+ Exchanges
+ Gambling sites
+ #Tokens
+#bitcoin
+#litecoin
+#ethereum
+#monero
+#decred
+#ubiq
+#potcoin
+#digibyte
+#lisk
+#syscoin
+#okcash
+#deeponion
+#pivx
+#dogecoin
+#siacoin and more
+#blockchain #altcoins"	2017-11-03	0.5
+492	Bitcoin just surged past $7,000. Here's why 	2017-11-03	-0.25
+493	Yeah... Software was supposed to save the world -_- Who will stop this Madness? #Bitcoin is a developer shame 	2017-11-03	0.0
+494	Bitspark began life as a #Bitcoin exchange... but quickly refocused... after seeing the $800M market just in HK! 	2017-11-03	0.41666666666666663
+495	I have enough BTC to pay off my student loans from a 4 year university TODAY. I graduate in December 	2017-11-03	0.0
+496	"Setup invalidated. BTC seems to be going for next resistance around 8k which I saw as ""very unlikely"" for the past 2 weeks."	2017-11-03	-0.3
+497	"*IF* $BTC log channel breakout is confirmed, next stop is 8k-8030 based on fib extensions.
+
+Keep your eye on that spot up top  "	2017-11-03	0.3
+498	Blockchain Programmatic Corporation at Bitcoin & Digital Currency Investors Coinagenda conference (photo report) 	2017-11-03	0.0
+499	KuCoin will list Change (CAG) on 7th, November. The upcoming markets includes CAG/BTC and CAG/ETH. Users can start depositing CAG to KuCoin at 12:00, 5th, November (UTC+8), and trading at 20:00, 7th, November (UTC+8). $KCS $CAG $BTC $ETH	2017-11-03	0.0
+500	Lets make this simple for the #btc #ltc @SatoshiLite wannabe Fudders-Palm Beach didnt pick u @ripple #xrp 2018 #crypto #fintech #Microsoft	2017-11-03	0.0
+501	"#Bitcoin is a Bubble
+
+- Expert"	2017-11-03	0.0
+502	#insurtech landscape 2017.  #ar #vr  #Blockchain  #IoT #tech #startup #ai #ar #ml #bigdata #fintech #crypto #vr #SmartCity #btc $btc #drones	2017-11-03	0.0
+503	"Huge liquidation on bitmex.
+
+#bitcoin "	2017-11-03	0.4000000000000001
+504	"#Blockchain Use Cases 
+#Fintech #IoT #BigData #cyberSecurity #Cryptocurency #disruption #AI #Privacy #BTC @JacBurns_Comext @Fisher85M"	2017-11-03	0.0
+505	Wondering if $BCH/ $BTC will follow $BCH/ $USD. $Crypto	2017-11-03	0.0
+506	"We all watching it.
+
+#bitcoin "	2017-11-03	0.0
+507	Friendly reminder: $BTC is up ~858% since @VinnyLingham tried to prevent the bubble earlier this year.	2017-11-03	0.1875
+508	I support BCH, Bitcoin, and Bitcoin 2X; spread the love. There’s room for everyone. DM if you feel need to fight me, can Periscope it 	2017-11-03	0.5
+509	I’ve decided that the Bitcoin 2X and Bitcoin fork is *just* the drama I need and I support both and hope everybody has fun and learns.	2017-11-03	0.3
+510	As promised, i will pick a lucky winner today ... soon :) , stay tuned for 0.1 $btc twitter giveaway	2017-11-03	0.41666666666666663
+511	"SegWit2x futures (chain split tokens) currently trading at 0.163BTC on Bitfinex
+https://goo.gl/3dapz9 
+#bitcoin #bitcoin2x"	2017-11-03	0.0
+512	$OKCash is $BTC's Grandson and $OKCash will rise again just like $OKCash Grandfather $BTC. No doubt about it. #OKCommunity #Yuhuteam #OKcash	2017-11-03	0.0
+513	"Right now #OKCash is ranked 37 on @coingecko Come on!! The best ""Proof of Stake"" #cryptocurrency is here! $OK https://www.coingecko.com/es/monedas/okcash …"	2017-11-03	0.6488095238095238
+514	"#BitcoinCash
+
+More than $100,000 in tx fees have been saved by Satoshi Dice players since it relaunched""
+
+https://www.reddit.com/r/btc/comments/7ahqhu/fun_fact_more_than_100000_in_tx_fees_have_been/?ref=share&ref_source=twitter … #BCH #BTC"	2017-11-03	0.5
+515	How bitcoin is marketed to the masses - a telling probe by @kadhimshubber into one operation for @ftalpha.	2017-11-03	0.0
+516	"WATCH > LATIUM: THE FINTECH REVOLUTION!!!
+[VIDEO] https://buff.ly/2AcE4cn 
+
+#fintech #crypto #bitcoin #news #data"	2017-11-03	0.0
+517	"#Bitcoin and #Blockchain Are Among the Fastest-Growing Skills Online 
+
+https://www.bloomberg.com/news/articles/2017-11-02/bitcoin-and-blockchain-are-among-the-fastest-growing-skills-online … #fintech"	2017-11-03	0.0
+518	This is the real problem with bitcoin 	2017-11-03	0.2
+519	Don't miss #Bazista #PreICO launch on November, 16! Learn more on @zycrypto! #bazistateam #ico #blockchain #bitcoin	2017-11-03	0.625
+520	‘If you follow us you will make money’: how bitcoin is marketed to the masses at the Aldgate WeWork office http://ftalphaville.ft.com/2017/11/03/2195503/if-you-follow-us-you-will-make-money-how-bitcoin-is-marketed-to-the-masses/ …	2017-11-03	0.0
+521	"When your #StoreOfValue ""investment"" has no utility...
+
+Better:  A bitcoin that is actually usable again.
+
+#BitcoinCash"	2017-11-03	0.25
+522	Follow everyone who Likes and Retweets this	2017-11-03	0.0
+523	"#bitcoin 7738$ 6607€ 29401₺
+#ethereum 310$ 265€ 1177₺
+#litecoin 58$ 49€ 221₺
+riple #XRP  0.23$ 0.19€ 0.82₺
+#Turkey #vebitcoin.com saat09:18"	2017-11-03	0.0
+524	"I wonder why Teeka, could it be...market manipulation? 
+$btc $xrp $xvg $zen"	2017-11-03	0.0
+525	Finance Bigwig Mohamed El-Erian Says Bitcoin Is a Commodity http://bit.ly/2xSTHUE 	2017-11-03	0.0
+526	The main reason why people are buying Bitcoin is the rising price, not the cryptocurrency benefits. This cannot last forever. Sorry	2017-11-03	-0.11111111111111112
+527	Palmbeachgroup picks @ripple #xrp to be the 2018 Pick of the year. #btc #eth #fintech #crypto #blockchain @sbigroup  https://pros.palmbeachgroup.com/p/1711PBOMEGA3/EPBOTB34/Full?email=%7Bemailaddress%7D&h=true …	2017-11-03	0.0
+528	Btc making insane new heights and alts are suffering hard. Soon this parabolic move up ends and crashes down. And alts get rekt even more	2017-11-03	-0.1621717171717172
+529	"#Litecoin Creator Says #Bitcoin Will Suffer if #SegWit2x Succeeds
+What's your opinion?
+
+$BTC $B2X #BTC #B2X #segwit
+
+https://cryptovest.com/news/litecoin-creator-says-bitcoin-will-suffer-if-segwit2x-succeeds/ …"	2017-11-03	0.7
+530	New video idea...buying $7000 sneakers with bitcoin! 	2017-11-03	0.17045454545454544
+531	Bitcoin is at $7K.	2017-11-03	0.0
+532	This is a nice article about Verge Currency $XVG $BTC #crypto #bitcoin #infosec #fintech	2017-11-03	0.6
+533	"Scam playbook:
+> create scaling drama
+> propose shitcoin as solution
+> buy media for shitcoin 
+> dump shitcoin to suckers
+> Buy more BTC"	2017-11-03	0.2333333333333333
+534	Umm... Amazon will be using stripe to process bitcoin payments.  Duh. 	2017-11-03	-0.3
+535	Amazon just bought 3 cryptocurrency web addresses and nobody knows why http://ti.me/2zsolsD 	2017-11-03	0.0
+536	Goodbye Hollywood Politics. Hello #LiveTree ADEPT via@blockchainchick http://bit.ly/2gSSNk2  #btc #eth #disruptive #contentcreation #ico	2017-11-03	0.6
+537	One of the biggest bitcoin bulls on Wall Street just turned cautious https://bloom.bg/2z95wr7 	2017-11-03	0.0
+538	"The #bcash chart the #bitcoin community doesn't want you to see.
+
+Trader no care what the ticker is. Look at that velocity!
+
+$crypto"	2017-11-03	0.0
+539	The real BTC comes out. No honey badger. 	2017-11-03	0.2
+540	Btc is doing insane and all but i might trade all mine for eth right now at its 6-7 month low . .. thoughts?	2017-11-03	-0.2380952380952381
+541	"Watching this on #bitcoin
+
+I remain bullish as resistance acted as support. Change my view if it is violated. Careful with margin up here "	2017-11-03	-0.1
+542	"How a #Bitcoin Transaction Works [Infographic]
+[by @IEEESpectrum  v/ @Visually ]
+#Blockchain #Fintech"	2017-11-03	0.0
+543	Interest, inflation, and #Bitcoin, oh my. 	2017-11-03	0.0
+544	Vietnam joins Indonesia as second country to fully ban #Bitcoin. 	2017-11-03	0.0
+545	Nobody Understands Bitcoin (And That's OK) http://bit.ly/2uniMb6  via @CoinDesk	2017-11-03	0.5
+546	Blessings to the Internet Archive and the mind and bitcoin wallet of Brewster Kahle.	2017-11-03	0.0
+547	Sshhh dont tell anyone but #Bitcoin is $7220.42 right now. Ok back to sleep zzzzz	2017-11-03	0.2619047619047619
+548	#Qtum Weekly Topics & Discussion Thread: Nov 1st-8th 2017 http://bit.ly/2zg73y0  #Bitcoin #Blockchain #Ethereum #Fintech	2017-11-03	0.0
+549	"New Tradingview Chart: The #Bitcoin #Megabull Nearing our $10,000  Target from Sept 2016 #cryptocurrencies $BTCUSD
+https://www.tradingview.com/chart/BTCUSD/EvTDmIUP-The-Bitcoin-Megabull-Cycle-Nearing-our-Target-of-10-000-USD/ …"	2017-11-03	0.13636363636363635
+550	#Bitcoin hits another milestone! #Trending #cryptocurrencies	2017-11-03	0.0
+551	"#Decentralized #economics and real change in the way #humans work
+ https://vid.me/4nmNj 
+#fintech #crypto #bitcoin #news #data"	2017-11-03	0.2
+552	Carbon Offsets for Bitcoin Mining.	2017-11-03	0.0
+553	Bitcoin mining accelerating global warming 	2017-11-03	0.0
+554	One Bitcoin Transaction Now Uses as Much Energy as Your House in a Week https://motherboard.vice.com/en_us/article/ywbbpm/bitcoin-mining-electricity-consumption-ethereum-energy-climate-change?utm_campaign=sharebutton … via @motherboard	2017-11-03	0.2
+555	"""My client has acquired life story rights from #SatoshiNakamoto—the creator of the #bitcoin protocol."" #longreads"	2017-11-03	0.0
+556	Bitcoin just surged past $7,000. Here's why 	2017-11-03	-0.25
+557	"II on Dimon's rant: ""While Dimon was bashing Bitcoin, JPM SF office was hosting Bitcoin investors."" (Pantera Cap +)
+https://www.institutionalinvestor.com/article/b15f1r19y0r47j/jamie-dimons-bitcoin-rant-defends-status-quo?utm_content=bufferf0789&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer …"	2017-11-03	0.0
+558	$MOD is already tradable on KuCoin, hope you enjoy trading here! $KCS $BTC $ETH	2017-11-03	0.35
+559	I would not bet against $BTC 	2017-11-03	0.0
+560	My twitter account is clear about my strenuous objections to the upcoming NYA/2X bitcoin hard fork. 1/	2017-11-03	-0.09583333333333333
+561	"""Boy, that escalated quickly""
+You know my rules on Double Tops guys, new $BTCUSD ATH's incoming. Enjoy the #Bitcoin rise while it lasts :) "	2017-11-03	0.2739393939393939
+562	What’s the bitcoin lovers answer to environmental challenges created by crazy energy use per transaction? 	2017-11-03	-0.6
+563	The Bitcoin Story: With over 700% growth in 10 months, the digital currency is now over $6800 http://bit.ly/2zeGKIe  (via @moneycontrolcom)	2017-11-03	0.0
+564	Bitcoin passes $7,000 for the first time 	2017-11-03	0.25
+565	People are buying @ $7200....that blows me away. $BTC	2017-11-03	0.0
+566	Bitcoin is at $7K.	2017-11-03	0.0
+567	Keeping up its exhausting #bitcoin #prices #updatingmemes	2017-11-03	-0.4
+568	Instead of talking about an inflating bubble in #bitcoin, we should talk about a deflating bubble in the #dollar down 86 percent this year.	2017-11-03	-0.15555555555555559
+569	Bitcoin protocol is written in stone. You can add rules, but you can't change them. 	2017-11-03	0.0
+570	There's no such thing as reaching consensus for a hard fork because there's no way to transfer value from one chain to another.	2017-11-03	-0.14583333333333334
+571	I keep saying it’s too late for me to get into Bitcoin and I keep getting proved wrong. 1 coin is like $7200 right now 	2017-11-03	-0.17142857142857146
+572	Sooo is @Bitso OUT of silly #NYA & Saying #NO2X to #B2X contentious Hard Fork? Red Part Resonated w/ this #Bitcoin(er)--> said this long ago 	2017-11-03	-0.2104166666666667
+573	"Siberians use #bitcoin mining to heat homes in winter 
+
+https://www.rt.com/business/408556-siberia-bitcoin-mining-energy/ … #fintech"	2017-11-03	0.0
+574	VC-backed Bitcoin companies attempting to push through B2X is the same thing as Comcast and Verizon trying to kill net neutrality.	2017-11-03	0.0
+575	"Check out this wonderful piece about http://hawala.today  by @Scifiscreen 
+
+https://medium.com/@Scifiscreen/hawala-today-see-it-for-yourself-460b18e06dce …
+
+#eth #btc #p2p #exchange #erc20 #HAT"	2017-11-03	1.0
+576	"Surge after #bitcoin futures plan. Ankorus will fill these orders in #crypto. No need of fiat/banks.
+
+http://www.zerohedge.com/news/2017-11-02/coinbase-adds-record-100000-bitcoin-traders-one-day … #ICO"	2017-11-03	0.0
+577	"Multiple contracts can be easily managed 
+https://vid.me/4nmNj 
+#bitcoin #altcoin #SmartContract #finance"	2017-11-03	0.21666666666666667
+578	What does bitcoin mean for the future of currency? @krogoff http://wef.ch/2xSsp56  #economics	2017-11-03	-0.15625
+579	"If you told me in 2011 that I'd be speaking at the same conference as Asness & Zweig, I would've said ""yeah, and Bitcoin's going to $7,000"""	2017-11-03	0.0
+580	"Log trend line giving some resistance. 
+#bitcoin "	2017-11-03	0.0
+581	"#BitcoinCash folks, we have strong support to cross the ""George Fool Line""   
+
+#fintech #cryptocurrency #bitcoin #BCH #trading #WallStreet"	2017-11-03	0.21666666666666665
+582	Bitcoin mining uses more energy than Ecuador – but there’s a fix http://newscienti.st/2hyT7Fp 	2017-11-03	0.5
+583	What’s truly amazing about Bitcoin is that the process of “believing” has happened organically, versus how we got from gold->paper 	2017-11-03	0.6000000000000001
+584	"Bitcoin is making history.
+Gold is flat-lining. 
+Coincidence? "	2017-11-03	0.0
+585	The #Bitcoin pizza is worth $71,220,825 today. (+4% from yesterday)	2017-11-03	0.3
+586	My babysitter, to whom I've never mentioned Bitcoin, asked to be paid in Bitcoin. 	2017-11-03	0.0
+587	"I remember talking you & @PhilLaak about Bitcoin in Bellagio a few years ago.
+
+I'm sure it sounded crazy back then  "	2017-11-03	-0.075
+588	Yikes!  7k! #Bitcoin 	2017-11-03	0.0
+589	One Bitcoin Transaction Now Uses as Much Energy as Your House in a Week https://motherboard.vice.com/en_us/article/ywbbpm/bitcoin-mining-electricity-consumption-ethereum-energy-climate-change?utm_campaign=sharebutton … via @motherboard	2017-11-03	0.2
+590	Blessed to get invited to play in the BTC all-star game  #TeamEast 	2017-11-03	-0.4
+591	Watching $BTC triangles form is mesmorizing 	2017-11-03	0.0
+592	Dev update #1 — Post-ICO progress https://medium.com/@Cobinhood/dev-update-1-post-ico-progress-ba89480e1f43 … #cryptocurrency #ICO #blockchain #fintech #bitcoin	2017-11-03	0.0
+593	Crunch Report | Bitcoin Passes $7,000․.․ Oh My! http://tcrn.ch/2gXWtRR  by @titoyooo	2017-11-03	0.0
+594	Blessed To Receive An Invitation To Play In The BTC All-Star Game Repping TEAM EAST @BTC_1988 @DHHS_Football	2017-11-03	-0.4
+595	ATTENTION TWITTER. BOUNTY OF 5 BTC ($35,000) OUTSTANDING FOR ANY INFO ON THE EX-EMPLOYEE RESPONSIBLE FOR DEACTIVATING POTUS. RT TO SPREAD	2017-11-03	0.35
+596	Bitcoin is the ‘very definition’ of a bubble, Credit Suisse CEO says https://bloom.bg/2yoXmhb 	2017-11-03	0.2
+597	"When changing your company name to include the word ""bitcoin"" gives you a 1-day 400% bump, we've got to be close to that top. "	2017-11-03	0.5
+598	ANOTHER reason to like @rogerkver -must have been hard to make him look bad.All he wants is #bitcoin to win&government to lose #BitcoinCash	2017-11-03	-0.04583333333333334
+599	TIL http://bitcoin.com  pool will let you mine BCH or BTC, and independently choose which currency to get paid in. @emilolden nice! https://twitter.com/rogerkver/status/925047192615763969 …	2017-11-03	0.375
+600	Since $ARK is already on @binance_2017 if you have a spare vote to throw, throw it to our freinds at @_pivx nice guys all around. #vote #btc	2017-11-03	0.6
+601	"What is #Blockchain?
+
+v/ @CreditCardsCom
+#Fintech #makeyourownlane #Mpgvip #cryptocurrency #ETHEREUM #defstar5 #AI #Bitcoin #cybersecurity"	2017-11-03	0.0
+602	"Bitcoin just broke through $7,000. Where will it go next?
+http://on.forbes.com/60158hl6f "	2017-11-03	0.0
+603	Here’s one thing the bitcoin frenzy has in common with the dot-com bubble http://on.mktw.net/2ypLVWU 	2017-11-03	-0.3
+604	2 more days till the major telegram giveaway, almost 0.2 $btc !! 4 more members, you can still join after 200 members for a chance to win	2017-11-03	0.4744140625
+605	Thanks to @zcoinofficial for sponsoring my 'how to' #Bitcoin #Crypto presentation @ @Daxko.  Also thanks to @DaxkoDave for the invitation.	2017-11-03	0.2
+606	Best way to get the most out of your hard earned $btc is by aquiring those magnificent $xvg Diiiiiipppsss 	2017-11-03	0.5520833333333333
+607	Bitcoin hits record high as it surges past $7,300 	2017-11-03	-0.045
+608	"$ARK #github winners for Oct. 
+https://steemit.com/blockchain/@arkecosystem/october-2017-github-development-winners …
+#developers #javascript #Java #blockchain $crypto $BTC $ETH #typescript #NodeJS #ark"	2017-11-03	0.0
+609	Whenever dudes spend literally all day explaining Bitcoin + Ethereum + dogecoin + whatever to me on twitter, this is all I can think of. 	2017-11-03	0.0
+610	"Bought 1 share of ethereum at $288 a share and 1 share of litecoin at $54 a share! Cryptocurrency is gonna be big. Remember this tweet. What do you have to lose? Its an investment just like anything else.
+#Bitcoin
+#Ethereum
+#Litecoin"	2017-11-03	0.0
+611	#Bitcoin hits new threshold as its price breaks record of $7000 http://sptnkne.ws/fRjA  #cryptocurrency	2017-11-03	0.13636363636363635
+612	Bitcoin is at 1.3% of total gold cap ($110B vs $8000B) 	2017-11-03	0.0
+613	The 8 biggest Bitcoin players who could make a fortune off the cryptocurrency http://money.us/2ztaEtl 	2017-11-03	0.0
+614	"Charlie vs Bobby
+
+Alan vs Barry
+
+The battle of the brothers has really become a theme this year "	2017-11-03	0.2
+615	"Many major banks have a policy of buying BTC during dips to prepare to pay ransoms in Bitcoin if they’re hacked.
+
+^ This is incredible! "	2017-11-03	0.5208333333333334
+616	Bitcoin Price Analysis: Bitcoin’s Parabolic Envelope Could Push to $8000s https://buff.ly/2zaQMui 	2017-11-03	0.0
+617	Bitcoin transactions use ~215 KWh of energy, enough to run an average US house for ~week http://motherboard.vice.com/en_us/article/ywbbpm/bitcoin-mining-electricity-consumption-ethereum-energy-climate-change …	2017-11-03	-0.075
+618	#Qtum #Cryptocurrency Executing Smart Contracts On #Mobile & #IOTDevices http://bit.ly/2zTLlgX  #Bitcoin #Blockchain #Ethereum #Fintech	2017-11-03	0.21428571428571427
+619	BEYOND BANKING: More uses for #XRP are on the horizon! #XRPthestandard #BTC #ETH #IOTA https://twitter.com/SecureBC/status/925140463996125184 …	2017-11-03	0.625
+620	We just got a super smart and simple explanation of what a bitcoin fork actually is 	2017-11-03	0.1369047619047619
+621	Any women starting to venture into the crypto space who want an invite to an intimate event on the basics of bitcoin?	2017-11-03	0.1
+622	#DYK that #LiveTree features products of the day? Discover them here: http://bit.ly/2zSsliY  #blockchain #btc #eth #ico	2017-11-03	0.0
+623	An impressive group of technical and thought leaders will share their views on #bitcoin innovation and adoption this weekend @Stanford! 	2017-11-03	0.5
+624	SegWit2x supporters are to all talk - won’t put skin in the game. If anyone wants to trade my S2X for BTC, I’d love to be proven wrong. 	2017-11-03	-0.05
+625	i got no takers on 3 fo 1. i asked some of the NYA company guys also: no takers. they don't believe in their own coin.	2017-11-03	0.6
+626	Before you judge those who take out fiat loans to buy Bitcoin: historically, it has proven to be the best, most secure strategy to go long.	2017-11-03	0.37
+627	Is bitcoin luring away traditional investors in gold? 	2017-11-03	0.0
+628	Contributing to Bitcoin isn’t just through core development	2017-11-03	0.0
+629	"San Francisco bound for Bitcoin Scaling conference. Will post all to coingeek and Twitter.
+
+Unfollow if you don't want a tweet storm."	2017-11-03	0.0
+630	Bitcoin price hits $7,000 for the first time http://on.mash.to/2yoJsfb 	2017-11-03	0.25
+631	Why Bitcoin Matters More Than #Blockchain https://www.forbes.com/sites/briankelly/2017/10/24/why-bitcoin-matters-more-than-blockchain/#2acc952937ac … #IoT #InternetOfThings #IIoT #AI #DL #BigData #MachineLearning #Business	2017-11-03	0.5
+632	"Join the FRENZIA Token Airdrop on the Nem Blockchain
+#Frenzia #Nem #bitcoin #altcoin #blockchain
+https://bitcointalk.org/index.php?topic=2350659 …"	2017-11-03	0.0
+633	This is why people with big egos have a tough time in bitcoin over the long-term. They have little influence compared to all of the hodlers.	2017-11-03	-0.19212962962962962
+634	"""It's [#Bitcoin] deja vu all over again"" - Yogi Berra
+$BTCUSD 4hr calling for a 1-4 Candle Pull Back then Higher cause Daily/Weekly Bullish!"	2017-11-03	0.15625
+635	$7k $BTC & $120B market cap only tip of 1st root of 1st network effect of 7. #Bitcoin destined to be giant sequoia. 	2017-11-03	0.0
+636	Lloyd Blankfein says don’t dismiss bitcoin https://bloom.bg/2ypaqU9 	2017-11-03	0.0
+637	Bitcoin miners will consumer ~24 terawatt-hours of electricity this year. That is equivalent to the annual consumption of Nigeria.	2017-11-03	0.0
+638	"zPIV is the most privacy-centric coin on the market. 
+
+$PIVX #cryptocurrency $btc https://twitter.com/_pivx/status/926243808228069376/photo/1pic.twitter.com/Xdh2cuLIp3 "	2017-11-03	0.5
+639	A #FinTech Glossary by @MikeQuindazzi  #BigData #DataScience #Cogntive #Analytics #Bitcoin #IoT #SmartContracts	2017-11-03	0.0
+640	Plotting the global Bitcoin mining decentralization movement w/ mining firm @DCentralTech. Canadian crypto mining industry about to explode!	2017-11-03	-0.125
+641	"The same people saying ""I told you so"" as $BTC hit $7,000, would be saying ""I told you so"" if it hit zero."	2017-11-03	0.0
+642	BTCC Founder Bobby Lee: “Segwit2x Feature Is an Upgrade” http://ift.tt/2xQQwgf  #Bitcoin 	2017-11-03	0.0
+643	"XRP/BTC up +10.65% in the last hour!  
+$BTC $XRP
+https://bittrex.com/Market/Index?MarketName=BTC-XRP …"	2017-11-03	0.0
+644	"Bitcoin In 5 Years:
+- Secured by Zetta Hashes
+- Embraced by Unbanked
+- Accepted as Digital Gold
+- World Wide Ledger
+- Priced in Satoshis"	2017-11-03	-0.05
+645	The trick is to understand how #Bitcoin works and who's bluffing.	2017-11-03	0.0
+646	Block 494,785 will show exactly how little impact 58 co's, 83.28% hash power, 5.1B USD tx volume, & 20.5 million wallets have on #Bitcoin.	2017-11-03	0.03125
+647	One Bitcoin Transaction Now Uses as Much Energy as Your House in a Week 	2017-11-03	0.2
+648	"What is the @Bitcore_BTX Project?
+#BTX #blockchain #bitcoin #fintech #defstar5 #Crypto #makeyourownlane #mpgvip #NZ MT @BourseetTrading"	2017-11-03	0.0
+649	Investing in bitcoin in fear of currency collapse seems more like wealth hording than doomsday prepping to me.	2017-11-03	0.5
+650	Very cool, @MIT. Very cool. https://news.bitcoin.com/mit-issue-diplomas-using-bitcoin-blockchain/ … #bitcoin #blockchain	2017-11-03	0.45499999999999996
+651	Money moving from $BTC to $XRP and here we go.	2017-11-03	0.0
+652	"My to-do list since 2015:
+1. Wash bike
+2. Clean ManCave 
+3. Buy Bitcoin 
+#procastinatingwillcostyou"	2017-11-03	0.3666666666666667
+653	"Spotted on Bush Street. It's happening.
+
+Bitcoin is now accepted here. "	2017-11-03	0.0
+654	Bitcoin at 7k should've listened to Demos when he told me to buy it at 500 smh	2017-11-03	0.0
+655	Has a major paradigm shift occurred in Bitcoin? https://youtu.be/v6CU9h1OAWM 	2017-11-03	0.0625
+656	Eyes on this #bitcoin 	2017-11-03	0.0
+657	Join the ethereum launcher chat room  https://gitter.im/ethereum-launcher/Lobby … #bitcoin #ethereum #tokens #crypto #altcoin #cryptocurrency #elunch	2017-11-03	0.0
+658	#Bitcoin and #Blockchain Are Among the Fastest-Growing Skills Online  #developers  https://www.bloomberg.com/news/articles/2017-11-02/bitcoin-and-blockchain-are-among-the-fastest-growing-skills-online …	2017-11-03	0.0
+659	#Bitcoin Price: USD $7027.07 $BLX http://ow.ly/4naJD6 	2017-11-03	0.0
+660	#Bitcoin News Smarter Bug Bounties? Hydra Codes Creative Solution for Ethereum Theft 	2017-11-03	0.5
+661	"The idea of consistently posting bitcoin tributes makes Me nervous
+
+Keep reading all these stories of people losing crazy amounts to hackers"	2017-11-03	-0.175
+662	Feeling Hungry Asf For Some Sick #Crypto Gains? We Got Your Back @ http://www.ElixiumCapital.com/Signup/  #Bitcoin $BTC $XBT #XBT #BTCUSD #Stocks #Forex	2017-11-03	-0.35714285714285715
+663	Filled my bags with $powr what a revolutionary project. And it’s Aussie, that’s a bonus. $btc $neo $eth	2017-11-03	0.4
+664	I want nothing more than to see these anti-Bitcoiners rendered into pulp. Then no one in the future will dare to try and corrupt Bitcoin. 	2017-11-03	0.0
+665	NYA's a suicide pact at this point.  The market will prove it in a couple weeks	2017-11-03	0.0
+666	"Could #Amazon be launching 
+
+its own #cryptocurrency? 
+
+http://bit.ly/2ypaCTa  #fintech @KyreeLeary #blockchain #bitcoin @futurism"	2017-11-03	0.6
+667	Always a good time talking with @ErikSTownsend all #btc opinions are just that folks!  	2017-11-03	0.875
+668	"MacroVoices and @ErikSTownsend welcome @ttmygh Grant Williams to discuss petroyuan, gold, cryptocurrencies and more!
+http://bit.ly/2zrNtPY  "	2017-11-03	0.7125
+669	One Bitcoin Transaction Now Uses as Much Energy as Your House in a Week 	2017-11-03	0.2
+670	BitcoinAverage - bitcoin price index - ($ 7043.4) - https://BitcoinAverage.com  #bitcoin 	2017-11-03	0.0
+671	BTC is now worth $7,078.50 (-0.15%)	2017-11-03	0.3
+672	Average Bitcoin market price is: USD 7,025.67, EUR 6,029.92	2017-11-03	-0.15
+673	One Bitcoin is now worth more than $5,000 	2017-11-03	0.4
+674	"30 min #RSI Signals:
+
+$BTC - $VTC: 29.7%
+$BTC - $CLUB: 30.14%
+$BTC - $TX: 36.12%
+$BTC - $OK: 39.02%
+$BTC - $RISE: 39.69%
+
+$GRS $SLS $KORE"	2017-11-03	0.5
+675	Total #crypto market cap is $192,349,653,044 USD #bitcoin #cryptocurrency $btc $eth #ethereum	2017-11-03	0.0
+676	"60 min #RSI Signals:
+
+$BTC - $SNT: 31.31%
+$BTC - $VTC: 31.35%
+$BTC - $OK: 35.35%
+$BTC - $CLUB: 36.83%
+$BTC - $TX: 39.06%
+
+$FTC $XVC $GRS"	2017-11-03	0.5
+677	Current value of DOGE in BTC: Vircurex: 0.00000016 -- Volume: 432104.47036239 Today's trend: down at 11/02/17 19:15	2017-11-03	-0.07777777777777779
+678	#BTC price increased! Buying @ $7020.92 & Selling @ $7026.94  $btc $eth $etc $neo $dgb $dash $strat $eos $omg $pay $xrp $xmr $gas 	2017-11-03	0.0
+679	"Bitcoin - BTC
+Price: $7,078.50
+Change in 1h: -0.15%
+Market cap: $117,933,380,780.00
+Ranking: 1
+#Bitcoin #BTC"	2017-11-03	0.0
+680	@ #1, Bitcoin with unit price of $7,078.5, market cap of $117,933,380,780 (61.29%), and 24 hr vol. of $4,653,770,000 (50.95%)	2017-11-03	0.0
+681	Check. #Bitcoin Price Analysis: Bitcoin’s Parabolic Envelope Could Push to $8000s https://bitcoinmagazine.com/articles/bitcoin-price-analysis-bitcoins-parabolic-envelope-could-push-8000s/ … via @BitcoinMagazine #tech #data	2017-11-03	0.0
+682	"This just in: Bitcoin is rising!
+Current Rate: 7023.93 USD = 1 BTC"	2017-11-03	0.0

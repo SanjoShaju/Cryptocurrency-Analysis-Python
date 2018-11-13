@@ -1,0 +1,727 @@
+	Tweets	date	polarity
+0	"The prices for the ICO have gone live:
+1 ETH = 20,000 IOTAG + 20% Bonus
+0.5 ETH = 10,000 IOTAG + 10% Bonus
+0.1 ETH = 2,000 IOTAG"	2017-11-29	0.13636363636363635
+1	"Thanks all supporters
+#honestisnetwork
+#ICO #ethereum "	2017-11-29	0.2
+2	"Do you own any BTC? 
+#bitcoin #ethereum #ICO #cryptocurrency #education #smartcontracts #finance #stocks #altcoin #tokensale"	2017-11-29	0.6
+3	"Speculation:
+$btc can t go mainstream because of fees and transaction time.
+$eth $neo $xem work for smart contracts/dApps
+$iota works for business purposes
+$xrp works for banking
+I believe $dash and $ltc will be the cryptocurrencies of every day payments sooner or later"	2017-11-29	0.10714285714285714
+4	how come ethereum can hard fork & violate their entire value proposition but Rust can't even go back on promising that string.cap >= string.len	2017-11-29	-0.02291666666666667
+5	Congratulations to #SVH advisor @jhalamka on his new position as editor-in-chief of peer-journal “Blockchain in Healthcare Today”! Read more: http://bit.ly/2iZ20Jm  #cryptocurrency #blockchain #ethereum #token #tokensale #crowdsale #healthcare #healthIT #healthcarenews #data	2017-11-29	0.3352272727272727
+6	EVRYTHING happens for a reason!  In 2016 IBM declined to hire me on Blockchain. I said $ETH was worth, by my model, $85, when was Trading $15. They actually giggled at me!  2 Phd Blockchain executives! I went home bot ALOT more - a thank you to IBM!!! Made 2x salary range of job	2017-11-29	0.42552083333333335
+7	"ALERT
+
+Is it just me? Or does #Litecoin seem incredibly undervalued right now? 
+
+I'm anticipating that the #LightningNetwork will add intrinsic value to $LTC overall.
+
+I'm BULLISH!
+
+Thank you,
+@SatoshiLite 
+
+
+$btc $eth $neo $xrp $omg $qtum $grs $etc $ok $dash $strat $vtc"	2017-11-29	0.42142857142857143
+8	"Yay! My first payment in ETH 
+Name your crypto, I'll probably accept it"	2017-11-29	0.25
+9	1000th $ETH just arrived. Thank you all! Join the presale aswell with 30% discount here: http://signals.network/token-sale    #SignalsNetwork #Ethereum 	2017-11-29	0.0
+10	Here are some tips and tricks for getting the most out of @myetherwallet https://steemit.com/cryptocurrency/@heiditravels/how-to-use-myetherwallet-tips-and-tricks … #steemit #ethereum #erc20 #ico #cryptocurrency #howto #crypto	2017-11-29	0.5
+11	"Our token is now listed on Etherdelta. https://etherdelta.com/#EDU-ETH 
+#bitcoin #ethereum #ICO #cryptocurrency #education #smartcontracts #finance #stocks #altcoin #tokensale"	2017-11-29	0.0
+12	"Make sure to check out Gladius official telegram group!
+
+http://t.me/gladiusio 
+
+#ICOs #Token #Airdrop #Bountry #ICO #Startup #Crowdfunding #Business #Blockchain #Crypto #Cryptocurrency #Ethereum #Technology #Security #DDoS"	2017-11-29	0.625
+13	"The giveaway is still live! Win $150 worth of BitClave tokens! 
+
+To participate:
+1. Follow me
+2. Retweet this post
+3. Retweet my 3 latest BitClave tweets
+
+#BitClave #ICO #ethereum $btc $eth $ltc $xmr $bch $neo $xrp #bitcoin #neo #monero #Ripple #btc #giveaway"	2017-11-29	0.46136363636363636
+14	"What is #Blockchain?
+
+https://buff.ly/2iiz3Le 
+#Fintech #makeyourownlane #Mpgvip #cryptocurrency #AI #defstar5 #ML #IOT #IOE #Bitcoin #crypto #chatbot #Databreach #Ransomware #Hackers #infosec #malware #DDoS #CyberResilience #Cybersecurity #ethereum #ArtificialIntelligence #DL"	2017-11-29	0.0
+15	#Ethereum cracks $500 as Litecoin, Dash also post all-time USD highs 	2017-11-29	0.0
+16	"Official LevelNet white paper
+
+https://levelnet.co/files/LevelNet%20White%20Paper.pdf …
+
+#blockchain #bitcoin #ethereum #cryptocurrency #ico #levelnet #cybersecurity"	2017-11-29	0.0
+17	Our video of @henripihkala live demoing Streamr at the @AragonProject /Streamr Helsinki meetup is here. If it inspires you and you're a developer, why not join us. We're hiring! #Ethereum #blockchain http://blog.streamr.com/2017/11/we-are-hiring-aragon-streamr-meetup-video/ …	2017-11-29	0.17045454545454544
+18	Come see what we're all about! Stand 563 @ #BlockchainExpo @Blockchain_Expo #cryptocurrency #blockchain #ethereum #bitcoin #btc #bitcoins #ICO #token #crowdsale #tokensale	2017-11-29	0.0
+19	#LiveTree Example of setting up an EC20 compliant wallet using MyEtherWallet http://bit.ly/2zJSUXz  #blockchain #eth #decentralized #ICO	2017-11-29	0.0
+20	"#Blockchain Use Cases
+ 
+@GrantThorntonUS 
+
+#Fintech #makeyourownlane #Mpgvip #cryptocurrency #AI #defstar5 #ETHEREUM #Bitcoin #IoT #chatbots #banking #BitcoinCash #BitcoinGold #BitcoinMining #Databreach #Ransomware #Hackers #infosec #malware #DDoS #CyberResilience #Cybersecurity"	2017-11-29	0.0
+21	"""Autonomous drones collaborating in a team - are we there yet?"" Come to our Robotic Vision Summer School #RVSS2018 in February, and hear @MargaritaChli from @ETH_en talk about that. Her research was recently featured by Reuters: https://uk.reuters.com/video/2017/07/10/vision-algorithms-teaching-drones-to-see?videoId=372062119&videoChannel=4000 …"	2017-11-29	0.10000000000000002
+22	"Sounds like an implicit ""buy crypto"" (preferably #ETH and/or #BTC) to me! "	2017-11-29	0.0
+23	Yellen: $20 trillion national debt 'should keep people awake at night' http://cnb.cx/2jvK34A 	2017-11-29	0.0
+24	"Check this chart $xwc
+
+https://coinmarketcap.com/currencies/whitecoin/ …
+
+If that isnt a coin that doesnt give a $hit about $btc turbulence what is 
+
+$BTC $ETH $BCH $ETC $LTC $XRP $DASH $XLM $ADA $XMR $QTUM $ZEC $NEO $OMG $SNT $BTS $STRAT $POWR $LSK $XEM $WAVES $NXT $MONA $ADX $EMC2 $IOP"	2017-11-29	0.0
+25	$PART rocket ship, 26% jump in 1 minute!@ParticlProject #crypto #lifestyle $btc $eth $dgb $neo $xvg $bch $ltc $doge $btg	2017-11-29	0.0
+26	"Gameflip: Creating a Decentralized Ecosystem for the #Gaming industry
+
+https://btcmanager.com/gameflip-ico-ethereum-marketplace-game-digital-assets/?utm_source=Twitter&utm_medium=SNAP&utm_campaign=SNAP-Gameflip%3A+Creating+a+Decentralized+Ecosystem+for+the+Gaming+industry …
+
+#Ethereum #Fintech #ICO"	2017-11-29	0.0
+27	Our latest blog post is out @ https://medium.com/@cryptoinsight/cryptoinsight-dev-update-8-24e2dceff8ad … #ethereum #blockchain #cryptoinsight	2017-11-29	0.5
+28	Funny to me that people want to buy #Cryptos when they skyrocket, but are too afraid to buy when they dip or correct.  that's the opposite of successful trading and investing! $btc $ltc $eth $xrp	2017-11-29	0.146875
+29	"Know The Basic & Complex Digital (or not) Social Engineering Tactics To Protect Your Business from Hackers
+
+#Blockchain #Mpgvip #cryptocurrency #ETHEREUM #defstar5 #bitcoin #hacking #Hacker #HybridIT #Attack #Cloud #security #ransomware #News #infosec #CyberAware #Linux #Hacked"	2017-11-29	-0.07916666666666666
+30	Going Live For Today's Crypto News! #ethereum #bitcoin #bitcoincash #nasdaq #johnmcafee #btc	2017-11-29	0.17045454545454544
+31	Ethereum $1500 and BTC $40k – Let us Hope Novogratz is Right Again! 	2017-11-29	0.3571428571428571
+32	I'll freely admit that etc borrows btc's culture. But doesn't that mean that etc and eth aren't competitors?	2017-11-29	0.04375000000000001
+33	Man, if ETH reaches anywhere near BTC levels one day your Boi is chillllllllin! I'm in it for the long run!	2017-11-29	0.03125
+34	“Bitcoin might be the Crypto-Gold. But Ethereum is the Crypto-Silicon” by @Mike_K_Spencer https://medium.com/@Michael_Spencer/bitcoin-might-be-the-crypto-gold-but-ethereum-is-the-crypto-silicon-f4f4153580d1?source=twitterShare-d41b11dbd70a-1511993070 …	2017-11-29	0.0
+35	Only 2 hours left until #entropytoken prices rise. Want to purchase using fiat?  Go to https://hut34.io/tokenSale  to participate #hut34project where #AI does business #ethereum #entropytoken sale live now http://ow.ly/smxw30gRdXa  #blockchain #bitcoin	2017-11-29	0.04545454545454545
+36	Comrade @mjos_crypto of the 3rd Detachment, The Salad Brokers salute your commitment to blockchaining across continents. In your honour we’ll drop CONSTIPATEDRUDOLF, a backdoored ETH contract. 	2017-11-29	0.0
+37	"By the way, I'm somehow little bit involved with: 
+ American (PQC Submission to NIST), 
+ Russian  (CTCrypt PC) *and* 
+ Chinese (Acknowledged in latest  https://tools.ietf.org/html/draft-ribose-cfrg-sm4-05 … )…"	2017-11-29	0.0625
+38	"The 1st home priced in bitcoins
+
+For Sale: “235 Bitcoins”
+
+@Realtordotcom @Zillow @ColdwellBanker #Realtor #RealEstate #Zillow #Bitcoin #Ethereum #FinTech #InsurTech #Hyperledger #AI #ArtificialIntelligence #DigitalTransformation"	2017-11-29	0.0
+39	"Today #bitcoin touched $8600 for a moment. What do you think about that, gentlemen?
+#hodl #fud #btc #cryptocurrency #blockchain #ethereum #eth http://ift.tt/2AkhX6x "	2017-11-29	0.0
+40	How to make a React HOC for Ethereum Dapps in 42 lines of code by adrianmcli https://javascriptkicks.com/r/207501?url=https://codeburst.io/how-to-make-a-react-hoc-for-ethereum-dapps-in-42-lines-of-code-f54cb0eb5221?gi=2a936d332675 … #javascript	2017-11-29	0.0
+41	"#FACTOM #FFWD
+
+Picture taken today at linxens presentation 
+
+Data Anchored into multiple blockchains inc BTC ETH XRP & private bankchains "	2017-11-29	0.0
+42	Here's what happens when the top Langsec expert takes a look at Ethereum https://youtu.be/rqqdFufARXA  @RosuGrigore @phildaian @socrates1024	2017-11-29	0.5
+43	Important information: our #TokenSale is going to be on our #Graphene #blockchain and is going to start December 10. We decided not to use the Ethereum smartcontract, which we have posted earlier on #GitHub, because we managed to launch our blockchain faster, than we had planned.	2017-11-29	0.2
+44	"What competition!? Where? According to @VitalikButerin, “The #Ethereum killer is Ethereum 2.0."" https://bitcoinmagazine.com/articles/ethereum-killer-ethereum-20-vitalik-buterins-roadmap/ … #beyondblocktaipei"	2017-11-29	0.0
+45	"Could your business survive a DDoS Attack? 
+Gladius want to provide the best DDoS attack protection for our users. 
+Register here: https://gladius.io/join-ico 
+
+#Token #Airdrop #Bountry #ICO #Startup #Crowdfunding #Business #Blockchain #Crypto #Cryptocurrency #Ethereum  #DDoS"	2017-11-29	1.0
+46	"$ETH
+i hold none currently, but i still bullieve "	2017-11-29	0.0
+47	"also $BTC vol today bigger than the m cap of everything but $ETH and $BCH
+
+bow down alt underlings"	2017-11-29	-0.07777777777777779
+48	"Beginner's guide to #Ethereum!
+
+#fintech #ICO #cybersecurity #BigData #VR #blockchain #AI #bitcoin #cryptocurrency #decentralized #Smartdata MT @Fisher85M @SpirosMargaris"	2017-11-29	0.0
+49	"$NEO HUGE symmetrical triangle formed and close to a break out, bollinger bands tightening up and oversold, expecting a huge jump within a week or two
+
+$BTC $ETH $OMG $ADX $LGD $ETC $ZEC $VTC"	2017-11-29	0.4000000000000001
+50	"IF Bitcoin crashes below $8100 by 12PM tomorrow, I'll give everyone $50 worth of BTC since i'm holding Fiat.
+$BTC $ETH $LTC $BTCD $BCH $BTG $IOTA $GNT $NEM $ADA $EOS $XLM $QTUM $NEO $HSH $BCC $BTS $WAVES $ARK $AUG $STEEM $MONA $BTG $DASH $XMR $ETC $OMG $TENX $VTC $SALT $NXT $SIA"	2017-11-29	0.3
+51	"Conversion rates for EDU tokens are fixed. Read more in WP. https://docsend.com/view/mx4ahkr  
+#bitcoin #ethereum #ICO #cryptocurrency #education #smartcontracts #finance #stocks #altcoin #tokensale"	2017-11-29	0.3
+52	We're at @Blockchain_Expo this week. Come visit our booth, and check out our panel on the Future of Blockchain tomorrow! #BlockchainExpo #ethereum #cryptocurrency #fintech #blockchain #bitcoin #btc #bitcoins #ICO #token #crowdsale #tokensale	2017-11-29	0.0
+53	"As if you are not used to:
+1. High volatility
+2. Shitty exchanges
+3. Conmen
+4. ETH hacks
+5. China
+6. Cashtag spam
+7. USDT manipulation
+8. Fork of forks
+9. Spam Airdrops
+10. BS ICOs
+11. Hacked HWs
+12. @BlockfolioApp not working
+We were forged in the blood and fire of Mordor. pic.twitter.com/AxvuAyCy3w"	2017-11-29	0.16
+54	"The Ethereum-blockchain size will not exceed 1TB anytime soon.
+{ author: @5chdn }"	2017-11-29	0.0
+55	ngl after the little $BTC and $ETH drop that just happened I bought some more. We'll see where this goesssss	2017-11-29	0.15625
+56	CNBC just invited me back to @SquawkCNBC this Friday. Looking forward to dropping some Ethereum Classic and Zcash knowledge this time around... 	2017-11-29	0.08333333333333333
+57	"Reminiscing today about my first appearance on @SquawkCNBC to discuss bitcoin w/ @andrewrsorkin @BeckyQuick @JoeSquawk in 2013
+(Bitcoin price: $135)
+https://www.cnbc.com/video/3000201609 …"	2017-11-29	0.25
+58	"Is @coinbase going to bailout Bitcoin holders like they did Ether holders when they caused ETH to flash crash?
+
+Cronyass motherfuckers. "	2017-11-29	0.0
+59	Welcome to Bitcoin. Enjoy your stay. 	2017-11-29	0.6000000000000001
+60	The Ethereum Killer Is Ethereum 2.0: Vitalik Buterin’s Roadmap https://bitcoinmagazine.com/articles/ethereum-killer-ethereum-20-vitalik-buterins-roadmap/#1511975683 …	2017-11-29	0.0
+61	"THE #CLIMATECOIN MOVEMENT
+DavidDrake of #LDJCapital, advises #ClimateCoin, a new #Ethereum-based token allowing everyone to fight against #ClimateChange.
+He agrees that ClimateCoin is part of top 50 #ICOs w/the biggest impact heading into2018."	2017-11-29	0.3181818181818182
+62	"Never trust this $XVG scam project's official shilling machine. He always uses ""if, this, that"" to shill #XVG scam and dump this #verge scam coins on the noobs. Care about your precious $BTC, never let those thugs rip you off so easily. #ScamAlert #XVGscam - $BTC $ETH $LTC"	2017-11-29	0.4666666666666667
+63	Understanding Ethereum Smart Contracts http://bit.ly/2AjillJ  #infosec #hacking #Hackers #Pentesting #pentest #cryptocurrency #Ethereum #programming #Cybersecurity	2017-11-29	0.21428571428571427
+64	Well that escalated quickly. Bitcoin tapped $9k on GDAX. Notice how much lower Coinbase went than Bitfinex. Recent amateur buyers fomo selling at first sight of trouble. $btc $ltc $eth #bitcoin #litecoin #ethereum 	2017-11-29	0.05555555555555555
+65	Internet of Blockchains: How Networks of Distributed Ledgers Will Enable Scalability and Cross-Chain Value Exchange http://bit.ly/2Bwtr4P  #IoT #M2M #API #FinTech #Bitcoin #Ethereum #Blockchain #Hyperledger #ArtificialIntelligence #MachineLearning #DigitalTransformation	2017-11-29	0.0
+66	The #Ethereum Killer Is Ethereum 2.0: Vitalik Buterin’s Roadmap https://bitcoinmagazine.com/articles/ethereum-killer-ethereum-20-vitalik-buterins-roadmap/ … #blockchain #cryptocurrency	2017-11-29	0.0
+67	"""heads of state, central bankers, Fortune 500 CEOs, etc.""...music to my ears! Keep up the great work! #Ethereum #ETH  "	2017-11-29	0.5
+68	"I have made a Conflict of Interests Statement on my website and will keep it updated in perpetuity.
+
+We are not playing games.  We are now talking to heads of state, central…"	2017-11-29	0.0
+69	"http://MARK.SPACE  Districts: Things You Need To Know.
+#MARKSPACE #ICO
+https://medium.com/@markspace/mark-space-districts-things-you-need-to-know-32d3df52db5c …
+#VR #AR #3D #Blockchain #Ethereum #Bitcoin
+https://markspace.io         
+https://t.me/markspaceio "	2017-11-29	0.0
+70	"Tonight! Join: “FOAM on Ethereum: The Future of Geospatial Data” at the 
+Philadelphia Ethereum Blockchain Meetup https://www.meetup.com/Philadelphia-Ethereum-Meetup/events/245298996/ … #blockchain #geospatial #location"	2017-11-29	0.0
+71	"Love the series of amusing & educational security 'lectures' pop-ups by @myetherwallet !    
+#uxdesign #UI #blockchain #education #security #eth #ethereum "	2017-11-29	0.4708333333333334
+72	"A Beginner’s Guide to Participating in the Dala Token Sale by Wala Founder and CPO @Samer_Saab No need to be intimidated anymore! 
+https://blog.getwala.com/a-beginners-guide-to-participating-in-the-dala-token-sale-23d12b7bffcc … #blockchain #cryptocurrency #ICO #tokensale #Dala #fintech #ethereum #bitcoin #erc20"	2017-11-29	0.0
+73	HME - Have you checked out the future of AI Chatbot technology? Check it out today at http://ow.ly/G7jW30gKL4a  #HoldMe #HME #ChatBot #Crypto #Ethereum #ETHToken #ChatBot #AI #bitcoin #blockchain #crypto #cointelegraph	2017-11-29	0.0
+74	#Spectreai main sale is happening now! #eth #btc #Trading #EliminateFraud #BlockchainTrading #BinaryOptions	2017-11-29	0.20833333333333331
+75	"See the other events we’ll be attending on our ICO website: https://tokensale.liveedu.tv/  
+#bitcoin #ethereum #ICO #cryptocurrency #education #smartcontracts #finance #stocks #altcoin #tokensale"	2017-11-29	-0.125
+76	.@dentacoin provides an Ethereum-based #blockchain platform that aims at improving quality of #dentalcare, reducing treatment costs, and creating a global dental community http://goo.gl/3y29Jx 	2017-11-29	0.0
+77	"$LTC GIVEAWAY! 
+
+I'll be giving 1 LTC to 1 Lucky Follower who:
+
+- Retweets this tweet.
+- Follows me. (Before 5th December)
+
+The Giveaway will take place when I reach 1,500 followers or on the 5th December, whichever happens first.
+
+$XVG $ETH $NEO $DASH $BTC $OMG $VTC $PAY $XMR"	2017-11-29	0.29166666666666663
+78	"48 hours before snapshot of Airdrop 4 - make sure you transfer your coins to your wallet...
+
+#eth #Ethereum #bitcoin #btc #erc20 #airdrop #hawalatoday
+#HAT #Etherdelta"	2017-11-29	0.5
+79	"Coming along nicely  #bananacoin #blockchain #ethereum #ICO #crypto #cryptocurrency #eth #token #tokensale #bitcointalk #bigdata 
+#organic #banana #farm #laos #blockchainforgood"	2017-11-29	0.6
+80	$IFXY Lock and load.... 8K out!!! Merger confirmed!!! $AAPL $RIOT $MARA $TEUM $BTSC $BTCS $GAHC $DIGAF $SING $PTOP $BYOC $SFOR $CBIS $FNMA $MSFT $SIRI $PURA #btc #ETH #LTC #bitcoin 	2017-11-29	0.78125
+81	$IFXY 1 & 5 day along with the 1 & 3 month. Imo she’s itching to make a Move! Wayy Oversold If ya ask me 	2017-11-29	0.0
+82	$HIVE on TSX Canada mines ETH Ethereum in Iceland 	2017-11-29	0.0
+83	Looking to learn more about $ODN or get involved somehow? Join us on reddit here: https://www.reddit.com/r/ObsidianProject/ … and be a part of a #secure and #private future. We look forward to meeting you all! #blockchain #cryptocurrency #bitcoin #ethereum #stratis	2017-11-29	0.225
+84	"Take part in the @BitSyncio #ICO and earn 32% #Bonus.
+#BITSYNC building one of the best #Decentralized #Exchanges ever on #Ethereum #Blockchain.
+
+More info about #Bonus here https://t.me/bitsyncio/18017 "	2017-11-29	0.75
+85	"""For code to be law, the meaning of the code must be unambiguous, and users must have the same understanding of it that machines do."" Watch the recap of programming language security expert Meredith Patterson @maradydd's talk at #ETCSummit: https://buff.ly/2ilCscl  #ETCisComing"	2017-11-29	0.0
+86	"Nasdaq Is Said to Plan Bitcoin Futures, Joining Biggest Rivals
+
+BLOOMBERG
+
+https://buff.ly/2ilcG7Z 
+#fintech #cryptocurrency #crypto #blockchain #bitcoin #btc #eth #ethereum
+@BourseetTrading @QcanApp @news_about_btc"	2017-11-29	0.0
+87	"Hello everyone! Here is an update
+https://medium.com/@VladimirTikhomirov/mywish-roadmap-token-distribution-update-590aeadae8ea …
+#ETH #BTC #Bitcoin #Ethereum"	2017-11-29	0.0
+88	" $INTV NO TIME FOR SLEEP, HISTORY IS HAPPENING, MILLIONAIRES BEING MADE
+CLICK HERE FOR DD:https://investorshangout.com/post/view?id=4857807 …
+
+$AMFE $BYOC $SWRM $BTSC $BTCS $SING $MGTI $RIOT $DIGAF $VCSY $JBZY $AAPL $MSFT $SIRI $OWCP $CBIS $ICNB $OTTV $NVDA $NFLX #bitcoin #ETH #LTC #cryptocurrency pic.twitter.com/kqbDH3AmnA"	2017-11-29	0.0
+89	Bitcoin, Litecoin, and Ethereum are all up like crazy smh. Anyone who invested in crypto in the last 4 years is eating rn	2017-11-29	-0.3
+90	A call to our community to review ERC-780, our proposal for an open Ethereum Claims Registry, written by our own @oedbeo #Ethereum 	2017-11-29	0.3
+91	Please review ERC-780 https://github.com/ethereum/EIPs/issues/780 … our proposal for an open Ethereum Claims Registry by the fantastic @oedbeo. @uport_me is working closely with the #ethereum community, @w3c and DIF http://identity.foundation  on open standards for decentralized user centric identity.	2017-11-29	0.1
+92	"Checkout and comment on our proposal for an open Ethereum Claim Registry: https://github.com/ethereum/EIPs/issues/780 …
+@uport_me #ethereum #ERC780"	2017-11-29	0.0
+93	#BlockchainExpo great start to the conference.  Say hello if you are here. 16000 people registered! #bitcoin #BlockChain #Ethereum	2017-11-29	1.0
+94	"Check out LevelNet ICO Bounty Campaign! Follow the link for the details!
+
+https://medium.com/@LevelNetwork/levelnet-bounty-campaign-afefc57009ff …
+
+#blockchain #bitcoin #ethereum"	2017-11-29	0.0
+95	Some great update and developments coming very soon!!! #DBIX #ETH #blockchain @blockchain_girl @shya_crypt @bitcoin202 @hitbtc @binance_2017	2017-11-29	0.5953125
+96	Congrats on the simultaneous breakouts @litecoin @monerocurrency @ethereumproject!!! https://cryptopop.net/2017/11/30/crypto-all-stars-monerocat-etherea-chikunlite/ … $LTC $XMR $ETH 	2017-11-29	0.0
+97	"Sudan Gold Coin is now in Singapore :) 
+
+#SudanGC #Sudan #Gold #Coin #Money #blockchain #ethereum #ethereumclassic #bitcoin #ICO #token #investment #cryptocurrency #hype"	2017-11-29	0.5
+98	#Spectreai ICO (Financial Trading, Dividend + Utility Tokens) Review Video via @MintingCoins http://bit.ly/2AYLZcO  #eth #btc #Trading #EliminateFraud	2017-11-29	0.0
+99	"More and more users are realizing about $XVG a SCAM project. That guy was talking about this pro thug @XVGWhale. He's the team member of #XVG scam as well.
+#ScamAlert #Vergecurrency #vergecoin #verge - $BTC $ETH $LTC"	2017-11-29	0.5
+100	"This week on House Hunters:
+
+Him: I make crypto memes on twitter. 
+
+Her: I make Eth memes on r/Ethtrader
+
+Our budget is $100million."	2017-11-29	0.0
+101	"Please have a look at our article on @Cointelegraph! Really great overview of the business case and functionality of #GATCOIN
+Get in early and join the pre-sale for a 20% bonus!
+#ICO #RewardsPoints #Blockchain #Cryptocurrency #Crypto #Ethereum"	2017-11-29	0.4625
+102	"Current psychology of the crypto market..
+
+A friend today (non-trader) decided to FINALLY get into $BTC and $ETH. 
+
+In response to the mass sell-off and coinbase outage, he said ""i'd rather see my money turn to ash than not gamble on the ride up"" "	2017-11-29	0.0
+103	If anyone's looking to sell me BTC, Ethereum, or Litecoin... hit me up plz 	2017-11-29	0.0
+104	"Our CMO is in #Amsterdam right now at @Blockchain_Conf giving a talk about preparing startups for an ICO.
+
+#startups #ICO #altcoin #ICOAmsterdam #altcoins #nrtworking #event #bitcoin #ethereum #tokens #business #Europe #entrepreneur"	2017-11-29	0.2857142857142857
+105	"Gladius ICO Review & Community AMA with Alex (CTO & Co-Founder)
+
+https://www.youtube.com/watch?v=jKLWlhlEVe8 …
+
+#ICOs #Token #TokenSales #Blockchain #Crypto #Ethereum #DDoS #Bigdata #IoTa #Cybersecurity  #Security #Business #Technology #Startup #Crowdfunding #Bitcoin"	2017-11-29	0.0
+106	While everyone's frothing about #bitcoin prices we overlook real adoption. A rare @CryptoKitties traded for a hefty $4.7k this morning! Incredible to see the current speed of adoption and weirdness in the #ethereum ecosystem. Look out for rare Pepe's and @MemeFactory0x next	2017-11-29	0.29583333333333334
+107	"$XVG SCAM project mod's are shilling in their official telegram channel regarding the pump dump whales interest in this project, and giving buy signals at these prices. I'd suggest everyone to stay away from this SCAM #XVG sinking boat. Care about your $BTC.
+#Crypto - $ETH $LTC"	2017-11-29	0.2
+108	This is what’s happening with #Cryptocurrency Bitcoin Ethereum Litecoin | 1,063 ROI in a day!  | If you don’t know where to buy #Cryptocurrency go here - https://www.coinbase.com/join/59dd83df4540cd00b78d9523 … (RT)	2017-11-29	0.0
+109	"My #cryptocurrency buying strategy.
+
+Everyday I buy $100 USD spread across bitcoin, litecoin, ethereum, and ripple. I buy on 2% dips, typically 3-5 times/day via a trading bot I built in nodejs hosted in the cloud. 3*2% gives me roughly 6% daily gain(gross), everyday, compounded."	2017-11-29	-0.14166666666666666
+110	Understanding Ethereum Smart Contracts 	2017-11-29	0.21428571428571427
+111	"Exclusive chances to support the first savings system in #cryptocurrency ever!
+Join the new savings era, Join #Peculium's Ambasssador initiative ! 
+http://ow.ly/ZO0Y30gTrbg 
+
+#ArtificialIntelligence #AI
+#crypotsavings #Blockchain 
+#PreICO #ICO #Bitcoin 
+#Ethereum #Cryptocurrencies"	2017-11-29	0.2414772727272727
+112	" Live on YouTube: Live Conversations with The Goon. 
+ (it's not as bad as it looks) 
+URL: https://www.youtube.com/c/CarlosValadezGoon/live …
+#crypto #bitcoin #ethereum 
+$IOTA $GAME $GAS $BTC $BCH $ETH $ETC $USDT $XRP $LTC $MIOTA $QTUM $DASH $EOS $RCN $POWR $NEO $BTG $XLM $MONA $NXT $SAN $QSP"	2017-11-29	-0.2068181818181818
+113	Wallet Demo Showcases Lightning-Like Network for Ethereum http://bit.ly/2ii6AoG 	2017-11-29	0.0
+114	"Learn more about LevelNet ICO structure!
+
+https://www.youtube.com/watch?v=uckb-uuUOOo …
+
+#blockchain #bitcoin #ethereum #cryptocurrency #levelnet #cybersecurity"	2017-11-29	0.625
+115	"Good example of a viral ""ethereum is broken!"" critique from bitcoiners, where the critique only makes sense if you (1) misunderstand how ethereum works, and (2) assume it must work like bitcoin. Helpful post from @5chdn 
+https://dev.to/5chdn/the-ethereum-blockchain-size-will-not-exceed-1tb-anytime-soon-58a …"	2017-11-29	0.06666666666666665
+116	"2017 Crypto as a Percentage of Net Worth calculations: 
+
+Jan: Invest no more than 1%
+
+May: “Blockchains are the future” 10%
+
+Nov: “When 80% of my net worth is BTC & ETH I’ll diversify with speculative token sales”
+
+Dec: “I’m working on a whitepaper”"	2017-11-29	0.05833333333333333
+117	"24 HOURS LEFT TO GET ESC TOKENS FOR THE LAST DISCOUNTED PRICE!
+
+The 3rd stage of public ICO ends tomorrow. Hurry up to get your ESC tokens for the last discounted price of 0.0017 ETH.
+
+To take part in the ICO, go to https://ethersport.io/  and press GET ESC TOKENS."	2017-11-29	0.0
+118	Bullish news for Ethereum: I just got layoff from my dayjob.	2017-11-29	0.0
+119	"The market caps of the 5 biggest cryptocurrencies right now
+
+Bitcoin $BTC.X $190 billion
+Ethereum $ETH.X $49 billion
+Bitcoin Cash $BCH.X $28 billion
+Ripple $XRP.X $11 billion
+Bitcoin Gold $BTG.X $5 billion
+
+https://stocktwits.com/sones/message/102962542 …"	2017-11-29	0.2857142857142857
+120	"Bitcoin Code members typically profit a minimum of $13,000 daily. #btc #blockchain #cryptocurrency #crypto #fintech #FreeBitcoin #dogecoin #ethereum #bitcoin #money #earnmoney #makemoneyonline #makemoney
+
+See Here>>>http://bit.ly/2AyhhLk "	2017-11-29	-0.08333333333333333
+121	"A must read  $ARDR vs the Competition - Closing Remarks @Cryptomessiah #blockchain #scalability #cryptocurrencies $Waves $Lisk #Ethereum $IOTA #komodo $Nem $Strat #altcoins $NXT
+https://www.nxter.org/ardor-vs-competition-closing-remarks/ …"	2017-11-29	0.0
+122	ANN: Ethereum-based Digix closes seed investment round with Global Brain and Fenbushi Capital http://ibt.uk/A6v5X ? @fenbushi #ethereumproject	2017-11-29	-0.1
+123	Take your #BTC #ETH #BCC #BCash to the next level with Cybertrust. We are revolutionizing the crypto financial space. Join the pre-ICO now. http://ico.cybertrust.io 	2017-11-29	0.0
+124	"The only thing growing faster than the price of #Bitcoin are the number of people wishing they had bought into Bitcoin.
+
+#BTC $BTC #crypto #crytocurrency  #Altcoins #cryptocommunity #Bitcoin10K #BitcoinGold $ADA #ADA #cardano #XLM #eth $xmr $xzc $XLM #bch $bch #bitcoincash $ETH "	2017-11-29	0.0
+125	"Bitcoin over $11k, LTC over $100, ETH passes $500 and DASH through $700.
+
+It's been a good day. Its been a great crypto month."	2017-11-29	0.75
+126	"All-time highs for cryptocurrencies this morning:
+
+Bitcoin: $10,967.21
+Ethereum: $512.77
+Litecoin: $102.49
+
+(via @coinbase)
+
+#CheddarLIVE $CRYPTO $BTC $ETH $LTC"	2017-11-29	0.0
+127	#EARTH Token in the Press: Bitcoinist: Environmental Sustainability is a HOT topic right now! http://ow.ly/wyBc30gTbRp   #environment #crowdsale #bitcoin #ico #token #coin #ethereum #crypto #ATH #cryptocurrency	2017-11-29	0.30357142857142855
+128	"CRYPTOS ARE GOING OFF
+
+Bitcoin $BTC.X $10,949.88 (all-time high)
+Ethereum $ETH.X $514.00 (all-time high)
+Litecoin $LTC.X $101.40 (all-time high)"	2017-11-29	0.16
+129	Bitcoin hits $11,000, Ethereum hits $500, and your puny bank account weeps.	2017-11-29	0.0
+130	"eth just hit an all-time high
+
+got in at 300
+
+feeling bullish / optimistic
+
+i think we’ll see bitcoin swing to 20K, ETH to 1K, and then we’ll talk about this “correction"" "	2017-11-29	0.16
+131	My recap of Consensus Invest http://www.forbes.com/sites/laurashin/2017/11/29/blockchain-conference-bitcoins-at-10000-crypto-is-just-getting-started/ … #bitcoin #crypto #ethereum	2017-11-29	0.0
+132	Whoa, woke up to Bitcoin nearly $11,000, Ethereum over $500, and Litecoin above $100. How long can this continue? Question becomes when to sell...	2017-11-29	0.016666666666666666
+133	"Bounty participants never cease to delight us with their articles
+You can learn more by the link https://steemit.com/blog/@bobo012/block-bank …. 
+And of course, join our #Bounty campaign https://bitcointalk.org/index.php?topic=2345662.0 …
+
+#blockbank #presale #ico #eth #cryptocurrency #bitcoin #blockchain"	2017-11-29	0.5
+134	During the Pre-ICO phase, we rewarded the first 1000 who invested a minimum of 20 #ETH with a #Cointed Limited Card. Due to the high demand, we are continuing this program for #ICO campaign too! #Ethereum #cryptocurrency	2017-11-29	0.06339285714285714
+135	"Believe it or not, blockchain conferences could be quite entertaining!
+
+TokenDesk is participating in the BLOCK SHOW ASIA 2017 and things seem to go pretty exciting out here.
+
+#TokenDesk
+#BlockShowAsia2017
+#BlockchainConference
+#TDStokens
+#Bitcoin
+#Ethereum
+#FinTech"	2017-11-29	0.39166666666666666
+136	"The Gladius Token Sale is still open with 20% bonus! Don't miss this chance!
+
+Please don't use exchange wallets in contributing. Join now: https://gladius.io/join-ico 
+
+#ICO #Token #Blockchain #Ethereum #Cryptocurrency #Bitcoin #Technology #Security #DDoS #Startup #Business #Crowdfund"	2017-11-29	0.0
+137	"Tired of collecting #RewardsPoints that you'll never use? Us too! That's why we're building #GATCOIN! Check out our new summary video to see how it works!
+#ICO #Blockchain #Cryptocurrency #Crypto #Ethereum
+https://youtu.be/ajFdEvB2hxo "	2017-11-29	-0.2272727272727273
+138	"""Bitcoin could easily reach $40,000 by the end of 2018, Ethereum, which I think just touched $500 or is getting close, could be triple where it is as well"" Hedge fund legend Michael Novogratz "	2017-11-29	0.43333333333333335
+139	$ETH just killed that 500.	2017-11-29	-0.2
+140	"rt for Gray follow or eth your choice follow
+follow me added YOU @"	2017-11-29	0.0
+141	"$ETH 500$ 
+$DASH 750$
+$LTC 100$
+$BTC 11 000$
+
+What a time to be alive."	2017-11-29	0.1
+142	ETH about to hit $500 and BTC about to hit $11,000	2017-11-29	0.0
+143	"Understanding Ethereum Smart Contracts :  http://www.gjermundbjaanes.com/understanding-ethereum-smart-contracts/ … cc 
+@gjermundbjaanes"	2017-11-29	0.21428571428571427
+144	"We’ve raised over 1 400 000$! The presale can end any minute now. This is your last chance to get MIRA tokens with a 40% discount set at 0.6$ per token. The recommended investment is 1800$ (3000 MIRA) - https://miralab.io/ 
+#mira #miralab #mirabox #preico #ico  #btc #eth "	2017-11-29	0.0
+145	Even with >600,000 transactions per day, a fully validating ETH node is under 30gb.   	2017-11-29	0.0
+146	How #Livetree ADEPT is disrupting $500 billion Hollywood via Crypto Stream @stvmcg http://bit.ly/2zzHxBa  #blockchain #btc #eth #disruptive #contentcreation #decentralized #ico	2017-11-29	0.6
+147	#DropDeck explained under 2 minutes (version 2) http://bit.ly/2mQ3mdv  #eth #btc #blockchain #ICO	2017-11-29	0.0
+148	"New giveaway to a lucky winner! Win $150 worth of BitClave tokens!  
+
+To participate:
+1. Follow me
+2. Retweet
+3. Tag a friend in the comment section
+
+#BitClave #ICO #ethereum $btc $eth $ltc $xmr $bch $neo $xrp #bitcoin #neo #monero #Ripple #btc"	2017-11-29	0.43200757575757576
+149	NEW LOAN REQUEST ON #ETHLend: 1.46 ETH for 20 Days - Profit 0.1 ETH - Backed By 3300 AirSwap tokens! Fund This Now Before Someone Else Does: https://app.ethlend.io/loan-request/0x7e49f100050a08e3224ea9e6554a2cca5b7c4193 …	2017-11-29	0.17045454545454544
+150	We consider the approval of the BANKEX application for entry into the #Enterprise_Ethereum_Alliance as recognition of the achievements of @BankExProtocol analysts and developers.	2017-11-29	0.0
+151	I did it again. I wrote something that bothered me for so long. Available on @ThePracticalDev: The #Ethereum #blockchain size will not exceed 1TB anytime soon. Some @ParityTech insights. Happy reading! https://dev.to/5chdn/the-ethereum-blockchain-size-will-not-exceed-1tb-anytime-soon-58a …	2017-11-29	0.45
+152	We expand our FinTech coverage by doubling our Blockchain sessions!  @IoT2040 #BigData #FinTech #InsurTech #Blockchain #Bitcoin #Ethereum #SmartCity #SmartCities #MachineLearning #ArtificialIntelligence #AI #DX #DigitalTransformation	2017-11-29	0.0
+153	"Read an article about @Movement_app_ 
+
+The Pre-ICO Phase will start in less that 2 weeks! Stay tuned and sign up at https://www.movementapp.io  to get a 100% bonus!
+
+#ICO #movementapp #bitcoin #blockchain #ethereum #sports"	2017-11-29	-0.26041666666666663
+154	Press Release:Movement App – Revolutionary Ecosystem That Rewards Users for Physical Activity https://goo.gl/VFgmrK 	2017-11-29	0.0
+155	"10 major cyber attacks in the history of mankind
+
+https://medium.com/@LevelNetwork/10-major-cyber-attacks-in-the-history-of-mankind-cd6d53f5361c …
+
+#blockchain #bitcoin #ethereum #cryptocurrency #ico #levelnet #cybersecurity #crypto #crowdfunding #crowdsale #tokensale #antivirus #investing #startup #token #whitepaper #btc #eth"	2017-11-29	0.0625
+156	BITCOIN to pay freight? A shipowner wrote to me today to say that they accept Bitcoin/ Ethereum saying that using Crypto currencies is actually very easy & safe & quick as each payment takes a few minutes, as opposed to hours or days with the usual bank transfer. Brave new world.	2017-11-29	0.269004329004329
+157	"Nicholas Fierro to Present June 5-7 in New York: “Blockchain and Decentralization: Securing IoT”
+
+http://bit.ly/2jgicoW  @BlockchainNick #IoT #API #SmartCity #SmartCities #Security #FinTech #InsurTech #Blockchain #Bitcoin #Ethereum #ArtificalIntelligence #DigitalTransformation"	2017-11-29	0.06818181818181818
+158	"$LTC GIVEAWAY! 
+
+I'll be giving 0.5 LTC to 1 Lucky Follower who:
+
+- Retweet that tweet.
+- Follow me here. (Before 1st December)
+
+The Giveaway will take place when i reach to 1500 followers or at 1st December, whichever happens first.
+
+$XVG $ETH $NEO $LTC $BTC $OMG $VTC $GRS $PAY"	2017-11-29	0.29166666666666663
+159	Team BABB at the @Blockchain_Conf ICO event in Amsterdam #ICO #blockchain #cryptocurrency #bitcoin #ethereum #dam	2017-11-29	0.0
+160	Roger Strukhoff’s @ReneBosticAtIBM Blockchain Interview coming up next! @IBMBlockchain #BigData #AI #Analytics #FinTech #Blockchain #Bitcoin #Ethereum #CognitiveComputing #ArtificialIntelligence #MachineLearning #BusinessIntelligence #DigitalTransformation	2017-11-29	0.0
+161	"The Descrow team offers a special promotion for early investors. The first 100 participants who invest 10 or more ETH will get 100 DES tokens  in reward. 
+#Descrow #ICO #blockchain #Ethereum #bitcoin #dash #nem #eth #btc #LTC #neo"	2017-11-29	0.26142857142857145
+162	"Mirocana Token Sale continues! It's been more than a week since the start of our crowd sale and we raised more than 2000 ETH! 
+Join us following this link - https://app.mirocana.com 
+For more info write us in Telegram - https://t.me/mirocana_chat "	2017-11-29	0.40625
+163	"  LAST CALL!
+
+  +100 attendees registered for today's event in Barcelona to talk about #Blockchain, #Ethereum and #ICOs, don't miss out your place! 
+
+Talk organized in collaboration with @WayraES and @TheValleyDBS.
+
+  JOIN HERE NOW: https://buff.ly/2AjU5zU "	2017-11-29	0.0
+164	"Price prediction of #Bitcoin #Ethereum #Litecoin by 2020 by Wall Street Forecast.
+
+What do you think? Let me know!
+
+$BTC $ETH $LTC"	2017-11-29	0.0
+165	"#Allcryptolife posted smth about ARTEX!
+#blockchain #ethereum #presale #ico #artmarket #photography #smartcontract http://allcrypto.life/news/art-provenance-platform-artex-launching-token-sale/ …"	2017-11-29	0.0
+166	"@_Peculium is the only saving system that uses Artificial intelligence for more accurate investment opportunities. 
+
+Join our Telegram channel http://peculium.io/telegram  
+#ArtificialIntelligence #AI
+#crypotsavings #Blockchain 
+#PreICO #ICO #Bitcoin 
+#Ethereum #Cryptocurrencies"	2017-11-29	0.07500000000000002
+167	"Today we start the distribution of AirDrop Round 1 coins
+
+#CoinTour #blockchain #travelling #vacation #holidays #trip #journey #innovation #cryptocurrency #crypto #Ethereum #rest"	2017-11-29	-0.2
+168	"We are happy to announce that the SNB token sale is starting. You can buy tokens on favourable terms till December 30.
+#ICO #token #coin #bitcoin #snb #snbworld #ETH"	2017-11-29	0.4
+169	"""The interest in the Swiss Data Science Center from Industry is tremendous"", @MartinVetterli @SDSCdatascience Industry Day #Datascience @ETH_en @EPFL_en"	2017-11-29	0.11666666666666665
+170	"Our new promo video! 
+More information >>> bmcoin.io
+
+#newsBitcoin #BTC #ETH #Cryptocurrencies #Blockchain #Bankofmemories #Bmcoin"	2017-11-29	0.3352272727272727
+171	"LevelNet is able to be integrated into any current cyber-protection solution. Visit http://levelnet.co/  for information.
+
+#blockchain #bitcoin #ethereum #cryptocurrency #ico #levelnet #cybersecurity #crypto #crowdfunding #crowdsale"	2017-11-29	0.25
+172	Interesting approach to changing healthcare with Blockchain! #cryptocurrency #blockchain #bitcoins #ethereum #token #bitcoin #btc #bitcoins #ico #healthcare #healthIT #ehr #healthcarenews #bigdata #analytics #video https://buff.ly/2BdA6AR  @cloudpreacher @SimplyVitalHQ	2017-11-29	0.625
+173	Packed room at @SDSCdatascience Industry Day. Opening statement by Prof. Lino Guzzella #DataScience @ETH_en @EPFL_en	2017-11-29	0.0
+174	"Good one
+
+Beginner's guide to #Ethereum
+
+#fintech #ICO #cybersecurity #BigData #VR #blockchain #AI #bitcoin MT @Fisher85M by #fernandocuenca"	2017-11-29	0.7
+175	We're making #History as a #global economy #Bitcoin has just passed $10,500 however #Ripple & #Ethereum will likely be the future #Crypto	2017-11-29	0.0
+176	#Spectreai main sale is happening now! #eth #btc #Trading #EliminateFraud #BlockchainTrading #BinaryOptions	2017-11-29	0.20833333333333331
+177	"In the course of ICO campaign, that will be launched on the 29 of November
+#Ethereum #Descrow #ICO #blockchain #bitcoin #cryptocurrency #eth #dash #neo #nem #LTC #BTC"	2017-11-29	0.0
+178	"REQ & PRIX tokens added to http://exchange.coss.io . 
+The following trading pairs are now active:
+REQ/BTC
+REQ/ETH 
+PRIX/BTC
+PRIX/ETH
+#cryptoexchange #cryptotokens #REQ #BTC #ETH #PRIX"	2017-11-29	-0.06666666666666667
+179	KuCoin list Quantstamp (QSP) today. The trading pairs includes QSP/BTC and QSP/ETH. Users can deposit and trade QSP on KuCoin immediately. $KCS $QSP $BTC $ETH	2017-11-29	0.0
+180	"Read about Movement App at: http://bitcoinist.com/movement-app-revolutionary-ecosystem-rewards-users-physical-activity/ …
+
+#ICO #Blockchain #Ethereum #bitcoin #mvementapp"	2017-11-29	0.0
+181	"Step-by-step video tutorial to Etheal contribution with Mist ETH address. 
+If you have any questions, ask on Telegram: https://t.me/joinchat/Es92FwvIMHnoa2q_fbLV_Q …
+
+Pre-sale starts TODAY 12:00, noon (GMT) "	2017-11-29	0.0
+182	"Dear @coinbase, buying ETH on your site and converting it to BCH with shapeshift.io despite it works, it's not the best user experience. Please let me buy Bitcoin Cash directly!
+
+(#BitcoinCash is #bitcoin)"	2017-11-29	0.5625
+183	"#CT_index special from The Cointelegraph:
+BTC - https://goo.gl/PUeVPn 
+ETH - https://goo.gl/zvFCvS 
+BCH - https://goo.gl/iEwbLW "	2017-11-29	0.35714285714285715
+184	"We project company’s revenues to reach over $220M generating over
+$80M in free cash flows available to shareholders in 2021. Visit http://levelnet.co/  for information.
+
+#blockchain #bitcoin #ethereum #cryptocurrency #ico #levelnet #cybersecurity #crypto"	2017-11-29	0.4
+185	What You Don't Understand About the Bitcoin Explosion - https://buff.ly/2ihfaEo   #bitcoin #blockchain #cryptocurrency #Ethereum #BigBangTheory  - Plz RT!	2017-11-29	0.0
+186	What is #Spectreai? #Russian #Chinese #Korean http://bit.ly/2lO0f5C  #eth #btc #Trading #EliminateFraud #BlockchainTrading #BinaryOptions	2017-11-29	0.0
+187	"Cheers to that!
+#RealPropertyToken
+#ICO
+#RPT
+#RPTICO
+#RPT
+#Token
+#RealPropertyICO
+#RealEstateICO
+#RealEstateToken
+#PropertyToken
+#RealEstateBlockchain
+#Bitcoin
+#Ethereum
+#Ether
+#BTC
+#Blockchain
+#BestICO
+#BestToken
+#HottestICO
+#HottestToken
+#2017
+#2018
+#Mining"	2017-11-29	0.0
+188	"""CEO of #EncryptoTel giving 50,000  $ETT prize to these awesome guys. Congrats team #10! #Hackathon #WavesPlatform #Ergoplatform #BinaryDistrict #BlockchainInstitute #Blockchain #Bitcoin #Ethereum "	2017-11-29	1.0
+189	#DropDeck – The Future of Funding is AI-driven, Decentralized, and Incentivized via @coinspectator http://bit.ly/2hqAG9p  #eth #btc #ICO	2017-11-29	0.0
+190	"""Bitcoin could be at $40,000 at the end of 2018. It easily could,"" Michael Novogratz said Monday on CNBC's ""Fast Money."" ""Ethereum, which I think just touched $500 or is getting close, could be triple where it is as well."" 
+Details: http://buff.ly/2Bvne9d 
+
+#revoiltoken #eth"	2017-11-29	0.31666666666666665
+191	"Touchdown. Almost at the Spankhouse. Gotta help @spankchain change adult entertainment forever with Ethereum..
+
+But first, sleep — after a walk on the beach to stare at the crypto moon."	2017-11-29	0.175
+192	"3,409 stories about #blockchain
+
+#bitcoin #fintech #ethereum #datascience #bigdata #cryptocurrency #hacking #tech #trade [@wef]
+
+MT @Fisher85M
+
+c @psb_dc @guzmand @evankirstel"	2017-11-29	0.0
+193	We have distributed PURAs to users who have deposited more than 0.1 BTC or 2ETH and held more than one week. Please check your account and if you have not received your PURAs, contact our supports immediately, thanks for supporting KuCoin:) $KCS $PURA $BTC $ETH	2017-11-29	0.39
+194	Buterin Lays Out Ethereum's Next 3-5 Years, Explains Sharding 	2017-11-29	0.0
+195	"#Blockchain for mainstream #banking
+
+#bitcoin #fintech #Disruption #innovation #BTC #CyberSecurity #infosec  #P2P
+#Ripple #Ethereum 
+
+MT @JimMarous @Fisher85M 
+
+https://buff.ly/2zKlqvM "	2017-11-29	0.0
+196	Ethereum Founder Unveils Roadmap For Next-Gen Blockchain! http://www.tomshardware.co.uk/ethereum-roadmap-next-generation-sharding,news-57405.html … #blockchain #cloud #fintech #bigdata	2017-11-29	0.0
+197	DENT Wireless Co-Founder Andee is in Singapore at #BlockShowAsia! Great people, great spirit, great meetings. There is no stopping for #Blockchain tech! Want to meet? Please contact us! #eth #ethereum #dentcoin #mobile #5g #roaming #bitcoin #cointelegraph	2017-11-29	0.8666666666666667
+198	Meet the Founder - Exclusive Interview with ETHLend CEO Stani Kulechov http://bit.ly/2iiT1p4  #ETHLend #LEND #Ethereum	2017-11-29	0.0
+199	JETCOIN sponsor of Official After Party BlockShow Asia 2017by @Cointelegraph Join us for a complimentary cocktail and networking with the largest gathering of Blockchain leaders #JET #Singapore #Blockshow #Jetcoin #ether #Ethereum #ETH pic.twitter.com/ax3h6y1Ut3	2017-11-29	0.3
+200	"We have enabled the SAVE option, you can place your compatible ERC20 wallet for the BRC tokens, the deadline is November 30 12:00 UTC.
+Note: The wallets we recommend are: MYETHERWALLET, MIST, PARITY and METAMASK. Please do not use an ETH exchange wallet!
+$BRC #Moon"	2017-11-29	0.0
+201	"This is the real ""ethereum scaling roadmap"" - it's a combination of continued improvements to increase the scalability of the base chain, together with the ability for anyone to make their own system that hooks into ethereum that provides its own scalability @VitalikButerin"	2017-11-29	0.14999999999999997
+202	We're a retail chain of Electronic Repair Shops and we accept #BitcoinCash (call it #BCASH if you want) - we just want to grow the ecosystem! #Bitcoin #Ethereum #LTC #DOGE #others too :)	2017-11-29	0.5
+203	*buys eth once* 	2017-11-29	0.0
+204	$ETH should be at least 1/5th of BTC value. 2000 USD.	2017-11-29	-0.3
+205	#Swapity #crypto exchange has a big news announcement tomorrow! #cryptocurrency #Ethereum #smartcontract #Swapcoin #bitcoin	2017-11-29	0.0
+206	"See the #TraDove #ICO #Whitepaper here
+-->
+https://bbcoin.tradove.com/ 
+-->
+#IoT #payments #mobilepayments #ERC20 #ethereum #token #tokens #ICOs #B2B #sales #marketing #blockchain #cloud #AI #bigdata #socialmedia #socialmediamarketing #business #finance $fb $twtr $lnkd $amzn"	2017-11-29	0.0
+207	Cryptokitties is Ethereum's killer dApp	2017-11-29	0.0
+208	Bitcoin over $10k, IOTA $1.50, and ETH almost $500. Crypto is out of freakin control. Lambos everywhere. 	2017-11-29	0.0
+209	Tomorrow we will start distribution for airdrop. Register on https://crypher.com/  and input your ETH address on your Crypher Profile to join our airdrop #airdrops #giveaways	2017-11-29	0.0
+210	When they said I was crazy for buying $100 in bitcoin, $15 in ethereum and $5 in Litecoin...please tell me how far your beer money got you that night. Don’t worry this drinks on me.  	2017-11-29	-0.25
+211	"$strat Ready for December's rush !!! $strat $neo $eth $etc
+30/11 : Test ICO
+01/12 : Academy plateform Update
+03/12 : IOS APP
+11/12 : Breeze Wallet
+11/12 : Masternode !
+18/12 : Full Node alpha release"	2017-11-29	0.419140625
+212	Is Ethereum the next Bitcoin? 	2017-11-29	0.0
+213	"""We've seen it time and time again, where these big whales think it's time to give the market a haircut and they move a couple of thousand of #Bitcoin."" $BTC $ETH
+
+http://www.afr.com/markets/bitcoin-hits-10000-but-are-whales-ready-to-give-the-market-a-haircut-20171128-gzut4c …"	2017-11-29	0.0
+214	"If #Bitcoin hits $10500 by tomorrow..
+I will send 0.08 BTC to ONE that RETWEETS and FOLLOWS
+#btc $omg $neo $eth $btc $xvg $strat $ltc $gnt $ltc $lsk $wtc $ark $myst $sub $xem $prg $sc"	2017-11-29	0.0
+215	Bitcoin and Ethereum, Meet Moon! $10,078 BTC: http://youtu.be/7W8YHWdthlY?a  via @YouTube	2017-11-29	0.0
+216	How can we make our exchange platform even better? Let us know what features you want to see, request it here: https://cobinhood.canny.io/beta  #ICO #cryptocurrency #bitcoin #ethereum #blockchain	2017-11-29	0.5
+217	Goto college and tens of thousands in debt to become a millionaire? Why? How about put $700 into Ethereum, or Stratis, AntShares ICO last year, and become a multi millionaire in less time to graduate? 	2017-11-29	-0.08333333333333333
+218	.@profgalloway: Dropping out of college is a terrible idea if you want to be a millionaire 	2017-11-29	-1.0
+219	" $INTV IMAGINE LIVING WITHOUT FEAR
+CLICK HERE: https://investorshangout.com/post/view?id=4857807 …
+
+$FRFS $FVRD $GRCK $WRFX $CBIS $OWCP $IPIX $MSMY $HEMP $WMIH
+$MSFT $INTC $CSCO $JD $NVDA $SPLK $DCIX $AMAT $SIRI $AAPL $NFLX $SFIX $SNAP $XNET $VIAB $BTSC $GAHC $SING #btc #ETH #cryptocurrency"	2017-11-29	0.0
+220	Ethereum Price Gains Boost Nvidia GPU Sales 	2017-11-29	0.0
+221	Bitcoin is doing something? Didn't notice, too busy breeding ethereum-based kittens.	2017-11-29	0.1
+222	Will this change trading forever? #SPECTREai’s CEO reveals all via @Investingcom http://bit.ly/2hO4Ijh  #eth #btc #Trading #EliminateFraud	2017-11-29	0.0
+223	Get some Bitcoin, Ethereum, Litecoin first for foundation. Then look at some AltCoins. 	2017-11-29	0.25
+224	Give me the word and I’m investing my G!	2017-11-29	0.0
+225	Yeah, LiteCoin is the safest spot next to Bitcoin & Ethereum. But these $0.01-0.10 coins look good too. Strong companies with projections of great returns.. ah, decisions, decisions...	2017-11-29	0.48333333333333334
+226	“CRYPTO20 Exceeds $30m — 48 Hours To Go!” by @d_schwartzkopff https://medium.crypto20.com/crypto20-exceeds-30m-48-hours-to-go-5df50149e0ab … $btc $eth $ltc $xrp $ada $nem $omg $neo $waves $bch $xmr $zec #c20 #crypto #blockchain $btg @CRYPTOtwenty	2017-11-29	0.0
+227	"At the airport in Amsterdam
+ #ico #ICOAmsterdam #bitcoin #ethereum #waves #wavesplatform #WavesGoesNG #cryptocurrency #crypto"	2017-11-29	0.0
+228	"Korean #Litecoin volume increasing. Price is over $100 on Korean exchanges. Figure out the rest. 
+
+#bitcoin #cryptocurrencies #eth #ltc"	2017-11-29	0.0
+229	"I can feel it $dgb #dgb is coming !!!
+Ledger & Trezor all gonna support #Digibyte 
+It's gonna be BIG !! 
+Remove ur sell wall, don't take ur 10 Sat profit !!
+I'll HODL till 1000 Sat !!
+#btc #bch #eth #etc #ltc #iota #xmr #xrp"	2017-11-29	0.0
+230	I want to be able to live off of doing what I love, making art, but I also want to be financially stable ):	2017-11-29	0.28409090909090906
+231	"Ethereum - ETH
+Price: $479.75
+Change in 1h: +1.42%
+Market cap: $46,063,713,801.00
+Ranking: 2
+#Ethereum #ETH"	2017-11-29	0.0
+232	#Cobinhood is the most interesting, useful, undervalued project in crypto today, it’s simply a grade AAA project with an excellent team! + Exchange coming live soon!  $BTC $ETH $COB	2017-11-29	0.4117424242424242
+233	"Want to meet the LiveEdu team? Find out how in our latest article. https://medium.com/liveedu-ico/how-to-meet-the-liveedu-team-members-440990c1f88d … 
+#bitcoin #ethereum #ICO #cryptocurrency #education #smartcontracts #finance #stocks #altcoin #tokensale"	2017-11-29	0.5
+234	"My current cashtag search query:
+
+$COIN -""CryptoWolfPack"" -""Signals"" -""binance.com"" -""1broker"" -""earncrypto.com"" -""whaleclub.co"" -""t.me/moonlightsignal"" -""atomsignal.com"" -""Bitmex"" -""Join"" -""copy-trade""
+
+$LUN $PTOY $MAID $LBC $XMR $ETH $XRP $SC $GAME $STRAT $BAT $DCR $NEO"	2017-11-29	-0.2
+235	"Honoured to be trading on #Upbit
+
+PIVX/KRW exchanges now available on http://upbit.com   @PIVX_Korea
+
+#KRW #BTC $btc $eth $neo $xmr #cyptocurrency $PIVX #bitcoin"	2017-11-29	0.4
+236	"$STRAT reached 67000, 45% profit in 4 days from my call
+
+Join free here: https://t.me/crypt0prosignal 
+
+$ADA $PTC $XLM $SNT $XCP $BCC $BCH $ETH $MCO $NEO $OMG $CRYPTO $DASH $OK $ETC $VTC $ZEC $LTC $MONA $GRS $LSK $XMR $SYS $XVG $HMQ $ADX $QTUM $STRAT"	2017-11-29	0.45
+237	"Why #Blockchain is very Secure?
+
+via @factordaily
+#Fintech #makeyourownlane #Mpgvip #cryptocurrency #AI #defstar5 #ETHEREUM #Bitcoin #IoT #chatbots #chatbot #banking #BitcoinCash #BitcoinGold #BitcoinMining #Databreach #Ransomware #Hackers #infosec #malware #DDoS #CyberResilience"	2017-11-29	0.52
+238	Ethereum Classic Price Doubles Ahead of ‘New Monetary Policy’ 	2017-11-29	0.1515151515151515
+239	Even fighters want to be paid in #bitcoin #btc #ethereum #crypto #litecoin #NorthKorea #Bitcoins	2017-11-29	0.0
+240	We are currently using https://github.com/karlfloersch/docker-pyeth-dev … to set up the Casper test-testnet... But this is top secret so don't tell anyone! 	2017-11-29	0.0
+241	"$ETHUSD intraday
+
+Watching this range. 
+Holding long.
+Use alarms and ignore.
+
+#ethereum "	2017-11-29	-0.05
+242	 as #Ethereum continues its global expansion. Excellent work @aiai_garcia	2017-11-29	0.5
+243	"Blockchain technology offers a real opportunity for developing countries to leapfrog their economies to the forefront of global commerce.
+
+https://media.consensys.net/the-philippines-the-worlds-newest-tech-sandbox-for-the-third-web-c67759c653bc …"	2017-11-29	0.10000000000000002
+244	React & Ethereum: Getting Started With The Minimum Toolset Required - Part 1 of 4 by ZAhmed_Poetry https://twitter.com/i/web/status/935468460037038080 …	2017-11-29	0.0
+245	We are now accepting payment at formalverification.eth or runtimeverification.eth for any and all payments to RV Inc. by partners and clients.  We  ENS!	2017-11-29	0.0
+246	"Victor was in NYC today at NASDAQ being recognized by Forbes as a social entrepreneur changing the world with AirToken...
+
+#AIR #AirToken #ETH "	2017-11-29	0.03333333333333333
+247	Victor Santos, co-founder and CEO of @AirToken wants to provide mobile lending on the blockchain for the unbanked. #30Under30 	2017-11-29	0.2
+248	"CryptoKitties is like Neopets on Ethereum. 
+
+We’re in. "	2017-11-29	0.0
+249	Today, #CryptoKitties launches the first blockchain game that uses #Ethereum. The future is meow!  http://thndr.me/fhnY49  	2017-11-29	-0.05000000000000001
+250	"We'll be at #BlockShow Asia in #Singapore all day today! Come find us to learn more about #GATCOIN
+@Cointelegraphev #RewardsPoints #Blockchain #Cryptocurrency #Crypto #ICO #Ethereum"	2017-11-29	0.5
+251	"3.5 Steps To Making Your Official ICO Announcement on Bitcointalk
+-->
+https://briandcolwell.com/2017/11/3-5-steps-to-making-your-official-ico-announcement-on-bitcointalk/.html …
+-->
+@bitcointalk #ICO #ICOs #marketing #socialmedia #bitcointalk #token #tokens #ERC20 #startups #blockchain #BTC $BTC #ETH $ETH #bitcoin #ethereum #ANN #bountyprogram #bountyhunter"	2017-11-29	0.0
+252	Ethereum Price: €392.75 Last Trade Time: 23:57 28/11/17, 24hr Volume: 10188 $ETHEUR $ETH	2017-11-29	0.0
+253	"Binance
+Poloniex
+Bittrex
+
+Move your crypto trading to a secure & trending exchange with the best alts! 
+
+Receive a 50% discount on trading fees! 
+
+ http://binance.com/?ref=10798990  
+
+$BTX | $IOTA | $BTS | $DCR | $BTG | $ZEC | $DOGE | $GXS | $REC | $BTC | $ETH "	2017-11-29	0.7
+254	ETH is now worth $472.90 (-0.14%)	2017-11-29	0.3
+255	"#ETH #BTC #indaHash
+keep and dont be late for join on ico"	2017-11-29	-0.3
+256	Total #crypto market cap is $313,639,944,507 USD #bitcoin #cryptocurrency $btc $eth #ethereum	2017-11-29	0.0
+257	Current #ethereum price is $472.31, a decrease of -0.29%, a market cap of $45,348,634,188 and 24 hr. vol. of $1,342,830,000	2017-11-29	0.0
+258	@ #2, Ethereum with unit price of $472.9, market cap of $45,405,717,909 (14.47%), and 24 hr vol. of $1,346,500,000 (8.59%)	2017-11-29	0.0
+259	"Bitcoin (#BTC) price (-0.26): 
+$10,058.80 
+Rp135.874.331 
+
+Ethereum (#ETH) price (-0.14): 
+$472.90 
+Rp6.387.963 
+
+Bitcoin Cash (#BCH) price (-1.26): 
+$1,546.18 
+Rp20.885.809"	2017-11-29	0.0

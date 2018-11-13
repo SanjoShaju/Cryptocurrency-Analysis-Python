@@ -1,0 +1,35 @@
+	Tweets	date	polarity
+0	The Alden ripple effect  	2017-10-24	0.0
+1	"We 4got to bring cart. Concha's staff helped us, ""bilin po ni Sir Alden, kapag may kailangan ng tulong, tulungan namin""  #ADNFestival2017"	2017-10-24	0.0
+2	"Really? ""Ripple?"" ""It Must Have Been The Roses""? ""Ship of Fools""? No! ""I Bid You Goodnight""? Not possible! "	2017-10-24	0.125
+3	I have fled public spaces when certain songs were played. The songs ALWAYS turned out to be Dead songs. Made me physically ill.	2017-10-24	-0.12142857142857144
+4	r3, ripple, nchain and bloq should all merge into one dumpster fire, lots of synergies	2017-10-24	0.0
+5	Should I buy more $XVG or $XRP ? I have already both. / #xvg #vergecurrency #xrp #ripple #ripplethestandard #predictions #poll #btc #eth	2017-10-24	0.5
+6	"Name green alts to get likes on twitter today:
+$NEO $THC $MTL $XLM $POT $XVG $ADX $SLS $XRP $MANA $GUP $IOC $ADA $EDG $KMD $VTC $OMG $CVC"	2017-10-24	-0.2
+7	"All banks care about is time and money 
+#Ripple and #XRP is the best solution for both "	2017-10-24	1.0
+8	@Ripple can safe banks almost $4 / transaction. Its just a matter of time before they accept their destiny. #xrpthestandard #XRP $XRP	2017-10-24	0.5
+9	"#Ripple: #Payments are irreversible, there are no #chargebacks
+https://briandcolwell.com/2017/06/the-ripple-effect-internationalizing-the-banking-industry/.html … @ripple #fintech #blockchain #crypto #mobilepayments"	2017-10-24	0.0
+10	Banks are finally starting to adopt cryptocurrencies  https://www.weforum.org/agenda/2017/09/banks-are-finally-starting-to-adopt-cryptocurrencies/ … via @wef @ripple support !? #xrp transport #cryptocurrencies	2017-10-24	0.0
+11	@Ripple will be at FinTech Singapore - 15/11/2017 http://www.fintechfestival.sg/wp-content/uploads/2017/10/FinTech-Conference-Programme-with-Speakers-16-Oct-2017.pdf … #xrpthestandard #Ripple #FinTech	2017-10-24	0.0
+12	The philosophical change to become less aggressive on 1st dwn passes has ripple effects over the entire game. Impacts coverage on every dwn. 	2017-10-24	-0.14166666666666666
+13	"RETWEET FOLLOW LIKE TO WIN FREE $BTC
+
+$SYS $QTUM $WINGS $BTS $OKCash $LUN $LTC $ETH $ETC $NEO $DGB $DASH $STRAT $BNB $OMG $PAY $XRP $XMR"	2017-10-24	0.6000000000000001
+14	The more news I read, the more I'm convinced that this is actually happening! @Ripple $XRP 	2017-10-24	0.3333333333333333
+15	"What is the next coin to post over 100% daily gain? 
+
+$XVG $DGB $XRP $XLM #ripple #Vergecurrency #STELLAR #digibyte"	2017-10-24	0.08333333333333333
+16	While $BTC forks to oblivion, @Ripple improving $XRP Ledger along clear path http://bit.ly/2zA38Zu   #rippled $ETH #Blockchain #Governance	2017-10-24	0.10000000000000002
+17	New from our lab:  Learning-induced increases in ripple-spindle are necessary for memory consolidation https://doi.org/10.7554/eLife.27868 … @eLife	2017-10-24	0.06818181818181818
+18	Check out @CointalUK to trade $BTC $ETH $LTC $XRP #cryptocurrency w/ ANY #currency, Peer to Peer! | #cointal #UK #USA #AUSTRALIA #BRAZIL #CANADA #CHINA #DUBAI #ENGLAND #FRANCE #GERMANY #INDIA #IRELAND #ITALY #JAPAN #KOREA #MEXICO #RUSSIA #SPAIN #TURKEY | https://www.cointal.com?referer=bidecoincointal.com/?referer=bidec …	2017-10-24	0.0
+19	"Just over a week left! Make sure you follow, RT and like. Best of luck to everyone!
+$XVG $XRP $BTC $XLM $ARK $OMG"	2017-10-24	0.5
+20	"GIVEAWAY!
+RT, FOLLOW, LIKE
+1 WINNER WILL RECEIVE 0.5 BTC OR THE EQUIVALENT IN THEIR FAV ALTS
+$BTC $XVG $XRP $BAT…"	2017-10-24	0.0
+21	@Ripple deserves better recognition, particularly in x-border payments w pymnt flows of more thn $135 T during 2016.	2017-10-24	0.38888888888888884
+22	rippled Version 0.80.0 | #Ripple https://ripple.com/dev-blog/rippled-version-0-80-0/ …	2017-10-24	0.0

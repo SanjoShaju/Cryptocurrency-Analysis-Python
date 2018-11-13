@@ -1,0 +1,33 @@
+	Tweets	date	polarity
+0	"Bitstamp to add support for Bitcoin Cash
+http://amp.gs/pLUr 
+#hypecodes #blockchain #bitstamp #BitcoinCash #BCH #BCC"	2017-09-15	0.0
+1	You Can Now Spend and Store Bitcoin Cash in Your Copay Wallet (Beta) | The BitPay Blog https://blog.bitpay.com/bitcoin-cash-wallet-beta/ … #BitcoinCash	2017-09-15	0.0
+2	I liked a @YouTube video http://youtu.be/iQ_VGiG_A0A?a  200 BCH (Bitcoin Cash) SEM LIMITE DE TEMPO/GANHE MAIS DE 30K BTC	2017-09-15	0.6
+3	If I'm reading Chinese correctly, (and I can't) Huobi will release users Bitcoin Cash within 5 days. Yall know what that means for BCH. 	2017-09-15	0.0
+4	New #Bitcoin statement from Huobi. https://www.huobi.com/p/content/notice/getNotice?id=641 …	2017-09-15	0.13636363636363635
+5	Bitcoin Cash Back to 250$ low this weekend signal, check that chart BCH/CNY or USD https://goo.gl/fb/sMLHWE  #Bitcoin	2017-09-15	0.0
+6	Coin Virtual Currency Virtual Currency .01 Bitcoin Cash Bch Sent Directly To Your Wallet. ****Trusted Seller**** 	2017-09-15	0.1
+7	Bitcoin Cash Price Technical Analysis – Can BCH/USD Hold $400? https://goo.gl/fb/tQcASU  #bitcoin	2017-09-15	0.0
+8	"RT TopFiveTraders ""RT StakepoolCom ""BITCOIN CASH (BCH) Update: Be GREEDY when others are FEARFUL! Check it out! http://ift.tt/2ycCy9h  #c…"	2017-09-15	-1.0
+9	Bitcoin Cash Price Technical Analysis – Can BCH/USD Hold $400? http://www.newsbtc.com/2017/09/15/bitcoin-cash-price-technical-analysis-can-bchusd-hold-400/ …	2017-09-15	0.0
+10	http://ift.tt/2wt7MH4  Bitcoin Cash Price Technical Analysis – Can BCH/USD Hold $400? #Bitcoin #Blockchain	2017-09-15	0.0
+11	"Bitcoin Cash: $416.20
+ -16.38% (-$81.56)
+High: $504.94
+Low: $380.36
+Volume: 8487
+
+$BCC #BCC #bitcoincash"	2017-09-15	0.08
+12	FREE BITCOIN CASH! – Step By Step http://Blockchain.info  Wallet Conversion… http://dlvr.it/Pn4tXM  #BCH #bitcoin_cash #blockchain_info	2017-09-15	0.5
+13	"Bitcoin Cash: $395.63
+ -23.12% (-$118.98)
+High: $516
+Low: $380.36
+Volume: 7235
+
+$BCC #BCC #bitcoincash"	2017-09-15	0.08
+14	"Bitcoin Cash cheapest on Hitbtc BTC-market: $397.07 0.11857600BTC
+
+$BCHUSD $bch $BCHBTC #bitcoincash"	2017-09-15	0.0
+15	#Bitcoin Cash Price Technical Analysis – BCH/USD To Test $500 http://dlvr.it/Pn4WpB 	2017-09-15	0.0

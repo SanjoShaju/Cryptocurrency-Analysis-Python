@@ -1,0 +1,31 @@
+	Tweets	date	polarity
+0	$XRP about to make a big splash! 	2017-09-12	0.0
+1	SBI Ripple Asia to Test Blockchain Bank Transfers Between Japan and South Korea http://bit.ly/2gYGhmv  	2017-09-12	0.0
+2	"Do you want #BYTECOIN $BCN to be added on @BittrexExchange?
+
+$MCO $SYS $BURST $EXP $DGB #BLOCKMARKET #MGO $GAME $XRP $XLM $STR"	2017-09-12	-0.4
+3	I got banned on ripple what the hell	2017-09-12	0.0
+4	Did @Ripple just reveal it signed up the @federalreserve's Faster Payment System? https://www.reddit.com/r/Ripple/comments/6zqvcp/did_ripple_just_reveal_it_signed_up_the_federal/ … $XRP $Crypto #Trends	2017-09-12	0.0
+5	Thrilled about what the Foxconn investment means for WI and the significant ripple effects it will have for business. #wiright #wiworking	2017-09-12	0.4875
+6	bottom confirmed $crypto $btc  - $neo $eth $xrp $dgb $strat $xvg	2017-09-12	0.4
+7	When Brad the CEO of Ripple likes your tweet about expansion to China. https://twitter.com/WRXQuirk/status/906129737944358912 … $XRP #XRP - CHINA HERE WE COME!	2017-09-12	0.0
+8	People have been asking me how I know Ripple is entering the Chinese market. Here is a clue for you. https://ripple.com/company/careers/all-jobs/ … $XRP $BTC 	2017-09-12	0.0
+9	Woweeweewa a whole lotta good poems just got unleashed on the world. I felt the universe shift & then ripple, jiggle, & shimmy a little. 	2017-09-12	0.23749999999999996
+10	Each individual action causes a ripple effect. Making a wave of change can be simple and... stylish. http://bit.ly/2g1UfDF 	2017-09-12	0.15
+11	I'm old enough to remember when a shooting of even 5 people would be national news for days. 8 + shooter dead in Dallas: Barely a ripple.	2017-09-12	-0.0125
+12	A decline in hunting= ripple effects on funding models for fish & wildlife,public lands & natural resources policy. http://bit.ly/2vJbzk1 	2017-09-12	0.1
+13	Ripple the company had only existed for 9 months. Legal req for  that type of visa was 1 year.	2017-09-12	0.1
+14	If you fall into a coma for 5 years from now,which #altcoins would you prefer to hold? $crypto $xvg $btc $ubq $strat $waves $wings $xrp $omg	2017-09-12	-0.1
+15	Here's a list of banks who tested/invested in @Ripple ($XRP)... The coin trade right now at $0.21... Don't think too much 	2017-09-12	0.24285714285714285
+16	The original NIKKEI article states that a 'virtual currency' will be used for the test. Could be #XRP. 	2017-09-12	0.375
+17	SBI Ripple Asia to Test Blockchain Bank Transfers Between Japan and South Korea http://bit.ly/2gYGhmv 	2017-09-12	0.0
+18	Daniel Aranda, MD Europe @Ripple, 'Our aim to enable seamless #crossborder #payments for banks on behalf their customers'. #PaymentsINTL	2017-09-12	0.1
+19	The Man The Myth The Legend..He has a helped a lot of people. @Hodor7777 @Ripple #xrp #xrpthestandard	2017-09-12	0.0
+20	SBI @Ripple Asia partners with DAYLI Financial Group to bring #Ripple $XRP to #SouthKorea #Korea $WON | https://goo.gl/U3s1nn 	2017-09-12	0.0
+21	"ALERT
+
+$QTUM Mainnet LAUNCH TOMORROW !!
+
+ROCKET TIME !!!
+
+$btc $ltc $eth $etc $neo $dgb $dash $strat $omg $pay $xrp $xmr $kmd $ok $cvc"	2017-09-12	0.5

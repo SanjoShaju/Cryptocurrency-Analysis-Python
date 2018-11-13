@@ -1,0 +1,31 @@
+	Tweets	date	polarity
+0	Our Q3 2017 XRP Market report is out! See how XRP performed and what's ahead for Q4. 	2017-10-26	0.0
+1	The Weinstein ripple effect: Famous men accused of sexual harassment and assault 	2017-10-26	0.5
+2	Did Ripple Hijack The Swift Conference, Or Merely Borrow Some Audience? http://www.forbes.com/sites/tomgroenfeldt/2017/10/25/did-ripple-hijack-the-swift-conference-or-merely-borrow-some-audience/?utm_source=TWITTER&utm_medium=social&utm_term=ViEWS%20Alerts#76616c657269 …	2017-10-26	-0.5
+3	.@Ripple's team is putting on an XRP Meetup in Seoul. @emy_wng and @miguelvias will be there. Come meet the team! https://www.meetup.com/meetup-group-RKJvRrMT/events/244531292/?_cookie-check=Oe-fQuSmholyz5Wm …	2017-10-26	0.0
+4	Well if u say so!!! @ripple #xrp #xrpthestandard also check out @Hodor7777  new blog and @haydentiff has a new look	2017-10-26	0.13636363636363635
+5	“XRP’s price stability in Q3 is a sign of market maturation. XRP is now listed on 30 exchanges and traded an average of $179.3M/day in Q3.” 	2017-10-26	-0.15
+6	Our Q3 2017 XRP Market report is out! See how XRP performed and what's ahead for Q4. https://ripple.com/insights/q3-2017-xrp-markets-report/ …	2017-10-26	0.0
+7	When i get 500 followers, i will giveaway 0.5 BTC. Follow+Retweet to enter. $dgb $smart $eth $btc $xvg $strat $ltc $doge $xem $rdd $xmr $xrp	2017-10-26	0.21428571428571427
+8	"Long/short BTC with leverage at Whaleclub! 
+
+Grab your 30% deposit bonus today!
+
+http://whaleclub.co/join/DR22c 
+
+$SYS | $SLS | $ZEN | $XRP | $ADX"	2017-10-26	0.0
+9	SBIgroup Q3 report states that Ripple Xcurrent will go life this year for cross-border payments and initail launche domastic payments  	2017-10-26	0.0
+10	"1. The ""Weinstein Effect"" continues to ripple through the culture, with Halperin being the latest prominent harasser exposed."	2017-10-26	0.5
+11	#XRP to be listed on an institutional exchange starting 11/30/17. http://www.baystreet.ca/viewarticle.aspx?id=479196 …	2017-10-26	0.0
+12	@RyanZagone doing a great job of representing @Ripple at the @FastCompany Innovation Festival!	2017-10-26	1.0
+13	so much fun speaking at @FastCompany Innovation Festival about humanizing blockchain for financial inclusion and b2b payments https://twitter.com/mariopedia/status/923579882495410176 …	2017-10-26	0.15
+14	The one & only @JoelKatz revealing what's behind Ripple's mysterious 'xPool' trademark filing  	2017-10-26	-0.13333333333333333
+15	Which #cryptocurrency do you think @coinbase should include next? $dash $xrp $dcr $vtc #dash #ripple #decred #vertcoin...reply if other	2017-10-26	-0.0625
+16	#Jaguars Insider: A baker's dozen of thoughts on the ripple effect of Telvin Smith signing extension. 	2017-10-26	0.0
+17	My latest blog reviews the Q3 2017 #XRP Markets Report & provides  several points for XRP Investors to consider: 	2017-10-26	0.25
+18	Now this is a t-shirt I'd like to go out with in the streets! $XRP #XRP #Ripple #xrpthestandard RT if you'd like one!	2017-10-26	0.0
+19	@nbougalis finally finished parsing through Escrow_test.cpp on github. Such clean and efficient code. Ripple has an amazing C++ team.	2017-10-26	0.2416666666666667
+20	Hey @swiftcommunity @haydentiff was right and now @sbigroup is saying it @ripple #xrp 	2017-10-26	0.2857142857142857
+21	"""No need for Zhengin and SWIFT anymore. If we keep holding on to old-school technology, we won't be able to survive""
+https://youtu.be/RgeBLtLv8yk?t=4280 …"	2017-10-26	0.5
+22	Ep 17! We have a fantastic interview with @ripple CEO @bgarlinghouse plus all the highs & lows in the week's newshttp://bi.11fs.com/18 	2017-10-26	0.4

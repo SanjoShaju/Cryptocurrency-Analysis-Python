@@ -1,0 +1,53 @@
+	Tweets	date	polarity
+0	"#Bitcoin Cash (#BCH) In The Eyes Of The ""Tax Man"" | #Bitcoin (#BTC) #Fintech"	2017-09-07	0.0
+1	"Bitcoin Cash is up 18% and currently leading the pack of crypto
+
+#BCH #Bitcoincash #Bitcoin"	2017-09-07	0.0
+2	Question: why Bitcoin Cash is going up so high? @SatoshiLite #BitcoinCash #bitcoin #cryptocurrencies #ethereum	2017-09-07	0.16
+3	"#BitcoinCash has unlocked value.
+Bitcoin Investment Trust Provides Update on Possible Bitcoin Cash Distribution"	2017-09-07	0.0
+4	"Bitcoin Cash: ""The bottom line: You’re in charge. You’re in control. YOU’RE the decider."" No, George W. Bush is The Decider. BCH QUOTES↑↓ "	2017-09-07	0.0
+5	"Laser Fans!
+
+BitCoin Cash BCH is now ACCEPTED! Along with all the high leagues join here https://laser.online/?referrer=Maliselo …"	2017-09-07	0.16
+6	#bitcoin little changed, Bitcoin Cash gains ground #BTC/USDnews,BCH/USDnews,ETH/USDnews http://bit.ly/2eJnHdH 	2017-09-07	-0.1875
+7	GMO Coin welcomes Bitcoin Cash, as BCH withdrawals become available http://ift.tt/2wsLdnu 	2017-09-07	0.4
+8	Bitcoin Cash Price Technical Analysis – BCH/USD Buy Dips - newsBTC http://dlvr.it/PlK3YN 	2017-09-07	0.0
+9	http://CoinWhip.com  - Bitcoin Cash Faucet - Best Free Bitcoin Cash Faucet, Claim Free BCH Every Hour! https://coinwhip.com/faucet/bitcoin-cash#.WbHBXLNBsbM.twitter …	2017-09-07	0.6333333333333333
+10	"Bitcoin Cash flippening. Again.
+
+BCH is now more profitable to mine than BTC."	2017-09-07	0.5
+11	Bitcoin Cash Price Technical Analysis – BCH/USD Buy Dips 	2017-09-07	0.0
+12	Will bitcoin cash benefit from a second bitcoin fork? http://mktmgl.co/2xPugnx  #cryptocurrencies #BitcoinCash 	2017-09-07	0.0
+13	Bitcoin Cash Price Technical Analysis – BCH/USD Buy Dips http://ift.tt/2f5L3ux 	2017-09-07	0.0
+14	Bitcoin Cash Price Technical Analysis - BCH/USD Buy Dips - Key Points Bitcoin cash price finally made a nice up... 	2017-09-07	0.15
+15	Bitcoin Cash Price Technical Analysis – BCH/USD Buy Dips #Analysis #Opinion #Trading #BCH #BCHUSD @newsbtc	2017-09-07	0.0
+16	Bitcoin Cash Price Technical Analysis – BCH/USD Buy Di... #ethereum #crypto #altcoin #analysis https://coinspectator.com/news/50724/bitcoin-cash-price-technical-analysis-bchusd-buy-dips …	2017-09-07	0.0
+17	#bitcoin Cash Price Technical Analysis  BCH/USD Buy Dips - NEWSBTC #blockchain #startup #AI http://bit.ly/2xc7OaO 	2017-09-07	0.0
+18	CoinExchangeio #12 Market(0.67%) BCH/BTC - Bitcoin Cash Vol(24h):3.94419 BTC / $17,888 - Price: $598.65 / 0.132 BTC	2017-09-07	0.0
+19	"Bitcoin Cash cheapest on Cryptopia DOGE-market: $599.61 0.13403824BTC
+
+$bch #bitcoincash $BCHUSD $BCHBTC"	2017-09-07	0.0
+20	"Bitcoin Cash cheapest on Novaexchange ETH-market: $542.68 0.12167102BTC
+
+$bch $BCHUSD #bitcoincash $BCHBTC"	2017-09-07	0.0
+21	Poloniex #6 Market(4.94%) BCH/BTC - Bitcoin Cash Vol(24h):2967.35 BTC / $13,493,800 - Price: $616.13 / 0.13549 BTC	2017-09-07	0.0
+22	Poloniex #7 Market(4.82%) BCH/USDT - Bitcoin Cash Vol(24h):2898.15 BTC / $13,179,200 - Price: $613.54 / 0.134921 BTC	2017-09-07	0.0
+23	"Bitcoin Cash cheapest on Novaexchange ETH-market: $547.61 0.12170072BTC
+
+$BCHBTC #bitcoincash $BCHUSD $bch"	2017-09-07	0.0
+24	"Bitcoin Cash cheapest on Coinexchange BTC-market: $619.80 0.13659200BTC
+
+$BCHBTC $BCHUSD $bch #bitcoincash"	2017-09-07	0.0
+25	"Bitcoin Cash cheapest on Coinexchange BTC-market: $617.57 0.13659200BTC
+
+#bitcoincash $bch $BCHBTC $BCHUSD"	2017-09-07	0.0
+26	"Bitcoin Cash cheapest on Coinexchange BTC-market: $624.90 0.13659200BTC
+
+$BCHUSD #bitcoincash $BCHBTC $bch"	2017-09-07	0.0
+27	"Bitcoin Cash cheapest on Poloniex USDT-market: $633.00 0.13831659BTC
+
+$BCHUSD #bitcoincash $bch $BCHBTC"	2017-09-07	0.0
+28	"Bitcoin Cash cheapest on Poloniex USDT-market: $645.00 0.14046167BTC
+
+#bitcoincash $BCHUSD $bch $BCHBTC"	2017-09-07	0.0

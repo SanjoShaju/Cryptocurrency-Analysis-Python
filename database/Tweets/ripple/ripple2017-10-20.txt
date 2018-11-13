@@ -1,0 +1,39 @@
+	Tweets	date	polarity
+0	List of Harvey Weinstein's accusers grows as ripple of effects spread globally 	2017-10-20	0.0
+1	If Fed continues to normalize, will see a return of real yield to market that'll ripple through every asset class. - Bob Michele, @JPMorgan	2017-10-20	0.2
+2	"XRP meetup event in Tokyo on Nov. 10, @miguelvias and @warpaul will participate and discuss about XRP
+#Ripple #XRP"	2017-10-20	0.0
+3	11月10日に東京でXRPのミートアップイベントを開催する計画をしています。XRPチームのMiguelやWarrenも参加し、XRPについて熱く語ります！場所確保の為にも興味ある方は以下のアンケートに答えて頂けると助かります！基本的にXRPに興味のある方は誰でも参加OKです。	2017-10-20	0.0
+4	They Can’t Stop What They Can’t Catch @Ripple #xrpthestandard #XRP #fintech #Blockchain – @haydentiff – Medium	2017-10-20	0.0
+5	my favourite little ripple-and-eddy on the Thompson River at Sk'emqin (Steelhead PP), best enjoyed w vol up. #Secwepemculewc #waterislife	2017-10-20	0.4375
+6	Lot of similarities.. XRP next wave will be massive! With real world use around the corner, $55bn lockup, +100 banks, +$1 this year, $5 next 	2017-10-20	0.05
+7	Add one more exchange for #XRP : Now we're up to 34+ worldwide exchanges! 	2017-10-20	0.625
+8	"Cointal is Live !! 
+https://cointal.com "	2017-10-20	0.2130681818181818
+9	"Microsoft’s Marley Gray: @Ripple  and ILP Will Be the Fabric of MultiChain Future
+
+#blockchain #cryptocurrency #news
+http://hodlnews.io/2017/10/20/microsofts-marley-gray-ripple-ilp-will-fabric-multi-chain-future/ …"	2017-10-20	0.0
+10	Palm Beach Group Advises Clients to buy #XRP Before the Next leg up #Ripple #fintech #Blockchain #xrpthestandard	2017-10-20	0.0
+11	With the weekend approaching, let us know how you plan to be a ripple of hope for a better and more peaceful world. 	2017-10-20	0.3125
+12	You can now buy @Ripple's $XRP with USD and other #currency from @CointalUK. #ripple #cryptocurrency #altcoins #HODL #cointal	2017-10-20	-0.125
+13	"Cointal is Live !! 
+https://cointal.com "	2017-10-20	0.2130681818181818
+14	"Have you ever met a hater doing better than you?
+Me neither.
+#xrpthestandard $XRP "	2017-10-20	0.5
+15	Thank you, @Ripple & @Interledger devs for making the Lightning Network compatible with 7 different payment networks. @coindesk excluded you 	2017-10-20	0.0
+16	Thank you kind sir...it was quite the event!  #xrpthestandard #Ripple #rippleswell	2017-10-20	0.75
+17	Love the pic! @Ripple w #xrpthestandard	2017-10-20	0.625
+18	Fab to see #ValuingVoices experience shared at @Mercycork lunch&learn & hear ripple effect of small changes for all! #engaginghealthstaff	2017-10-20	-0.3125
+19	"“#Ripple is a #currency #agnostic #protocol. Ripple is the winner. It processes anything.” @dandolfa
+https://briandcolwell.com/2017/06/the-ripple-effect-internationalizing-the-banking-industry/.html … @ripple #iot"	2017-10-20	0.0
+20	"@PalmBeachGroup  advises all old people to buy #xrp and If ur young u can buy it 2 #xrpthestandard @ripple 
+http://www.livebitcoinnews.com/palm-beach-group-advises-clients-buy-xrp-next-leg/ …"	2017-10-20	0.1
+21	GREAT ! Is very interesting for @Ripple @Interledger  @Hyperledger and #xrpthestandard #XRP 	2017-10-20	0.825
+22	Check out this page:https://www.americanexpress.com/us/content/foreign-exchange/articles/international-payments-hyperledger-interledger/ … @Interledger @ripple #xrp  #xrpthestandard	2017-10-20	0.0
+23	"Hey @Ripple! One more ledger to connect!  $XRP
+
+http://fortune.com/2017/10/20/mastercard-blockchain-bitcoin/ …"	2017-10-20	0.625
+24	"A LOT of alts have been reconsolidating recently. If there's an alt you want to get into, now is a great time ready for wave 
+$XRP $XVG"	2017-10-20	0.3333333333333333

@@ -1,0 +1,65 @@
+	Tweets	date	polarity
+0	Whether you love it or hate it, you can now spend your Bitcoin Cash (BCH) at http://www.CoinRx.is , the #1 Bitcoin Online Pharmacy.	2017-10-25	-0.15000000000000002
+1	Best Bitcoin Cash Wallets (BCH): Free Money For Every Bitcoiner! WooHoo! https://coinsutra.com/best-bitcoin-cash-wallets/ … via @coinsutra	2017-10-25	0.8125
+2	Bitcoin Cash 25.10.2017 $BCH $crypto	2017-10-25	0.0
+3	BBC is reporting on Bitcoin Cash https://cryptopanic.com/news/382959/BBC-is-reporting-on-Bitcoin-Cash?utm_source=notifications&utm_medium=twitter&utm_campaign=Twitter+Trending … $BTC #bitcoin $BCH #bitcoin cash #cryptocurrency	2017-10-25	0.0
+4	Bitcoin Cash support being added Bloq Enterprise version 2 #bitcoin #bitcoincash #ethereum	2017-10-25	0.0
+5	Bitcoin Cash (BCH): Bullish! Updated Analysis & Elliott Wave Count; Target $1,250...What? How?	2017-10-25	0.0
+6	"Here’s the real question for @coinbase, @blockchain et al.
+
+If B2X gets more accumulated work than BCH...
+
+Will you name it Bitcoin Cash?! "	2017-10-25	0.4125
+7	"Bitcoin Cash cheapest on Bittrex BTC-market: $324.73 0.05888601BTC
+
+$bch #bitcoincash $BCHBTC $BCHUSD"	2017-10-25	0.0
+8	"3 Reasons Bitcoin Cash will 
++Antminer S9 available with Bitcoin Cash Only
++SegWit2x Hard Fork Selloff
++BCH becomes more profitable to mine "	2017-10-25	0.15208333333333335
+9	Bitcoin Cash #BCH Mining profitability currently more than #BTC	2017-10-25	0.5
+10	Bitcoin Cash is less than 3 months old. The new ecosystem is rapidly expanding.	2017-10-25	0.023232323232323233
+11	"Wallet support for Bitcoin Cash continues to grow each week.
+
+More info: http://bitcoincash.org 
+
+#BitcoinCash $BCC $BCH "	2017-10-25	0.5
+12	Bitcoin Cash now more profitable to mine ;) (compared to BTC) https://cryptopanic.com/news/381813/Bitcoin-Cash-now-more-profitable-to-mine-compared-to-BTC?utm_source=notifications&utm_medium=twitter&utm_campaign=Twitter+Trending … $BTC #bitcoin $BCH #bitcoin cash #cryptocurrency	2017-10-25	0.375
+13	Bitcoin Cash (BCH) — we will be the dominant chain before you know it! 	2017-10-25	0.0
+14	Bitcoin Cash Price Technical Analysis – BCH/USD's Ranging Moves Continue - newsBTC http://dlvr.it/PxRxBg 	2017-10-25	0.0
+15	"Here comes the Bitcoin Cash train... Bitmain dropping S9's in 12 hr's and only accepting bcc? 
+$BTC $ETH $LTC $NEO $DASH $BCC $BCH"	2017-10-25	0.0
+16	"#bitcoin, #Ethereum, Bitcoin Cash, #Ripple, #Litecoin #BTC #BCH #XRP Technical Analysis
+BitcoinTalkRadio
+http://www.bitcointalkradio.com/bitcoin-ethereum-bitcoin-cash-ripple-litecoin/ …"	2017-10-25	0.0
+17	"It is strange seeing a lot of the bitcoin cash ppl i follow pushing for 2x. 
+
+2x would hurt bch the hardest."	2017-10-25	-0.05
+18	"We have exchanges, 6 developer teams and a fairly united Bitcoin Cash community ...
+
+It’s golden opportunity for #BCH 
+
+@rogerkver @JihanWu"	2017-10-25	0.5
+19	I can't wait till the Bitcoin Cash Blockchain is so large that only centralized mining corporates can control it! #BCash #BitcoinCash	2017-10-25	0.10714285714285714
+20	@LouisThomasYT Thanks for your video on Bitcoin Cash. I am a No2Xer who sees alot of value in BCH and I think a flippening ia possible.	2017-10-25	0.1
+21	"Retweeted CoinRx.is (@coinrx):
+
+Whether you love it or hate it, you can now spend your Bitcoin Cash (BCH) at... http://fb.me/2vMMLLC3N "	2017-10-25	-0.15000000000000002
+22	"Lol, bitcoin cash there is just for fun :)))
+$BCH $BCC"	2017-10-25	0.5333333333333333
+23	"Jihan Wu Claims Bitcoin Cash is “Very Satoshi Nakamoto”
+http://www.livebitcoinnews.com/jihan-wu-claims-bitcoin-cash-satoshi-nakamoto/ …
+$BCH #BCH $BTC #BTC"	2017-10-25	0.2
+24	Bch has 0 conf, so all you need there is an spv. And bitcoin cash	2017-10-25	0.0
+25	How to Curb #bitcoin and Bitcoin Cash Malleability Problem? #BCH #BTC $BCH $BTC http://bitcoinagile.com/14926A0/how-to-curb-bitcoin-and-bitcoin-cash-malleability-problem_stream …	2017-10-25	0.0
+26	As already mentioned in the article, it’s BCH (Bitcoin Cash, the fork from a while back) not Bitcoin. Just an attempt to pump the market.	2017-10-25	0.0
+27	Bitcoin Cash Price Technical Analysis – BCH/USD’s Ranging Moves Continue 	2017-10-25	0.0
+28	"Bitcoin Cash cheapest on Poloniex BTC-market: $325.49 0.05920000BTC
+
+$BCHUSD $BCHBTC #bitcoincash $bch "	2017-10-25	0.0
+29	#bitcoin Cash Price Technical Analysis  BCH/USDs Ranging Moves Continue - NEWSBTC #BCH http://www.newsbtc.com/2017/10/25/bitcoin-cash-price-technical-analysis-bchusds-ranging-moves-continue …	2017-10-25	0.0
+30	the 90% of miners signaling for 2x should mine Bitcoin Cash #bitcoin #bitcoincash #ethereum	2017-10-25	0.0
+31	Bitcoin Cash Price Technical Analysis – BCH/USD Holding Key ... - newsBTC: http://ift.tt/2h60Fzs  #bitcoin #btc	2017-10-25	0.0
+32	"Bitcoin Cash cheapest on Bittrex BTC-market: $323.10 0.05864921BTC
+
+$BCHUSD #bitcoincash $BCHBTC $bch "	2017-10-25	0.0

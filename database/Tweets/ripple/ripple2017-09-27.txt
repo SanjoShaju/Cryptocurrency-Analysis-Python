@@ -1,0 +1,32 @@
+	Tweets	date	polarity
+0	It’s 1977. SWIFT is IBM and #Ripple $XRP is Apple.	2017-09-27	0.0
+1	$XRP @Ripple ON MY BAG FROM NOW	2017-09-27	0.0
+2	"Ripple right now.
+
+$XRP "	2017-09-27	0.2857142857142857
+3	"When is @WesternUnion going to start using @Ripple?! These fees are ridiculous!!
+
+#xrp #Ripple #xrpthestandard $xrp "	2017-09-27	-0.5208333333333333
+4	I just bought Ripple on the break. 	2017-09-27	0.0
+5	All on #xrp #ripple....SBI launch soon, SWELL soon, rockets soon 	2017-09-27	0.0
+6	"Today $XRP is talking about money! 
+Don't miss this out.. #Ripple #blockchain #cryptocurrency"	2017-09-27	0.0
+7	Join @bgarlinghouse on 9/27 at @canaanpartners #FinTechCentral event in San Francisco at @LendingClub. RSVP here: https://fintechcentralsf.eventfarm.com 	2017-09-27	0.0
+8	$xrp @Ripple  3days chart is tasty asaf 	2017-09-27	0.0
+9	Ripple breakout! #XRP #Ripple	2017-09-27	0.0
+10	"NO 10% is not the massive pump I’m referring to!!!!!!!!
+
+$XRP"	2017-09-27	0.0
+11	"To understand the ripple effects of the collapse in traditional retail, look no further than Elmira, N.Y.
+http://on.wsj.com/2xMAWVR "	2017-09-27	0.0
+12	.@dtapscott will review the latest in blockchain technology at #SwellbyRipple. Read his musings about the conference	2017-09-27	0.5
+13	THIS. THIS is why we openly share our expertise: the ripple effects can touch so many lives. #warmfuzzies #public_speaking	2017-09-27	0.25
+14	"The Made in England Pascal Ripple boot. 
+EU: http://bit.ly/2fDsC0S 
+US & INTL: http://bit.ly/2xxdyLW "	2017-09-27	0.0
+15	Miguel Vias @miguelvias @Ripple will be speaking at the @TABBGroup FinTech Festival http://tabbforum.com/events/1382  November 2nd #Fintechfestival17	2017-09-27	0.0
+16	#Ripple #XRP $XRP the path to the #Swell conference. Crazy i know.	2017-09-27	-0.6
+17	Nature's ripple effect reminds us of our primary function - to express, extend & reflect love without condition or exclusion. 	2017-09-27	0.45
+18	XRP is a cryptocurrency like the USS Zumwalt is a boat @haydentiff	2017-09-27	0.0
+19	Have no idea why people still hate XRP, it's one of the sweetest coins out there !	2017-09-27	-1.0
+20	The future of #DigitalMarketing is here! Join the #crowdsale https://webcoin.today  #ETH #btc #xrp #dogecoin #XMR @wavesplatform #LTC #etc	2017-09-27	0.0

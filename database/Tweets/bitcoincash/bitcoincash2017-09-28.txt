@@ -1,0 +1,36 @@
+	Tweets	date	polarity
+0	"Bitcoin Cash Support Comes Out of Beta for the BitPay and Copay Wallets
+ | The BitPay Blog https://blog.bitpay.com/bitcoin-cash-wallet/ … #BitcoinCash "	2017-09-28	0.0
+1	"Anyone care to explain to me where the ""Free"" Bitcoin cash came from? Major  no comprende. Got almost 3k of bch"	2017-09-28	0.23125
+2	Isn't that the ONLY reason Bitcoin Cash exists? Nobody else to bring over... BCH fork was the divorce. No Bitcoiner wants 2X right meow. 	2017-09-28	0.1619047619047619
+3	Bitcoin Cash #BCH welcomes those of you frustrated bitcoiners who thought adding Segwit included a 2x blocksize increase later.	2017-09-28	-0.35
+4	Bitcoin Cash #BCH welcomes those of you frustrated bitcoiners who thought adding Segwit included a 2x blocksize increase later.	2017-09-28	-0.35
+5	I had 42 coins when fork came - mycelium gave me my bch but u guys said u didn’t support - but u got my bitcoin Cash -	2017-09-28	0.0
+6	You can now spend & store #Bitcoin cash in your Copay Wallet (Beta). Find out more on the @BitPay blog https://buff.ly/2flJ2xX  #BitcoinCash	2017-09-28	0.5
+7	“How to recover your trapped Bitcoin Cash from other wallets” by @nikoldaru https://blog.btc.com/how-to-recover-your-trapped-bitcoin-cash-from-other-wallets-24b929543f26 … #bitcoincash #BCC	2017-09-28	-0.1625
+8	Bitcoin Cash (BCH) http://ift.tt/29GDCpw  The Bitcoin Cash development team just launched a new website at http://BitcoinCash.org . The w…	2017-09-28	0.13636363636363635
+9	#Bitcoin Cash Gains More #Infrastructure In the Midst of Segwit2x Drama: This week the #Bitcoin_Cash (#BCH)… http://dlvr.it/Pqzlvt 	2017-09-28	0.5
+10	Support of Bitcoin Cash and distribution of BCH balances to Your customers? like Bitpay just did.	2017-09-28	0.0
+11	Bitcoin Cash Has a New Official Site: Still Orange, Still the Big 'B' - #bitcoin #bitcoincash #news	2017-09-28	0.06818181818181818
+12	I hold both in case segwit2x failed, because i think if 2x failed, Bitcoin Cash will skyrocket. It's Core pumping altcoin,including BCH	2017-09-28	-0.5
+13	This week the Bitcoin Cash (BCH) ecosystem is seeing further infrastructure growth… https://goo.gl/fb/PtgrMF  #bitcoin	2017-09-28	0.0
+14	Bitcoin Cash Price Technical Analysis – BCH/USD Remains in Uptrend: Key Points Bitcoin cash pri.. #Bitcoin #News	2017-09-28	0.0
+15	"RT TopFiveTraders ""RT StakepoolCom ""Reasons why bitcoin cash ( BCH ) will be a success in the future Check it out! http://ift.tt/2wXQIOB …"	2017-09-28	0.15
+16	How likely do you think it is that Bitcoin Cash (BCH) will be able to reach the number 2 position on coinmarketcap… 	2017-09-28	0.25
+17	You can now spend & store #Bitcoin cash in your Copay Wallet (Beta). Find out more on the @BitPay blog http://bit.ly/2fkQGIU  #BitcoinCash	2017-09-28	0.5
+18	#bitcoin Cash, Litecoin Price Daily Advancement: BCH, LTC Forecast Sep 20 http://bitcoinagile.com/136DDC3/bitcoin-cash-litecoin-price-daily-advancement-bch-ltc-forecast-sep-20_stream …	2017-09-28	0.0
+19	Bitstamp Gives Users #bitcoin Cash But Postpones Trading Indefinitely #Bitstamp #BCH https://getway.io/news/bitstamp-gives-users-bitcoin-cash-but-postpones-trading-indefinitely …	2017-09-28	0.0
+20	☞ Bitcoin Cash Price Technical Analysis – BCH/USD Remains in Uptrend http://ift.tt/2wY1mjn  #bitcoin	2017-09-28	0.0
+21	Bitcoin Cash Support Comes Out of Beta for the BitPay and Copay Wallets #BCH	2017-09-28	0.0
+22	 Bitcoin Cash ($7.531B) is now worth less than Southwestern Energy Company Dep ($7.533B) $BCH $SWNC #crypto #marketcap	2017-09-28	0.06666666666666667
+23	Bitcoin Cash's Death Spiral https://seekingalpha.com/article/4108910-bitcoin-cashs-death-spiral … $BCH	2017-09-28	0.0
+24	 Bitcoin Cash ($7.549B) is now worth less than Seattle Genetics, Inc. ($7.555B) $BCH $SGEN #crypto #marketcap	2017-09-28	0.06666666666666667
+25	Poloniex #13 Market(1.87%) BCH/USDT - Bitcoin Cash Vol(24h):862.098 BTC / $3,604,040 - Price: $462.99 / 0.110748 BTC	2017-09-28	0.0
+26	Poloniex #16 Market(1.46%) BCH/BTC - Bitcoin Cash Vol(24h):671.153 BTC / $2,805,780 - Price: $461.96 / 0.110502 BTC	2017-09-28	0.0
+27	I hope they will support #BCH payment like #Bitcoin. Bitcoin Cash Support on the BitPay & Copay Wallets https://blog.bitpay.com/bitcoin-cash-wallet/ … via @bitpay	2017-09-28	0.0
+28	#bitcoin Cash support finalized for BitPay and Copay wallets #BitcoinCash #CryptoCurrency http://coinwisdom.org/10751-bitcoin-cash-support-finalized-for-bitpay-and-copay-wallets …	2017-09-28	0.0
+29	 Bitcoin Cash ($7.546B) is now worth more than PerkinElmer, Inc. ($7.536B) $BCH $PKI #crypto #marketcap	2017-09-28	0.4
+30	 Bitcoin Cash ($7.551B) is now worth less than Seattle Genetics, Inc. ($7.555B) $BCH $SGEN #crypto #marketcap	2017-09-28	0.06666666666666667
+31	 Bitcoin Cash ($7.551B) is now worth less than Heico Corporation ($7.557B) $BCH $HEI #crypto #marketcap	2017-09-28	0.06666666666666667
+32	 Bitcoin Cash ($7.557B) is now worth less than Liberty Media Corporation - Ser ($7.577B) $BCH $FWONA #crypto #marketcap	2017-09-28	0.06666666666666667
+33	 Bitcoin Cash ($7.6019B) is now worth less than F5 Networks, Inc. ($7.602B) $BCH $FFIV #crypto #marketcap	2017-09-28	0.06666666666666667

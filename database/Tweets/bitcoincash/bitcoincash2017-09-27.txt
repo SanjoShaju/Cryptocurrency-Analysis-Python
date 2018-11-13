@@ -1,0 +1,36 @@
+	Tweets	date	polarity
+0	Time to convert your Bitcoin Cash (BCH) 	2017-09-27	0.0
+1	Localbitcoins Compensates Users by Selling Bitcoin Cash for BTC: Over the past few weeks, many Bitcoin Cash (BCH)… http://j.mp/2fStQ8C 	2017-09-27	0.016666666666666663
+2	Ripple ahead of Bitcoin Cash today. #Ripple #XRP #BitcoinCash 	2017-09-27	0.0
+3	"Xapo: You Can Have Your Bitcoin Cash, but We’re Not Supporting It
+https://bitsonline.com/xapo-bitcoin-cash-claim/ …
+@xapo @BitcoinCashFans @bitcoincash #BTC #BCH "	2017-09-27	-0.125
+4	#bitcoin Cash Buy Signal #BitcoinCash $btc $eth $bch $bcc $neo $ltc $xrp $bat $dash $xmr http://bitcoinagile.com/13668CF/bitcoin-cash-buy-signal_stream …	2017-09-27	0.0
+5	"RT coindesk ""RT Bitstamp: BITCOIN CASH: corresponding #BCH balances distributed and withdrawal support enabled at … https://twitter.com/i/web/status/913014926276481024 …"""	2017-09-27	0.0
+6	"""Bitcoin Cash Price Technical Analysis – BCH/USD Approaching Support"" #fintech #blockchain #crypto"	2017-09-27	0.0
+7	"Roger Ver on Bitcoin Cash at Bitkan's ""Shape the Future"" Blockchain Global Summit Hong Kong #BitcoinCash #BCH #BCC"	2017-09-27	0.0
+8	Wow... Bovada adopting Bitcoin Cash? $BCC $BCH   Interesting. 	2017-09-27	0.3
+9	I just got an email from Bovada stating they are now accepting Bitcoin Cash. IMO, that is pretty darn good news for #BCH #cryptocurrencies	2017-09-27	0.475
+10	If you don't like Bitcoin Cash #bitcoin #bitcoincash #ethereum	2017-09-27	0.0
+11	Bitcoin Cash BCH prediction | analysis BCH | USD September 27, 2017 	2017-09-27	0.0
+12	BlockChannel:RT Bitstamp: BITCOIN CASH: corresponding #BCH balances distributed and withdrawal support enabled at … https://twitter.com/i/web/status/913014926276481024 …	2017-09-27	0.0
+13	Xapo: You Can Have Your Bitcoin Cash, but We're Not Supporting It - @xapo #BitcoinCash #bitcoin #news #today	2017-09-27	-0.125
+14	Bitcoin Cash Price Technical Analysis – BCH/USD Approaching Support http://ift.tt/2wVJplg  http://ift.tt/2wVFKUF 	2017-09-27	0.0
+15	"""Bitcoin Cash Price Technical Analysis – BCH/USD Approaching Support"" #fintech #blockchain #crypto"	2017-09-27	0.0
+16	#bitcoin .025 BTCC Mint 25k Chip & Physical Bitcoin Cash .025 RARE #bitcoincash https://allsorce.com/bitcoin-025-btcc-mint-25k-chip-physical-bitcoin-cash-025-rare …	2017-09-27	0.15
+17	"RT TopFiveTraders ""RT StakepoolCom ""[SELL] Bitcoin Cash (BCH) $550 $750 $1050  September 26, 2017 Read more at: http://ift.tt/2fQ1fRc  #t…"	2017-09-27	0.5
+18	The cybersecurity club today at our activities fair had a bitcoin cash address… #bitcoin #bitcoincash #ethereum	2017-09-27	0.7
+19	"RT TopFiveTraders ""RT StakepoolCom ""[Rank 3rd] Bitcoin Cash (BCH)  $443.60 (-0.82%)   0.11338800 BTC (-0.14%) Check it out! …"	2017-09-27	-0.4
+20	"RT StakepoolCom ""[Rank 3rd] Bitcoin Cash (BCH)  $443.60 (-0.82%)   0.11338800 BTC (-0.14%) Check it out! http://ift.tt/2fQjTbD  #cryptocu…"	2017-09-27	-0.4
+21	"Bitcoin Cash cheapest on Cryptopia USDT-market: $440.70 0.11139984BTC
+
+$BCHBTC $bch #bitcoincash $BCHUSD"	2017-09-27	0.0
+22	Poloniex #11 Market(2.49%) BCH/BTC - Bitcoin Cash Vol(24h):684.024 BTC / $2,665,270 - Price: $448.09 / 0.115 BTC	2017-09-27	0.0
+23	Poloniex #17 Market(1.52%) BCH/USDT - Bitcoin Cash Vol(24h):417.632 BTC / $1,627,280 - Price: $447.21 / 0.114775 BTC	2017-09-27	0.0
+24	Uphold Activates #Bitcoin Cash Trading http://blocktribune.com/uphold-activates-bitcoin-cash-trading/ … via @BlockTribune #fintech #BCH	2017-09-27	0.0
+25	"Bitcoin Cash cheapest on Bittrex BTC-market: $445.96 0.11522600BTC
+
+$BCHUSD $BCHBTC #bitcoincash $bch"	2017-09-27	0.0
+26	"Bitcoin Cash cheapest on Kraken BTC-market: $447.30 0.11531000BTC
+
+$BCHBTC #bitcoincash $bch $BCHUSD"	2017-09-27	0.0

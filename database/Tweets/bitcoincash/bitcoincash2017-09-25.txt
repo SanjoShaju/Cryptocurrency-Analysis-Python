@@ -1,0 +1,59 @@
+	Tweets	date	polarity
+0	LocalBitcoins display their true colours by calling Bitcoin Cash 'Bcash' and… #bitcoin #bitcoincash #ethereum	2017-09-25	0.35
+1	"2 things @LocalBitcoins missed entirely: 
+1 #BitcoinCash is #bitcoin
+2 the name is Bitcoin Cash  https://localbitcoins.com/blog/bitcoin-bcash/ …"	2017-09-25	0.0
+2	"Bitcoin Cash Has a New Official Site: Still Orange, Still the Big ‘B’
+https://bitsonline.com/bitcoin-cash-site-still-orange/ …
+
+@BlTCOlNCASH @BitcoinCashFans
+#BCC #BCH "	2017-09-25	0.06818181818181818
+3	BITCOIN CASH (BCH) Update: A Pregnant Ascending Right Triangle!!! Say what?	2017-09-25	0.4456845238095237
+4	Can you fix the hashtag for Bitcoin Cash to view as #BitcoinCash no spaces?	2017-09-25	0.0
+5	"'You don't need two secure public blockchains. Bitcoin Cash (BCH) can do it all, and it will."" "	2017-09-25	0.2
+6	"We're now also accepting contributions in Bitcoin Cash
+
+http://www.frostwire.com/bitcoin-cash 
+
+#BCH #Bitcoin #BitcoinCash "	2017-09-25	0.0
+7	0.01 BitCoin Cash BCH Hottest Cryptocurrency in Market (Verification Required) $18.00 via eBay http://ift.tt/2xAnd3V 	2017-09-25	0.0
+8	Bitcoin cash is on the edge of booming: A banking world internal anonymously exposed the fact that big banks are looking into the BCH chain.	2017-09-25	0.0
+9	Bitcoin Cash Price Weekly Analysis – BCH/USD Facing Uphill Task - NEWSBTC http://www.newsbtc.com/2017/09/24/bitcoin-cash-price-weekly-analysis-bchusd-facing-uphill-task/#money … #forex #forextrading #bitcoin	2017-09-25	0.0
+10	Will bitcoin cash benefit from a second bitcoin fork? http://bit.ly/2homux5  #cryptocurrencies #BitcoinCash 	2017-09-25	0.0
+11	Bitcoin Cash Price Technical Analysis – BCH/USD Consolidates above $400 	2017-09-25	0.0
+12	Thanks to http://Bitcoinbling.com  for accepting #BCC for their Bitcoin Cash Accepted Here stickers! #BitcoinCash	2017-09-25	0.25
+13	Major Torrent Client Frostwire Now Accepts #bitcoin Cash Donations #BitcoinCash #news https://bitsonline.com/frostwire-accepts-bitcoin-cash …	2017-09-25	0.0625
+14	#bitcoin Cash Trading Volume on OKEx is Staggering, Futures Trading may Launch Soon #BCH http://www.newsbtc.com/2017/09/25/bitcoin-cash-trading-volume-okex-staggering-futures-trading-may-launch-soon …	2017-09-25	0.0
+15	Bitcoin Cash Price Technical Analysis – BCH/USD Consolidates above $400 http://dlvr.it/PqDZC0 	2017-09-25	0.0
+16	#bitcoin Cash Price Technical Analysis  BCH/USD Consolidates above $400 - NEWSBTC #BCH http://www.newsbtc.com/2017/09/25/bitcoin-cash-price-technical-analysis-bchusd-consolidates-400 …	2017-09-25	0.0
+17	"Bitcoin Cash cheapest on Novaexchange BTC-market: $422.60 0.11307599BTC
+
+#bitcoincash $bch $BCHBTC $BCHUSD"	2017-09-25	0.0
+18	"Bitcoin Cash cheapest on Liqui USDT-market: $427.63 0.11321844BTC
+
+$BCHBTC $BCHUSD $bch #bitcoincash"	2017-09-25	0.0
+19	Bitcoin Cash is here. Time to move. 4x within 12 months. #BitcoinCash	2017-09-25	0.0
+20	"Bitcoin Cash cheapest on Liqui USDT-market: $425.91 0.11366452BTC
+
+#bitcoincash $BCHBTC $BCHUSD $bch"	2017-09-25	0.0
+21	"Bitcoin Cash cheapest on Poloniex BTC-market: $421.04 0.11425379BTC
+
+$BCHBTC #bitcoincash $BCHUSD $bch"	2017-09-25	0.0
+22	"Bitcoin Cash cheapest on Poloniex ETH-market: $420.49 0.11435573BTC
+
+#bitcoincash $bch $BCHBTC $BCHUSD"	2017-09-25	0.0
+23	"Bitcoin Cash cheapest on Poloniex USDT-market: $420.40 0.11435011BTC
+
+$BCHUSD $bch #bitcoincash $BCHBTC"	2017-09-25	0.0
+24	"Bitcoin Cash cheapest on Novaexchange BTC-market: $418.83 0.11443467BTC
+
+$BCHBTC #bitcoincash $BCHUSD $bch"	2017-09-25	0.0
+25	"Bitcoin Cash cheapest on Novaexchange BTC-market: $418.76 0.11443467BTC
+
+$bch #bitcoincash $BCHBTC $BCHUSD"	2017-09-25	0.0
+26	"Bitcoin Cash cheapest on Novaexchange BTC-market: $419.10 0.11443467BTC
+
+$BCHUSD #bitcoincash $BCHBTC $bch"	2017-09-25	0.0
+27	"Bitcoin Cash cheapest on Cryptopia BTC-market: $417.33 0.11440000BTC
+
+$BCHBTC #bitcoincash $bch $BCHUSD"	2017-09-25	0.0

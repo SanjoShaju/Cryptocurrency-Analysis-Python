@@ -1,0 +1,44 @@
+	Tweets	date	polarity
+0	"ONE OF US. ONE OF US. ONE OF US. 
+
+$BCH bitcoin cash "	2017-11-06	0.0
+1	I shouldn't say arguments -- I read different predictions. There are a few saying Bitcoin Cash will be the winner that I found compelling	2017-11-06	0.033333333333333326
+2	Curated for you: Bitcoin Cash Price Weekly Analysis – BCH/USD Holding Uptrend Support http://fb.me/1bZMqO85d 	2017-11-06	0.0
+3	In the game of Crypto musical chairs $BCH Bitcoin Cash is the only player that can adjust to the speed of the music.	2017-11-06	-0.13333333333333333
+4	"In Los Angeles you can change cash for bitcoin cash. Cash is King!
+
+#BitcoinCash is #bitcoin"	2017-11-06	0.0
+5	BitcoinPlug is proud to announce that all 21 of our Los Angeles area #bitcoin ATM locations now sell bitcoin cash!	2017-11-06	1.0
+6	The evidence keeps stacking up. Bitcoin Cash for the win! $bch pls 	2017-11-06	1.0
+7	"I thought this was interesting...
+https://theflippening.github.io/open-letter-to-bitcoin-miners-from-another-miner/ …"	2017-11-06	0.5
+8	This naming is for the scope of the blog article. Users will have the choice between Bitcoin (BTC) / Bitcoin Cash (BCH) / Segwit2x (B2X).	2017-11-06	0.0
+9	Lowkey Bitcoin Cash is going to come out the fork ontop #bitcoincash #bitcoin #btc	2017-11-06	0.0
+10	It was a good run. Want a repeat of this? Buy $BCH Bitcoin Cash. 	2017-11-06	0.7
+11	You need to own Bitcoin Cash until 16 November when the market decides which of the three candidates in the Beauty Contest is in fact Bitcoin. $BCH 	2017-11-06	0.6
+12	Bought stash of $BCH BitcoinCash and moved it into cold storage. Will not touch it and await events at next Hard Fork in November.	2017-11-06	-0.2972222222222222
+13	New #bitcoincash stickers! 50% off for Nov and extra 15% off when you pay with Bitcoin Cash! $bch $btc #kawaiicrypto https://kawaiicrypto.com/bitcoin-cash-sticker-pack-crypto-vinyl-stickers …	2017-11-06	0.08522727272727272
+14	With the consideration of digital asset community, #OKEx would adopt a more common naming of  bitcoin cash. At 21:00 on Nov 6, 2017, system would be updated and #BitcoinCash would be renamed from BCC to $BCH	2017-11-06	0.06666666666666667
+15	UASF was an attack, bitcoin cash beat UAHF to the line, there was no need for UAHF once BCH was announced	2017-11-06	0.0
+16	"In case you missed it, check out ""What is Bitcoin Cash (BCC/BCH) – How Does It Differ From BTC"" https://goo.gl/A8zY9r  #bitcoin #BTC"	2017-11-06	0.0
+17	 1 Bitcoin Cash Gained 130% In Two Weeks https://cryptopanic.com/news/417428/Bitcoin-Cash-Gained-130-In-Two-Weeks?utm_source=notifications&utm_medium=twitter&utm_campaign=Twitter+Trending … $BTC #bitcoin $BCH #bitcoin cash #altcoin #XBT #cryptocurrency	2017-11-06	0.0
+18	People who got Bitcoin Cash for free on Aug 1st are cashing in & will sell w/ whales, everyone else who paid for the free BCH coin loses.	2017-11-06	0.16666666666666666
+19	http://ift.tt/2zgN1Bp  Bitcoin Cash Price Technical Analysis – BCH/USD Gaining Momentum #Bitcoin #Blockchain	2017-11-06	0.0
+20	If Bitcoin has the Satoshi, Does Bitcoin Cash get the Veroshi? #Ver #BCH #BitcoinCash @rogerkver @BITCOlNCASH	2017-11-06	0.0
+21	Bitcoin Cash has more than twice the volume of Ethereum. BCH is the cash of the future, the coin of the future. 	2017-11-06	0.16666666666666666
+22	"""This naming is for the scope of the blog article. Users will have the choice between Bitcoin (BTC) / Bitcoin Cash (BCH) / Segwit2x (B2X)."""	2017-11-06	0.0
+23	"Bitcoin Cash: $608.67
+ -1.83% (-$11.33)
+High: $653.34
+Low: $591
+Volume: 10889
+
+$BCC #BCC #bitcoincash"	2017-11-06	0.08
+24	Bitcoin Cash Price Weekly Analysis – BCH/USD Holding Uptrend Support: Key Points Bitcoin… https://goo.gl/fb/XAGLc5 	2017-11-06	0.0
+25	(PreFORK SATORI COIN Physical Bitcoin/Wallet 0.001 BTC & 0.001 BCH (Bitcoin CASH)) - Easy Bitcoin Earnings - http://easybitcoinearnings.com/deals/prefork-satori-coin-physical-bitcoinwallet-0-001-btc-0-001-bch-bitcoin-cash …	2017-11-06	0.21666666666666667
+26	Bitcoin, Blockchain and Crypto News Feed Bitcoin Cash Price Technical Analysis - BCH/USD .. Crypto related News! http://dld.bz/gscTr 	2017-11-06	0.0
+27	#bitcoin Cash Price Technical Analysis  BCH/USD Gaining Momentum - NEWSBTC #blockchain #BCH http://www.newsbtc.com/2017/11/06/bitcoin-cash-price-technical-analysis-bchusd-gaining-momentum …	2017-11-06	0.0
+28	Bitcoin Hits $7,400?! Trading The Parabolic Effect, Bitcoin Cash, B2X, Investing Tips – CMTV… http://dlvr.it/PzQLxT  #AntShares #bcc #BCH	2017-11-06	0.0
+29	#Bitcoin  Cash saw its first atomic swap yesterday .A developer provided proof of BCH’s very first #AtomicSwaps	2017-11-06	0.2875
+30	"Bitcoin Cash
+$BCH $btc"	2017-11-06	0.0

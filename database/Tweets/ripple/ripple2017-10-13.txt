@@ -1,0 +1,48 @@
+	Tweets	date	polarity
+0	"$BTC $XRP & possibly a little $LTC. 
+
+Everything else looks like whalepoop."	2017-10-13	-0.1875
+1	Breaking news!	2017-10-13	0.0
+2	BREAKING NEWS: @Ripple has prevailed in lawsuit brought by @inside_r3 !  Delaware judge has just ruled and thrown out case against Ripple.	2017-10-13	0.0
+3	Its $XRP moon time! 	2017-10-13	0.0
+4	BREAKING NEWS: @Ripple has prevailed in lawsuit brought by @inside_r3 !  Delaware judge has just ruled and thrown out case against Ripple.	2017-10-13	0.0
+5	"Livestream TLDW
+
+$BTC targets b/t $6200-6700
+
+alts are dead
+
+(watch $XRP)"	2017-10-13	-0.2
+6	$crypto hedge funds be like... $btc $eth $xrp $ioc	2017-10-13	0.0
+7	(1/2) Re:@bgarlinghouse misleading tweet on R3 vs Ripple case. Delaware simply ruled it wasn’t within their jurisdiction. Nothing on merits.	2017-10-13	0.0
+8	BREAKING NEWS: @Ripple has prevailed in lawsuit brought by @inside_r3 !  Delaware judge has just ruled and thrown out case against Ripple.	2017-10-13	0.0
+9	#ripple $XRP #cryptocurrency #weareXRP RETWEET!	2017-10-13	0.0
+10	HELP SUPPORT @Ripple's 1st #swellbyripple conf. OCT 16-18 by changing your profile pic. #ripple $XRP #cryptocurrency #weareXRP RETWEET! 	2017-10-13	0.0
+11	Unleash the beast $XRP 	2017-10-13	0.0
+12	"#ripple $XRP #cryptocurrency #weareXRP
+
+BUT TELL US WHAT YOU THINK OF SWIFTS BLOCKCHAIN THAT THEY ARE WORKING ON ???"	2017-10-13	0.0
+13	In this blog, I discuss XRP supply & the first usage of xRapid - #Ripple 's solution for sourcing liquidity! https://xrphodor.wordpress.com/2017/10/12/xrp-the-digital-asset-for-lowering-banks-costs/ …	2017-10-13	0.3125
+14	"Using #xrpthestandard to turbocharge @Ripple adoption.  It's coming together.
+
+https://ripple.com/insights/ripple-rolls-300m-ripplenet-accelerator-program-grow-volume-xrp-utility/ …"	2017-10-13	0.0
+15	"SELL@ $BRX 1000-1200-1500
+
+$SYS $QTUM $WINGS $BTS $OKCash $LUN $BTC $LTC $ETH $ETC $NEO $DGB $DASH $STRAT $BNB $OMG $PAY $XRP $XMR"	2017-10-13	0.0
+16	"BUY $BRX
+@8050-8400 
+OPEN TARGET
+
+…"	2017-10-13	0.0
+17	#R3 scums must be crying hard now! #Ripple #xrp #xrpthestandard	2017-10-13	-0.2822916666666667
+18	BREAKING NEWS: @Ripple has prevailed in lawsuit brought by @inside_r3 !  Delaware judge has just ruled and thrown out case against Ripple.	2017-10-13	0.0
+19	Swede dreams are made of these... with @AdoptADonkey boys #BillyO, #Ripple and #Harbin	2017-10-13	0.0
+20	Breaking news on $XRP from investFeed Edge! https://investfeededge.com/ripple-prevails-lawsuit-originally-brought-r3-buying-dispute/ …	2017-10-13	0.0
+21	Ripple claims early victory in court fight with #blockchain rival R3 #fintech	2017-10-13	0.1
+22	Ripple claims that these rebates can cover  anywhere between 50% to 300% o/t integration fees and 1st year’s  license fees. #XRPthestandard	2017-10-13	0.0
+23	Ripple looks to drive bank adoption with $300m #XRP rebate program @MonicaLongSF @Ripple #fintech #Blockchain  https://www.finextra.com/newsarticle/31197/ripple-looks-to-drive-bank-adoption-with-300m-xrp-rebate-programme …	2017-10-13	0.0
+24	World Bank President: Everyone Is Excited About #Blockchain - CoinDesk @WorldBank #fintech #Crypto #BTC #eth #XRP  	2017-10-13	0.375
+25	"Cuallix has succeeded in real remittance of US dollar → Mexican peso using XRP as bridge currency!
+#XRP
+#ripple "	2017-10-13	0.1
+26	A ripple effect is caused by 1 single action. How does one say that 1 person cannot change the world? When u help others the cycle continues	2017-10-13	0.01428571428571429

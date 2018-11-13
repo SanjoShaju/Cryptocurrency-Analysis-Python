@@ -1,0 +1,291 @@
+	Tweets	date	polarity
+0	Litecoin surging	2017-11-16	0.0
+1	"current bags w/target (sir)
+$ETH $800+
+$ETC 0.005+
+$XRP 12k sats
+$LTC $140"	2017-11-16	0.0
+2	"I believe you guys have been waiting for this!
+
+Now that Segwit2x is canceled and SegWit haters have their own coin to play with, it's full steam ahead with scaling Bitcoin/Litecoin with LN and other 2nd layer scaling solutions! "	2017-11-16	0.20625
+3	"Today we're excited to announce the first ever Lightning cross-chain swap from Bitcoin to Litecoin! 
+
+Check out the code and demo here: …"	2017-11-16	0.34375
+4	This is the move I've been waiting for. LOL #Patience $LTC	2017-11-16	0.8
+5	$LTC to the fricken moon 	2017-11-16	0.0
+6	"Today we're excited to announce the first ever Lightning cross-chain swap from Bitcoin to Litecoin! 
+
+Check out the code and demo here: …"	2017-11-16	0.34375
+7	Litecoin on a rally. $LTC	2017-11-16	0.0
+8	Mission accomplished @BTC. I think it’s safe to say we will be friends forever. $BTC $LTC 	2017-11-16	0.35
+9	Santa.. all I want for christmas is $LTC to hit $200. Plz sir I've been a good boy.	2017-11-16	0.7
+10	Woahhh $LTC I see you 	2017-11-16	0.0
+11	Litecoin lets go Adalyn needs a college education!	2017-11-16	0.0
+12	Da tings go swap! We @lightning performed the first test of BTC<>LTC cross-chain atomic swaps using the lightning network. Super excited about the implications for non-custodial exchanges and financial privacy  	2017-11-16	0.23958333333333331
+13	"Today we're excited to announce the first ever Lightning cross-chain swap from Bitcoin to Litecoin! 
+
+Check out the code and demo here: …"	2017-11-16	0.34375
+14	"ALERT
+
+Coinbase is adding INSTITUTIONAL ACCOUNTS to their exchange! 
+
+HERE COMES THE MOON FOR #BITCOIN, #LITECOIN & #ETHEREUM !!! BILLIONAIRES ENTERING #CRYPTO !!! 
+
+http://www.businessinsider.com/coinbase-going-after-hedge-fund-money-with-new-cryptocurrency-security-platform-2017-11 …
+
+
+$btc $ltc $eth $neo $xrp $omg $qtum $grs $etc $pay $xmr $vtc $xlm $kmd"	2017-11-16	0.0
+15	WHO THE FUCK IS PUMPING $LTC. THIS IS SO BAD DON'T BUY IT'S PROBS A PUMP AND DUMP.. wah wah wah	2017-11-16	-0.5499999999999999
+16	#LTC #Litecoin is on fire right now wow!!	2017-11-16	0.22098214285714285
+17	Amazing news for Bitcoin, Litecoin and Vertcoin! $BTC $LTC $VTC 	2017-11-16	0.7500000000000001
+18	"Today we're excited to announce the first ever Lightning cross-chain swap from Bitcoin to Litecoin! 
+
+Check out the code and demo here: …"	2017-11-16	0.34375
+19	"8K LETSSSS GOOOOOOOOOOOOO
+$BTC $BCC $CRYPTO $ETH $LTC $BCH"	2017-11-16	0.0
+20	$LTC on a rampage	2017-11-16	0.0
+21	Super excited to announce the first BTC<>LTC cross-blockchain swap on @lightning. The future of decentralized exchange is coming. 	2017-11-16	0.23958333333333331
+22	"Today we're excited to announce the first ever Lightning cross-chain swap from Bitcoin to Litecoin! 
+
+Check out the code and demo here: …"	2017-11-16	0.34375
+23	Litecoin! :)	2017-11-16	0.5
+24	"$Ok precursor of micropayments
+#price #Bittrex #coin #bitcoin #blockchain #crypto #altcoins #EXCHANGE #invest #investing #money #earnmoneyonline #BULLISH $omg $eth $btc $bcc $neo $dash $ltc $XVG $xrp $xlm"	2017-11-16	0.5
+25	"OkCash sets new trends for fast and secure payments around the world. 
+Innovative approach and constant development is a assurance of success.…"	2017-11-16	0.24727272727272726
+26	#LITECOIN $LTC  Next stop $100+ ? #atomicswaps #bitcoin $btc	2017-11-16	0.0
+27	Why Litecoin price is taking off today 	2017-11-16	0.0
+28	The Lightning Network Now Supports Transactions Across Blockchains http://ift.tt/2j0DJBK  #Litecoin	2017-11-16	0.0
+29	Up $3500 on $ltc since that last tweet	2017-11-16	0.0
+30	Let's all give a great big THANK YOU to @lightning! I think we all know why. #Litecoin #Bitcoin #CrossChainSwaps	2017-11-16	0.4
+31	$LTC #LTC #Litecoin got me feeling Boombastic! 	2017-11-16	0.0
+32	$LTC above 70, here comes the march to 100	2017-11-16	0.0
+33	In case you missed it! This is major news for all of crypto, and especially $LTC and $BTC.	2017-11-16	0.03125
+34	"Today we're excited to announce the first ever Lightning cross-chain swap from Bitcoin to Litecoin! 
+
+Check out the code and demo here: …"	2017-11-16	0.34375
+35	Been waiting for this... $LTC is about to Rocket	2017-11-16	0.0
+36	Bitcoin 8$k, now $LTC’s turn	2017-11-16	0.0
+37	#LTC #Litecoin is breaking the 70$, @SatoshiLite champagne time :D	2017-11-16	1.0
+38	"$LTC back from the depths of hell, joined by the force of lightning and its big brother $BTC
+
+Let's kick some bcash ass and show them how true instant transactions are supposed to be done! pic.twitter.com/nNvfPiBu8O"	2017-11-16	0.0875
+39	"Remember? 
+Maybe it's happening...
+#litecoin #ltc"	2017-11-16	0.0
+40	Instead of scaling - we are just going to give you the option to turn your $BTC in to $LTC	2017-11-16	0.0
+41	Congrats $LTC holders . Been a long time coming .	2017-11-16	-0.05
+42	Abra using Litecoin... Confirmed! 	2017-11-16	0.5
+43	#Litecoin New All High coming up for the holidays.  Can't stay this undervalued for too much longer. Word is getting out on upcoming developments	2017-11-16	0.16545454545454547
+44	"""you will laugh at your fears when you find out who you are."""	2017-11-16	0.3
+45	#litecoin $LTC is probably going back to where it was in September ($80s) & will then push past $90. This is my recommendation from July 3 / now up 28% for us / I'm looking for another 25%-30% within ~90 days / sign up here for my new report/recommendation http://www.standpointresearch.com 	2017-11-16	-0.03787878787878788
+46	@SatoshiLite I'm sending you so much YAAAAASSSS YAS YAS YAS to you right now.  $LTC $BTC	2017-11-16	0.24285714285714285
+47	#Litecoin up 9% in one hour and the Asian market is just now waking up.	2017-11-16	0.0
+48	For everyone going crazy about #Litecoin and #Bitcoin doing an atomic swap, @Vertcoin and @Litecoin did one months ago. #Vertcoin will get the attention it deserves one day.	2017-11-16	-0.6
+49	I'm going to do an on-chain atomic swap of 1 LTC for 55 VTC with @jamesl22, lead dev of @Vertcoin. Will it work or will the it explode?  https://twitter.com/SatoshiLite/status/910534107058233344 …	2017-11-16	0.0
+50	Once the previous high 98 is broken it will catch a bunch of shorts and don't be surprised if starts having  100-500 moves.  Price is so undervalued when it corrects it will start to happen with bigger strides.  #LTC	2017-11-16	-0.06133333333333333
+51	Been waiting a long time for this $ltc #litecoin move up. Hoping people are smart enough to not make this a pump and dump.  I have been saying for a long time this is the most undervalued major $alt. Still has A LOT of room to run.	2017-11-16	0.11279761904761904
+52	"$BCH = @bobbyclee 
+$LTC = @SatoshiLite 
+one just became faster than his brother"	2017-11-16	0.0
+53	"Great news from $OkCash !
+
+https://medium.com/@marcelv3612/okcash-company-establishment-8289794cb8df …
+
+NEWS RELEASE 16:00GMT, NOV 17TH ’17 !
+Countdown:
+http://okcash-birthday.io/ 
+
+@OKCashCrypto @OKcashOrator 
+$btc $bcc $eth $ltc $xrp $lsk $qtum
+$neo $storj $zec $bay $omg $etc
+@BittrexExchange @Poloniex @binance_2017
+#cryptocurrency"	2017-11-16	1.0
+54	"So we get $ltc<>$btc @lightning swaps and @coinbase custodial services ON THE SAME DAY??!
+
+Hell yeah im bullish on #Bitcoin and #litecoin
+
+$crypto meets #wallstreet baby!"	2017-11-16	0.0
+55	"$LTC with some big movement towards $70 - can't wait to see triple digit $LTC
+
+Let's gooooooooo! "	2017-11-16	0.0
+56	"$ltc might be 30B mcap in next month or so. Hodl like fuck men
+#Litecoin #LightningNetwork 
+$btc #bitcoin"	2017-11-16	-0.2
+57	# Litecoin, the launch occurred. On board:@TheNvsibleHand @flappening @AnotherEchelon @ecurrencyhodler @Crypt0Pirate @showmethelites @alexpfeiffer @SatoshiLite	2017-11-16	0.0
+58	#litecoin will see more transactions in the last 7 hours of the day than it did in the previous 17 hours. $LTC #AriseChikun #soon #JustWatch	2017-11-16	0.11111111111111112
+59	Litecoin boomage is happening #LTC $LTC 	2017-11-16	0.0
+60	$BTC <-> $LTC atomic swap over the lightning network is a big fucking deal. One giant leap for mankind huge.	2017-11-16	-0.049999999999999975
+61	#Litecoin this is NOT A TEST!! Warning !! WARNING!! ALL TIME HIGHS IN SIGHT WITHOUT #CHINA Warning!! $200 is coming ! #Atomicswaps is coming #MAST is coming . Micro and Nano transactions coming! #LTC is serious do not play yourself buy now! 	2017-11-16	-0.41666666666666663
+62	$BTCUSD #Bitcoin approaching $8,000 now. Looks like the sign actually worked.... $BTC #cryptocurrency #cryptocurrencies #ethereum #litecoin $ETH $LTC #cryptonews #crypto	2017-11-16	0.0
+63	"ALERT
+
+FIRST #BITCOIN TO #LITECOIN ATOMIC SWAP COMPLETED ON LIGHTNING NETWORK! 
+
+Huge news for $BTC &amp; $LTC !!!
+
+
+#Crypto #CryptoCurrency $eth $neo $xrp $omg $qtum $grs $etc $ok $dash $strat $pay $xmr $vtc $xlm $kmd $adx $xvg $pkb $ada $eos $salt $cvc $bat $dgb $doge"	2017-11-16	0.53125
+64	"Today we're excited to announce the first ever Lightning cross-chain swap from Bitcoin to Litecoin! 
+
+Check out the code and demo here: …"	2017-11-16	0.34375
+65	Tomorrow we take over the world!!! #LTC #LTC2018	2017-11-16	0.0
+66	"Good timing. @lightning just announced first LN cross-chain Bitcoin/Litecoin swap. I caution you about that ""never"" comment."	2017-11-16	0.475
+67	Join the @Tokenlabio #ICO. Now accepting #Expanse, #Ethereum, #Bitcoin, #Litecoin, #Pivx, #Steem and #Zcash. Advance with Expanse! All contributions over $100 are eligible for a bonus, and all new accounts receive 100 LAB for #FREE!	2017-11-16	0.3181818181818182
+68	Dozens of Nurse Practitioners attended #QueensParkDay to make recommendations to expand roles in LTC, Community and tertiary care settings 	2017-11-16	0.0
+69	The Litecoin vs Dogecoin hashrate wars of 2014 & the implications for Bitcoin vs Bitcoin Cash https://blog.bitmex.com/blockchain-history/ …	2017-11-16	0.0
+70	"Litecoin @ $100-120 by Dec 31st
+Vertcoin @ $8-10+ by Dec 31st.
+
+LTC currently $60, VTC $4.25
+
+TWO probable opportunities to double your money within a month and a half. $LTC $VTC"	2017-11-16	-0.05555555555555555
+71	"$XRP giveaway! American Express News!
+
+100 $XRP to one lucky follower!
+
+Just retweet and follow to enter. 
+
+
+
+$BTC $XVG $ETH $LTC $NEO $XRP $OMG $VTC $DASH $ETC $MEME $BTS $SYS $STRAT $BCC $BCH"	2017-11-16	0.20833333333333331
+72	"Can't believe didn't see this before. It was right there the whole time.
+
+Target: ~$9300
+
+$crypto $btc #crypto #bitcoin #btc $eth #eth #ethereum #ltc #litecoin #bittrex #alts #altcoins"	2017-11-16	0.24285714285714285
+73	"Today's #CryptoThought: When you're at a bank wearing a #Litecoin shirt and the branch manager tells you to ""be careful with that"" - you're doing something right."	2017-11-16	0.09285714285714285
+74	Earn Litecoin Classic here: $LCC	2017-11-16	0.16666666666666666
+75	"Part 4 : Learn how the blockchain improves financial transparency and security.
+
+Remember only 4 days left to buy Brickblock Tokens! 
+#ICO #Blockchain #Crypto #BTC #ETH #LTC "	2017-11-16	0.0
+76	"Transactions processed on November 15, 2017.
+
+#EthereumClassic: 38,100
+#Litecoin: 26,290
+#Bitcash: 24,790
+#Dogecoin: 15,161
+
+#MuhCoffees"	2017-11-16	0.0
+77	Bitcoin, Litecoin Devs May Integrate Monero’s Confidential Transactions 	2017-11-16	0.0
+78	"BitMEX Research: The Litecoin vs Dogecoin hashrate oscillations of 2014 and the potential implications for Bitcoin vs Bitcoin Cash
+
+https://blog.bitmex.com/blockchain-history/ …"	2017-11-16	0.0
+79	https://buff.ly/2myAmXO  Newsletter v2 n.22 TOKENLAB FINAL SALE NOW #Tokenlab #Expanse #Ethereum #Bitcoin #Litecoin #Zcash #Pivx #Steem $exp $eth $btc $ltc $pivx $steem	2017-11-16	0.0
+80	"You can now buy @LydianCoinLtd using BTC, BCH, ETH, XRP, NEO, WAVES, ZEC, LTC, DASH, ETC, USDT and PayPal for ACH and CC transactions. Learn more at: https://lydian.io/pre-ico  
+
+#thenextbigthing #bitcoin #ethereum #cryptocurrency #gravity4 #eth #altcoins #presale #ICO"	2017-11-16	0.5
+81	" #4IR: “#Hyperbitcoinization”, #HardForks For #Democracy, #BTC & #LTC #Anonymity, #Scalability & #Bitcoin #Micropayments, #InternetOfThings Insights By #McKinsey  
+https://briandcolwell.com/2017/11/quotidian-cliff-notes-11162017-hyperbitcoinization-hard-forks-for-democracy-btc-ltc-anonymity-scalability-bitcoin-micropayments-internet-of-things-insights-by-mckinsey/.html …  #IoT #litecoin $btc $ltc #blockchain #payments #fintech $qqq"	2017-11-16	0.0
+82	CryptoCoinsNews wrote a featured article about us. Learn more about the platform! https://www.cryptocoinsnews.com/rocketico-aims-revolutionize-ico-management/ … #blockchain #bitcoin #rocket $btc $eth $neo $dgb $strat $bnb $kmd $xrp $omg $ltc $crypto #cryptocurrency	2017-11-16	0.625
+83	Last chance to participate in the @Tokenlabio #ICO. Now accepting #Expanse, #Ethereum, #Bitcoin, #Litecoin, #Pivx, #Steem and #Zcash. Advance with Expanse! All contributions over $100 are eligible for a bonus, and all new accounts receive 100 LAB for #FREE!	2017-11-16	0.21212121212121213
+84	Buy Unify through multiple marketplaces - https://coinmarketcap.com/currencies/unify/#markets … #unifycrypto #cryptocurrency #cryptocurrencies #bitcoin #litecoin #ethereum #btc #ltc #eth	2017-11-16	0.0
+85	"News Update: 
+$NEOG (NEO GOLD)
+: NEO Gold got Confirmation for a big exchange next week.
+: Neo Gold will release Roadmap in 1 day #shitcoin #coulditbe 
+Tags: $BTC $ETH $LTC $GAME $NEO $BAY $LSK $BCC $LMC $QTUM $ZEC $ADA $STORJ $VTC $ETC $OK $FCT $XRP $GLD $QRL $DOPE pic.twitter.com/FmoI619QPZ"	2017-11-16	0.024999999999999994
+86	"LIKE FOLLOW RETWEET TO WIN FREE BTC
+
+$SYS $QTUM $WINGS $BTS $MCO $LUN $LTC $ETH $ETC $NEO $DGB $DASH $STRAT $XVC $OMG $PAY $XRP $XMR"	2017-11-16	0.6000000000000001
+87	"WOLVES
+WE ARE STILL DOING A GIVEAWAY ONCE WE GET TO 6000 FOLLOWERS
+LIKE FOLLOW RETWEET TO WIN
+…"	2017-11-16	0.8
+88	"Incredible- Extra Gex coins offered during pre-ICO!
+We invite you to grab the opportunity!
+Read more.., https://goo.gl/wH5k1c 
+#ICO #Presales #investors #ICO #CROWDSALE #ethereum #bitcoin #cryptocurrency #crypto #bitcoin #Blockchain #BTC #LTC #ETH #BONUS #Tokensale #Gex #Gexcoin"	2017-11-16	0.4666666666666666
+89	Buy ROCK tokens now. Bonus will decrease in less than 2 days! #blockchain #bitcoin #rocket $btc $eth $neo $dgb $strat $bnb $kmd $xrp $omg $ltc $crypto #cryptocurrency	2017-11-16	-0.20833333333333331
+90	"Trend : Privacy Coins have rocketed this year
+""Confidential Transactions Could Add Anonymity to #Bitcoin and #Litecoin"" ?
+
+http://ift.tt/2zIBe0W  @BTCTN / @SatoshiLite 
+#Zcash @zcashco #blockchain #fintech / @dinisguarda @BrianRoemmele @BrianDEvans @TheMrBlueprint @thomaspower"	2017-11-16	0.0
+91	Yes, but CT on Bcash would require a hardfork. On Bitcoin and Litecoin, it can be done with a softfork with SegWit. https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2016-January/012194.html …	2017-11-16	0.0
+92	Confidential Transactions Could Add Anonymity to Bitcoin and Litecoin http://ift.tt/2zIBe0W  #Bitcoin	2017-11-16	0.0
+93	"We have an awesome new video for you! Interview with Belgazprombank COB Victor Babariko: https://youtu.be/G6i13qOHNMA 
+#blockchain #bitcoin #rocket $btc $eth $neo $dgb $strat $bnb $kmd $xrp $omg $ltc $crypto #cryptocurrency"	2017-11-16	0.5852272727272727
+94	Sorry to my followers for being  inactive lately. I’ve been in China  talking #crypto. Lots of good news coming out in FY 18 really like $NEO anything under $45 is a steal @Goonalerts .Other Chinese coins hedge with $etp and even $evx in China this week  $btc $omg $eth $ltc 	2017-11-16	0.019999999999999983
+95	"You are looking for the best #Invest 
+
+Buy $LMC now - Thanks  me Later
+
+SLEEPING GIANT FROM CHINA
+
+$BTC $BCC $ETH $NEO $LTC $OMG $XRP $XVG $DGB $BYT $XMR $MCO $PAY $GNO $PTOY $FCT $RDD $GEO $XZC $ZCL $LSK $STORJ $PIVX $KORE"	2017-11-16	0.3
+96	"Just out of curiosity, which continent are you from?
+
+Follow & RT & Like for coin lottery#btc #ltc #ethereum #iota #qtum #stratis #dash #monero #xmr #zcash #zec #komodo #kmd #ark #verge"	2017-11-16	0.0
+97	"Another coin hits the Target!
+Always ahead of the game! Next gainers already out and alerted! 
+Awesome job $LSK!
+Find out the next huge runners with 200-2000% gains 
+$BTC $NEO $GAME $ETH $CVC $OMG $WAVES $NEOG $LTC $XRP $XVG $RISE $TRIG $EMC2 $PAY $EOS $GRS $ADX $MAID $GNT $SLR"	2017-11-16	0.08333333333333336
+98	#Litecoin is considered one of the most promising coins of 2017! $LTC 	2017-11-16	0.375
+99	I wish we had $LTC trading pairs 	2017-11-16	0.0
+100	" $LMC is Definitely the MOST undervalued Coin!
+
+Keep your Eyes on it!
+
+$BTC $BCC $ETH $NEO $LTC $OMG $XRP $XVG $DGB $BYT $XMR $MCO $PAY $GNO $PTOY $FCT $RDD $GEO $XZC $ZCL $LSK $STORJ $PIVX $KORE"	2017-11-16	0.390625
+101	"Name what you mine in #ViaBTC mining pool. 
+Your block, your surname.
+ViaBTC supports adding miner’s info in the blocks you mine in BTC/BCH/LTC/DASH pools. "	2017-11-16	0.0
+102	"ive gone from ""litecoin is pointless"" to ""litecoin is a nice testnet for bitcoin"". congrats."	2017-11-16	0.175
+103	The fundamentals of Litecoin have changed. It’s becoming more popular globally. Its popularity in Singapore has increased significantly. These feel quite rewarding.  https://trends.google.com/trends/explore?q=litecoin …	2017-11-16	0.4041666666666666
+104	Congrats LTC and BTC on maybe possibly getting Confidential Transactions potentially soonish. They've been working great in Monero since January this year. 	2017-11-16	0.26666666666666666
+105	"Please Retweet/Follow for 50 $NEO - winner announced December 31st. Which coin is best investment for 2018? Which is not? Replacement? $NEO $IOTA $LISK $OMG $BTC $ETH $LTC $RDN $POWR $LINK $TRIG $VTC
+@Vertcoin @raiden_network @iotatoken @NEO_Blockchain @LiskHQ @omise_go"	2017-11-16	1.0
+106	Because Bitcoin Cash (in just a little over three months) has more liquidity, market volume and wallet support than Litecoin has ever had in the 7+ years of it's existence. Look for instance, at today's trading volumes. 	2017-11-16	0.15625
+107	#Litecoin is a gift these prices 	2017-11-16	0.0
+108	"$1,268,110,000 of Bitcoin Cash has been traded in the last twenty-four hours worldwide. 
+
+This is way more than Ethereum and more than 6 times Litecoin's volume. (And Ethereum and Litecoin has been in existence for how long??)
+
+This revolution is only just getting started! "	2017-11-16	0.19
+109	"I put my hello-crypto currency ticker on @github, you'll need a @Raspberry_Pi and a @pimoroni Scroll pHAT HD.
+supports #bitcoin #Ethereum and #Litecoin by default. 
+
+https://github.com/MrGJones/hello-crypto …
+
+#python #RaspberryPi #RPI #cryptocurrency #btc #BTCUSD"	2017-11-16	0.0
+110	Two Hour Lull Update: CryptoCompare LiteCoin price: $63.71 #litecoin	2017-11-16	0.0
+111	"Want #litecoin to grow organically without crazy volatility? Help spread the word to #localbusinesses!  Check out a redditor from r/litecoin's email template that you can use.
+
+#bethechange #adoption $ltc "	2017-11-16	-0.75
+112	$LTCUSD about to pop going into EOY #bitcoin #Litecoin #CryptoCurrency	2017-11-16	0.0
+113	Facts $Ltc https://twitter.com/SatoshiLite/status/930609901860032512 …	2017-11-16	0.0
+114	LTC is now worth $64.33 (+0.79%)	2017-11-16	0.3
+115	"Transform Your Life with this #Innovative and Automated #Bitcoin Trading Platform
+#bitcoin #blockchain #crypto #bitcoinprice #mining #cash #money #cryptocurrencies  #cryptocurrency #ethereum #btc #bch #bitcoins #litecoin #makemoney #xrp #altcoins https://running.usitech-int.com/ "	2017-11-16	0.5
+116	Big shout out to @SatoshiLite & @ltc, Litecoin is not only underrated but has proven to be extremely stable relative to the market as a whole, 's off. #cryptocurrency #Litecoin #money #WednesdayWisdom	2017-11-16	0.015000000000000003
+117	Text from crypto newb  $BTC $LTC 	2017-11-16	0.0
+118	Does Litecoin Have a Bigger Price Prediction than Bitcoin 	2017-11-16	0.0
+119	The fees are cheap and the transactions are fast. That’s why I buy LTC.	2017-11-16	0.30000000000000004
+120	you lost Chuck haha, #Litecoin is the only other crypto I accept for donation (and I guess consulting if someone wanted to pay 0.1 #Bitcoin worth). Still not sure if it was wise but people wanted to donate it and BTC is SPAM is out of control right now.	2017-11-16	0.15867346938775512
+121	"$NULS current price 10k sat, target 100% soon, $NULS will be huge soon
+$okcash $ok $ltc $eth $neo $xrp $omg $qtum $grs $etc $dash $strat $pay $xmr $vtc $xlm $kmd $adx $xvg $pkb $ada $eos $salt $cvc $bat $dgb $waves $nxt"	2017-11-16	0.30000000000000004
+122	Besides that, we have many contenders with great specs for transactions. $LTC $VIA $DASH (even though it has some fundamental problems as well) to name a few.	2017-11-16	0.3666666666666667
+123	"$GVT up to second highest volume on @EtherDelta!
+
+$BTC $ETH $LTC $MOD $HST $NIO $RDN"	2017-11-16	0.1
+124	y'all @jessicaarcher__ is my best friend and is absolutely stunning and such a beautiful person and incredibly talented and I have no idea where I would be without her and my life has been so much better since I met her at LTC a few years ago and we bonded over Shrek and musicals	2017-11-16	0.47857142857142854
+125	"free power token a new #ico #bitcoin #litecoin #ether #ripple click the link to claim your free tokens 
+
+https://powtoken.com/index.php?ref=POW68723 …"	2017-11-16	0.31212121212121213
+126	"Price of 1 LTC to USD: $63.81 (Change: +0.17 %)
+Price of 1 LTC to BTC: 0.0088 Ƀ (Change: +0.2 %)
+#litecoin #LTC $LTC"	2017-11-16	0.0
+127	"$iota is making money move today. 
+
+BUY #HODL REPEAT
+$btc $ltc $grs $uno $sys $nlg $pivx $via $pot $vtc $dash $xmr"	2017-11-16	0.0
+128	"Zimbabwe Doesn’t Have Its Own Currency and #bitcoin Is Surging
+https://ubitcoiner.com/zimbabwe-coup-could-spike-bitcoin-price-even-higher-on-domestic-exchanges/ …
+
+#btc #btcprice #bitcoinprice #BitcoinGold #BTCUSD #btcnews #BitcoinNews #cryptocurrency #ethereum #litecoin #Dash"	2017-11-16	0.6
+129	Im not sure your investors would appreciate this sentiment... $ltc	2017-11-16	-0.25
+130	"@Square is integrating #bitcoin in their @SquareCash App. Use this link and we’ll each get $5! $btc $ltc $eth $neo
+http://cash.me/app/TJSDMFX "	2017-11-16	0.0

@@ -1,0 +1,33 @@
+	Tweets	date	polarity
+0	I just published “Vision 2020 for the #XRP community” 	2017-10-18	0.0
+1	Follow @haydentiff to understand better what Ripple and XRP is really about.	2017-10-18	0.35
+2	Ripple on the FT Future of FinTech shortlist: nice write-up 	2017-10-18	0.3
+3	Congratulations to our members @token_io and @Ripple for making the @FT Future of #FinTech awards shortlist http://ow.ly/UFRa30fVMgB 	2017-10-18	0.0
+4	 this girl is savage. But god damn she’s always right. @Ripple $XRP #XRP_Believer #XRPstreetTEAM #XRPtheStandard	2017-10-18	0.2857142857142857
+5	"""I hate you, Ripple. But I will give you my undivided attention daily.""
+-The ButtHurt Crew https://twitter.com/mattodobbo/status/920688375610318848 …"	2017-10-18	-0.4
+6	An update on our path @Ripple to a more fully decentralized and distributed architecture for #XRP Ledger: 	2017-10-18	0.5
+7	At the center of it all, $XRP working as a transaction settler / liquidity provider for most cross-border value exchange, the optimal route. Close your eyes and ask yourself, how highly valued would that thing be?  @Ripple is building an infrastucture for a hyper asset. #XRP 	2017-10-18	0.18666666666666668
+8	Now tht we know ab Hyperledger Quilt, Everis, @Ripple & NTT DATA Is Amateur Hour Over?  Have Ripple and XRP Arrived? https://www.xrpchat.com/topic/9931-is-amateur-hour-over-have-ripple-and-xrp-arrived/?do=findComment&comment=99008 … 	2017-10-18	-0.25
+9	Gates Foundation Taps Ripple to Develop Mobile Payments Services https://www.cryptocoinsnews.com/?p=119478  via @CryptoCoinsNews	2017-10-18	0.0
+10	I trade many things in many markets.  #ripple is not one of them.  I'm investing in $xrp.  There's a big difference.  #xrp	2017-10-18	0.3333333333333333
+11	Stop trading the shitcoin $XRP.	2017-10-18	0.0
+12	" $WTC IS ALIVE!!  THE WAY OF THE FUTURE!! RETWEET
+$BTC $LTC $ETH $NEO $OMG $KNC $TRIG $OCL $GAS $BCC $ARK $QTUM $ZEC $ADX $XRP #crypto"	2017-10-18	0.078125
+13	Now tht we know ab Hyperledger Quilt, Everis, @Ripple & NTT DATA Is Amateur Hour Over?  Have Ripple and XRP Arrived? https://www.xrpchat.com/topic/9931-is-amateur-hour-over-have-ripple-and-xrp-arrived/?do=findComment&comment=99008 …	2017-10-18	-0.25
+14	Decentralization Strategy for $xrp ledger is on schedulde  	2017-10-18	0.0
+15	#Ripple Could Turn out the Best Payment System – Gates Foundation Support @EtherWorldNews	2017-10-18	1.0
+16	"Such a great time to be invested in #XRP $XRP! 
+#Ripple is doing great things right now! 
+#SwellbyRipple"	2017-10-18	0.5392857142857143
+17	I wish I had more fiat to invest in #XRP now. Unfortunatly, I have reached my reserve limit for now. #XRPthestandard	2017-10-18	0.5
+18	“I’m focused on the price of #xrp over 3 years and 5 years” @bgarlinghouse Thank you for saying this. New investors need to understand this!	2017-10-18	0.17045454545454544
+19	Starting to think the folks who run @Ripple either don't understand $crypto or are just generally incompetent. Not sure which.	2017-10-18	-0.19999999999999998
+20	"Make sure you follow and RT + like the original tweet to be entered!
+$BTC $XVG $XRP $ARK $BAT $LTC $ETH $NEM $OMG"	2017-10-18	0.484375
+21	"GIVEAWAY!
+RT, FOLLOW, LIKE
+1 WINNER WILL RECEIVE 0.5 BTC OR THE EQUIVALENT IN THEIR FAV ALTS
+$BTC $XVG $XRP $BAT…"	2017-10-18	0.0
+22	I do think the way @Ripple hyped the #SwellbyRipple event was rather irresponsible. Reminded me of shitcoin dev team tryna unload premine 	2017-10-18	0.0
+23	Shout out to @Ripple partnering w/ @gatesfoundation to make mobile #payments interoperable across networks with #ILP	2017-10-18	0.0

@@ -1,0 +1,38 @@
+	Tweets	date	polarity
+0	"The Ripple Effect
+Of our Actions in Life 
+Moves in Eternity.
+
+#MondayMotivation 
+#Inspiration
+#Destiny"	2017-10-30	0.0
+1	Yeahhh... Ripple for Africa! 	2017-10-30	0.0
+2	#XRP keeps up a steadily pace on its way to become the new financial standard! #xrpthestandard #Ripple https://twitter.com/xrpglobal/status/924966481816903680 …	2017-10-30	0.07575757575757575
+3	Listen to @bgarlinghouse discuss how Ripple is creating the Internet of Value http://fireside.fm/s/Fs_9V6FE+i5DM0L3- … via @firesidefm	2017-10-30	0.0
+4	"Workshop time!
+#ripple #xrp #cryptocurrency #crypto #blockchain #altcoins #trading #fintech"	2017-10-30	0.0
+5	Don't miss the Interledger Workshop in SF on 11/9. @justmoon and @ahopebailie will be there! https://www.eventbrite.com/e/ripples-interledger-workshop-san-francisco-tickets-37703671697?ref=estw …	2017-10-30	0.0
+6	"Thank you to the community for all the support! Thinking of doing another XRP giveaway at 5k 
+
+#ripple #xrp "	2017-10-30	0.0
+7	If GOOGLE invests in #Ripple and #xrp , shouldn't we acknowledge that XRP is about to become the new financial standard! #blockchain	2017-10-30	0.04545454545454545
+8	#Ripple is even great for our environmental circumstances! #xrp #xrpthestandard	2017-10-30	1.0
+9	One of my @xrpchat  friends came up with this graphic - had to share it! 	2017-10-30	0.0
+10	"And the winner of my 5000 $XRP giveaway is...
+@gcrane567! Congratulations!
+
+Everyone else, FIVE (5) $BTC giveaway COMING SOON!"	2017-10-30	0.0
+11	Chris makes a good point. I often make the mistake of wanting to explain every single facet of #XRP. Sometimes less is more. 	2017-10-30	0.24047619047619048
+12	#bitcoin's use case as digital gold is easy to understand, which has partially led to its mainstream success	2017-10-30	0.15833333333333333
+13	$xrp will be Launch at Korean exchange on 02 Nov and 06 Nov Seoul #xrp meet up and on 01 Nov will launch on Indian and Japan exchange $btc	2017-10-30	0.0
+14	Don't miss the Interledger Workshop in SF on 11/9. @justmoon and @ahopebailie will be there!	2017-10-30	0.0
+15	Study shows how memories ripple through the #brain http://medx.cc/428601921  @NIHforHealth @sciencemagazine	2017-10-30	0.0
+16	How Memories Ripple Through the Brain http://neurosciencenews.com/memories-neuroscience-ripples-7839/ … #neuroscience #Memory #Science	2017-10-30	0.0
+17	Via t burning of XRP, which happens w every txs, tot. supply of #XRP in circulation'll fall, further incr its price.	2017-10-30	0.0
+18	$BTC transactions are so ridiculously slow, I wish $XRP would rule the world ... #ripple	2017-10-30	-0.30000000000000004
+19	They all serve different purposes, but $xrp is definitely the only crypto solving a real life problem atm.	2017-10-30	0.05
+20	The results are in. Public vote suggests 2500% in 5 years. Great returns but may I point out it's moved more than that this year alone. #XRP 	2017-10-30	0.43333333333333335
+21	What will the price of #XRP be in 5years @Ripple	2017-10-30	0.0
+22	You are a good promoter of @Ripple and XRP and I thank you. 	2017-10-30	0.7
+23	While sectors like IT and finance give gainful employment to a restricted section of people, manufacturing creates a ripple effect.	2017-10-30	0.0
+24	Ripple has been working with the Gates Foundation for 2+ years. Imagine how many deals there are that still haven't been announced. $XRP	2017-10-30	0.5

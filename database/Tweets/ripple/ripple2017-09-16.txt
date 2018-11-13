@@ -1,0 +1,42 @@
+	Tweets	date	polarity
+0	Interested in joining team Ripple? Check out our open career opportunities 	2017-09-16	0.125
+1	Is there such a thing as having too much $XRP?	2017-09-16	0.1
+2	"GIVEAWAY   
+
+if $LTC hits 100$ in one week, 1 lucky RT wins 10 $LTC 
+RT+Follow+Tag Friends to Win!
+
+$ltc $eth $neo $omg $qtum $xrp $xmr"	2017-09-16	0.5444444444444444
+3	"$XRP 
+Is a sleeping giant!!! "	2017-09-16	0.0
+4	Use your voice for the good of others. Let your voice create a ripple of #Positive #Change | #Inspiration	2017-09-16	0.4636363636363636
+5	XRP has to be one of the best opportunities to invest and hold long term in quite awhile.	2017-09-16	0.475
+6	@Ripple we have sent you an important note at: support@ripple.com thanks	2017-09-16	0.30000000000000004
+7	XRP Is A Cryptocurrency Like The USS Zumwalt Is A Boat https://buff.ly/2xaqpmw 	2017-09-16	0.0
+8	#XRP as the world's most efficient & path *finding* bridge asset indeed has similarities to @Google's core business. Think about it.	2017-09-16	0.5
+9	Help promote the ripple effect of individual acts of #FabChangeWeek change!Follow link to learn more  @FabNHSStuff  https://fabnhsstuff.net/2017/08/17/make-pledge-start-ripple-move-oceans/ …	2017-09-16	0.25
+10	"Oh, you want Lightning-style transactions across different #blockchains and payment networks? @Ripple's got ya:
+https://www.coindesk.com/lightning-bank-ledgers-bitfury-ripple-demo-new-twist-bitcoin-tech/ …"	2017-09-16	0.0
+11	#ICYMI: @Ripple open-sourced the first #bitcoin plug-in for @Interledger, so users can transact across a wide range of ledgers. https://twitter.com/haydentiff/status/909133113388945409 …	2017-09-16	0.075
+12	@Ripple was spanked around the crypto world like a red-headed stepchild.... Those were the days!...#SWELLbyripple	2017-09-16	0.0
+13	Article tries to convey that crypto entrepreneurs have been unwilling to engage in W3C community groups, but @Ripple goes above & beyond. 	2017-09-16	-0.05
+14	Wasn't that out of scope of what article seems to convey?	2017-09-16	0.0
+15	"Can you made milk from lentils?
+Ripple says yes! #vegan #vegannews http://bit.ly/2h22wYB "	2017-09-16	0.0
+16	"Oddly, this article neglects to mention that the creator of the consortium, @timberners_lee, will be speaking at #SwellByRipple...
+$XRP $BTC"	2017-09-16	-0.16666666666666666
+17	Bitcoin in the Browser: Google, Apple and More to Adopt Crypto-Compatible API http://bit.ly/2x4vTAc  	2017-09-16	0.5
+18	Create an indulging dessert with @pipeandglass' chocolate, juniper & sloe gin pudding with damson ripple ice cream 	2017-09-16	0.0
+19	"$STRAT at a key point. Below 100k and we see $2. Above 150k and 
+
+Don't miss the ride
+
+$omg $btc $pay $ltc $neo $qtum $eth $xrp $trig $xel"	2017-09-16	0.0
+20	The “RIPPLE Effect:” Internationalizing the Banking Industry #fintech #Blockchain #Ripple #xrp #xrpthestandard  https://briandcolwell.com/2017/06/the-ripple-effect-internationalizing-the-banking-industry/.html …	2017-09-16	0.0
+21	"Fantastic write-up by the smartest and most beautiful Zerper!
+$XRP
+#XRPtheStandard"	2017-09-16	0.6333333333333333
+22	"$XRP Is The First Enterprise-Ready Digital Asset 
+#xrpthestandard #blockchain #crypto #SIBOS 
+https://medium.com/@haydentiff/xrp-is-a-cryptocurrency-like-the-uss-zumwalt-is-a-boat-3b25be5226b8?source=linkShare-c4107ebb5102-1505348887 …"	2017-09-16	0.125
+23	Good luck @DC3Football at @AthleticsECC today in Iowa Falls!!	2017-09-16	1.0

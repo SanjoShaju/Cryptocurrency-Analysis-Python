@@ -1,0 +1,39 @@
+	Tweets	date	polarity
+0	Ripple's CEO On Cryptocurrencies And The Future Of XRP 	2017-10-04	0.0
+1	"I thought there was some news...
+
+Anyways, enjoy your XRP."	2017-10-04	0.4
+2	Earlier column on one of the potential ripple effects of the CBB scandal: a very different coaching job market. 	2017-10-04	0.0
+3	The validator registry for the $XRP Ledger has been updated and reveals 85 validators with a >95% agreement rate	2017-10-04	0.0
+4	"Here comes the big money... @Ripple $XRP 
+@CGI_Global 
+https://www.youtube.com/watch?v=9N6Qci_7xKQ …"	2017-10-04	0.0
+5	@ripple's $XRP will be the top #cryptocurrency payment around the world. History is being made daily. #ripple #altcoins #HODL #XRPstreetTEAM	2017-10-04	0.25
+6	"Fun fact:
+
+$XRP: total coin supply of 38 billion coins at ~5000 sat.
+$XVG: total coin supply of 13 billion coins at 150 sat.
+
+Do the math!"	2017-10-04	0.09999999999999999
+7	"#Ripple ( $XRP ) is trading at $0.22! Increasing by 7% just today! 
+
+Available on eToro! -  All trading bears risk
+http://etoro.tw/2xZytHe "	2017-10-04	0.5
+8	@Ripple to the moon  	2017-10-04	0.0
+9	"#ripple is going to the moon.
+#Bitcoin #Ethereum #blockchain "	2017-10-04	0.0
+10	Can I call it any cleaner for you guys? #XRP #RIPPLE $XRP @RIPPLE #XRPTHESTANDARD https://twitter.com/ToshiDesk/status/915254270387204101 … #BTC #LTC #BCH #NEM #DASH #NEO =)	2017-10-04	0.5
+11	#RIPPLE #XRP @Ripple Explodes now! Less than 2 weeks before major announcements are made at #RIPPLESWELL #XRPSWELL ! Better buy some $XRP!!! 	2017-10-04	0.2960069444444445
+12	Is this the start of a significant bull run for ripple $XRP similar to what we saw back in August. #xrpthestandard #swell 	2017-10-04	0.125
+13	Why We Should Let #Ripple Succeed — Steemit 	2017-10-04	0.0
+14	I had to enter to Poloniex to change the 2FA. Impossible not to drop some tears remembering $DGB and $XRP- $STR duo blasting off in May.	2017-10-04	-0.6666666666666666
+15	i just #fomo bought jack THE $XRP RIPPLE !! 	2017-10-04	0.0
+16	$XRP to 12K sats. May be or may not ;) $BTC $ETH #ripple #bitcointalks #alts #altcoin $ETH $NEO $PAY $LTC $KMD $GNT $FUN $SC $TKN $VIA $CVC	2017-10-04	0.275
+17	#RIPPLE #XRP @Ripple Explodes now! Less than 2 weeks before major announcements are made at #RIPPLESWELL #XRPSWELL ! Better buy some $XRP!!! 	2017-10-04	0.2960069444444445
+18	Not my favorite, but started a big bag of $XRP at 5K. (..)	2017-10-04	0.25
+19	Easy way to help students learn kindness & create kindness ripple: Use Post-its to write kind messages to ea other.BRAVO @YorktownCSD!	2017-10-04	0.5916666666666667
+20	Sir @timberners_lee will take the stage at #SwellbyRipple on Tuesday, 10/17.	2017-10-04	0.0
+21	A new XRP Gateway Will be Launched by Ripple Exchange https://buff.ly/2kl2r3t 	2017-10-04	0.13636363636363635
+22	"VEIN - RIPPLE @VEINBAND 
+Another clip from Mesa AZ. 
+https://m.youtube.com/watch?v=st8d5JZ2sHs …"	2017-10-04	0.0

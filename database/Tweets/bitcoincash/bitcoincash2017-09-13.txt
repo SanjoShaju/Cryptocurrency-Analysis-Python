@@ -1,0 +1,43 @@
+	Tweets	date	polarity
+0	Daily Update re: #BCH Bitcoin Cash in Jaxx - today we are verifying exact BCH balances in Jaxx match BTC balances at the time of the fork.	2017-09-13	0.125
+1	"#Bitcoin Cash, #Ethereum Classic and #Litecoin Added by Bitcoin #IRA
+#blockchain #AIblockchain #ETC #BCH #LTC..."	2017-09-13	0.16666666666666666
+2	"@BitcoinCash_Fr @BITCOlNCASH 
+It is currently +2.3% more profitable to mine on the Bitcoin Cash blockchain.
+https://cash.coin.dance/blocks "	2017-09-13	0.25
+3	Bitcoin Cash, Litecoin Price Development: LTC, BCH Forecast as it Declines Sep 13 	2017-09-13	0.0
+4	Bitcoin cash is looking good! I would be buying right now - don’t miss out. $bcc $Bch	2017-09-13	0.5803571428571428
+5	If Bitcoin is a fraud, then BitcoinCash is a fraud... of a fraud!, which means... (-)+(-) = (+)!! BITCOIN CASH IS LEGIT!!! #jamiedimon BUY!	2017-09-13	-1.0
+6	"Bitcoin Cash: $480.01
+ -15.49% (-$88.00)
+High: $572.00
+Low: $480.00
+Volume: 4177
+
+$BCC #BCC #bitcoincash"	2017-09-13	0.08
+7	Bitcoin Cash Price Technical Analysis – BCH/USD Heading Lower http://www.newsbtc.com/2017/09/13/bitcoin-cash-price-technical-analysis-bchusd-heading-lower/ …	2017-09-13	0.0
+8	"Bitcoin Cash Memes of Production
+
+$bch $bcc $btc $dgb"	2017-09-13	0.0
+9	Xapo currently holds 3.2% of Bitcoin Cash (in a single wallet). Interesting #BitcoinCash	2017-09-13	0.14285714285714288
+10	Bitcoin Cash, Litecoin Price Development: LTC, BCH Forecast as it Declines Sep 13 - Ethereum World News #ethereum	2017-09-13	0.0
+11	"Mining of Bitcoin Cash $BCH a bit more profitable than mining of Bitcoin:
+http://fork.lol/#/dari/7 "	2017-09-13	0.5
+12	"Bitcoin Cash: $480.01
+ -15.49% (-$88.00)
+High: $572.00
+Low: $480.00
+Volume: 4168
+
+$BCC #BCC #bitcoincash"	2017-09-13	0.08
+13	Bitcoin Cash Price Technical Analysis – BCH/USD Heading Lower http://ift.tt/2wZsul6  #bitcoin #blockchain #fintech	2017-09-13	0.0
+14	#bitcoin Cash Price Technical Analysis  BCH/USD Heading Lower - NEWSBTC #blockchain #BCH http://bit.ly/2vTu9G5 	2017-09-13	0.0
+15	Ripple, Bitcoin Cash Price Analysis – XRP BCH against the USD Prediction - http://goo.gl/alerts/G8gg2  #GoogleAlerts	2017-09-13	0.0
+16	Bitcoin Cash (BCH) is now available at http://BX.in.th : https://bitcoin.co.th/bitcoin-cash-now-available-at-bx-in-th/ …	2017-09-13	0.4
+17	ViaBTC has added BTC(Bitcoin) and BCC(Bitcoin Cash) as our pricing currency and released 7 new crypto-to-crypto trading pairs.  $BTC $BCH	2017-09-13	0.13636363636363635
+18	(BCC/BCH Analysis) Trading Bitcoin Cash In A Ranging Cryptocurrency Market https://youtu.be/2NYchXEUJ4Q  via @YouTube	2017-09-13	0.0
+19	Poloniex #13 Market(2.21%) BCH/USDT - Bitcoin Cash Vol(24h):1066.16 BTC / $4,413,810 - Price: $529.03 / 0.127787 BTC	2017-09-13	0.0
+20	Bitcoin Cash Price Weekly Analysis – BCH/USD Holding Key Support - NEWSBTC http://crwd.fr/2wz7HEI 	2017-09-13	0.0
+21	"Bitcoin Cash cheapest on Kraken BTC-market: $534.36 0.12917000BTC
+
+$bch $BCHBTC $BCHUSD #bitcoincash"	2017-09-13	0.0

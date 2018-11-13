@@ -1,0 +1,51 @@
+	Tweets	date	polarity
+0	Bitcoin Gold/BTG futures (0.085 BTC) higher than Bitcoin Cash/BCH (0.055). http://yobit.net/en/trade/BTG/BTC … and @bitfinex adding soon.	2017-10-23	0.25
+1	"Coinbase will support newly-minted Bitcoin Cash after all
+https://www.engadget.com/2017/08/04/coinbase-will-support-bitcoin-cash-after-all/ …
+$BTC #BTC $BCH #BCH"	2017-10-23	0.0
+2	"Bitcoin Cash: $312.90
+ -5.94% (-$19.75)
+High: $334.95
+Low: $303
+Volume: 2833
+
+$BCC #BCC #bitcoincash"	2017-10-23	0.08
+3	Hitbtc will now trade Bitcoin Cash under symbol BCH instead of BCC. via /r/btc 	2017-10-23	0.0
+4	"#BitcoinCash
+
+Alert on Bitcoin Cash Ticker Change
+
+https://blog.hitbtc.com/alert-on-bitcoin-cash-ticker-change/ …"	2017-10-23	0.0
+5	"And Bitcoin cash can be now. Add a payment channel to this in time and then you end with a scenario where micro TXs are easy and fast.
+
+So, why introduce high risk arbitraged alternatives in order to do something BCH can do now."	2017-10-23	0.2644444444444444
+6	"#BitcoinCash is #Bitcoin
+
+Bitcoin .com and Calvin Ayre See Bitcoin Cash As ""Real Bitcoin""
+
+http://coremedia.info/blockchain-news/item/1018-bitcoin-com-and-calvin-ayre-bitcoin-cash-real-bitcoin …"	2017-10-23	0.2
+7	"A look at the latest Bitcoin Cash price movement. Can BCH make it?
+http://ow.ly/NHoi30g3SRL  #newsbtc #bitcoincash #cryptocurrency #trading"	2017-10-23	0.5
+8	Should We Fix Malleability in $BTC #Bitcoin and $BCH Bitcoin Cash? If so, how? And when? 	2017-10-23	0.0
+9	Dear traders! Please mind that Bitcoin Cash ticker on HitBTC will soon be changed from BCC to BCH. Learn more: https://blog.hitbtc.com/alert-on-bitcoin-cash-ticker-change/ ….	2017-10-23	0.5
+10	".@coinsph you may consider offering #BitcoinCash 
+
+""Where can I buy Bitcoin Cash? (I'm from the Philippines)"""	2017-10-23	0.0
+11	Bitcoin Cash Price Weekly Analysis – BCH/USD Upsides Capped 	2017-10-23	0.0
+12	Bitcoin Cash Price Technical Analysis – Can BCH/USD Make it? http://ift.tt/2zHsEgy  #bitcoin #blockchain #fintech	2017-10-23	0.0
+13	"http://youtu.be/e_9QouZWUvc  ""Hitbtc will now trade Bitcoin Cash under symbol BCH instead of BCC."" #Bitcoin #Ethereum #Blockchain #Trading"	2017-10-23	0.0
+14	"Bitcoin Cash Plans a Smooth Hardfork Amidst Bitcoin's Contentious Upcoming Hardforks
+https://cryptovest.com/news/bitcoin-cash-plans-a-smooth-hardfork-amidst-bitcoins-contentious-upcoming-hardforks/ …
+$BTC #BTC $BCH #BCH"	2017-10-23	0.4
+15	Bitcoin Cash Price Technical Analysis – Can BCH/USD Make it? - NewsBTC via BTCnews #btc #bch #crypto	2017-10-23	0.0
+16	What is the current progress of Bitcoin Cash? http://bit.ly/2x2MJvK  #Bitcoin #Cryptocurrency #Fork #BitcoinCash 	2017-10-23	0.0
+17	Bitcoin Cash Price Technical Analysis – BCH/USD Approaching Short-term Break - 	2017-10-23	0.0
+18	Bitcoin Cash Price Weekly Analysis – BCH/USD Upsides Capped - 	2017-10-23	0.0
+19	Miami Homeowner Accepts Bitcoin and Bitcoin Cash for $6.5 Million Mansion #bitcoin #bitcoincash #ethereum	2017-10-23	0.0
+20	"Bitcoin Cash cheapest on Poloniex BTC-market: $324.43 0.05411001BTC
+
+$bch $BCHBTC $BCHUSD #bitcoincash "	2017-10-23	0.0
+21	"Did you lose money on Bitcoin cash?
+
+$bch $bcc $btc $xrp $eth $neo $ltc"	2017-10-23	0.0
+22	Bitcoin Cash Price Technical Analysis – BCH/USD Heading Lower http://frenzyforex.info/bitcoin-cash-price-technical-analysis-bchusd-heading-lower/ …	2017-10-23	0.0

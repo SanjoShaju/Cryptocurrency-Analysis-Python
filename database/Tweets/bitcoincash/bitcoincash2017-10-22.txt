@@ -1,0 +1,32 @@
+	Tweets	date	polarity
+0	"Satoshi Nakamoto 
+send me your bitcoin cash on this address 
+3CJZoCbhTxhuSUnbxezZWMBbPFxw9Cn29e
+#bitcoin #btc #bch #wish @SatoshiNakamoto"	2017-10-22	0.0
+1	"Bitcoin Cash cheapest on Bittrex BTC-market: $333.57 0.05600100BTC
+
+$BCHBTC $BCHUSD $bch #bitcoincash "	2017-10-22	0.0
+2	Bitcoin Cash Community Preps Hard Fork Slated for November 13 - Bitcoin News (press release) https://news.bitcoin.com/bitcoin-cash-community-preps-for-a-hard-fork-slated-for-november-13/ … #Bitcoin #bitcoingold #Bitcoincash #cryptocurrency #krypto #crypto #hardfork	2017-10-22	-0.2916666666666667
+3	What is the current progress of Bitcoin Cash? http://bit.ly/2x2MJvK  #Bitcoin #Cryptocurrency #Fork #BitcoinCash 	2017-10-22	0.0
+4	"Global exchange support for Bitcoin Cash continues to grow each week.
+
+More info: http://bitcoincash.org 
+
+#BitcoinCash $BCC $BCH "	2017-10-22	0.25
+5	Bitcoin Cash Price Weekly Analysis – BCH/USD Upsides Capped - newsBTC http://dlvr.it/PwyCJM 	2017-10-22	0.0
+6	We need a global “Bitcoin Cash Coffee” (BCC) campaign ... #winning  #bitcoin #bitcoincash #ethereum	2017-10-22	0.25
+7	"Bitcoin Cash cheapest on Bittrex BTC-market: $336.46 0.05752399BTC
+
+#bitcoincash $BCHUSD $BCHBTC $bch "	2017-10-22	0.0
+8	"Bitcoin Cash Community Preps for a Hard Fork Slated for November 13
+https://news.bitcoin.com/bitcoin-cash-community-preps-for-a-hard-fork-slated-for-november-13/ …
+$BTC #BTC $BCH #BCH"	2017-10-22	-0.2916666666666667
+9	Developers of Bitcoin Cash want the Current Bitcoin Address Format Changed https://goo.gl/rARL1K  #bitcoincash 	2017-10-22	0.0
+10	"""Bitcoin Cash Price Weekly Analysis – BCH/USD Upsides Capped"" http://ift.tt/eA8V8J  #bitcoin #crypto"	2017-10-22	0.0
+11	#bitcoin Cash Price Weekly Analysis - BCH/USD Upsides Capped  Bitcoin Insight http://bitcoinagile.com/14607FB/bitcoin-cash-price-weekly-analysis-bchusd-upsides-capped-bitcoin-insight_stream …	2017-10-22	0.0
+12	"$btc$bcc #bitcoin #bitcoincash
+bitcion's rival is only bitcoin cash.
+bitcoin cash's rival is only bitcoin.
+You already know."	2017-10-22	0.0
+13	"RT @FeedBitcoinCat: http://youtu.be/e_9QouZWUvc  ""We need a global “Bitcoin Cash Coffee” (BCC) campaign ... #winning "" #BitcoinCash #Bitcoin …"	2017-10-22	0.25
+14	Great list of Bitcoin Cash faucets: https://buff.ly/2xagivE  #BCH #Faucets	2017-10-22	0.8

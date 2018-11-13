@@ -1,0 +1,301 @@
+	Tweets	date	polarity
+0	What is a smart contract? #blockchain #bitcoin #ethereum 	2017-09-06	0.21428571428571427
+1	"Crypto update:
+#BITCOIN  4593.09  +3.05%
+#ETHER  337.66  +5.41%
+#BITCOINCASH  649.90  +16.89%
+#cryptocurrency
+#BTC #ETH #BCH"	2017-09-06	0.0
+2	I have $100 what should I buy? #cryptocurrency #bitcoin #litecoin #ethereum	2017-09-06	0.0
+3	"What factor is most important for a good #crypto investment?
+
+#Bitcoin #Ethereum #Ether #Litecoin #BitcoinCash $ETH $LTC $BTC  #Fintech $BCC"	2017-09-06	0.5333333333333333
+4	$neo #neo #lisk  Lisk double digit before 2018 ?  #lisk $lsk #cryptocurrency $crypto $neo $qtum $btc $eth #ETH 	2017-09-06	0.0
+5	As part of our Asia tour #Lisk Co-Founder @MaxKordek will be speaking at India Blockchain Week in Mumbai this month. http://www.indiablockchainweek.com  	2017-09-06	0.0
+6	We will PUMP $BAT and $TRIG harder then #hurricaneirma2017 tomorrow! #PumpUpTheCoin #cryptocurrencies #bitcoin #ethereum $eth $btc	2017-09-06	-0.125
+7	$QWARK $SYS $BTCD $SAFEX $ADX $PTC $BTS $SNT $NAV $KMD $BCC $OMG $RDD $RADS $OMG $NEO $QTUM $ETH $LTC $XVG $PAY $LSK $XRP $DGB $STRAT $BTC	2017-09-06	0.0
+8	$QWARK $SYS $BTCD $SAFEX $ADX $PTC $BTS $SNT $NAV $KMD $BCC $OMG $RDD $RADS $OMG $NEO $QTUM $ETH $LTC $XVG $PAY $LSK $XRP $DGB $STRAT $BTC https://twitter.com/CryptoGermanBro/status/905475188539752449 …	2017-09-06	0.0
+9	Augur Weekly Development Update - Sept 6th - @IPFSbot deployment, team growth, and progress! #ethereum #augur	2017-09-06	0.0
+10	uooMAG: Token #Crowdfund #ICO now live.  Join in with #bitcoin $btc #ethereum $eth $waves http://uoomag.io 	2017-09-06	0.13636363636363635
+11	"Altcoin lookahead #1: Ethereum! Part of a new series. Corrected and hand-made subtitles.
+https://www.youtube.com/watch?v=X32bSRGwUro …
+#ethereum #cryptocurrency"	2017-09-06	0.13636363636363635
+12	Professor Wulf Kaal, Ph.D, Joins ETHLend Advisory Board  http://bit.ly/2w8s9Jm  #Ethereum #blockchain #economics #ETHLend #LENDToken	2017-09-06	0.0
+13	ICYMI: Op Ed: Beware the Perils of Over-Regulation for ICOs https://bitcoinmagazine.com/articles/op-ed-beware-perils-over-regulation-icos/ … #ICOs #china #fintech #ethereum	2017-09-06	0.0
+14	Ether Price Analysis: China's ICO Ban May Lead to Further Pull-backs https://bitcoinmagazine.com/articles/ether-price-analysis-chinas-ico-ban-may-lead-further-pull-backs/ … $ETHUSD $ETH #ethereum #price #ICOs	2017-09-06	0.0
+15	"Most of #ethereum's founding team is Canadian  It could soon be worth more than bitcoin. 
+http://www.cbc.ca/radio/day6/episode-353-hurricane-harvey-ethereum-vs-bitcoin-techno-tourism-in-detroit-the-outsiders-at-50-and-more-1.4267404/a-made-in-canada-cryptocurrency-called-ethereum-will-soon-be-worth-more-than-bitcoin-1.4267425 … #cdntech #cdninnovation"	2017-09-06	0.43333333333333335
+16	"UTRUST will be the world's first cryptocurrency payment platform with consumer protection!
+https://utrust.io/  #UTRUST #eth #btc #crypto"	2017-09-06	0.3125
+17	"#presale 3days to go
+#Indicoin #cryptocurrency #Blockchain #Crypto #ETHEREUM #ICO #TokenSale #crowdsale #altcoinnews #bountycampaign"	2017-09-06	0.0
+18	"How #Bitcoin Works?
+
+via @JacBurns_Comext
+
+#Fintech #makeyourownlane #Mpgvip #cryptocurrency #defstar5 #ETHEREUM #cybersecurity #Blockchain"	2017-09-06	0.0
+19	"Crypto Valley & Decentralized Lending @ ETHLend http://bit.ly/2wJS1NI  
+#blockchain #Ethereum #cryptovalley #ETHLend #decentralizedlending"	2017-09-06	0.0
+20	"#OkCash is back for more! New updates, Marketing, Games and Micro-payments!
+
+https://okcash.news/okcash-is-back-for-more-new-updates-marketing-games-and-micro-payments-d2378c1f86cc …
+
+$OK $DGB $XVG $NEO $OMG $LTC $ETH $BTC"	2017-09-06	0.32386363636363635
+21	"Absolutely LOVING my new banking interface. @exodus_io @ShapeShift_io
+
+#Bitcoin #Ethereum #Litecoin #OmiseGo #Exodus #ShapeShift"	2017-09-06	0.36818181818181817
+22	 Will Amazon Accept Bitcoin Soon | Metropolis & First Ethereum ETF! : http://youtu.be/emGJzoIhZJo?a  via @YouTube	2017-09-06	0.3125
+23	Altcoin look ahead part 1 by @MrJozza if you want to see the rest then subscribe to his YT channel & follow if you like TA $CRYPTO #ethereum 	2017-09-06	0.0
+24	"Altcoin lookahead #1: Ethereum! Part of a new series. Corrected and hand-made subtitles.
+https://www.youtube.com/watch?v=X32bSRGwUro …
+#ethereum #cryptocurrency"	2017-09-06	0.13636363636363635
+25	"I call all the big whales for $TRIG
+#bittrex #Poloniex 
+Make retweet
+$BTC $ETH $LTC $NEO $OMG $BAT $PAY $ZEC $MTL $XMR  $DGB $XRP #CRYPTO"	2017-09-06	0.0
+26	Keywords to use in an interview: blockchain, bitcoin, ethereum, the cloud, blockchain, big data, industry trends, and blockchain	2017-09-06	0.0
+27	"Looks like it's $RDD time! About to follow $XVG! 
+
+Buy now for only 31 sats!!
+
+$DGB $XVG #DGB #XVG $NEO $SC $OMG #SC $OK #RDD $XDN $ETH $LTC"	2017-09-06	0.25
+28	"It's $RDD time! This will pull a $xvg, don't miss!
+
+$ltc $eth $etc $omg $strat $lsk $ark $msp $mco $dgb $trig $kmd $pay $bat $xel $btc $sc "	2017-09-06	0.0
+29	"#oKcash will be listed on #Poloniex soon! Buy them cheap at Bittrex before they get listed!
+
+$OK $DGB $XVG $NEO $OMG $LTC $ETH $BTC $XDN $SC"	2017-09-06	0.5
+30	.@raiden_network Active On #Ethereum Testnet http://ow.ly/89mq30eXWCO  #Raiden	2017-09-06	-0.13333333333333333
+31	"Bitcoin approaching $5000
+
+#Blockchain #fintech #defstar5 #crypto #IOT #makeyourownlane #bigdata #Mpgvip #bitcoin #AI #ETH #BTC #banking"	2017-09-06	0.0
+32	"DNN will introduce a compensation model built on incentives and made possible by the Ethereum blockchain
+Learn more: http://ow.ly/hkNT30eXJm3 "	2017-09-06	0.25
+33	"$TRIG is still due for the 2nd leg up and held greately during the $btc dip!
+
+$ltc $eth $etc $omg $strat $lsk $ark $msp $mco $dgb $trig $kmd"	2017-09-06	-0.0625
+34	Such a meaningful sign #Ethereum has gained broad interest community dreamed of. See @indexaward's vid for our intro	2017-09-06	0.1875
+35	Isle of Man is looking to build out a regulatory framework for KYC/AML compliant ICOs. #bitcoin #ethereum $btc $eth	2017-09-06	0.0
+36	Thailand's SEC has no plans to ban ICOs: https://www.reddit.com/r/omise_go/comments/6yh6bg/sec_securities_and_exchange_commission_thailand/ … #Ethereum #ETH #OMG	2017-09-06	-0.1
+37	uooMAG: #Tokensale #ITO now active. Join in with #bitcoin $btc #ethereum $eth $waves http://uoomag.io 	2017-09-06	-0.13333333333333333
+38	"The future is in your hands … 
+$OK $OkCash 
+
+@Poloniex @OKcashOrator @OKCashCrypto @okcashgames @okcashtalk 
+$NEO $OMG $QTUM $ETH $BTC $LTC"	2017-09-06	0.25
+39	"FinShi Capital and Skolkovo are planning to help projects with ICO launch
+#tokensale #finshicapital #ethereum #legalICO #blockchain"	2017-09-06	0.0
+40	"OMISEGO GIVEAWAY! 
+Retweet and follow for the chance of winning $15 worth of $OMG! 
+
+#OmiseGO $BTC $ETH #Omise #giveaway $crypto"	2017-09-06	0.4375
+41	"There's a chance to build a new business after the ICO
+#ICO  #blockchain #tokensale #bitcoin #ethereum https://medium.com/@SandCoin/what-can-be-done-in-a-place-of-the-sand-quarry-5651a95a8a51 …"	2017-09-06	0.13636363636363635
+42	Why @impakCoinICO the 1st legal #ICO in the Americas decided to use the @wavesplatform #Blockchain over any other $WAVES #Bitcoin  #Ethereum 	2017-09-06	0.037500000000000006
+43	"Bitcoin, Ethereum, Bitcoin Cash, Ripple, Litecoin:  Price Analysis, September 6.
+$BSTY #Blockchain #CryptoCurrency – at The White House"	2017-09-06	0.0
+44	"$ETH SEC filing re:ETF
+
+https://www.sec.gov/Archives/edgar/data/1679791/000121390017009423/fs12016a2_etherindexether.htm …"	2017-09-06	-0.1
+45	Bitcoin, Ethereum, Bitcoin Cash, Ripple, Litecoin:  Price Analysis, September 6 	2017-09-06	0.0
+46	$QWARK $SYS $BTCD $SAFEX $ADX $PTC $BTS $SNT $NAV $KMD $BCC $OMG $RDD $RADS $OMG $NEO $QTUM $ETH $LTC $XVG $PAY $LSK $XRP $DGB $STRAT $BTC https://twitter.com/CryptoGermanBro/status/905475188539752449 …	2017-09-06	0.0
+47	Lil By Lil The Rope No Longer  Pulls Side By Side ETH Ether Stays In Da Middle Or The Opposite Side Wins ~Tugga War~	2017-09-06	0.09999999999999999
+48	launched on top of Ethereum, which is an ICO kickstarter...	2017-09-06	0.5
+49	"Don't panic, just #HODL it.
+
+#Bitcoin #cryptocurrency $btc $bch $etc $eth $ltc $neo $xrp $cvc $bnt $xvg $ark $xmr $pivx $snt $bat $omg $sc"	2017-09-06	0.0
+50	"Look at that target! @WolfOfPoloniex calling some shit!!
+
+$crypto $btc #crypto #bitcoin #btc $eth #eth #ethereum #ltc #litecoin #bittrex pic.twitter.com/7fCiDHv66n"	2017-09-06	-0.3125
+51	Episode 5 of Blockchain TV.  #blockchain #ICO #ethereum 	2017-09-06	0.0
+52	"Blocklancer vs Ethlance - Blocklancer the clear winner! #ICO #Ethereum #Blockchain
+http://coinnoob.com/difference-blocklancer-ethlance …"	2017-09-06	0.12500000000000003
+53	ConsenSys is launching a $50 million venture arm to invest in blockchain startups: https://buff.ly/2wGgxkc  #blockchain #crypto #VC #Ethereum 	2017-09-06	0.0
+54	An update prospectus has been filed with the SEC for a planned ethereum ETF http://bit.ly/2gGmPqI 	2017-09-06	-0.1
+55	IoT presents $1.8T revenue opportunity for operators ---> lot of data needed... http://bit.ly/2xOZ7Ar  #dentcoin #ethereum #bitcoin	2017-09-06	0.0
+56	"Urgent need only: Ethereum DAO hardfork
+
+Replay protection only: BitcoinCash hardfork
+
+Consensus only: Monero hardforks"	2017-09-06	0.0
+57	We are going to livestream our Berlin event @blueyard, Thursday Sep 7! Feat. @QubesOS @streamrinc & @omise_go #compute #security #ethereum pic.twitter.com/OcSzcBZqgN	2017-09-06	0.0
+58	"Learn how you can protect yourself here: https://myetherwallet.groovehq.com/knowledge_base/topics/protecting-yourself-and-your-funds …
+
+Learn how Ethereum works during high volume here: https://myetherwallet.groovehq.com/knowledge_base/topics/what-is-gas …"	2017-09-06	0.16
+59	"GET YOUR XFT WITH 30% DISCOUNT now!
+http://fairapptoken.org/pre-sale/  
+#preICO #ICO #ETH #BTC #LTC"	2017-09-06	0.0
+60	Real estate project in Dubai where you can purchase in bitcoin' #bitcoin #ethereum... http://cnb.cx/2eCX0HD  by #ATertyichnyiy	2017-09-06	0.2
+61	Cryptocurrency Market Recovers, Bitcoin and Ethereum Record Major Gains 	2017-09-06	0.0625
+62	"Learn more about three main smart-contract use-cases for businesses in #TiesNetwork https://goo.gl/4ytSkG 
+#ties #ethereum #eth #networking"	2017-09-06	0.3333333333333333
+63	"Anton Akentiev: Nothing-at-Stake problem and the way #GoldMint solves it https://goo.gl/JxS1UW 
+#blockchain #ethereum #eth #cryptocurrency"	2017-09-06	0.0
+64	Bitcoin and ethereum price rises as cryptocurrencies make a recovery 	2017-09-06	0.0
+65	How does Zloadr work from an advertisers perspective https://medium.com/@zloadr/how-does-zloadr-work-from-a-advertisers-perspective-26ec64c89b2a … #ico #preICO #crowdsale #tokenale #ethereum #bitcoin #investor	2017-09-06	0.0
+66	Last 24 hours of our #TokenSale before it closes! Go and buy your Hubiits before is too late! #ethereum #ICO	2017-09-06	-0.1875
+67	Here is how Zloadr’s tokens are used on the platform https://medium.com/@zloadr/here-is-how-zloadrs-tokens-are-used-on-the-platform-28c5f8c9a924 … #ico #preICO #crowdsale #advertise #tokenale #ethereum #bitcoin	2017-09-06	0.0
+68	How does Zloadr generate and create viral traffic? https://medium.com/@zloadr/how-does-zloadr-generate-and-create-viral-traffic-6e482690bbee … #ico #preICO #crowdsale #tokenale #ethereum #bitcoin #investor	2017-09-06	0.0
+69	"Microsoft now accepts Bitcoin as payment on their online store.
+
+$btc $bch $etc $eth $ltc $neo $xrp $cvc $bnt $xvg $ark $xmr $pivx $snt $bat"	2017-09-06	0.0
+70	Ethereum's Raiden Scaling Solution Just Passed Another Milestone http://bit.ly/2wFNXzy 	2017-09-06	0.0
+71	"Are you ready?
+Genesis Vision is preparing for a grand launch!#blockchain #ICO #cryptocurrency #crowdfunding #crowdsale #btc #ethereum "	2017-09-06	0.35
+72	6 DAYS TO GO! bitJob ICO launches September 12. http://www.bitjob.io  #ICO #bitjob #ethereum 	2017-09-06	0.0
+73	"Getting excited about our ICO? Round 1 kicks off in only two weeks!
+https://utrust.io/ico  #UTRUST #ICO #future #payment #systems #btc #eth "	2017-09-06	0.04375
+74	$QTUM tokens available on Changelly instant exchange for #Bitcoin, #Ethereum and 60+ coins! VISA/MasterCard supported! @QtumOfficial	2017-09-06	0.2
+75	What you give = what you get.  #respect @omise_go @SingularDTV @golemproject #ethereum #OmiseGO  #Omise spirit	2017-09-06	0.0
+76	#Ethereum is the #Motherscam.	2017-09-06	0.0
+77	"Techworm features HEROcoin as the upcoming Draftkings of the Blockchain => http://snip.ly/rjrx3  
+#HEROcoin  #ICO #Ethereum"	2017-09-06	0.0
+78	"""How to harness a distributed computing power"" by @PrzemCwik in @BithubPl https://goo.gl/j2shN6  $RLC #Cloud #Ethereum #blockchain"	2017-09-06	0.0
+79	"There's so much more to find out about the #GenesisVision! Follow our #Medium: https://medium.com/@GenesisVision/transparency-explained-e1acb3b81b7c …
+#ethereum #transperancy"	2017-09-06	0.625
+80	"Our ICO starts today! September 6 at 13:00 (UTC)!
+
+#tokensale #finshicapital #ethereum #legalICO #blockchain"	2017-09-06	0.0
+81	$ETC / $ETH | Weekly 	2017-09-06	0.0
+82	Smart contacts will tremendously lower transaction costs and thus shift the balance from closed firms towards open markets. #Ethereum	2017-09-06	0.1119047619047619
+83	"Showcasing the Awesome Dynamic Power of the #Ethereum Network!
+#CommunitySpirit 
+@SingularDTV @omise_go @golemproject "	2017-09-06	0.5
+84	Echoing @SingularDTV 's excellent idea, we will also re-airdrop our portion of @omise_go 's generous $OMG donation, back to to $GNT holders.	2017-09-06	0.5
+85	"#CT_index Guess what the #Bitcoin price index https://goo.gl/vnYTxw 
+ETH - https://goo.gl/Y1xjqL 
+BCH - https://goo.gl/Sq67ig "	2017-09-06	0.0
+86	What is #ethereum? #infographic #Fintech #makeyourownlane #Mpgvip #Ico #defstar5 #ML #IOT #Bitcoin #cryptocurrency #blockchain #startups #AR	2017-09-06	0.0
+87	"ALERT
+
+I'm bullish on ""The Big 3"" right now-
+
+$BTC $ETH $LTC
+
+
+$etc $neo $dgb $dash $strat $bnb $omg $pay $xrp $xmr $kmd $xvg $gnt $qtum"	2017-09-06	0.14285714285714285
+88	Eager to quickly swipe an #ethereum address to get all 250 $ETH deposited, u give 12m Gwei gas price, burning it all https://etherscan.io/tx/0xe79064625544451d55f50e94380d054da972ec10097ebe880f421922e994051f …	2017-09-06	0.3333333333333333
+89	100 Members within 24-hours in our Telegram! - Read #ETHEREUM #cryptocurrency #cryptotraders #cryptotrading  Visit http://bit.ly/2gLzyMt 	2017-09-06	0.0
+90	"$WAVES Investment Analysis.
+@wavesplatform #Blockchain #Bitcoin #Cryptocurrency $BTC #Ethereum #NEO #Stratis $NEO"	2017-09-06	0.0
+91	1650 people have registered on Dether.io to try our alpha! Alpha & white paper will be released in September 2017, stay tuned! #ethereum 	2017-09-06	0.0
+92	31 days left! #ico #easymine #eth #btc #bitcoin	2017-09-06	0.0
+93	"Chinese exchange Yunbi to delist $QTUM $GXS $EOS $ANS $DGD $1ST $GNT $REP $SNT $OMG $PAY $LUN $VEN.
+
+Safe: $BTC $ETH $ETC $ZEC $SC $BCC $BTS"	2017-09-06	0.25
+94	Tokens soon to be delisted by Yunbi: QTUM, GXS, EOS, ANS, DGD, 1ST, GNT, REP, SNT, OMG, PAY, LUN, VEN	2017-09-06	0.0
+95	No but I can be an investor. Give me an ETH address so I can send some UET.	2017-09-06	0.0
+96	Amid ICO ban, Yunbi to delist recent ICO related coins (QTUM, 1ST, OMG ...), others will be kept (BTC, ETH, ZEC ...)	2017-09-06	0.0
+97	Lordmancer II was evaluated by @IcoratingI and received an AA score! https://www.icorating.info/lordmancerii  #icorating #ico #blockchain #ethereum #mmorpg	2017-09-06	0.0
+98	#Lordmancer II - The first open-world #MMORPG on mobilewhere players can mine #cryptocurrency . https://www.icorating.info/lordmancerii  	2017-09-06	0.25
+99	"HOT BIG NEWS COMING TODAY! 
+
+Great future for $ok $okcash. 
+Remember my words .
+6k - good entry .
+
+$ETH $LTC $LSK $KMD $MCO $OMG $NEO"	2017-09-06	0.375
+100	A Few Reasons to ADD #EncryptoTel TOKEN $ETT #Wavesplatform #Ethereum #eETT #wETT #Blockchain #Ethereumclassic #token $Waves	2017-09-06	-0.2
+101	Here's 4 things coming to #Ethereum with Metropolis Hard Fork. #ETH 	2017-09-06	-0.2916666666666667
+102	ICOBench Ranks ETHLend at 4.8! http://bit.ly/2wrBQWY  #Ethereum #blockchain #InitialCoinOffering #ICO #ETHLend #LENDToken #OnDemandLending	2017-09-06	0.0
+103	"ALERT
+
+$STEEM looks juicy !
+
+
+$btc $ltc $eth $etc $neo $dgb $dash $strat $bnb $omg $pay $xrp $xmr $kmd $xvg $eos $snt $sc $qtum $nxt $xlm"	2017-09-06	0.0
+104	"Major Benefits of #Blockchain
+https://buff.ly/2iY9MFA 
+#Fintech #makeyourownlane #Mpgvip #cryptocurrency #defstar5 #ETHEREUM #Bitcoin"	2017-09-06	0.0625
+105	One last call - $DGB - 1 dollar in September. This will be HUGE. #bitcoin #ethereum #digibyte	2017-09-06	0.20000000000000004
+106	GIVEAWAY 7 days from now I'll be giving away 100 $OMG Just retweet and follow me to be in draw. $NEO $BTC $ETH $PAY $XVG $DGB $XRP #CRYPTO	2017-09-06	0.0
+107	If we can get #ethereumclassic up to $30 by Friday this week. I'll send everyone that retweets + follows a $ETC! #bitcoin #ethereum	2017-09-06	0.0
+108	"Already recovered from the last crash. Playing $KMD $SYS like a boss. Check them out: https://t.me/joinchat/AAAAAEROeRzAJOUB1KCSVg …
+
+$BTC $NEO $OMG $ETH $LTC $XVG"	2017-09-06	0.0
+109	Ethereum Denver: @ethereum_alex talking decentralized energy markets @gridplus_energy @ConsenSys	2017-09-06	0.0
+110	"#honestisnetwork includes all features of 
+https://www.youtube.com/watch?v=peZOjxQhWL4 …
+contrary ratings are transparent and fakes are discovered 
+#ICO #Ethereum"	2017-09-06	0.0
+111	ICO News: Statement on Initial Coin Offerings - SFC, Hong Kong — @Steemit https://steemit.com/cryptocurrency/@cryptoassets/ico-news-statement-on-initial-coin-offerings-sfc-hong-kong … | #Bitcoin $BTC $ETH #OMG #XEL $ICO	2017-09-06	0.0
+112	#cloakcoin is on it's way to becoming the best anon option in #cryptocurrencies. Put a buy in on it on #bittrex ASAP #btc #eth #neo	2017-09-06	0.725
+113	#Blockchain will turn the internet into the world's largest 'stock' market, says #investor - #Crypto #eth #BTC	2017-09-06	0.0
+114	Trackr ICO has just a little over 12 hours left for our 5% bonus to be claimed through contribution! https://www.trackr.im/  #ethereum #ico	2017-09-06	-0.09375
+115	These uptrends for #Bitcoin , #Litecoin & #Ethereum are progressing ever-so consistently...this is setting up for a big week #ltc #btc #eth	2017-09-06	0.0
+116	Bitcoin Ethereum: How Blockchain Tech Is Revolutionizing Business | http://Fortune.com  http://fortune.com/2017/08/22/bitcoin-ethereum-blockchain-cryptocurrency/ …	2017-09-06	0.0
+117	In 2017 @PropyInc token have raised $1.27 billion and the number continues to grow #tokensale #ethereum #blockchain #eth #token #realestate	2017-09-06	0.0
+118	“A Walkthrough of PLCR Voting in Solidity” by @ad_chain https://medium.com/@AdChain/a-walkthrough-of-plcr-voting-in-solidity-92420bd5b87c … #ethereum @ConsenSys	2017-09-06	0.0
+119	"Major Benefits of #Blockchain
+https://buff.ly/2iY9MFA 
+#Fintech #makeyourownlane #Mpgvip #cryptocurrency #defstar5 #ETHEREUM #Bitcoin #crypto"	2017-09-06	0.0625
+120	"$kmd If youre new to the party we've been eating walls for days sit back and enjoy. 
+
+$btc $ltc $etc $eth $nav  $pay  $bcc $dash $crypto"	2017-09-06	0.1787878787878788
+121	"$KMD #KMD #Itoldyou
+$BTC #bitcoin $ETH $DGB $NEO $OKCASH $OK $OMG $PAY $TENX $QTUM $CVC $LSK $BCC $BCH $XVG $MTL $ARK $NBT $STRAT $MCO $RISE"	2017-09-06	0.5
+122	"#Komodo Platform - On the way to get it's real value - by CWF. #Blockchain $Kmd #cryptocurrency
+https://steemit.com/komodo/@cwf/komodo-platform-on-the-way-to-get-it-s-real-value-by-cwf …"	2017-09-06	0.2
+123	"ALERT
+
+$KMD ROCKET SHIP !!! 
+
+
+$btc $ltc $eth $etc $neo $dgb $dash $strat $bnb $omg $pay $xrp $xmr $kmd $xvg $gnt $snt $sc $qtum $cvc"	2017-09-06	0.0
+124	"Why Agnostic Software Like @Jaxx_io is Good for Everyone!
+Both #EthereumClassic & #Ethereum.
+#ETC #ETCisComing"	2017-09-06	0.875
+125	"4,000,000 tokens sold! Time is running out, only 3 days left  - get your SGG today!
+
+https://stuffgogo.com/#crowdsale 
+
+#btc #eth #altcoins accepted!"	2017-09-06	0.0
+126	"What Is #Hyperledger? |
+ by @IBM [#Infographic] #Blockchain #Fintech #BigData #Ethereum #Bitcoin #makeyourownlane #defstar5 #Mpgvip"	2017-09-06	0.0
+127	"Be careful out there! #bitcoin #ethereum 
+#Phishing #ForLikes
+https://cointelegraph.com/news/cyber-criminals-have-stolen-225-mln-worth-of-ethereum-through-phishing-this-year …"	2017-09-06	-0.125
+128	1 ZEC:  230 USD   201.5 EUR   0.0522 BTC   0.7231 ETH   Source: 	2017-09-06	0.0
+129	#waves : a tentative review  #ethereum #icos banned in china  #dust builds #mecuryprotocol on top of #ether  https://www.pscp.tv/w/bH3gyDFtTUVQZVlEQnlRR2J8MXlOR2FtWHprd1ZHaq-ZdM8fXFLjvE9i3Q3wk_sMWT7zOWUjh-ka_BZgyX3j …	2017-09-06	0.5
+130	The Metropolis Hard Fork and What's In Store For #ETHereum https://www.reddit.com/r/ethtrader/comments/6y8tl8/the_metropolis_hard_fork_and_whats_in_store_for/?utm_source=dlvr.it&utm_medium=twitter … #ethereum #crypto #reddit	2017-09-06	-0.2916666666666667
+131	"""Start mining #cryptocurrencies together with more than 1 million people from all over the world. https://minergate.com/a/98ed40394a8444ad1b975330 … #BTC #ETHEREUM """	2017-09-06	0.5
+132	EOS needs more adoption / high profile use cases. The EEA went a long way for ETH. I also need to see Dan Larimer commit more.	2017-09-06	0.27749999999999997
+133	"#ETH 24hr Summary:
+Last: $320.01
+High: $325.00
+Low: $290.00
+Change: 0.95% | $3.01
+Volume: $101,431,918.4
+$ETH #Ethereum #Pricebots"	2017-09-06	0.05333333333333334
+134	"Why Bitcoin’s Record-Setting Run Could Bode Well for the Stock Market
+https://youtu.be/9wOYVoYWLUQ  
+#ETH
+#blockchain
+#bitcoin
+#btc"	2017-09-06	0.0
+135	EventChain ICO – Decentralizing Event Ticket... #ethereum #altcoin #ico #blockchain_technology https://coinspectator.com/news/49521/eventchain-ico-decentralizing-event-ticketing-using-blockchain …	2017-09-06	0.0
+136	#Ether Prices Surge Above $360 to Hit Two-Month High - #CoinDesk #ETH #Ethereum #CryptoTrading #Blockchain	2017-09-06	0.08
+137	"# ETH Price September 6th: 1 ETH = £249.93 GBP
+#Ethereum #Ether"	2017-09-06	0.0
+138	"Bitcoin: $4384.54
+Ethereum: $313.20
+BitcoinCash: $542.17
+Ripple: $0.215357
+Litecoin: $71.28"	2017-09-06	0.0
+139	Cyber Criminals Have Stolen $225 Mln Worth of Ethereum Through Phishing This Year - http://abitco.in/cyber-criminals-have-stolen-225-mln-worth-of-ethereum-through-phishing-this-year/ …	2017-09-06	0.3
+140	u/Cryptoknowledge says: Central Bank Of Brazil Explores Real Time Gross Settlement With Ethereum Network http://www.allcryptocurrencies.news/ethereum/central-bank-of-brazil-explores-real-time-gross-settlement-with-ethereum-network-2/ … #ethereum	2017-09-06	0.06666666666666667
+141	"Ethereum - ETH
+Price: $312.99
+Change in 1h: -0.45%
+Market cap: $29,562,162,666.00
+Ranking: 2
+#Ethereum #ETH"	2017-09-06	0.0
+142	The current price of Ethereum in USD is: $317.07 #Ethereum #ETH	2017-09-06	0.0
+143	"Cotizaciones al 05/09/2017 08:00 PM
+Bitcoin (BTC): 24.596.099
+Ethereum (ETH): 1.760.162
+Litecoin (LTC): 400.677
+BTC Cash (BCH): 3.047.001"	2017-09-06	0.0
+144	#BTC price decreased! Buying @ $4391.48 & Selling @ $4390.01  $btc $eth $etc $neo $dgb $dash $strat $eos $omg $pay $xrp $xmr $gas 	2017-09-06	-0.5
+145	Current #ethereum price is $312.99, a decrease of -0.45%, a market cap of $29,562,162,666 and 24 hr. vol. of $1,551,050,000	2017-09-06	0.0
+146	@ #2, Ethereum with unit price of $312.99, market cap of $29,562,162,666 (19.32%), and 24 hr vol. of $1,551,050,000 (20.30%)	2017-09-06	0.0

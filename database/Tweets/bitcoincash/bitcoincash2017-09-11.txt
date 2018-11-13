@@ -1,0 +1,30 @@
+	Tweets	date	polarity
+0	"""Bitcoin Cash Price Technical Analysis – Can BCH/USD Recover?"" #fintech #blockchain #crypto"	2017-09-11	0.0
+1	#Bitcoin, #Ethereum, Bitcoin Cash, #Ripple, #Litecoin: Price Analysis #btc #bch #LTC #xrp #xrpthestandard  https://cointelegraph.com/news/bitcoin-ethereum-bitcoin-cash-ripple-litecoin-price-analysis-september-11 …	2017-09-11	0.0
+2	Bitcoin Cash - BCH - Linux &quot;failed after select(): Connection refused&quot; https://bitcointalk.org/index.php?topic=2169215.0 …	2017-09-11	0.0
+3	The two things Bitcoin Cash must do if it wants to survive:1. Facilitate fiat to bch transactions. 2. Expanding the use of bitcoin cash https://twitter.com/ryanxcharles/status/907268557414727680 …	2017-09-11	0.2
+4	Ripple, Bitcoin Cash Price Analysis – XRP BCH against the USD Prediction 	2017-09-11	0.0
+5	Poloniex #9 Market(2.82%) BCH/USDT - Bitcoin Cash Vol(24h):1171.58 BTC / $4,953,880 - Price: $560.24 / 0.132496 BTC	2017-09-11	0.0
+6	How To Get Your Free Bitcoin Cash on Ledger Nano S Wallet https://goo.gl/XMpFTA  #BCH $BCH #Bitcoincash #BTC #Bitcoin	2017-09-11	0.4
+7	"#Bitcoin Cash is Terrifying – Jonald Fyookball – Medium http://crwd.fr/2wjn1SP  
+#bitcoincash $BCH "	2017-09-11	-1.0
+8	"@jaxx_io @Jaxx_Support 
+Please tell me when you will finally deposite Bitcoin Cash $BCH to your customers?
+Really bad job from you guys"	2017-09-11	-0.3499999999999999
+9	Here's how bitcoin cash is set to perform in the future http://mktmgl.co/2xPugnx  #cryptocurrencies #BitcoinCash 	2017-09-11	0.0
+10	"Bitcoin IRA Launches @litecoin, @EthereumClassic & Bitcoin Cash For Retirement Investments 
+https://bitcoinira.com/articles/bitcoin-ira-launches-altcoins … $LTC $ETC $BCH"	2017-09-11	0.0
+11	Bitcoin Cash forecast | analysis BCH/USD September 10, 2017 - Bitcoin Cash forecast &#124; analysis Bitcoin coi... http://ow.ly/oxC450dXqYo 	2017-09-11	0.0
+12	#bitcoin Cash Holding Steady Against Attacks from Chinese Govt #BitcoinCash #china #ICO http://bit.ly/2vQx3Lv 	2017-09-11	0.08333333333333333
+13	"RT TopFiveTraders ""RT StakepoolCom ""BITCOIN CASH (BCH) Update: VERY Tentative Count Check it out! http://ift.tt/2w2NhFK  #cryptocurrency …"	2017-09-11	0.25
+14	Ripple, #bitcoin Cash Price Analysis - XRP BCH against the USD Prediction - #ethereum World https://ethereumworldnews.com/ripple-bitcoin-cash-price-analysis-xrp-bch-usd-prediction …	2017-09-11	0.0
+15	#bitcoin Cash is Terrifying – Jonald Fyookball – Medium #bitcoincash $BCH https://medium.com/@jonaldfyookball/bitcoin-cash-is-terrifying-f1a8cc4d536#2469446510-tw#1505112741087 …	2017-09-11	-1.0
+16	Bitcoin Cash Price Technical Analysis – Can BCH/USD Recover? #eth #ico #crypto	2017-09-11	0.0
+17	"http://youtu.be/e_9QouZWUvc  ""Tippr:""I'm a #BitcoinCash tip bot for Reddit and Twitter, allowing you to send Bitcoin Cash to other users easily…"	2017-09-11	-0.125
+18	Bitcoin Cash, BCC, BCH Casino &amp; Sportsbook - Betcoin.ag https://www.betcoin.ag/bitcoin-cash-bcc-bch-casino-sportsbook-betcoinag …	2017-09-11	0.0
+19	"Bitcoin Cash cheapest on Liqui USDT-market: $565.90 0.13228489BTC
+
+$BCHBTC $BCHUSD $bch #bitcoincash"	2017-09-11	0.0
+20	"Bitcoin Cash cheapest on Liqui USDT-market: $561.96 0.13090557BTC
+
+$BCHBTC $bch #bitcoincash $BCHUSD"	2017-09-11	0.0

@@ -1,0 +1,25 @@
+	Tweets	date	polarity
+0	$BCH Bitcoin cash. its time ! $BCC	2017-09-04	0.0
+1	@blockchain Hello sir i send my one bitcoin on my BCH (Bitcoin cash )address on my poloniex account ,please help me to refund	2017-09-04	0.0
+2	Bitcoin Cash Statistics Confirm BCH is Just Another Altcoin http://bit.ly/2wsTQzZ  Bitcoin News,BCH,Bitcoin Cash,Statistics	2017-09-04	0.0
+3	"How to withdraw Bitcoin Cash from Waves. Please read more - https://goo.gl/8Hx92o 
+
+#Wavesplatform #Gateway #BitcoinCash"	2017-09-04	0.5
+4	Can you answer this? Is Bitcoin Cash the same as Bitcoin classic? https://bitcoin.stackexchange.com/q/57830?atw=1  #bitcoincash	2017-09-04	0.08333333333333333
+5	Will bitcoin cash benefit from a second bitcoin fork? http://bit.ly/2voEUns  #cryptocurrencies #BitcoinCash 	2017-09-04	0.0
+6	Bitcoin Cash..Hmm #dashcoin #dash #ico #btc #bitcoin #ether #ethereum #litecoin #crypto #cryptocurrency #bitcoincash 	2017-09-04	0.0
+7	Bitcoin Cash Price Technical Analysis – Can BCH/USD Surpass This? http://www.newsbtc.com/2017/09/04/bitcoin-cash-price-technical-analysis-can-bchusd-surpass/ …	2017-09-04	0.0
+8	BITCOIN Cash (BCH) Update: Can you see the FRACTALS?	2017-09-04	0.0
+9	"Bitcoin Cash was ""Supposed"" to Fall to $1/BCH. Instead, After 30 Days, Bitcoin Cash has Fo "	2017-09-04	0.0
+10	"Bitcoin Cash Price Technical Analysis – Can BCH/USD Surpass This?
+https://coinvedi.com/bitcoin-cash-price-technical-analysis-can-bchusd-surpass-this/ …
+#Bitcoin #Blockchain #Cryptocurrency #Ethereum"	2017-09-04	0.0
+11	#bitcoin Cash Price Technical Analysis  Can BCH/USD Surpass This? - NEWSBTC #blockchain http://bit.ly/2x3w6nH 	2017-09-04	0.0
+12	"Bitcoin Cash cheapest on Novaexchange BTC-market: $591.31 0.13100000BTC
+
+$BCHBTC $bch $BCHUSD #bitcoincash"	2017-09-04	0.0
+13	NovaExchange #16 Market(1.58%) BCH/BTC - Bitcoin Cash Vol(24h):4.163 BTC / $19,187 - Price: $599.81 / 0.130145 BTC	2017-09-04	0.0
+14	Cryptopia #17 Market(1.40%) BCH/BTC - Bitcoin Cash Vol(24h):7.14926 BTC / $33,046 - Price: $618.10 / 0.133719 BTC	2017-09-04	0.0
+15	"Bitcoin Cash cheapest on Yobit BTC-market: $597.88 0.13000000BTC
+
+$BCHUSD #bitcoincash $bch $BCHBTC"	2017-09-04	0.0

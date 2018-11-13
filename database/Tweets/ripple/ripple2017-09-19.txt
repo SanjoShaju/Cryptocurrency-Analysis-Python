@@ -1,0 +1,40 @@
+	Tweets	date	polarity
+0	Feeling cool tonight in Raspberry Ripple ice cream shoes by @SOPHIAWEBSTER	2017-09-19	0.35
+1	Seems @Ripple is going to be a key player in #India. #XRP $XRP	2017-09-19	0.0
+2	"RETWEET LIKE FOLLOW TO WIN 0.2 $BTC FREE
+$SYS $QTUM $WINGS $BTS $OKCash $LUN $BTC $LTC $ETH $ETC $NEO $DGB $DASH $STRAT $BNB $OMG $PAY $XRP "	2017-09-19	0.6000000000000001
+3	"AS PROMISED WE WILL BE GIVING AWAY .15 $BTC ON THE 21ST
+SINCE U HAVE SUPPORTED US
+WE WANT 2 SUPPORT U
+IF WE HIT 3500 WE WIL GIVEAWAY .2 $BTC"	2017-09-19	0.0
+4	"Mathematicians ask: What’s in a ripple? ""You see these effects in water, in plasmas, in the atmosphere..."" @UBuffalo"	2017-09-19	0.0
+5	As I've always said, $BTC is far more centralized than $XRP. Watch reality hit in 3,2,1... 	2017-09-19	0.3
+6	And here we were, worrying about Chinese miners centralizing Bitcoin ;) https://twitter.com/arbedout/status/910215958450655233 …	2017-09-19	0.125
+7	How critical is it for an FI to innovate? #SBI (vs  banks in green) since partnership agreement with #Ripple (and #XRP as value driver): 	2017-09-19	-0.1
+8	"ALERT
+
+Here she goes!!! $LMC ROCKET SHIP !!! 
+
+
+$btc $ltc $eth $neo $xrp $omg $qtum $etc $ok $dash $strat $pay $xmr $kmd $xvg $eos $sc"	2017-09-19	0.5
+9	#SBI Ripple Asia advances on South Korea #Blockchain #fintech @Ripple Ripple @yoshitaka_kitao @OKITATakashi #xrp  https://www.finextra.com/newsarticle/31083/sbi-ripple-asia-advances-on-south-korea …	2017-09-19	0.0
+10	"Our hope for Inclusive Markets Summit: spark dialogue about the ""ripple effect"" as more families feel confident in their financial futures. "	2017-09-19	0.3333333333333333
+11	.@ripple product managers never sleep ! @warpaul  #recruitingripplers #gobluecrypto	2017-09-19	0.0
+12	Latest blog - about the W3C working group for payment requests & some interesting #xrp wallet statistics & SWELL: 	2017-09-19	0.5
+13	At some point #XRP will be greater than $100. The financial world will he revolutionised and use cases will exist we never even dreamt of.	2017-09-19	0.25
+14	Please dont get excited over small gains #Ripple may be expierencing. Hold on until $1 or more. #XRP #Crypto #Altcoins	2017-09-19	0.20833333333333334
+15	SBI VC and SBI Max info. Regulatory and Liscensing is taking place. Watch sbi vc website for launch time. @ripple #xrpthestandard #xrp 	2017-09-19	0.0
+16	Forty years ago today, America's Steel Valley took a hit so devastating the ripple effects are still being felt 	2017-09-19	-1.0
+17	SBI is going to launch derivative markets and a hedge fund for cryptos, as well as a remittance service with cryptos. Hopefully with XRP! 	2017-09-19	0.0
+18	個人的にはこの2スライド胸熱 	2017-09-19	0.0
+19	SWELL is like a rock concert of celebrity speakers!  #xrp and #Ripple are going big! 	2017-09-19	0.0
+20	Keynote speakers @benbernanke, @timberners_lee & @dtapscott take the stage at #SwellbyRipple. View our full lineup: https://swell.ripple.com/agenda/  	2017-09-19	0.35
+21	"ALERT
+
+$NEO Red Pulse Token ICO Rescheduled to October 8th!
+
+Expect BIG Moves! 
+
+$btc $ltc $eth $xrp $omg $qtum $etc $ok $dash $rpx"	2017-09-19	0.16666666666666666
+22	SBI Ripple Asia partners with DAYLI Financial Group to bring Ripple to South Korea | Ripple 	2017-09-19	0.0
+23	$XRP Circle pushes OTC crypto trading, launches in France and Italy and adds group payments 	2017-09-19	0.0

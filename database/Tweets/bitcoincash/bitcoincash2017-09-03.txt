@@ -1,0 +1,44 @@
+	Tweets	date	polarity
+0	"Bitcoin cash's price Volatility at its peak. 
+Bitcoin Certain or uncertain?
+#bitcoin #BitcoinCash #cryptocurrency"	2017-09-03	0.21428571428571427
+1	Bitcoin Cash's price volatility shows its uncertain nature http://on.forbes.com/60198IqQf  	2017-09-03	0.0
+2	.01 BitCoin Cash BCH Hottest Cryptocurrency in Market (Verification Required) https://goo.gl/HrbB1L  #US #bitcoin	2017-09-03	0.0
+3	Bitcoin Cash isn't my favorite Bitcoin, but I don't underestimate it. I'm bullish and hodling my $BCH as much as I hodl my $BTC.	2017-09-03	0.35
+4	Get yourself some knowledge. BTU and BCH(bitcoin cash) are different things. It was either BTU or segwit. no fork	2017-09-03	0.0
+5	"or as Pres. Obama would say 
+
+if you like #SegWit you can keep your SegWit.
+
+if you like #BitcoinCash you can keep your Bitcoin Cash. "	2017-09-03	0.0
+6	"Don't like #BitcoinCash?  Don't use it.
+Don't like #segwit? Don't use it.
+Don't like #Altcoins? Don't use them.
+Free Choice = Free Market"	2017-09-03	0.4
+7	I started using your app recently because of Bitcoin Cash support.  Liking it so far! #bch	2017-09-03	0.0625
+8	#BCH #BTC #BCC Bitcoin Cash - $BCHBTC chart	2017-09-03	0.0
+9	#Bitcoin Cash Price Technical Analysis – Can BCH/USD Break This? http://dlvr.it/PkWZNj 	2017-09-03	0.0
+10	"@BitcoinCash_Fr @BITCOlNCASH @BitcoinCashFans 
+Exodus Eden! Supporting Bitcoin Cash And ERC20 Token  Advanced Users
+http://thebitcoinwatch.com/exodus-eden-supporting-bitcoin-cash-and-erc20-tokens-advanced-users/ …"	2017-09-03	0.325
+11	Bitcoin Cash Price Weekly Analysis – BCH/USD Holding Key Support https://goo.gl/fb/a6MaZv  #bitcoin	2017-09-03	0.0
+12	Bitcoin cash price is struggling to recover above $650 against the US Dollar. BCH… https://goo.gl/fb/4dWfGs  #bitcoin	2017-09-03	0.0
+13	Bitcoin ABC is a full node Bitcoin Cash (BCH) wallet. Claim your BCH from Bitcoin Core http://tchlp.com/2eu15h4  via @TechHelpKB #BTC #BCH	2017-09-03	0.35
+14	"Bitcoin Cash was ""Supposed"" to Fall to $1/BCH. Instead, After 30 Days, Bitcoin Cash has Found Support at $600, has… "	2017-09-03	0.0
+15	"Bitcoin Cash Price Weekly Analysis – BCH/USD ... - http://bit.ly/2eu2tAg  - #bitcoin
+Advertise your #ICO: https://goo.gl/1yd8MW "	2017-09-03	0.0
+16	#Bitcoin Bitcoin Cash Price Weekly Analysis – BCH/USD Holding Key Support http://dlvr.it/PkRT8F  via → http://goo.gl/nnFPIZ 	2017-09-03	0.0
+17	Bitcoin Cash (BCH) Update: PURE HYPOTHESIS.....??? Read about it in this blog?	2017-09-03	0.21428571428571427
+18	"Bitcoin Cash (BCH): Bullish Scenario? A Flag? Find out in this blog!
+https://steemit.com/@haejin "	2017-09-03	0.0
+19	"Bitcoin Cash cheapest on Novaexchange BTC-market: $567.83 0.12549999BTC
+
+$bch $BCHBTC #bitcoincash $BCHUSD"	2017-09-03	0.0
+20	#bitcoin Cash Statistics Confirm BCH is Just Another Altcoin - Blockspot Hub #blockchain https://hub.blockspot.co/2017/09/03/bitcoin-cash-statistics-confirm-bch-is-just-another-altcoin …	2017-09-03	0.0
+21	Bitcoin Cash Statistics Confirm BCH is Just Another Altcoin https://goo.gl/BupiLs   via #blockchain	2017-09-03	0.0
+22	"Bitcoin Cash cheapest on Novaexchange BTC-market: $575.41 0.12549998BTC
+
+$bch $BCHBTC #bitcoincash $BCHUSD"	2017-09-03	0.0
+23	"Bitcoin Cash cheapest on Novaexchange BTC-market: $567.06 0.12549999BTC
+
+$BCHBTC #bitcoincash $BCHUSD $bch"	2017-09-03	0.0

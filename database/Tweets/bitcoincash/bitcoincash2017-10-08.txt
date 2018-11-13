@@ -1,0 +1,46 @@
+	Tweets	date	polarity
+0	"Bitcoin Cash cheapest on Bittrex BTC-market: $339.55 0.07358422BTC
+
+#bitcoincash $bch $BCHUSD $BCHBTC"	2017-10-08	0.0
+1	"Focus folks ...focus 
+
+->#BitcoinCash <- adoption ... news users ... merchants ... new startups around Bitcoin Cash 
+
+#bcc #bch #winning "	2017-10-08	0.3181818181818182
+2	@GeminiDotCom has enabled #Bitcoin cash withdrawals $BCH 	2017-10-08	0.0
+3	foolishness of crypto community at extreme. After bitcoin cash, bitcoin gold, than can be silver. Miner support not even 10% of $bch.	2017-10-08	-0.125
+4	Most likely the $Alts will fall down to hard fork, remember how it was the last time with bitcoin cash (BCH), people need a freebie.	2017-10-08	0.01055555555555555
+5	when I get to scoop up more Bitcoin Cash on the low #BitcoinCash 	2017-10-08	0.25
+6	Tip: Extra supply will cause a siginificant drop in price of $BCH . Sell your Bitcoin Cash now. #bitcoin #crypto #ethereum	2017-10-08	0.0
+7	"Coinbase will soon enable #BitcoinCash withdrawals.
+
+#Bitcoin"	2017-10-08	0.0
+8	Bitcoin Cash Price Weekly Analysis – BCH/USD Forming Bottom? http://ift.tt/2g2gpWS 	2017-10-08	0.0
+9	"wBCH @wbchtoken
+Bitcoin Cash on Waves Blockchain
+Introducing wBCH - http://wbchtoken.info  
+Airdrop starts today
+$BCH $BTC $eBTC $wBCH"	2017-10-08	0.0
+10	Cryptopia #8 Market(2.33%) BCH/BTC - Bitcoin Cash Vol(24h):20.7808 BTC / $95,671 - Price: $345.29 / 0.075 BTC	2017-10-08	0.0
+11	"Bitcoin Cash on Waves Blockchain
+Introducing wBCH - http://wbchtoken.info  
+Airdrop starts today
+$BCH $BTC $eBTC $wBCH
+#Airdrop"	2017-10-08	0.0
+12	Bitcoin Cash Price Weekly Analysis – BCH/USD Forming Bottom? https://goo.gl/fb/PBV2BD  #bitcoin	2017-10-08	0.0
+13	Bitcoin Cash (BCH) Withdrawals 	2017-10-08	0.0
+14	"Bitcoin Cash cheapest on Hitbtc BTC-market: $360.79 0.08128900BTC
+
+$BCHUSD #bitcoincash $BCHBTC $bch "	2017-10-08	0.0
+15	It has been three months since the Bitcoin Cash (BCH) network was introduced to… https://goo.gl/fb/79kjD7  #bitcoin	2017-10-08	0.0
+16	Bitcoin Cash Price Weekly Analysis – BCH/USD Forming Bottom?: http://ift.tt/2y0qj2b  #bitcoin #btc	2017-10-08	0.0
+17	#bitcoin Cash Price Weekly Analysis  BCH/USD Forming Bottom? #BitcoinCash #CryptoCurrency http://bit.ly/2yxKqoZ 	2017-10-08	0.0
+18	Is there anyone out there who has not yet received his Bitcoin Cash? We have a solution for you to get this ... #bitcoin #BitcoinCash #bch	2017-10-08	0.0
+19	The #bitcoin Cash Community Debates Future Difficulty Adjustments #BitcoinCash #Mining http://bit.ly/2yz8zLO 	2017-10-08	0.0
+20	"Bitcoin Cash cheapest on Hitbtc BTC-market: $358.09 0.08080000BTC
+
+$BCHUSD $BCHBTC #bitcoincash $bch "	2017-10-08	0.0
+21	Poloniex #12 Market(1.68%) BCH/BTC - Bitcoin Cash Vol(24h):434.549 BTC / $1,934,820 - Price: $360.88 / 0.0810509 BTC	2017-10-08	0.0
+22	Poloniex #20 Market(0.90%) BCH/USDT - Bitcoin Cash Vol(24h):234.081 BTC / $1,042,240 - Price: $359.24 / 0.0806835 BTC	2017-10-08	0.0
+23	Bitcoin Cash (BCH) http://ift.tt/2gkV1cj 	2017-10-08	0.0
+24	Bitcoin Cash (BCH) - http://ift.tt/2gkV1cj 	2017-10-08	0.0

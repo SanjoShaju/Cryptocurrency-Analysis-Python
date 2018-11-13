@@ -1,0 +1,44 @@
+	Tweets	date	polarity
+0	Bitcoin Cash Price Index. #BitCoinCashFork #BitcoinCash #bitcoin #BTCtoUSD	2017-09-09	0.0
+1	"#CT_index So It's red. How  do you like it? 
+BTC - https://goo.gl/2DNX93 
+ETH - https://goo.gl/67cFVA 
+BCH - https://goo.gl/4XtPW2  "	2017-09-09	0.0
+2	I'm trying to transfer BCH to my Ledger from Bittrex. I opened the Bitcoin Cash app on my… 	2017-09-09	0.0
+3	"Pics: Tokyo Sushi Bar the First to Accept Bitcoin Cash
+https://bitsonline.com/tokyo-sushi-bitcoin-cash/ …
+
+@kenshishido @rogerkver  @BitcoinCashFans #BCC #BCH "	2017-09-09	0.25
+4	Thanks China! Today is the day to buy Litecoin and Bitcoin Cash. #Litecoin #BitcoinCash	2017-09-09	0.25
+5	cpacia/BitcoinCash-Wallet (0.3.0): Bitcoin Cash P2P SPV Wallet https://mdy.io/gh/cpacia/BitcoinCash-Wallet …	2017-09-09	0.0
+6	per day 1000000 satoshi #bitcoin Cash BCH by coinmine online #bcc #bch #bitcoincash #cash http://1212now.com/2017/09/09/per-day-1000000-satoshi-bitcoin-cash-bch-by-coinmine-online …	2017-09-09	0.0
+7	The narrative of the article is countered by the fact that Dogecoin has more transactions daily vs Bitcoin Cash. How is BCH getting popular?	2017-09-09	0.3666666666666667
+8	"Litecoin>""Bitcoin cash"" (#LTC > #BCH). Market cap next. The real altcoin. "	2017-09-09	0.1
+9	BITCOIN CASH (BCH) Update: Inverse Correlation to Bitcoin?	2017-09-09	0.0
+10	Upcoming #Bitcoin Cash #Mining Difficulty Change can be Crucial for the Network http://bitcoinnewsboards.com/?p=35069  #bch #bitcoincash #bitcoinnews	2017-09-09	0.0
+11	It's #BitcoinCash Erik ... your own service calls it Bitcoin cash. Are you trying to please Core minions ?	2017-09-09	0.6
+12	“Bitcoin Cash is Terrifying” by Jonald Fyookball https://medium.com/@jonaldfyookball/bitcoin-cash-is-terrifying-f1a8cc4d536 … #crypto #bitcoincash	2017-09-09	-1.0
+13	What should the ticker for Bitcoin Cash be? BCH or BCC? - http://cryptogeeks.com/what-should-ticker-bitcoin-cash-be-bch-or-bcc …	2017-09-09	0.0
+14	Poloniex #6 Market(4.20%) BCH/USDT - Bitcoin Cash Vol(24h):1396.16 BTC / $5,988,060 - Price: $581.82 / 0.135656 BTC	2017-09-09	0.0
+15	Poloniex #7 Market(4.13%) BCH/BTC - Bitcoin Cash Vol(24h):1371.12 BTC / $5,880,700 - Price: $588.96 / 0.13732 BTC	2017-09-09	0.0
+16	Pics: Tokyo Sushi Bar the First to Accept #bitcoin Cash - Bitsonline #BitcoinCash #Japan https://www.bitsonline.com/tokyo-sushi-bitcoin-cash …	2017-09-09	0.25
+17	WHY ON BITTREX IS BITCOIN CASH BBC, NOT BCH? via /r/btc 	2017-09-09	0.0
+18	CoinExchangeio #17 Market(0.18%) BCH/BTC - Bitcoin Cash Vol(24h):0.692553 BTC / $2,981 - Price: $602.64 / 0.14 BTC	2017-09-09	0.0
+19	Best Exchanges Support Bitcoin Cash (BCH) [The Complete List] — Steemit 	2017-09-09	0.55
+20	"RT TopFiveTraders ""RT StakepoolCom ""BITCOIN CASH (BCH) Update: Inverse Correlation to Bitcoin? Check it out! http://ift.tt/2faqVaT  #cryp…"	2017-09-09	0.0
+21	@rogerkver ETA on http://Bitcoin.com  wallet #BitcoinCash + multisig? Currently it seems only single wallets can do #Bitcoin Cash	2017-09-09	-0.023809523809523808
+22	$BTC #Bitcoin IRA Adds $BCH Bitcoin Cash, $LTC #Litecoin, and $ETH #Ethereum to Retirement Accounts	2017-09-09	0.0
+23	Bitcoin cash is Bitcoin cash (bcc or bch) - Bitcoin is Bitcoin (btc). Call each one what it is don't mix them up!	2017-09-09	0.0
+24	Bitcoin Discussion • What should the ticker for Bitcoin Cash be?  BCH or BCC? https://forum.bitcoin.com/viewtopic.php?t=52178&p=96937#p96937 … #bitcoin	2017-09-09	0.0
+25	"Bitcoin Cash cheapest on Cryptopia USDT-market: $610.00 0.13869941BTC
+
+#bitcoincash $BCHUSD $BCHBTC $bch"	2017-09-09	0.0
+26	"Bitcoin Cash cheapest on Bitfinex BTC-market: $598.72 0.13967000BTC
+
+$BCHUSD $bch $BCHBTC #bitcoincash"	2017-09-09	0.0
+27	"Bitcoin Cash cheapest on Yobit BTC-market: $589.76 0.13949999BTC
+
+$BCHBTC $BCHUSD #bitcoincash $bch"	2017-09-09	0.0
+28	"Bitcoin Cash cheapest on Yobit BTC-market: $598.34 0.13949999BTC
+
+$bch #bitcoincash $BCHUSD $BCHBTC"	2017-09-09	0.0
