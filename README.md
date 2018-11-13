@@ -10,7 +10,7 @@ This study was done for personel purpose, so its not a full fledged study about 
 ## Studies ##
 - Sentiment Analysis of Tweets
 - Applying Turtle Trading Strategy
-
+- - - - 
 ### Sentiment Analysis of Tweets ##
 Twitter is an online social network with over 330 million active monthly users as of February 2018. Twitter employs a message size restriction of 280 characters or less which forces the users to stay focused on the message they wish to disseminate. This very characteristic makes messages on twitter very good candidates for the Machine Learning (ML) task of sentiment analysis. Using sentiment analysis on tweets we will get a general view about the minds of people. More the people having a positive outlook towards cryptocurrency means people will invest more and it will not crash soon. This is especially usefull during bubble phases of the coin which happened in end of 2017. 
 On side note -> When one sees that the general sentiment of people are more negative thats when one should take out one's investment.
