@@ -1,6 +1,6 @@
 # Cryptocurrency Analysis #
 
-[ TOCM ]
+** Table of Contents **
 
 - [Introduction](#introduction)
 - [Studies](#studies)
@@ -9,6 +9,7 @@
     + [Cryptocurrency Sentiment Analysis.ipynb](#cryptocurrency-sentiment-analysisipynb)
   * [Turtle Trading Strategy](#turtle-trading-strategy)
     + [Bitcoin_Turtle_Strategy.ipynb](#bitcoin_Turtle_Strategyipynb)
+- [Conclusion](#conclusion)
 
 ## Introduction ##
 
@@ -45,3 +46,9 @@ Here we plot two plots :
 - Close Price time series chart with Buy and Sell points mentioned
 
 - - - - 
+> Note -> Some of the obtained graphs are available in 'Graphs' folder
+> Note -> Some samble data are available in 'Database' folder
+
+# Conclusion #
+From these studies we will get a brief idea on when to invest your money in cryptocurrency and when not to. Use the information wisely. 
+Quoting Warren Buffet "Never investing in something you don't understand". As simple as that. Read a lot on cryptocurrency, understand it and be you own judge.
