@@ -1,6 +1,6 @@
 # Cryptocurrency Analysis #
 
-** Table of Contents **
+## Table of Contents ##
 
 - [Introduction](#introduction)
 - [Studies](#studies)
@@ -12,9 +12,8 @@
 - [Conclusion](#conclusion)
 
 ## Introduction ##
-A cryptocurrency is a digital or virtual currency designed to work as a medium of exchange. It uses cryptography to secure and verify transactions as well as to control the creation of new units of a cryptocurrency. Essentially, cryptocurrencies are limited entries in a database that no one can change unless specific conditions are fulfilled.
-Holding Bitcoin means to have a share in this venture. If Bitcoin ever replaces monetary reserves of central banks or becomes the dominant currency for international trades – just to name two examples — the value of one Bitcoin will be far beyond 10,000 Dollar. Buying and keeping cryptocurrencies is a bet on the success of this silent revolution of money. Its like a security of a large ecosystem.
-
+A cryptocurrency is a digital or virtual currency designed to work as a medium of exchange. It uses cryptography to secure and verify transactions as well as to control the creation of new units of a cryptocurrency. Essentially, cryptocurrencies are limited entries in a database that no one can change unless specific conditions are fulfilled.  
+Holding Bitcoin means to have a share in this venture. If Bitcoin ever replaces monetary reserves of central banks or becomes the dominant currency for international trades – just to name two examples — the value of one Bitcoin will be far beyond 10,000 Dollar. Buying and keeping cryptocurrencies is a bet on the success of this silent revolution of money. Its like a security of a large ecosystem.   
 This study was done for personal purpose to understand the investment opportunity in cryptocurrency, so its not a full-fledged study about investment opportunities. Anyone is free to reuse the codes for their personal needs.
 
 
@@ -51,5 +50,5 @@ Here we plot two plots :
 > Note -> Some sample data are available in 'Database' folder
 
 # Conclusion #
-From these studies we will get a brief idea on when to invest your money in cryptocurrency and when not to. Use the information wisely. 
+From these studies we will get a brief idea on when to invest your money in cryptocurrency and when not to. Use the information wisely.  
 Quoting Warren Buffet "Never invest in something you don't understand". As simple as that. Read a lot on cryptocurrency, understand it and be your own judge.
