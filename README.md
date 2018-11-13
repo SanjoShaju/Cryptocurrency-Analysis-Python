@@ -2,13 +2,13 @@
 
 [ TOCM ]
 
-- [Introduction](#heading)
-- [Studies](#heading-1)
-  * [Sentiment Analysis of Tweets](#sub-heading)
-    + [TweeterScraperDatewise.py](#sub-sub-heading)
-    + [Cryptocurrency Sentiment Analysis.ipynb](#sub-sub-heading-1)
-  * [Turtle Trading Strategy](#sub-heading-1)
-    + [Bitcoin_Turtle_Strategy.ipynb](#sub-sub-heading-2)
+- [Introduction](#introduction)
+- [Studies](#studies)
+  * [Sentiment Analysis of Tweets](#sentiment-analysis-of-tweets)
+    + [TweeterScraperDatewise.py](#tweeterscraperdatewisepy)
+    + [Cryptocurrency Sentiment Analysis.ipynb](#cryptocurrency-sentiment-analysisipynb)
+  * [Turtle Trading Strategy](#turtle-trading-strategy)
+    + [Bitcoin_Turtle_Strategy.ipynb](#bitcoin_Turtle_Strategyipynb)
 
 ## Introduction ##
 
