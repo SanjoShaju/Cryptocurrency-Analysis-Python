@@ -26,3 +26,12 @@ It plots two plots:
 - Polarity vs Closing Price
 
 These plots helps in understanding the sentiments better. We can also derive relationships between the market value and sentiment, and to a great extend it shows a similar trends.
+- - - - 
+## Turtle Trading Strategy ##
+It is a system developed by Richard Dennis and William Eckhardt in 1983 to help in trading stocks. It is a very old formula, and it may not be relevant in the case of cryptocurrency. Nevertheless it will surely give an idea about insight on when to Buy and Sell cruptocurrency based on closing prices.
+### Bitcoin_Turtle_Strategy.ipynb ###
+Here we plot two plots : 
+- Close, Rolling Max and Rolling Min line chart
+- Close Price time series chart with Buy and Sell points mentioned
+
+- - - - 
