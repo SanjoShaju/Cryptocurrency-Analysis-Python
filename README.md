@@ -4,8 +4,9 @@
 
 - [Introduction](#introduction)
 - [Studies](#studies)
+  * [Time Series Forecasting with RNN](#time-series-forecasting-with-rnn)
   * [Sentiment Analysis of Tweets](#sentiment-analysis-of-tweets)
-    + [TweeterScraperDatewise.py](#tweeterscraperdatewisepy)
+    + [TwitterScraperDatewise.py](#twitterscraperdatewisepy)
     + [Cryptocurrency Sentiment Analysis.ipynb](#cryptocurrency-sentiment-analysisipynb)
   * [Turtle Trading Strategy](#turtle-trading-strategy)
     + [Bitcoin_Turtle_Strategy.ipynb](#bitcoin_Turtle_Strategyipynb)
@@ -23,19 +24,19 @@ This study was done for personal purpose to understand the investment opportunit
 - Applying Turtle Trading Strategy
 - - - - 
 ### Time Series Forecasting with RNN ##
-- __Recurrent Neural Network (RNN)__
+- __Recurrent Neural Network (RNN)__ - 
 Recurrent Neural Network is an algorithm designed for sequential data. Because of their internal memory, RNN’s are able to remember important things about the input they received, which enables them to be very precise in predicting what’s coming next. That is why it is highly suited for sequential data like time series.
-- __Long Short-Term Memory network (LSTM)__
+- __Long Short-Term Memory network (LSTM)__ - 
 The Long Short-Term Memory network or LSTM network is a type of recurrent neural network used in deep learning because very large architectures can be successfully trained. It is trained using Backpropagation Through Time. We will be using LSTM recurrent neural network to predicting the future prices of bitcoin.  
-> Note -> We will be using deeplearning __Keras__ module of python for attaining this neural network.  
-> Note -> Scripts are available in the notebook - Bitcoin Time Series Forecasting using RNN.ipynb  
-From this we can identify a trend on how the future price of bitcoin may look like and take a calculated investment decision
+We will be using deeplearning __Keras__ module of python for attaining this neural network.  
+From this we can identify a trend on how the future price of bitcoin may look like and take a calculated investment decision.
+> Note -> Scripts are available in the notebook - __Bitcoin Time Series Forecasting using RNN.ipynb__   
 - - - - 
 ### Sentiment Analysis of Tweets ##
 Twitter is an online social network with over 330 million active monthly users as of February 2018. Twitter employs a message size restriction of 280 characters or less which forces the users to stay focused on the message they wish to disseminate. This very characteristic makes messages on twitter very good candidates for the __Machine Learning (ML)__ task of sentiment analysis. Using sentiment analysis on tweets we will get a general view about the minds of people. More the people having a positive outlook towards cryptocurrency means people will invest more and it will not crash soon. This is specifically useful during bubble phases of the coin which happened in end of 2017. 
 On side note -> When one sees that the general sentiment of people are more negative that’s when one should take out one's investment.
 
-### TweeterScraperDatewise.py ###
+### TwitterScraperDatewise.py ###
 - Helps in extracting Tweets according to the keyword ie., here mainly bitcoin, ethereum, ripple etc.
 - It gets all the top tweets on the particular topic for __each day__ and saves it in a __txt file__ format.
 - It uses __selenium__ to surf through the net and scrape the tweets.
