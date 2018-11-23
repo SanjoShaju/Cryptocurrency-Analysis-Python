@@ -27,8 +27,8 @@ This study was done for personal purpose to understand the investment opportunit
 - __Recurrent Neural Network (RNN)__ - 
 Recurrent Neural Network is an algorithm designed for sequential data. Because of their internal memory, RNN’s are able to remember important things about the input they received, which enables them to be very precise in predicting what’s coming next. That is why it is highly suited for sequential data like time series.
 - __Long Short-Term Memory network (LSTM)__ - 
-The Long Short-Term Memory network or LSTM network is a type of recurrent neural network used in deep learning because very large architectures can be successfully trained. It is trained using Backpropagation Through Time. We will be using LSTM recurrent neural network to predicting the future prices of bitcoin.  
-We will be using deeplearning __Keras__ module of python for attaining this neural network.  
+The Long Short-Term Memory network or LSTM network is a type of recurrent neural network used in deep learning because very large architectures can be successfully trained. It is trained using Backpropagation Through Time. We have used LSTM recurrent neural network to predicte the future prices of bitcoin.  
+We used deeplearning __Keras__ module of python for attaining this neural network.  
 From this we can identify a trend on how the future price of bitcoin may look like and take a calculated investment decision.
 > Note -> Scripts are available in the notebook - __Bitcoin Time Series Forecasting using RNN.ipynb__   
 - - - - 
